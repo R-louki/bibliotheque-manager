@@ -4,6 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Douze livres de management en cartes mentales et en lectures de 45 minutes, avec suivi de progression sur tous vos appareils.">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#f4f5f0">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Bibliothèque">
 <style>html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px/1.4 system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>Bibliothèque du Manager</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,6 +36,10 @@
   --accent:#7fc0a8; --accent-soft:#20302a; --ochre:#d9a95a; --done:#6fcf97; --mapbg:#161e1b;
   --b1:#3c7a67; --b2:#9c5444; --b3:#3f6697; --b4:#a8843a; --b5:#6f5d96;
   --m1:#5fbf9f; --m2:#e2836a; --m3:#7aa3e0; --m4:#d9ad55; --m5:#a592dc; --m6:#cf8ab6; --m7:#93c46a; --m8:#9fadb6; color-scheme:dark}
+/* Thème sépia (choisi dans les réglages de lecture) */
+:root[data-theme="sepia"]{
+  --paper:#f3ead6; --card:#faf4e4; --ink:#3a2e21; --muted:#6c5d48; --line:#e0d3b6;
+  --accent:#5f4a26; --accent-soft:#ebdfc2; --ochre:#94591a; --done:#4f6a2a; --mapbg:#eee3c9; color-scheme:light}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
 html{scroll-behavior:smooth}
@@ -175,9 +185,117 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .vstage canvas{box-shadow:0 2px 14px rgb(0 0 0 / .18);background:#fff;max-width:none}
 .vmsg{font-family:var(--mono);color:var(--muted);margin:auto}
 
+/* Navigation principale */
+.appnav{position:sticky;top:env(safe-area-inset-top,0px);z-index:25;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.appnav .in{max-width:880px;margin:0 auto;display:flex;align-items:center;gap:12px;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.appnav .brand{font-family:var(--display);font-size:1.05rem;background:none;border:0;color:var(--ink);cursor:pointer;padding:0;white-space:nowrap}
+.appnav .tabs{display:flex;gap:4px;flex:1;justify-content:flex-end;min-width:0}
+.appnav .tabs button{font-family:var(--mono);font-size:13px;background:none;border:0;border-radius:999px;padding:7px 12px;color:var(--muted);cursor:pointer;white-space:nowrap}
+.appnav .tabs button[aria-current="page"]{background:var(--accent);color:var(--paper)}
+.appnav #installBtn{padding:6px 10px;font-size:12px}
+.pagehead{display:grid;gap:8px;margin-bottom:26px}
+.sectitle{font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:0 0 12px}
+
+/* Couvertures */
+.cover{display:block;width:100%;height:auto;border-radius:3px 6px 6px 3px;box-shadow:0 1px 2px rgb(0 0 0 / .18),0 6px 14px -8px rgb(0 0 0 / .35)}
+.bookrow{grid-template-columns:58px 1fr auto;padding:12px 16px 12px 12px}
+.bookrow .thumb{width:58px}
+.bookrow .bhead{padding-block:0}
+.bktop{display:flex;gap:18px;align-items:flex-start}
+.bkcover{width:116px;flex:none}
+.bktitle{display:grid;gap:10px;min-width:0}
+
+/* Recherche */
+.results{margin:0 0 22px;display:grid;gap:8px}
+.reshit{display:grid;gap:4px;text-align:left;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--c);border-radius:6px;padding:10px 14px;cursor:pointer;color:inherit;width:100%}
+.reshit .rt{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.reshit .rn{font-family:var(--display);font-size:1.05rem}
+.reshit .rs{font-size:15px;line-height:1.5;color:var(--muted)}
+.reshit mark,.qmark{background:color-mix(in srgb,var(--ochre) 30%,transparent);color:inherit;border-radius:2px;padding:0 1px}
+
+/* Réglages de lecture */
+.reading .node p,.reading .node li,.reading .callout{font-size:var(--read-size,17px)}
+.node p,.callout{max-width:var(--measure,66ch)}
+.node ul{max-width:calc(var(--measure,66ch) - 2ch)}
+.tbtn{font-family:var(--mono);font-size:13px;min-width:38px;height:34px;padding:0 10px;border-radius:6px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;white-space:nowrap}
+.tbtn[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
+.prefs{position:fixed;z-index:30;top:calc(64px + env(safe-area-inset-top,0px));right:max(16px,env(safe-area-inset-right,0px));width:min(360px,calc(100vw - 32px));background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 12px 30px -12px rgb(0 0 0 / .35);padding:14px;display:grid;gap:12px}
+.prow{display:grid;gap:6px}
+.prow > span{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.seg{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{flex:1;font-family:var(--mono);font-size:13px;padding:8px 4px;background:var(--paper);color:var(--ink);border:0;border-right:1px solid var(--line);cursor:pointer}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--paper)}
+
+/* Lecture audio */
+.player{position:fixed;z-index:30;left:50%;transform:translateX(-50%);bottom:calc(14px + env(safe-area-inset-bottom,0px));width:min(560px,calc(100vw - 24px));display:flex;align-items:center;gap:10px;background:var(--ink);color:var(--paper);border-radius:14px;padding:10px 12px;box-shadow:0 14px 30px -10px rgb(0 0 0 / .45)}
+.player button{font-family:var(--mono);font-size:14px;min-width:40px;height:38px;border-radius:10px;border:1px solid color-mix(in srgb,var(--paper) 30%,transparent);background:transparent;color:var(--paper);cursor:pointer}
+.player .pl-t{flex:1;min-width:0;display:grid}
+.player .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;opacity:.7}
+.player #plNow{font-size:14.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.node.speaking{border-left-color:var(--ochre);background:color-mix(in srgb,var(--ochre) 7%,transparent)}
+
+/* Surlignage et notes */
+mark.hl{background:color-mix(in srgb,var(--ochre) 28%,transparent);color:inherit;border-radius:2px;cursor:pointer;padding:0 1px}
+mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
+.hlcount{font-family:var(--mono);font-size:12px;color:var(--ochre)}
+.selbar{position:fixed;z-index:35;left:50%;transform:translateX(-50%);bottom:calc(18px + env(safe-area-inset-bottom,0px));display:flex;gap:6px;background:var(--ink);border-radius:999px;padding:6px;box-shadow:0 10px 24px -8px rgb(0 0 0 / .45)}
+.selbar button{font-family:var(--mono);font-size:13px;border:0;border-radius:999px;padding:9px 14px;background:transparent;color:var(--paper);cursor:pointer;white-space:nowrap}
+.selbar button:first-child{background:var(--ochre);color:#fff}
+.sheet{position:fixed;inset:0;z-index:55;background:rgb(0 0 0 / .35);display:flex;align-items:flex-end;justify-content:center}
+.sheetin{width:min(600px,100%);background:var(--card);border-radius:16px 16px 0 0;padding:18px max(16px,env(safe-area-inset-right,0px)) calc(18px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));display:grid;gap:12px;max-height:90vh;overflow:auto}
+.sheethead{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.sheethead strong{font-family:var(--display);font-weight:400;font-size:1.2rem}
+.sheet blockquote{margin:0;padding:8px 12px;border-left:3px solid var(--ochre);font-style:italic;color:var(--muted);font-size:15.5px}
+.sheet textarea{font:inherit;font-size:16px;width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);resize:vertical}
+.sheetacts{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between}
+.sheet .btn.primary{background:var(--accent);color:var(--paper);border-color:var(--accent)}
+
+/* Carnet */
+.nbtools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-bottom:18px}
+.nbtools select{font:inherit;font-size:15px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);max-width:100%}
+.nbgroup{display:grid;gap:10px;margin-bottom:26px}
+.nbgroup h2{font-family:var(--display);font-weight:400;font-size:1.25rem;margin:0;display:flex;gap:10px;align-items:center}
+.nbgroup h2 .cover{width:30px}
+.nbitem{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:grid;gap:8px}
+.nbitem blockquote{margin:0;padding-left:12px;border-left:3px solid var(--ochre);font-style:italic}
+.nbitem .nbnote{margin:0;font-size:15.5px}
+.nbitem .nbmeta{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-family:var(--mono);font-size:12px;color:var(--muted)}
+
+/* Tableau de bord */
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-bottom:26px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:grid;gap:2px}
+.tile .v{font-family:var(--display);font-size:1.7rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.tile .k{font-family:var(--mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.dsec{margin-bottom:30px}
+.goalbox{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:grid;gap:10px}
+.goalrow{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.goalrow strong{font-family:var(--display);font-weight:400;font-size:1.15rem}
+.stepper{display:flex;align-items:center;gap:8px;font-family:var(--mono);font-size:13px}
+.stepper button{width:34px;height:34px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink);cursor:pointer;font-size:16px}
+.gbar{height:10px;background:var(--line);border-radius:5px;overflow:hidden}
+.gbar i{display:block;height:100%;background:var(--done);border-radius:5px}
+.chartbox{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px;overflow-x:auto}
+.chartbox svg{display:block;width:100%;min-width:520px;height:auto}
+.dlist{display:grid;gap:8px}
+.drow{display:grid;grid-template-columns:40px 1fr auto;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+.drow .t{font-family:var(--display);font-size:1.02rem;line-height:1.25}
+.drow .s{font-family:var(--mono);font-size:12px;color:var(--muted);display:flex;gap:8px;align-items:center;margin-top:4px}
+.drow .mini{flex:1;max-width:160px;height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.drow .mini i{display:block;height:100%;background:var(--ochre)}
+.dempty{color:var(--muted);font-style:italic;margin:0}
+
+@media (max-width:720px){ .tiles{grid-template-columns:repeat(2,minmax(0,1fr))} }
 @media (max-width:560px){
-  .bookrow{grid-template-columns:10px 1fr;padding-right:14px}
-  .side{grid-column:2;justify-items:start;text-align:left;flex-direction:row;display:flex;gap:12px;padding-bottom:12px;margin-top:-6px}
+  .appnav .brand{display:none}
+  .appnav .tabs{justify-content:space-between}
+  .appnav .tabs button{padding:7px 10px;font-size:12.5px}
+  .bkcover{width:84px}
+  #backHome .lbl{display:none}
+  .bookrow{grid-template-columns:48px 1fr;padding:12px 14px 12px 10px}
+  .bookrow .thumb{width:48px;grid-row:span 2}
+  .bookrow .side{grid-column:2}
+  .side{grid-column:2;justify-items:start;text-align:left;flex-direction:row;display:flex;gap:12px;margin-top:2px}
   .node{padding-left:12px}
   .topbar .pct{display:none}
 }
@@ -186,6 +304,18 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 <script>window.SUPA_CFG={"url": "https://tujlyauskqaqwgeppdnj.supabase.co", "key": "sb_publishable_ZogShztsynruEKwqF-oM8w_bcPMn3m-"};</script>
 </head>
 <body>
+<nav class="appnav" id="appnav" aria-label="Navigation principale">
+  <div class="in">
+    <button type="button" class="brand" data-view="home">Bibliothèque du Manager</button>
+    <div class="tabs">
+      <button type="button" data-view="home" aria-current="page">Bibliothèque</button>
+      <button type="button" data-view="dash" aria-current="false">Mon parcours</button>
+      <button type="button" data-view="notebook" aria-current="false">Carnet</button>
+    </div>
+    <button type="button" class="btn" id="installBtn" hidden>Installer</button>
+  </div>
+</nav>
+
 <div id="home" class="wrap">
   <header class="home">
     <div class="eyebrow">Cartes mentales · Management & leadership</div>
@@ -206,26 +336,50 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
     <button class="btn" type="button" id="quickOpen">Ouvrir un PDF</button>
     <input type="file" id="quickFile" accept="application/pdf,.pdf" hidden>
   </div>
+  <section class="results" id="results" hidden aria-live="polite"><h2 class="sectitle" id="resTitle"></h2><div class="results" id="resList"></div></section>
   <div class="shelf" id="shelf"></div>
   <p class="empty" id="empty" hidden>Aucun livre ne correspond à cette recherche.</p>
-  <footer>Ordre conseillé pour débuter : <em>L'Efficacité du dirigeant</em>, puis <em>High Output Management</em>, puis <em>Radical Candor</em>. Votre progression est enregistrée dans ce navigateur.</footer>
+  <footer>Astuce : installez la bibliothèque sur votre téléphone avec le bouton « Installer » pour la lire comme une application, même hors connexion. Ordre conseillé pour débuter : <em>L'Efficacité du dirigeant</em>, puis <em>High Output Management</em>, puis <em>Radical Candor</em>.</footer>
+</div>
+
+<div id="dash" class="wrap" hidden>
+  <header class="pagehead"><div class="eyebrow">Mon parcours</div><h1>Votre progression</h1></header>
+  <div id="dashBody"></div>
+</div>
+
+<div id="notebook" class="wrap" hidden>
+  <header class="pagehead"><div class="eyebrow">Carnet</div><h1>Mes surlignages et notes</h1>
+    <p class="lede">Dans une fiche, sélectionnez un passage puis touchez « Surligner ». Vos passages et vos notes sont rassemblés ici.</p></header>
+  <div id="nbBody"></div>
 </div>
 
 <div id="book" hidden>
   <div class="topbar">
     <div class="in">
-      <button class="btn" type="button" id="backHome">← Bibliothèque</button>
+      <button class="btn" type="button" id="backHome" aria-label="Retour à la bibliothèque">←<span class="lbl"> Bibliothèque</span></button>
       <div class="t" id="tbTitle"></div>
       <span class="pct" id="tbPct">0 %</span>
+      <button class="tbtn" type="button" id="ttsBtn" aria-label="Écouter la fiche" hidden>▶ Écouter</button>
+      <button class="tbtn" type="button" id="prefBtn" aria-label="Réglages de lecture" aria-pressed="false">Aa</button>
     </div>
     <div class="readbar"><i id="readfill"></i></div>
   </div>
+  <div class="prefs" id="prefs" hidden role="dialog" aria-label="Réglages de lecture">
+    <div class="prow"><span>Taille du texte</span><div class="seg" data-pref="size"><button type="button" data-v="15">A−</button><button type="button" data-v="17">A</button><button type="button" data-v="19">A+</button><button type="button" data-v="21">A++</button></div></div>
+    <div class="prow"><span>Thème</span><div class="seg" data-pref="theme"><button type="button" data-v="auto">Auto</button><button type="button" data-v="light">Clair</button><button type="button" data-v="sepia">Sépia</button><button type="button" data-v="dark">Sombre</button></div></div>
+    <div class="prow"><span>Largeur du texte</span><div class="seg" data-pref="width"><button type="button" data-v="58">Étroite</button><button type="button" data-v="66">Normale</button><button type="button" data-v="80">Large</button></div></div>
+  </div>
   <div class="wrap wide">
     <div class="bookhead">
-      <div class="eyebrow" id="bkCat"></div>
-      <h1 id="bkTitle"></h1>
-      <p class="orig" id="bkOrig"></p>
-      <div class="facts" id="bkFacts"></div>
+      <div class="bktop">
+        <div class="bkcover" id="bkCover"></div>
+        <div class="bktitle">
+          <div class="eyebrow" id="bkCat"></div>
+          <h1 id="bkTitle"></h1>
+          <p class="orig" id="bkOrig"></p>
+          <div class="facts" id="bkFacts"></div>
+        </div>
+      </div>
       <div class="actions">
         <button class="btn primary" type="button" id="bkRead">Marquer comme lu</button>
         <button class="btn pdf" type="button" id="bkPdf">Ajouter mon PDF</button>
@@ -274,6 +428,35 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
   </div>
 </div>
 
+<div class="selbar" id="selbar" hidden>
+  <button type="button" id="selHl">Surligner</button>
+  <button type="button" id="selNote">Surligner + note</button>
+</div>
+
+<div class="player" id="player" hidden role="region" aria-label="Lecture audio">
+  <button type="button" id="plPlay" aria-label="Pause">❚❚</button>
+  <div class="pl-t"><span class="lbl">Lecture audio</span><span id="plNow"></span></div>
+  <button type="button" id="plRate" aria-label="Vitesse de lecture">1×</button>
+  <button type="button" id="plStop" aria-label="Arrêter la lecture audio">✕</button>
+</div>
+
+<div class="sheet" id="noteSheet" hidden role="dialog" aria-modal="true" aria-labelledby="noteTitle">
+  <div class="sheetin">
+    <div class="sheethead"><strong id="noteTitle">Ma note</strong><button class="linkish" type="button" id="noteClose">Fermer</button></div>
+    <blockquote id="noteQuote"></blockquote>
+    <label for="noteText" hidden>Note</label>
+    <textarea id="noteText" rows="4" placeholder="Votre réflexion, une action à tester, une question…"></textarea>
+    <div class="sheetacts"><button class="btn primary" type="button" id="noteSave">Enregistrer</button><button class="linkish" type="button" id="noteDel">Supprimer ce surlignage</button></div>
+  </div>
+</div>
+
+<div class="sheet" id="infoSheet" hidden role="dialog" aria-modal="true" aria-labelledby="infoTitle">
+  <div class="sheetin">
+    <div class="sheethead"><strong id="infoTitle"></strong><button class="linkish" type="button" id="infoClose">Fermer</button></div>
+    <p id="infoText" style="margin:0"></p>
+  </div>
+</div>
+
 <div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="vtitle">
   <div class="vbar">
     <button class="vbtn" type="button" id="vclose" aria-label="Fermer la visionneuse">✕</button>
@@ -299,6 +482,324 @@ const inline = s => esc(s).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").repla
 const BCOL = ["--m1","--m2","--m3","--m4","--m5","--m6","--m7","--m8"];
 BOOKS.forEach(b => { b.min = Math.max(1, Math.round(b.words / WPM)); });
 
+/* ---------- Données étendues : notes, statistiques, objectif, réglages ---------- */
+const EXTK = "biblio-manager-ext";
+function normExt(e) {
+  e = e && typeof e === "object" ? e : {};
+  const st = e.stats && typeof e.stats === "object" ? e.stats : {};
+  return { readAt: e.readAt || {}, hl: e.hl || {}, stats: { days: st.days || {}, books: st.books || {} }, goal: Math.max(1, +e.goal || 2), prefs: e.prefs || {} };
+}
+let ext = normExt(loadJSON(EXTK));
+function saveExt(sync) { saveJSON(EXTK, ext); if (sync !== false) onLocalChange(); }
+const dayKey = (d = new Date()) => d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+
+/* ---------- Vues ---------- */
+const VIEWS = ["home", "dash", "notebook", "book"];
+function showView(v) {
+  VIEWS.forEach(x => $(x).hidden = x !== v);
+  $("appnav").hidden = v === "book";
+  document.querySelectorAll("#appnav .tabs [data-view]").forEach(a => a.setAttribute("aria-current", a.dataset.view === v ? "page" : "false"));
+  if (v === "dash") renderDash();
+  if (v === "notebook") renderNotebook();
+  if (v !== "book") { try { history.replaceState(null, "", v === "home" ? location.pathname + location.search : "#" + (v === "dash" ? "parcours" : "carnet")); } catch (e) {} }
+  window.scrollTo(0, 0);
+}
+
+/* ---------- Couvertures générées ---------- */
+function hashStr(s) { let h = 2166136261; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+function rng(seed) { let a = seed; return () => { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+const COVER_CACHE = {};
+function coverSVG(b) {
+  if (COVER_CACHE[b.id]) return COVER_CACHE[b.id];
+  const h = hashStr(b.id), r = rng(h), m = h % 4;
+  let art = "";
+  if (m === 0) { const cx = 40 + r() * 120, cy = 150 + r() * 90; for (let k = 1; k <= 9; k++) art += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${k * 16}"/>`; }
+  else if (m === 1) { for (let k = -12; k < 22; k++) art += `<line x1="${k * 18}" y1="300" x2="${k * 18 + 180}" y2="120"/>`; }
+  else if (m === 2) { for (let k = 0; k < 7; k++) art += `<path d="M${-20 + k * 36} 300 a ${30 + k * 6} ${30 + k * 6} 0 0 1 ${60 + k * 12} 0"/>`; }
+  else { for (let y = 150; y < 285; y += 18) for (let x = 24; x < 190; x += 18) art += r() > 0.7 ? `<circle cx="${x}" cy="${y}" r="5" fill="#fff" fill-opacity=".28" stroke="none"/>` : `<circle cx="${x}" cy="${y}" r="2.2"/>`; }
+  const lines = wrapText(b.t, 15).slice(0, 4), fs = lines.length > 2 ? 19 : 22;
+  const title = lines.map((l, k) => `<text x="24" y="${52 + k * (fs + 5)}" font-size="${fs}">${esc(l)}</text>`).join("");
+  const auth = esc(b.a.length > 26 ? b.a.slice(0, 25) + "…" : b.a);
+  const svg = `<svg class="cover" viewBox="0 0 200 300" role="img" aria-label="Couverture : ${esc(b.t)}"><rect width="200" height="300" fill="var(${b.c})"/><g fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="2">${art}</g><rect x="0" y="0" width="7" height="300" fill="#000" fill-opacity=".14"/><g fill="#fff" font-family="Young Serif, Georgia, serif">${title}</g><text x="24" y="276" fill="#fff" fill-opacity=".85" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="11" letter-spacing=".5">${auth.toUpperCase()}</text></svg>`;
+  return COVER_CACHE[b.id] = svg;
+}
+
+/* ---------- Réglages de lecture ---------- */
+function applyPrefs() {
+  const pr = ext.prefs || {}, root = document.documentElement;
+  root.style.setProperty("--read-size", (+pr.size || 17) + "px");
+  root.style.setProperty("--measure", (+pr.width || 66) + "ch");
+  if (pr.theme && pr.theme !== "auto") root.setAttribute("data-theme", pr.theme); else root.removeAttribute("data-theme");
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.content = getComputedStyle(root).getPropertyValue("--paper").trim() || "#f4f5f0";
+  const cur = { size: String(+pr.size || 17), theme: pr.theme || "auto", width: String(+pr.width || 66) };
+  document.querySelectorAll("#prefs .seg").forEach(seg => seg.querySelectorAll("button").forEach(btn => btn.setAttribute("aria-pressed", btn.dataset.v === cur[seg.dataset.pref])));
+  TTS.rate = +pr.rate || 1; const pl = $("plRate"); if (pl) pl.textContent = TTS.rate.toString().replace(".", ",") + "×";
+}
+$("prefBtn").onclick = () => { const open = $("prefs").hidden; $("prefs").hidden = !open; $("prefBtn").setAttribute("aria-pressed", String(open)); };
+$("prefs").addEventListener("click", e => {
+  const btn = e.target.closest("button[data-v]"); if (!btn) return;
+  const key = btn.closest(".seg").dataset.pref;
+  ext.prefs = Object.assign({}, ext.prefs, { [key]: key === "theme" ? btn.dataset.v : +btn.dataset.v });
+  saveExt(); applyPrefs();
+});
+document.addEventListener("click", e => { if (!$("prefs").hidden && !e.target.closest("#prefs,#prefBtn")) { $("prefs").hidden = true; $("prefBtn").setAttribute("aria-pressed", "false"); } });
+
+/* ---------- Surlignage et notes ---------- */
+function wrapQuote(root, quote, id, hasNote) {
+  const tw = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".noderow,button") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+  const map = []; let s = "", prevSpace = true, lastBlock = null, n;
+  while ((n = tw.nextNode())) {
+    const blk = n.parentElement.closest("p,li,h3,.kw,.callout > b");
+    if (blk !== lastBlock) { if (!prevSpace) { s += " "; map.push(null); prevSpace = true; } lastBlock = blk; }
+    const t = n.nodeValue;
+    for (let i = 0; i < t.length; i++) {
+      if (/\s/.test(t[i])) { if (prevSpace) continue; s += " "; map.push([n, i]); prevSpace = true; }
+      else { s += t[i]; map.push([n, i]); prevSpace = false; }
+    }
+  }
+  const q = quote.replace(/\s+/g, " ").trim(); const at = s.indexOf(q); if (at < 0 || !q) return false;
+  const segs = new Map();
+  for (let k = at; k < at + q.length; k++) { const e = map[k]; if (!e) continue; const g = segs.get(e[0]) || [e[1], e[1]]; g[0] = Math.min(g[0], e[1]); g[1] = Math.max(g[1], e[1]); segs.set(e[0], g); }
+  segs.forEach(([a, b], node) => {
+    let mid = node; if (a > 0) mid = node.splitText(a);
+    const len = b - a + 1; if (len < mid.nodeValue.length) mid.splitText(len);
+    if (!mid.nodeValue.trim()) return;
+    const mk = document.createElement("mark"); mk.className = "hl" + (hasNote ? " has-note" : ""); mk.dataset.hl = id;
+    mid.parentNode.insertBefore(mk, mid); mk.appendChild(mid);
+  });
+  return true;
+}
+function refreshNodeHl(nodeId) {
+  const el = $(nodeId); if (!el || !curBook) return;
+  el.querySelectorAll("mark.hl").forEach(m => m.replaceWith(...m.childNodes)); el.normalize();
+  const list = (ext.hl[curBook.id] || []).filter(h => h.n === nodeId);
+  list.forEach(h => wrapQuote(el, h.x, h.id, !!h.note));
+  const c = el.querySelector(".hlcount"); if (c) c.textContent = list.length ? `✎ ${list.length} surlignage${list.length > 1 ? "s" : ""}` : "";
+}
+function refreshAllHl() { if (!curBook) return; document.querySelectorAll("#reading .node").forEach(n => refreshNodeHl(n.id)); }
+let selPending = null, selTimer = null, selHideTimer = null;
+document.addEventListener("selectionchange", () => { clearTimeout(selTimer); selTimer = setTimeout(checkSel, 150); });
+function nodeOf(x) { return x ? (x.nodeType === 1 ? x : x.parentElement).closest("#reading .node") : null; }
+function checkSel() {
+  const s = getSelection();
+  if (!curBook || $("book").hidden || !s || s.isCollapsed || !s.rangeCount) return hideSel();
+  const r = s.getRangeAt(0), a = nodeOf(r.startContainer), b = nodeOf(r.endContainer);
+  if (!a || a !== b) return hideSel();
+  const text = s.toString().replace(/\s+/g, " ").trim();
+  if (text.length < 3 || text.length > 900) return hideSel();
+  clearTimeout(selHideTimer); selPending = { n: a.id, x: text }; $("selbar").hidden = false;
+}
+function hideSel() { clearTimeout(selHideTimer); selHideTimer = setTimeout(hideSelNow, 400); }
+function hideSelNow() { $("selbar").hidden = true; selPending = null; }
+function addHl(withNote) {
+  if (!selPending || !curBook) return;
+  const h = { id: Math.random().toString(36).slice(2, 10), n: selPending.n, x: selPending.x, note: "", t: Date.now() };
+  (ext.hl[curBook.id] = ext.hl[curBook.id] || []).push(h); saveExt();
+  try { getSelection().removeAllRanges(); } catch (e) {}
+  hideSelNow(); refreshNodeHl(h.n);
+  if (withNote) openNote(curBook.id, h.id);
+}
+["selHl", "selNote"].forEach(id => {
+  const btn = $(id); let done = false;
+  btn.addEventListener("pointerdown", e => { e.preventDefault(); done = true; addHl(id === "selNote"); setTimeout(() => done = false, 400); });
+  btn.addEventListener("click", () => { if (!done) addHl(id === "selNote"); });
+});
+let noteCtx = null;
+function openNote(bid, hid) {
+  const h = (ext.hl[bid] || []).find(x => x.id === hid); if (!h) return;
+  noteCtx = { bid, hid };
+  const b = BOOKS.find(x => x.id === bid);
+  $("noteTitle").textContent = b ? b.t : "Ma note";
+  $("noteQuote").textContent = h.x; $("noteText").value = h.note || "";
+  $("noteSheet").hidden = false; setTimeout(() => $("noteText").focus(), 50);
+}
+function closeNote() { $("noteSheet").hidden = true; noteCtx = null; }
+$("noteClose").onclick = closeNote;
+$("noteSheet").addEventListener("click", e => { if (e.target.id === "noteSheet") closeNote(); });
+$("noteSave").onclick = () => {
+  if (!noteCtx) return; const h = (ext.hl[noteCtx.bid] || []).find(x => x.id === noteCtx.hid);
+  if (h) { h.note = $("noteText").value.trim(); h.t = h.t || Date.now(); saveExt(); }
+  const bid = noteCtx.bid; closeNote();
+  if (curBook && curBook.id === bid && h) refreshNodeHl(h.n);
+  if (!$("notebook").hidden) renderNotebook();
+};
+$("noteDel").onclick = () => {
+  if (!noteCtx) return; const list = ext.hl[noteCtx.bid] || [], i = list.findIndex(x => x.id === noteCtx.hid);
+  const h = list[i]; if (i >= 0) list.splice(i, 1); if (!list.length) delete ext.hl[noteCtx.bid]; saveExt();
+  const bid = noteCtx.bid; closeNote();
+  if (curBook && curBook.id === bid && h) refreshNodeHl(h.n);
+  if (!$("notebook").hidden) renderNotebook();
+};
+
+/* ---------- Carnet ---------- */
+let nbFilter = "all";
+function fmtDate(t) { const d = new Date(t); return d.getDate() + " " + MONTHS[d.getMonth()] + " " + d.getFullYear(); }
+function renderNotebook() {
+  const withHl = BOOKS.filter(b => (ext.hl[b.id] || []).length);
+  const total = withHl.reduce((s, b) => s + ext.hl[b.id].length, 0);
+  if (nbFilter !== "all" && !withHl.some(b => b.id === nbFilter)) nbFilter = "all";
+  if (!total) { $("nbBody").innerHTML = `<p class="dempty">Aucun surlignage pour l'instant. Ouvrez une fiche, sélectionnez un passage avec le doigt ou la souris, puis touchez « Surligner ».</p>`; return; }
+  const opts = `<option value="all">Tous les livres (${total})</option>` + withHl.map(b => `<option value="${b.id}"${nbFilter === b.id ? " selected" : ""}>${esc(b.t)} (${ext.hl[b.id].length})</option>`).join("");
+  const groups = withHl.filter(b => nbFilter === "all" || b.id === nbFilter).map(b => {
+    const items = [...ext.hl[b.id]].sort((x, y) => (y.t || 0) - (x.t || 0)).map(h => `<div class="nbitem"><blockquote></blockquote>${h.note ? `<p class="nbnote"></p>` : ""}<div class="nbmeta"><span>${esc(nodeTitle(b, h.n) || "")}${h.t ? " · " + fmtDate(h.t) : ""}</span><button class="linkish" type="button" data-go="${b.id}|${h.n}">Voir dans la fiche</button><button class="linkish" type="button" data-note="${b.id}|${h.id}">${h.note ? "Modifier la note" : "Ajouter une note"}</button></div></div>`).join("");
+    return `<section class="nbgroup" data-bid="${b.id}"><h2>${coverSVG(b)}<span></span></h2>${items}</section>`;
+  }).join("");
+  $("nbBody").innerHTML = `<div class="nbtools"><label for="nbSel" hidden>Livre</label><select id="nbSel">${opts}</select><button class="btn" type="button" id="nbExport">Exporter mes notes (.txt)</button></div>${groups}`;
+  $("nbBody").querySelectorAll(".nbgroup").forEach(g => {
+    const b = BOOKS.find(x => x.id === g.dataset.bid); g.querySelector("h2 span").textContent = b.t;
+    const list = [...ext.hl[b.id]].sort((x, y) => (y.t || 0) - (x.t || 0));
+    g.querySelectorAll(".nbitem").forEach((it, k) => { it.querySelector("blockquote").textContent = "« " + list[k].x + " »"; const nn = it.querySelector(".nbnote"); if (nn) nn.textContent = list[k].note; });
+  });
+  $("nbSel").onchange = e => { nbFilter = e.target.value; renderNotebook(); };
+  $("nbExport").onclick = exportNotes;
+}
+document.addEventListener("click", e => { const nb = e.target.closest("[data-note]"); if (nb) { const [bid, hid] = nb.dataset.note.split("|"); openNote(bid, hid); } });
+function exportNotes() {
+  let out = "Bibliothèque du Manager — mes surlignages et notes\nExporté le " + fmtDate(Date.now()) + "\n";
+  BOOKS.forEach(b => {
+    const list = ext.hl[b.id] || []; if (!list.length) return;
+    out += "\n\n=== " + b.t + " (" + b.a + ") ===\n";
+    list.forEach(h => { out += "\n• " + (nodeTitle(b, h.n) || "") + "\n  « " + h.x + " »\n" + (h.note ? "  Note : " + h.note + "\n" : ""); });
+  });
+  const url = URL.createObjectURL(new Blob([out], { type: "text/plain;charset=utf-8" }));
+  const a = document.createElement("a"); a.href = url; a.download = "mes-notes-bibliotheque.txt"; document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 2000);
+}
+
+/* ---------- Lecture audio ---------- */
+const TTS = { q: [], i: 0, on: false, rate: 1, voice: null, node: null };
+const hasTTS = "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+function pickVoice() { if (!hasTTS) return; const vs = speechSynthesis.getVoices(); TTS.voice = vs.find(v => /^fr[-_]FR/i.test(v.lang) && /google|natural|premium|enhanced/i.test(v.name)) || vs.find(v => /^fr[-_]FR/i.test(v.lang)) || vs.find(v => /^fr/i.test(v.lang)) || null; }
+if (hasTTS) { $("ttsBtn").hidden = false; pickVoice(); speechSynthesis.addEventListener && speechSynthesis.addEventListener("voiceschanged", pickVoice); }
+function currentNodeId() { let cur = null; document.querySelectorAll("#reading .node").forEach(n => { if (n.getBoundingClientRect().top < 160) cur = n.id; }); return cur || (document.querySelector("#reading .node") || {}).id; }
+function buildQueue(from) {
+  const nodes = [...document.querySelectorAll("#reading .node")]; let st = nodes.findIndex(n => n.id === from); if (st < 0) st = 0;
+  const q = [];
+  nodes.slice(st).forEach(n => {
+    q.push({ n: n.id, text: n.querySelector("h3").textContent + "." });
+    n.querySelectorAll("p,li,.callout").forEach(el => {
+      if (el.tagName === "P" && el.closest(".callout")) return;
+      const lab = el.classList.contains("callout") ? el.querySelector("b") : null;
+      q.push({ n: n.id, text: lab ? lab.textContent + ". " + el.textContent.slice(lab.textContent.length) : el.textContent });
+    });
+  });
+  return q;
+}
+function speakNext() {
+  if (!TTS.on) return;
+  if (TTS.i >= TTS.q.length) { stopSpeech(); return; }
+  const it = TTS.q[TTS.i];
+  if (it.n !== TTS.node) {
+    document.querySelectorAll(".node.speaking").forEach(x => x.classList.remove("speaking"));
+    const el = $(it.n); if (el) { el.classList.add("speaking"); el.scrollIntoView({ block: "start", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); }
+    TTS.node = it.n; $("plNow").textContent = nodeTitle(curBook, it.n);
+  }
+  const u = new SpeechSynthesisUtterance(it.text); u.lang = "fr-FR"; if (TTS.voice) u.voice = TTS.voice; u.rate = TTS.rate;
+  u.onend = () => { if (!TTS.on || u._dead) return; TTS.i++; speakNext(); };
+  u.onerror = ev => { if (u._dead || ev.error === "interrupted" || ev.error === "canceled") return; TTS.i++; speakNext(); };
+  TTS.cur = u; lastAct = Date.now(); speechSynthesis.speak(u);
+}
+function killUtter() { if (TTS.cur) TTS.cur._dead = true; try { speechSynthesis.cancel(); } catch (e) {} }
+function startSpeech() {
+  if (!hasTTS || !curBook) return; killUtter();
+  TTS.q = buildQueue(currentNodeId()); TTS.i = 0; TTS.on = true; TTS.node = null;
+  $("player").hidden = false; $("plPlay").textContent = "❚❚"; $("plPlay").setAttribute("aria-label", "Pause"); $("ttsBtn").setAttribute("aria-pressed", "true");
+  speakNext();
+}
+function pauseSpeech() { TTS.on = false; killUtter(); $("plPlay").textContent = "▶"; $("plPlay").setAttribute("aria-label", "Reprendre"); }
+function resumeSpeech() { if (!TTS.q.length) return startSpeech(); TTS.on = true; $("plPlay").textContent = "❚❚"; $("plPlay").setAttribute("aria-label", "Pause"); speakNext(); }
+function stopSpeech() {
+  if (!hasTTS) return; TTS.on = false; killUtter(); TTS.q = []; TTS.node = null;
+  $("player").hidden = true; $("ttsBtn").setAttribute("aria-pressed", "false");
+  document.querySelectorAll(".node.speaking").forEach(x => x.classList.remove("speaking"));
+}
+$("ttsBtn").onclick = () => TTS.on ? stopSpeech() : startSpeech();
+$("plPlay").onclick = () => TTS.on ? pauseSpeech() : resumeSpeech();
+$("plStop").onclick = stopSpeech;
+$("plRate").onclick = () => {
+  const steps = [0.8, 1, 1.25, 1.5, 1.75], nxt = steps[(steps.indexOf(TTS.rate) + 1) % steps.length];
+  ext.prefs = Object.assign({}, ext.prefs, { rate: nxt }); saveExt(); applyPrefs();
+  if (TTS.on) { killUtter(); speakNext(); }
+};
+
+/* ---------- Temps de lecture ---------- */
+let lastAct = Date.now(), tickN = 0;
+["scroll", "pointerdown", "keydown", "touchstart"].forEach(ev => addEventListener(ev, () => { lastAct = Date.now(); }, { passive: true }));
+setInterval(() => {
+  if (!curBook || $("book").hidden || document.visibilityState !== "visible") return;
+  if (Date.now() - lastAct > 90000 && !TTS.on) return;
+  const k = dayKey(); ext.stats.days[k] = (ext.stats.days[k] || 0) + 15; ext.stats.books[curBook.id] = (ext.stats.books[curBook.id] || 0) + 15;
+  tickN++; saveExt(tickN % 4 === 0);
+}, 15000);
+(function prune() { const lim = new Date(); lim.setDate(lim.getDate() - 400); const lk = dayKey(lim); Object.keys(ext.stats.days).forEach(k => { if (k < lk) delete ext.stats.days[k]; }); })();
+
+/* ---------- Tableau de bord ---------- */
+function fmtDur(sec) { const m = Math.round(sec / 60); if (m < 60) return m + " min"; const h = Math.floor(m / 60), r = m % 60; return h + " h" + (r ? " " + String(r).padStart(2, "0") : ""); }
+function streak() { const days = ext.stats.days; let n = 0; const d = new Date(); if (!((days[dayKey(d)] || 0) >= 60)) d.setDate(d.getDate() - 1); while ((days[dayKey(d)] || 0) >= 60) { n++; d.setDate(d.getDate() - 1); } return n; }
+function chartSVG() {
+  const N = 30, vals = [], labels = []; const d = new Date(); d.setDate(d.getDate() - (N - 1));
+  for (let k = 0; k < N; k++) { vals.push(Math.round((ext.stats.days[dayKey(d)] || 0) / 60)); labels.push(d.getDate()); d.setDate(d.getDate() + 1); }
+  const max = Math.max(10, ...vals), top = Math.ceil(max / 10) * 10;
+  const W = 600, H = 200, L = 34, R = 8, T = 26, B = 26, bw = (W - L - R) / N;
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Minutes de lecture sur les 30 derniers jours">`;
+  [0, 0.5, 1].forEach(f => { const y = T + (H - T - B) * (1 - f); s += `<line x1="${L}" x2="${W - R}" y1="${y}" y2="${y}" stroke="var(--line)"/><text x="${L - 6}" y="${y + 4}" text-anchor="end" font-size="11" fill="var(--muted)" font-family="IBM Plex Mono, monospace">${Math.round(top * f)}</text>`; });
+  vals.forEach((v, k) => {
+    const hgt = (H - T - B) * v / top, x = L + k * bw + 2, y = H - B - hgt;
+    s += `<rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${(bw - 4).toFixed(1)}" height="${Math.max(hgt, v ? 2 : 0).toFixed(1)}" rx="2" fill="${k === N - 1 ? "var(--ochre)" : "var(--accent)"}"><title>${v} min</title></rect>`;
+    if (k % 5 === 4 || k === N - 1) s += `<text x="${(x + (bw - 4) / 2).toFixed(1)}" y="${H - 8}" text-anchor="middle" font-size="11" fill="var(--muted)" font-family="IBM Plex Mono, monospace">${labels[k]}</text>`;
+  });
+  return s + `<text x="${W - R}" y="12" text-anchor="end" font-size="11" fill="var(--muted)" font-family="IBM Plex Mono, monospace">minutes / jour</text></svg>`;
+}
+function renderDash() {
+  const total = Object.values(ext.stats.days).reduce((a, b) => a + b, 0);
+  const now = new Date(), ym = now.getFullYear() * 12 + now.getMonth();
+  const monthRead = Object.entries(ext.readAt).filter(([id, t]) => read.has(id) && (new Date(t).getFullYear() * 12 + new Date(t).getMonth()) === ym).length;
+  const hlN = Object.values(ext.hl).reduce((a, l) => a + l.length, 0);
+  const st = streak();
+  const goalPct = Math.min(100, monthRead / ext.goal * 100);
+  const inProg = BOOKS.filter(b => !read.has(b.id) && pos[b.id] && pos[b.id].pct >= 2).sort((a, b) => (pos[b.id].t || 0) - (pos[a.id].t || 0));
+  const byTime = BOOKS.filter(b => ext.stats.books[b.id] >= 60).sort((a, b) => ext.stats.books[b.id] - ext.stats.books[a.id]).slice(0, 6);
+  const maxT = byTime.length ? ext.stats.books[byTime[0].id] : 1;
+  const recent = Object.entries(ext.readAt).filter(([id]) => read.has(id)).sort((a, b) => b[1] - a[1]).slice(0, 5).map(([id, t]) => ({ b: BOOKS.find(x => x.id === id), t })).filter(x => x.b);
+  const row = (b, sub, bar, btn) => `<div class="drow">${coverSVG(b)}<div><div class="t">${esc(b.t)}</div><div class="s">${bar != null ? `<span class="mini"><i style="width:${bar}%"></i></span>` : ""}<span>${sub}</span></div></div>${btn || ""}</div>`;
+  $("dashBody").innerHTML = `
+    <div class="tiles">
+      <div class="tile"><span class="v">${read.size}<small style="font-size:.55em;color:var(--muted)"> / ${BOOKS.length}</small></span><span class="k">Livres lus</span></div>
+      <div class="tile"><span class="v">${fmtDur(total)}</span><span class="k">Temps de lecture</span></div>
+      <div class="tile"><span class="v">${st} j</span><span class="k">Série en cours</span></div>
+      <div class="tile"><span class="v">${hlN}</span><span class="k">Surlignages</span></div>
+    </div>
+    <section class="dsec"><h2 class="sectitle">Objectif de ${MONTHS[now.getMonth()]}</h2>
+      <div class="goalbox"><div class="goalrow"><strong>${monthRead} livre${monthRead > 1 ? "s" : ""} lu${monthRead > 1 ? "s" : ""} sur ${ext.goal}</strong>
+        <span class="stepper"><button type="button" data-goal="-1" aria-label="Réduire l'objectif">−</button><span>${ext.goal} par mois</span><button type="button" data-goal="1" aria-label="Augmenter l'objectif">+</button></span></div>
+        <div class="gbar"><i style="width:${goalPct}%"></i></div>
+        <span class="dempty" style="font-style:normal;font-size:14px">${monthRead >= ext.goal ? "Objectif atteint ce mois-ci. Bravo !" : `Encore ${ext.goal - monthRead} livre${ext.goal - monthRead > 1 ? "s" : ""} pour atteindre votre objectif. Une série se construit avec au moins une minute de lecture par jour.`}</span></div></section>
+    <section class="dsec"><h2 class="sectitle">Vos 30 derniers jours</h2><div class="chartbox">${chartSVG()}</div></section>
+    <section class="dsec"><h2 class="sectitle">En cours de lecture</h2><div class="dlist">${inProg.length ? inProg.map(b => row(b, pos[b.id].pct + " % · " + esc(nodeTitle(b, pos[b.id].node)), pos[b.id].pct, `<button class="btn primary" type="button" data-resume="${b.id}">Continuer</button>`)).join("") : `<p class="dempty">Aucune lecture en cours. Ouvrez un livre depuis la bibliothèque pour commencer.</p>`}</div></section>
+    <section class="dsec"><h2 class="sectitle">Temps passé par livre</h2><div class="dlist">${byTime.length ? byTime.map(b => row(b, fmtDur(ext.stats.books[b.id]), Math.round(ext.stats.books[b.id] / maxT * 100))).join("") : `<p class="dempty">Le temps de lecture s'affichera ici dès votre première minute de lecture.</p>`}</div></section>
+    <section class="dsec"><h2 class="sectitle">Terminés récemment</h2><div class="dlist">${recent.length ? recent.map(x => row(x.b, "Terminé le " + fmtDate(x.t), null, `<button class="btn" type="button" data-b="${x.b.id}">Relire</button>`)).join("") : `<p class="dempty">Marquez un livre comme lu à la fin de sa fiche pour le voir ici.</p>`}</div></section>`;
+}
+document.addEventListener("click", e => { const g = e.target.closest("[data-goal]"); if (g) { ext.goal = Math.min(20, Math.max(1, ext.goal + +g.dataset.goal)); saveExt(); renderDash(); } });
+
+/* ---------- Application installable ---------- */
+let deferredInstall = null;
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent), standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+addEventListener("beforeinstallprompt", e => { e.preventDefault(); deferredInstall = e; $("installBtn").hidden = false; });
+if (isIOS && !standalone && window.SUPA_CFG) $("installBtn").hidden = false;
+addEventListener("appinstalled", () => { $("installBtn").hidden = true; deferredInstall = null; });
+function openInfo(title, text) { $("infoTitle").textContent = title; $("infoText").textContent = text; $("infoSheet").hidden = false; }
+$("infoClose").onclick = () => $("infoSheet").hidden = true;
+$("infoSheet").addEventListener("click", e => { if (e.target.id === "infoSheet") $("infoSheet").hidden = true; });
+$("installBtn").onclick = async () => {
+  if (deferredInstall) { deferredInstall.prompt(); try { await deferredInstall.userChoice; } catch (e) {} deferredInstall = null; $("installBtn").hidden = true; }
+  else openInfo("Installer sur iPhone ou iPad", "Dans Safari, touchez le bouton Partager (le carré avec une flèche vers le haut), puis « Sur l'écran d'accueil ». La bibliothèque s'ouvrira ensuite comme une application, même sans connexion.");
+};
+if ("serviceWorker" in navigator && window.SUPA_CFG && location.protocol === "https:") addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+document.addEventListener("keydown", e => { if (e.key === "Escape") { if (!$("noteSheet").hidden) closeNote(); else if (!$("infoSheet").hidden) $("infoSheet").hidden = true; else if (!$("prefs").hidden) $("prefs").hidden = true; } });
+
+
 /* ---------- Progression ---------- */
 let onLocalChange = () => {};
 const KEY = "biblio-manager-read";
@@ -318,7 +819,7 @@ cats.forEach(c => {
 BOOKS.forEach(b => {
   const el = document.createElement("button");
   el.type = "button"; el.className = "bookrow"; el.id = "row-" + b.id; el.style.setProperty("--c", `var(${b.c})`);
-  el.innerHTML = `<span class="spine"></span><div class="bhead"><h2>${esc(b.t)}</h2><p class="pitch">${esc(b.pitch)}</p><div class="meta">${esc(b.a)} · ${b.y}</div></div><div class="side"><span class="time">${b.min} min</span><span>${esc(b.cat)}</span><span class="ok" id="ok-${b.id}"></span></div>`;
+  el.innerHTML = `<span class="thumb">${coverSVG(b)}</span><div class="bhead"><h2>${esc(b.t)}</h2><p class="pitch">${esc(b.pitch)}</p><div class="meta">${esc(b.a)} · ${b.y}</div></div><div class="side"><span class="time">${b.min} min</span><span>${esc(b.cat)}</span><span class="ok" id="ok-${b.id}"></span></div>`;
   el.onclick = () => openBook(b.id);
   $("shelf").appendChild(el);
 });
@@ -331,15 +832,37 @@ function syncHome() {
   $("count").textContent = `${read.size} / ${BOOKS.length} lus`;
   $("barfill").style.width = `${read.size / BOOKS.length * 100}%`;
 }
+function fold(s) { let o = ""; for (let i = 0; i < s.length; i++) { const c = s[i]; const f = c.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase(); o += f.length === 1 ? f : c.toLowerCase().charAt(0) || c; } return o; }
+const INDEX = [];
+BOOKS.forEach(b => b.branches.forEach((br, i) => br.nodes.forEach((nd, j) => {
+  const plain = [nd.title, ...nd.body.map(bl => bl.text || (bl.items || []).join(" "))].join(" ").replace(/\*\*?/g, "").replace(/\s+/g, " ");
+  INDEX.push({ b, nid: `n-${i}-${j}`, title: nd.title, plain, norm: fold(plain), tnorm: fold(nd.title) });
+})));
 function filter() {
-  let n = 0; const term = q.toLowerCase();
+  let n = 0; const term = fold(q.trim());
+  const hits = term.length >= 3 ? INDEX.filter(x => (cat === "Tous" || x.b.cat === cat) && x.norm.includes(term)) : [];
+  const hitBooks = new Set(hits.map(x => x.b.id));
   BOOKS.forEach(b => {
-    const show = (cat === "Tous" || b.cat === cat) && (!term || b.hay.includes(term));
+    const show = (cat === "Tous" || b.cat === cat) && (!term || b.hay.includes(term) || hitBooks.has(b.id));
     $("row-" + b.id).hidden = !show; if (show) n++;
   });
   $("empty").hidden = n > 0;
+  renderResults(term, hits);
 }
-BOOKS.forEach(b => { b.hay = [b.t, b.o, b.a, b.pitch, ...b.branches.flatMap(br => [br.title, ...br.nodes.map(nd => nd.title + " " + (nd.kw || ""))])].join(" ").toLowerCase(); });
+function renderResults(term, hits) {
+  const box = $("results");
+  if (term.length < 3) { box.hidden = true; return; }
+  hits.sort((a, b) => (b.tnorm.includes(term) - a.tnorm.includes(term)));
+  const shown = hits.slice(0, 40);
+  $("resTitle").textContent = hits.length ? `${hits.length} passage${hits.length > 1 ? "s" : ""} trouvé${hits.length > 1 ? "s" : ""} dans les fiches` : "Aucun passage ne contient ce mot";
+  $("resList").innerHTML = shown.map(x => {
+    const at = x.norm.indexOf(term), from = Math.max(0, at - 70), to = Math.min(x.plain.length, at + term.length + 120);
+    const snip = (from > 0 ? "…" : "") + esc(x.plain.slice(from, at)) + "<mark>" + esc(x.plain.slice(at, at + term.length)) + "</mark>" + esc(x.plain.slice(at + term.length, to)) + (to < x.plain.length ? "…" : "");
+    return `<button type="button" class="reshit" style="--c:var(${x.b.c})" data-go="${x.b.id}|${x.nid}"><span class="rt">${esc(x.b.t)}</span><span class="rn">${esc(x.title)}</span><span class="rs">${snip}</span></button>`;
+  }).join("") + (hits.length > shown.length ? `<p class="empty">Les ${shown.length} premiers résultats sont affichés. Précisez votre recherche pour affiner.</p>` : "");
+  box.hidden = false;
+}
+BOOKS.forEach(b => { b.hay = fold([b.t, b.o, b.a, b.pitch, ...b.branches.flatMap(br => [br.title, ...br.nodes.map(nd => nd.title + " " + (nd.kw || ""))])].join(" ")); });
 $("q").addEventListener("input", e => { q = e.target.value; filter(); });
 
 /* ---------- Carte mentale ---------- */
@@ -427,7 +950,9 @@ function renderBody(blocks) {
 function openBook(id, keepScroll) {
   const b = BOOKS.find(x => x.id === id); if (!b) return;
   curBook = b;
-  $("home").hidden = true; $("book").hidden = false;
+  stopSpeech(); $("prefs").hidden = true; $("prefBtn").setAttribute("aria-pressed", "false");
+  VIEWS.forEach(x => $(x).hidden = x !== "book"); $("appnav").hidden = true;
+  $("bkCover").innerHTML = coverSVG(b);
   $("tbTitle").textContent = b.t; $("bkCat").textContent = b.cat; $("bkTitle").textContent = b.t;
   $("bkOrig").textContent = b.o !== b.t ? b.o : "";
   $("bkFacts").innerHTML = `<span><b>${esc(b.a)}</b></span><span>Parution ${b.y}</span><span>Livre ${esc(b.p)}</span><span>Lecture de la fiche <b>${b.min} min</b></span><span>${b.branches.length} branches · ${b.branches.reduce((s, x) => s + x.nodes.length, 0)} idées</span>`;
@@ -441,11 +966,11 @@ function openBook(id, keepScroll) {
       ${br.nodes.map((nd, j) => `<div class="node" id="n-${i}-${j}">
         <h3>${esc(nd.title)}</h3>${nd.kw ? `<div class="kw">${esc(nd.kw)}</div>` : ""}
         ${renderBody(nd.body)}
-        <div class="noderow"><button class="markbtn" type="button" data-mark="n-${i}-${j}" aria-pressed="false">Ajouter un marque-page</button><button class="backmap" type="button" data-t="map">↑ Revenir à la carte</button></div></div>`).join("")}
+        <div class="noderow"><button class="markbtn" type="button" data-mark="n-${i}-${j}" aria-pressed="false">Ajouter un marque-page</button><button class="backmap" type="button" data-t="map">↑ Revenir à la carte</button><span class="hlcount" data-hlc="n-${i}-${j}"></span></div></div>`).join("")}
     </section>`).join("");
   const idx = BOOKS.indexOf(b), prev = BOOKS[idx - 1], next = BOOKS[idx + 1];
   $("endnav").innerHTML = `${prev ? `<button class="btn" type="button" data-b="${prev.id}">← ${esc(prev.t)}</button>` : "<span></span>"}<button class="btn primary" type="button" id="endRead"></button>${next ? `<button class="btn" type="button" data-b="${next.id}">${esc(next.t)} →</button>` : ""}`;
-  syncBook(); syncMarks(); showResume();
+  syncBook(); syncMarks(); showResume(); refreshAllHl();
   try { history.replaceState(null, "", "#" + b.id); } catch (e) {}
   if (!keepScroll) window.scrollTo(0, 0);
   onScroll();
@@ -499,6 +1024,9 @@ addEventListener("pagehide", flushPos);
 document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") flushPos(); });
 function resumeBook(id) { openBook(id); const p = pos[id]; if (p && p.node) setTimeout(() => goTo(p.node), 60); }
 document.addEventListener("click", e => {
+  const hlm = e.target.closest("mark.hl"); if (hlm && curBook && !$("book").hidden) { const s = getSelection(); if (!s || s.isCollapsed) { openNote(curBook.id, hlm.dataset.hl); return; } }
+  const go = e.target.closest("[data-go]"); if (go) { const [bid, nid] = go.dataset.go.split("|"); openBook(bid); if (nid) setTimeout(() => goTo(nid), 60); return; }
+  const vw = e.target.closest("[data-view]"); if (vw) { if (vw.dataset.view === "home") goHome(); else { if (curBook) goHome(); showView(vw.dataset.view); } return; }
   const t = e.target.closest("[data-t]"); if (t) { e.preventDefault(); goTo(t.dataset.t); return; }
   const bb = e.target.closest("[data-b]"); if (bb) openBook(bb.dataset.b);
   const mk = e.target.closest("[data-mark]"); if (mk) toggleMark(mk.dataset.mark);
@@ -506,7 +1034,7 @@ document.addEventListener("click", e => {
   if (e.target.id === "resumeClose") $("resumeBar").hidden = true;
   if (e.target.id === "endRead") toggleRead();
 });
-function toggleRead() { const id = curBook.id; read.has(id) ? read.delete(id) : read.add(id); saveRead(); syncBook(); syncHome(); }
+function toggleRead() { const id = curBook.id; if (read.has(id)) { read.delete(id); delete ext.readAt[id]; } else { read.add(id); ext.readAt[id] = Date.now(); } saveJSON(EXTK, ext); saveRead(); syncBook(); syncHome(); }
 $("bkRead").onclick = toggleRead;
 function syncBook() {
   if (!curBook) return; const on = read.has(curBook.id);
@@ -515,7 +1043,7 @@ function syncBook() {
   $("bkPdf").textContent = f ? "Lire mon PDF" : "Ajouter mon PDF"; $("bkPdf").classList.toggle("has", !!f);
   $("bkPdfName").textContent = f ? f.name : ""; $("bkPdfRm").hidden = !f;
 }
-function goHome() { if (typeof flushPos === "function") flushPos(); $("book").hidden = true; $("home").hidden = false; curBook = null; try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {} syncHome(); window.scrollTo(0, 0); }
+function goHome() { if (typeof flushPos === "function") flushPos(); stopSpeech(); hideSelNow(); $("prefs").hidden = true; curBook = null; syncHome(); showView("home"); }
 $("backHome").onclick = goHome;
 function onScroll() {
   if ($("book").hidden) return;
@@ -593,15 +1121,18 @@ let session = null, pushTimer = null, pushing = false, pushAgain = false, syncSt
 function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
 function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
 function localStamp() { return +(lsGet(STAMPK) || 0); }
-function snapshotState() { return { read: [...read], pos, marks }; }
+function snapshotState() { return { read: [...read], pos, marks, ext }; }
 function applyState(d, stamp) {
   read = new Set(Array.isArray(d.read) ? d.read : []);
   pos = d.pos && typeof d.pos === "object" ? d.pos : {};
   marks = d.marks && typeof d.marks === "object" ? d.marks : {};
+  ext = normExt(d.ext); saveJSON(EXTK, ext); applyPrefs();
   lsSet(KEY, JSON.stringify([...read])); lsSet(POSK, JSON.stringify(pos)); lsSet(MARKK, JSON.stringify(marks));
   lsSet(STAMPK, String(stamp || 0));
   syncHome();
-  if (curBook) { syncBook(); syncMarks(); }
+  if (curBook) { syncBook(); syncMarks(); refreshAllHl(); }
+  if (!$("dash").hidden) renderDash();
+  if (!$("notebook").hidden) renderNotebook();
 }
 function setSync(s) { syncState = s; renderAccount(); }
 function renderAccount() {
@@ -717,8 +1248,11 @@ if (sb) {
 
 /* ---------- Démarrage ---------- */
 syncHome(); filter();
+applyPrefs();
 const h = location.hash.slice(1);
 if (h && BOOKS.some(b => b.id === h)) openBook(h);
+else if (h === "parcours") showView("dash");
+else if (h === "carnet") showView("notebook");
 </script>
 
 </body>
