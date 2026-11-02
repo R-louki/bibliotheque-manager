@@ -279,6 +279,10 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .authmsg.err{background:color-mix(in srgb,var(--b2) 14%,var(--card));}
 .authlinks{display:flex;flex-wrap:wrap;gap:8px 16px}
 .authfine{font-size:13.5px;color:var(--muted);margin:0}
+.gbtn{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;font-family:var(--mono);font-size:14px;padding:11px 16px;border-radius:8px;border:1px solid var(--line);background:#fff;color:#1f1f1f;cursor:pointer}
+.gbtn svg{width:20px;height:20px}
+.orline{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:12px;color:var(--muted)}
+.orline::before,.orline::after{content:"";flex:1;height:1px;background:var(--line)}
 .viewer{position:fixed;inset:0;z-index:50;background:var(--paper);display:grid;grid-template-rows:auto 1fr}
 .vbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px max(16px,env(safe-area-inset-right,0px)) 10px max(16px,env(safe-area-inset-left,0px));padding-top:calc(10px + env(safe-area-inset-top,0px));border-bottom:1px solid var(--line);background:var(--card)}
 .vtitle{flex:1 1 180px;min-width:0;font-family:var(--display);font-size:1.05rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -446,6 +450,52 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
 .badge .bi{font-size:1.7rem;line-height:1.2}
 .badge strong{font-family:var(--display);font-weight:400;font-size:.98rem}
 .badge span:last-child{font-size:12.5px;color:var(--muted);line-height:1.35}
+.bkrating{font-family:var(--mono);font-size:13px;color:var(--ochre)}
+.bcard .m.rt{color:var(--ochre)}
+.reviews{margin-top:34px;display:grid;gap:14px}
+.rvhead{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:8px}
+.rvhead .sectitle{margin:0}
+.rvavg{font-family:var(--mono);font-size:13px;color:var(--ochre)}
+.rvavg b{font-family:var(--display);font-weight:400;font-size:1.3rem;color:var(--ink)}
+.rvform{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;gap:10px}
+.rvform .lbl{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.rvform textarea,.chatin textarea,.sheet textarea,.sel{font:inherit;font-size:16px;width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);resize:vertical}
+.stars{display:flex;gap:4px}
+.stars button{font-size:1.7rem;line-height:1;background:none;border:0;color:var(--ochre);cursor:pointer;padding:2px}
+.rvmsg{font-size:14px;color:var(--b2)}
+.rvlist{display:grid;gap:10px}
+.rvitem{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:grid;gap:6px}
+.rvitem p{margin:0;font-size:15.5px;white-space:pre-wrap}
+.rvtop{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
+.rvtop strong{font-weight:600}
+.rvst{color:var(--ochre);letter-spacing:1px}
+.rvdate{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.clubbody > *{width:min(720px,100%)}
+.clubbody section{display:grid;gap:8px}
+.clubtop{display:grid;grid-template-columns:90px 1fr;gap:16px;align-items:start}
+.clubtop .lbl{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.clubtop strong{display:block;font-family:var(--display);font-weight:400;font-size:1.3rem;line-height:1.25;margin:2px 0 6px}
+.clubtop .cdesc{margin:0 0 10px;color:var(--muted);font-size:15px}
+.invite{display:flex;gap:8px}
+.invite input{flex:1;min-width:0;font-family:var(--mono);font-size:13px;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.mrow{display:grid;grid-template-columns:minmax(0,1fr) 120px auto;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:15px}
+.mrow .mini{height:6px;background:var(--line);border-radius:3px;overflow:hidden}.mrow .mini i{display:block;height:100%;background:var(--done)}
+.mrow .mp{font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap}
+.chat{display:grid;gap:8px;max-height:46vh;overflow:auto;padding:4px}
+.msg{justify-self:start;max-width:85%;background:var(--card);border:1px solid var(--line);border-radius:12px 12px 12px 4px;padding:8px 12px;display:grid;gap:2px}
+.msg.me{justify-self:end;background:var(--accent-soft);border-radius:12px 12px 4px 12px}
+.msg .mw{font-family:var(--mono);font-size:11.5px;color:var(--accent)}
+.msg p{margin:0;font-size:15.5px;white-space:pre-wrap;overflow-wrap:anywhere}
+.msg .mt{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+.chatin{display:flex;gap:8px;align-items:flex-end}
+.tblwrap{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+.tbl{width:100%;border-collapse:collapse;font-size:14.5px;font-variant-numeric:tabular-nums}
+.tbl th,.tbl td{padding:9px 12px;border-bottom:1px solid var(--line);text-align:left}
+.tbl th{font-family:var(--mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:500}
+.tbl td:not(:first-child),.tbl th:not(:first-child){text-align:right;white-space:nowrap}
+#acctSheet #adminBtn{justify-self:start}
+:root[data-device="desktop"] #admin{max-width:1180px}
+:root[data-device="desktop"] #admin .tiles{grid-template-columns:repeat(6,minmax(0,1fr))}
 @media (max-width:720px){ .tiles{grid-template-columns:repeat(2,minmax(0,1fr))} .paths{grid-template-columns:1fr} .badges{grid-template-columns:repeat(2,minmax(0,1fr))} }
 @media (max-width:560px){
   .appnav .brand{display:none}
@@ -501,6 +551,7 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
   <div class="sheetin">
     <div class="sheethead"><strong id="acctTitle">Mon compte</strong><button class="linkish" type="button" id="acctClose">Fermer</button></div>
     <div class="account" id="account" hidden></div>
+    <button class="btn" type="button" id="adminBtn" hidden>Espace administrateur</button>
     <div class="progress"><span id="count">0 / 12 lus</span><span class="bar"><i id="barfill"></i></span></div>
     <div class="drop" id="drop">
       <p><strong>Lire un PDF.</strong> Ouvrez un PDF de votre appareil. Pour l'associer à un livre, ajoutez-le depuis la fiche du livre.</p>
@@ -519,6 +570,11 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
   <header class="pagehead"><div class="eyebrow">Apprendre</div><h1>Retenir et progresser</h1>
     <p class="lede">Révisez les idées clés, testez-vous avec les quiz et suivez des parcours guidés jusqu'au certificat.</p></header>
   <div id="learnBody"></div>
+</div>
+
+<div id="admin" class="wrap" hidden>
+  <header class="pagehead"><div class="eyebrow">Administration</div><h1>Tableau de bord du site</h1></header>
+  <div id="adminBody"></div>
 </div>
 
 <div id="notebook" class="wrap" hidden>
@@ -552,6 +608,7 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
           <h1 id="bkTitle"></h1>
           <p class="orig" id="bkOrig"></p>
           <div class="facts" id="bkFacts"></div>
+          <span class="bkrating" id="bkRating" hidden></span>
         </div>
       </div>
       <div class="actions">
@@ -577,6 +634,7 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
     <nav class="toc" id="toc" aria-label="Branches"></nav>
     <article class="reading" id="reading"></article>
     <div class="quizbox" id="quizBox" hidden></div>
+    <section class="reviews" id="reviews" hidden></section>
     <div class="endnav" id="endnav"></div>
     </div>
   </div>
@@ -592,6 +650,8 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
         <button type="button" role="tab" id="tabUp" aria-selected="true">Créer un compte</button>
         <button type="button" role="tab" id="tabIn" aria-selected="false">Se connecter</button>
       </div>
+      <button type="button" class="gbtn" id="googleBtn" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M22.5 12.3c0-.8-.1-1.5-.2-2.2H12v4.2h5.9a5 5 0 0 1-2.2 3.3v2.7h3.5c2.1-1.9 3.3-4.7 3.3-8z"/><path fill="#34A853" d="M12 23c3 0 5.5-1 7.2-2.7l-3.5-2.7c-1 .7-2.2 1.1-3.7 1.1-2.9 0-5.3-1.9-6.2-4.5H2.2v2.8A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.8 14.2a6.6 6.6 0 0 1 0-4.3V7.1H2.2a11 11 0 0 0 0 9.9z"/><path fill="#EA4335" d="M12 5.4c1.6 0 3.1.6 4.2 1.7l3.1-3.1A11 11 0 0 0 2.2 7.1l3.6 2.8C6.7 7.3 9.1 5.4 12 5.4z"/></svg>Continuer avec Google</button>
+      <div class="orline" id="orLine" hidden><span>ou avec votre e-mail</span></div>
       <form id="authForm" novalidate>
         <div style="display:grid;gap:14px">
           <div class="field"><label for="authEmail">Adresse e-mail</label><input id="authEmail" type="email" autocomplete="email" required></div>
@@ -648,6 +708,41 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
   </div>
 </div>
 
+<div class="sheet" id="nameSheet" hidden role="dialog" aria-modal="true" aria-labelledby="nameTitle">
+  <div class="sheetin">
+    <div class="sheethead"><strong id="nameTitle">Votre nom de lecteur</strong><button class="linkish" type="button" id="nameCancel">Annuler</button></div>
+    <p style="margin:0;font-size:15px;color:var(--muted)">Ce nom apparaîtra à côté de vos avis et dans les clubs. Votre adresse e-mail reste privée.</p>
+    <div class="field"><label for="nameInput">Nom affiché</label><input id="nameInput" type="text" maxlength="40" autocomplete="nickname"></div>
+    <p class="authmsg err" id="nameMsg" hidden></p>
+    <div class="sheetacts"><button class="btn primary" type="button" id="nameSave">Enregistrer</button></div>
+  </div>
+</div>
+
+<div class="sheet" id="clubSheet" hidden role="dialog" aria-modal="true" aria-labelledby="clubSheetTitle">
+  <div class="sheetin">
+    <div class="sheethead"><strong id="clubSheetTitle">Créer un club de lecture</strong><button class="linkish" type="button" id="clubCancel">Annuler</button></div>
+    <div class="field"><label for="clubName">Nom du club</label><input id="clubName" type="text" maxlength="60" placeholder="Ex. : Équipe commerciale, Club du jeudi…"></div>
+    <div class="field"><label for="clubBook">Livre lu ensemble</label><select id="clubBook" class="sel"></select></div>
+    <div class="field"><label for="clubDesc">Description (facultatif)</label><textarea id="clubDesc" rows="2" maxlength="400"></textarea></div>
+    <p class="authmsg err" id="clubMsg" hidden></p>
+    <div class="sheetacts"><button class="btn primary" type="button" id="clubCreate">Créer le club</button></div>
+  </div>
+</div>
+
+<div class="sheet" id="joinSheet" hidden role="dialog" aria-modal="true" aria-labelledby="joinTitle">
+  <div class="sheetin">
+    <div class="sheethead"><strong id="joinTitle">Invitation à un club de lecture</strong></div>
+    <p id="joinText" style="margin:0"></p>
+    <div class="sheetacts"><button class="btn primary" type="button" id="joinGo">Rejoindre le club</button><button class="linkish" type="button" id="joinNo">Plus tard</button></div>
+  </div>
+</div>
+
+<div class="overlay" id="clubOv" hidden role="dialog" aria-modal="true" aria-labelledby="clubTitle">
+  <div class="ovbar"><button class="vbtn" type="button" id="clubClose" aria-label="Fermer le club">✕</button><strong id="clubTitle"></strong><span class="ovcount">Club de lecture</span></div>
+  <div class="ovprog"></div>
+  <div class="ovbody clubbody" id="clubBody"></div>
+</div>
+
 <div class="sheet" id="infoSheet" hidden role="dialog" aria-modal="true" aria-labelledby="infoTitle">
   <div class="sheetin">
     <div class="sheethead"><strong id="infoTitle"></strong><button class="linkish" type="button" id="infoClose">Fermer</button></div>
@@ -693,15 +788,16 @@ const dayKey = (d = new Date()) => d.getFullYear() + "-" + String(d.getMonth() +
 const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
 
 /* ---------- Vues ---------- */
-const VIEWS = ["home", "learn", "dash", "notebook", "book"];
+const VIEWS = ["home", "learn", "dash", "notebook", "admin", "book"];
 function showView(v) {
   VIEWS.forEach(x => $(x).hidden = x !== v);
   $("appnav").hidden = v === "book";
   document.querySelectorAll("#appnav .tabs [data-view]").forEach(a => a.setAttribute("aria-current", a.dataset.view === v ? "page" : "false"));
   if (v === "dash") renderDash();
   if (v === "notebook") renderNotebook();
-  if (v === "learn") renderLearn();
-  if (v !== "book") { try { history.replaceState(null, "", v === "home" ? location.pathname + location.search : "#" + ({ dash: "progression", notebook: "carnet", learn: "apprendre" })[v]); } catch (e) {} }
+  if (v === "learn") { renderLearn(); if (typeof loadClubs === "function" && session) loadClubs().then(() => { if (!$("learn").hidden) renderLearn(); }); }
+  if (v === "admin") renderAdmin();
+  if (v !== "book") { try { history.replaceState(null, "", v === "home" ? location.pathname + location.search : "#" + ({ dash: "progression", notebook: "carnet", learn: "apprendre", admin: "admin" })[v]); } catch (e) {} }
   window.scrollTo(0, 0);
 }
 
@@ -1214,13 +1310,14 @@ function renderLearn() {
       <div class="qzacts">${st.complete ? `<button class="btn primary" type="button" data-cert="${p.id}">Obtenir mon certificat</button>` : `<button class="btn primary" type="button" data-b="${next}">${st.done ? "Continuer" : "Commencer"} le parcours</button>`}</div></article>`;
   }).join("");
   const badges = badgeList(), got = badges.filter(x => x[3]).length;
-  $("learnBody").innerHTML = `
+  $("learnBody").innerHTML = clubsSection() + `
     <section class="dsec"><h2 class="sectitle">Révision du jour</h2><div class="goalbox revbox"><div class="goalrow"><strong>${all.length ? all.length + " carte" + (all.length > 1 ? "s" : "") : "À jour"}</strong>${all.length ? `<button class="btn primary" type="button" id="startRev">Commencer la révision</button>` : ""}</div><span class="dempty" style="font-style:normal;font-size:14.5px">${revTxt} Chaque carte reprend une idée clé : plus vous la connaissez, plus elle revient tard.</span></div></section>
     <section class="dsec"><h2 class="sectitle">Parcours guidés</h2><div class="paths">${pathCards}</div></section>
     <section class="dsec"><h2 class="sectitle">Badges · ${got} sur ${badges.length}</h2><div class="badges">${badges.map(x => `<div class="badge${x[3] ? " on" : ""}" title="${esc(x[2])}"><span class="bi" aria-hidden="true">${x[0]}</span><strong>${esc(x[1])}</strong><span>${esc(x[2])}</span></div>`).join("")}</div></section>
     <section class="dsec"><h2 class="sectitle">Quiz par livre</h2><div class="dlist">${quizRows}</div></section>`;
   $("learnBody").querySelectorAll(".pathcard").forEach((c, k) => { c.querySelector("h3").textContent = PATHS[k].t; c.querySelector(".pd").textContent = PATHS[k].d; });
   const sr = $("startRev"); if (sr) sr.onclick = openReview;
+  fillClubNames();
 }
 document.addEventListener("click", e => {
   const qz = e.target.closest("[data-quiz]"); if (qz) { openQuiz(qz.dataset.quiz); return; }
@@ -1303,7 +1400,7 @@ function renderRails() {
   const box = $("rails"); if (!box) return;
   const groups = cats.filter(c => c !== "Tous").map(c => ({ c, books: BOOKS.filter(b => b.cat === c) }));
   const started = BOOKS.filter(b => !read.has(b.id) && pos[b.id] && pos[b.id].pct >= 2);
-  const card = b => { const [cls, txt] = bookStatus(b); return `<button type="button" class="bcard" data-b="${b.id}">${coverSVG(b)}<span class="t">${esc(b.t)}</span><span class="m ${cls}">${esc(txt)}</span></button>`; };
+  const card = b => { const [cls, txt] = bookStatus(b); const rt = typeof ratingTxt === "function" ? ratingTxt(b.id) : ""; return `<button type="button" class="bcard" data-b="${b.id}">${coverSVG(b)}<span class="t">${esc(b.t)}</span><span class="m ${cls}">${esc(txt)}</span>${rt ? `<span class="m rt">${rt}</span>` : ""}</button>`; };
   box.innerHTML = (started.length ? `<section class="rail"><h2>Continuer</h2><div class="railrow">${started.map(card).join("")}</div></section>` : "")
     + groups.map(g => `<section class="rail"><h2><span>${esc(g.c)}</span><button type="button" data-cat="${esc(g.c)}">Tout voir · ${g.books.length}</button></h2><div class="railrow">${g.books.map(card).join("")}</div></section>`).join("");
 }
@@ -1517,7 +1614,7 @@ function openBook(id, keepScroll) {
     </section>`).join("");
   const idx = BOOKS.indexOf(b), prev = BOOKS[idx - 1], next = BOOKS[idx + 1];
   $("endnav").innerHTML = `${prev ? `<button class="btn" type="button" data-b="${prev.id}">← ${esc(prev.t)}</button>` : "<span></span>"}<button class="btn primary" type="button" id="endRead"></button>${next ? `<button class="btn" type="button" data-b="${next.id}">${esc(next.t)} →</button>` : ""}`;
-  syncBook(); syncMarks(); showResume(); refreshAllHl(); renderQuizBox(); renderMap(true); renderSide();
+  syncBook(); syncMarks(); showResume(); refreshAllHl(); renderQuizBox(); renderMap(true); renderSide(); renderBookRating(); renderReviews();
   try { history.replaceState(null, "", "#" + b.id); } catch (e) {}
   if (!keepScroll) window.scrollTo(0, 0);
   onScroll();
@@ -1751,6 +1848,8 @@ function frError(e) {
 }
 function showAuth(show) { $("auth").hidden = !show; document.body.style.overflow = show ? "hidden" : ""; }
 if (sb) {
+  if (CFG.google) { $("googleBtn").hidden = false; $("orLine").hidden = false; }
+  $("googleBtn").onclick = async () => { const { error } = await sb.auth.signInWithOAuth({ provider: "google", options: { redirectTo: location.origin + location.pathname } }); if (error) authMsg("La connexion avec Google n'est pas disponible pour le moment. Utilisez votre e-mail.", true); };
   $("tabUp").onclick = () => setAuthMode("up");
   $("tabIn").onclick = () => setAuthMode("in");
   $("forgotBtn").onclick = () => setAuthMode(authMode === "reset" ? "in" : "reset");
@@ -1785,14 +1884,209 @@ if (sb) {
     const wasIn = !!session; session = s;
     if (s) {
       if ($("auth").hidden === false && authMode !== "newpw") showAuth(false);
-      if (!wasIn) { setSync("local"); setTimeout(pull, 0); }
+      if (!wasIn) { setSync("local"); setTimeout(pull, 0); setTimeout(loadMe, 0); setTimeout(() => loadClubs().then(() => { if (!$("learn").hidden) renderLearn(); }), 0); }
       renderAccount();
     } else {
-      if (wasIn) { applyState({}, 0); try { localStorage.removeItem(OWNK); } catch (er) {} if (curBook) goHome(); }
+      if (wasIn) { myProfile = null; isAdmin = false; myClubs = []; ratingCache = {}; $("adminBtn").hidden = true; closeClub(); applyState({}, 0); try { localStorage.removeItem(OWNK); } catch (er) {} if (curBook) goHome(); }
       renderAccount(); setAuthMode("up"); showAuth(true);
     }
   });
 }
+
+/* ---------- Étape 3 : communauté ---------- */
+let myProfile = null, isAdmin = false, ratingCache = {}, nameResolve = null;
+const fmtStars = n => "★★★★★".slice(0, n) + "☆☆☆☆☆".slice(0, 5 - n);
+async function loadMe() {
+  if (!sb || !session) return;
+  try {
+    const { data } = await sb.from("profiles").select("display_name").eq("id", session.user.id).maybeSingle(); myProfile = data || null;
+    const a = await sb.rpc("is_admin"); isAdmin = !!a.data; $("adminBtn").hidden = !isAdmin;
+  } catch (e) {}
+  loadRatings(); checkPendingJoin();
+}
+async function loadRatings() {
+  if (!sb || !session) return;
+  const { data, error } = await sb.from("reviews").select("book_id,rating"); if (error || !data) return;
+  const agg = {}; data.forEach(r => { const a = agg[r.book_id] || (agg[r.book_id] = { s: 0, n: 0 }); a.s += r.rating; a.n++; });
+  ratingCache = {}; Object.entries(agg).forEach(([k, a]) => ratingCache[k] = { avg: a.s / a.n, n: a.n });
+  syncHome(); if (curBook) renderBookRating();
+}
+function ratingTxt(id) { const r = ratingCache[id]; return r ? "★ " + r.avg.toFixed(1).replace(".", ",") + " (" + r.n + ")" : ""; }
+function renderBookRating() { const el = $("bkRating"); if (!el || !curBook) return; const t = ratingTxt(curBook.id); el.textContent = t; el.hidden = !t; }
+function needName() {
+  if (myProfile) return Promise.resolve(true);
+  return new Promise(res => { nameResolve = res; $("nameInput").value = ext.name || ""; $("nameMsg").hidden = true; $("nameSheet").hidden = false; setTimeout(() => $("nameInput").focus(), 50); });
+}
+async function saveName() {
+  const v = $("nameInput").value.trim();
+  if (v.length < 2) { $("nameMsg").textContent = "Saisissez au moins 2 caractères."; $("nameMsg").hidden = false; return; }
+  const { error } = await sb.from("profiles").upsert({ id: session.user.id, display_name: v.slice(0, 40) });
+  if (error) { $("nameMsg").textContent = "Enregistrement impossible. Vérifiez votre connexion et réessayez."; $("nameMsg").hidden = false; return; }
+  myProfile = { display_name: v.slice(0, 40) }; $("nameSheet").hidden = true; if (nameResolve) { nameResolve(true); nameResolve = null; }
+}
+$("nameSave").onclick = saveName; $("nameInput").addEventListener("keydown", e => { if (e.key === "Enter") saveName(); });
+$("nameCancel").onclick = () => { $("nameSheet").hidden = true; if (nameResolve) { nameResolve(false); nameResolve = null; } };
+async function namesFor(ids) {
+  const u = [...new Set(ids)]; if (!u.length) return {};
+  const { data } = await sb.from("profiles").select("id,display_name").in("id", u);
+  const m = {}; (data || []).forEach(p => m[p.id] = p.display_name); return m;
+}
+function confirmBtn(btn, label, action) {
+  if (btn.dataset.armed) { action(); return; }
+  btn.dataset.armed = "1"; const old = btn.textContent; btn.textContent = label;
+  setTimeout(() => { if (btn.isConnected) { delete btn.dataset.armed; btn.textContent = old; } }, 4000);
+}
+
+/* Avis sur un livre */
+let myStars = 0;
+async function renderReviews() {
+  const box = $("reviews"); if (!box || !curBook) return;
+  if (!sb || !session) { box.hidden = true; return; }
+  const bid = curBook.id; box.hidden = false;
+  box.innerHTML = `<h2 class="sectitle">Avis des lecteurs</h2><p class="dempty">Chargement des avis…</p>`;
+  const { data, error } = await sb.from("reviews").select("id,user_id,rating,body,created_at,updated_at").eq("book_id", bid).order("updated_at", { ascending: false }).limit(100);
+  if (!curBook || curBook.id !== bid) return;
+  if (error) { box.innerHTML = `<h2 class="sectitle">Avis des lecteurs</h2><p class="dempty">Les avis ne peuvent pas être chargés pour le moment. Ils s'afficheront au retour de la connexion.</p>`; return; }
+  const names = await namesFor(data.map(r => r.user_id));
+  const mine = data.find(r => r.user_id === session.user.id), others = data.filter(r => r !== mine);
+  const avg = data.length ? data.reduce((s, r) => s + r.rating, 0) / data.length : 0;
+  myStars = mine ? mine.rating : 0;
+  box.innerHTML = `<div class="rvhead"><h2 class="sectitle">Avis des lecteurs</h2>${data.length ? `<span class="rvavg"><b>${avg.toFixed(1).replace(".", ",")}</b> ${fmtStars(Math.round(avg))} · ${data.length} avis</span>` : ""}</div>
+    <div class="rvform"><span class="lbl">${mine ? "Votre avis" : "Donnez votre avis"}</span>
+      <div class="stars" role="radiogroup" aria-label="Votre note">${[1, 2, 3, 4, 5].map(n => `<button type="button" role="radio" aria-checked="${n === myStars}" aria-label="${n} sur 5" data-star="${n}">${n <= myStars ? "★" : "☆"}</button>`).join("")}</div>
+      <label for="rvText" hidden>Votre avis</label><textarea id="rvText" rows="3" maxlength="1500" placeholder="Ce que ce livre vous a apporté, à qui vous le conseillez…"></textarea>
+      <div class="qzacts" style="justify-content:flex-start"><button class="btn primary" type="button" id="rvPost">${mine ? "Mettre à jour" : "Publier mon avis"}</button>${mine ? `<button class="linkish" type="button" id="rvDel">Supprimer mon avis</button>` : ""}<span class="rvmsg" id="rvMsg" role="status"></span></div></div>
+    <div class="rvlist">${others.length ? others.map(r => `<article class="rvitem" data-rid="${r.id}"><div class="rvtop"><strong></strong><span class="rvst">${fmtStars(r.rating)}</span><span class="rvdate">${fmtDate(r.updated_at)}</span>${isAdmin ? `<button class="linkish" type="button" data-moddel="${r.id}">Supprimer (modération)</button>` : ""}</div><p></p></article>`).join("") : `<p class="dempty">${mine ? "Vous êtes le premier à donner votre avis." : "Aucun avis pour l'instant. Soyez le premier !"}</p>`}</div>`;
+  $("rvText").value = mine ? mine.body : "";
+  box.querySelectorAll(".rvitem").forEach((el, k) => { el.querySelector("strong").textContent = names[others[k].user_id] || "Lecteur"; el.querySelector("p").textContent = others[k].body; if (!others[k].body) el.querySelector("p").remove(); });
+  box.querySelectorAll("[data-star]").forEach(b => b.onclick = () => { myStars = +b.dataset.star; box.querySelectorAll("[data-star]").forEach(x => { const n = +x.dataset.star; x.textContent = n <= myStars ? "★" : "☆"; x.setAttribute("aria-checked", n === myStars); }); });
+  $("rvPost").onclick = async () => {
+    if (!myStars) { $("rvMsg").textContent = "Choisissez une note de 1 à 5 étoiles."; return; }
+    if (!(await needName())) return;
+    $("rvPost").disabled = true;
+    const { error } = await sb.from("reviews").upsert({ book_id: bid, user_id: session.user.id, rating: myStars, body: $("rvText").value.trim().slice(0, 1500), updated_at: new Date().toISOString() }, { onConflict: "book_id,user_id" });
+    $("rvPost").disabled = false;
+    if (error) { $("rvMsg").textContent = "Publication impossible. Vérifiez votre connexion et réessayez."; return; }
+    loadRatings(); renderReviews();
+  };
+  const del = $("rvDel"); if (del) del.onclick = () => confirmBtn(del, "Confirmer la suppression", async () => { await sb.from("reviews").delete().eq("id", mine.id); loadRatings(); renderReviews(); });
+  box.querySelectorAll("[data-moddel]").forEach(b => b.onclick = () => confirmBtn(b, "Confirmer", async () => { await sb.from("reviews").delete().eq("id", b.dataset.moddel); loadRatings(); renderReviews(); }));
+}
+
+/* Clubs de lecture */
+let myClubs = [], CLUB = null, clubTimer = null;
+const clubLink = code => location.origin + location.pathname + "#rejoindre-" + code;
+async function loadClubs() {
+  if (!sb || !session) { myClubs = []; return; }
+  const { data } = await sb.from("clubs").select("id,name,description,book_id,owner_id,invite_code,created_at").order("created_at", { ascending: false });
+  myClubs = data || [];
+}
+function clubsSection() {
+  if (!sb || !session) return "";
+  return `<section class="dsec"><h2 class="sectitle">Clubs de lecture</h2><div class="dlist" id="clubList">${myClubs.length ? myClubs.map(c => { const b = BOOKS.find(x => x.id === c.book_id); return b ? `<div class="drow">${coverSVG(b)}<div><div class="t"></div><div class="s"><span>${esc(b.t)}</span></div></div><button class="btn primary" type="button" data-club="${c.id}">Ouvrir</button></div>` : ""; }).join("") : `<p class="dempty">Lisez un livre à plusieurs : créez un club, partagez le lien d'invitation, suivez la progression de chacun et échangez dans la discussion.</p>`}</div><div class="qzacts" style="justify-content:flex-start;margin-top:10px"><button class="btn primary" type="button" id="clubNew">Créer un club</button></div></section>`;
+}
+function fillClubNames() { const list = $("clubList"); if (!list) return; list.querySelectorAll(".drow").forEach((r, k) => { const c = myClubs.filter(x => BOOKS.some(b => b.id === x.book_id))[k]; if (c) r.querySelector(".t").textContent = c.name; }); }
+function openClubForm() {
+  $("clubBook").innerHTML = BOOKS.map(b => `<option value="${b.id}"${curBook && curBook.id === b.id ? " selected" : ""}>${esc(b.t)}</option>`).join("");
+  $("clubName").value = ""; $("clubDesc").value = ""; $("clubMsg").hidden = true; $("clubSheet").hidden = false; setTimeout(() => $("clubName").focus(), 50);
+}
+async function createClub() {
+  const name = $("clubName").value.trim(); if (name.length < 2) { $("clubMsg").textContent = "Donnez un nom au club (2 caractères minimum)."; $("clubMsg").hidden = false; return; }
+  if (!(await needName())) return;
+  const { data, error } = await sb.from("clubs").insert({ name: name.slice(0, 60), description: $("clubDesc").value.trim().slice(0, 400), book_id: $("clubBook").value }).select().single();
+  if (error) { $("clubMsg").textContent = "Création impossible. Vérifiez votre connexion et réessayez."; $("clubMsg").hidden = false; return; }
+  $("clubSheet").hidden = true; await loadClubs(); if (!$("learn").hidden) renderLearn(); openClub(data.id);
+}
+async function openClub(id) {
+  if (!myClubs.some(c => c.id === id)) await loadClubs();
+  CLUB = myClubs.find(c => c.id === id); if (!CLUB) return;
+  $("clubOv").hidden = false; document.body.style.overflow = "hidden"; $("clubTitle").textContent = CLUB.name;
+  const b = BOOKS.find(x => x.id === CLUB.book_id), owner = CLUB.owner_id === session.user.id;
+  $("clubBody").innerHTML = `<div class="clubtop">${coverSVG(b)}<div><span class="lbl">Livre du club</span><strong></strong><p class="cdesc"></p><div class="qzacts" style="justify-content:flex-start"><button class="btn primary" type="button" data-clubbook="${b.id}">Lire le livre</button></div></div></div>
+    <section><h2 class="sectitle">Inviter</h2><div class="invite"><input id="clubLinkInput" readonly aria-label="Lien d'invitation"><button class="btn" type="button" id="clubCopy">Copier le lien</button></div><p class="dempty" style="font-style:normal;font-size:14px">Envoyez ce lien : la personne crée son compte, puis rejoint le club en un clic.</p></section>
+    <section><h2 class="sectitle">Progression des membres</h2><div class="dlist" id="clubProg"><p class="dempty">Chargement…</p></div></section>
+    <section><h2 class="sectitle">Discussion</h2><div class="chat" id="clubChat"></div><div class="chatin"><label for="clubMsgIn" hidden>Message</label><textarea id="clubMsgIn" rows="2" maxlength="1000" placeholder="Votre message au club…"></textarea><button class="btn primary" type="button" id="clubSend">Envoyer</button></div></section>
+    <div class="qzacts" style="justify-content:flex-start">${owner ? `<button class="linkish" type="button" id="clubDel">Supprimer le club</button>` : `<button class="linkish" type="button" id="clubLeave">Quitter le club</button>`}</div>`;
+  $("clubBody").querySelector(".clubtop strong").textContent = b.t; $("clubBody").querySelector(".cdesc").textContent = CLUB.description || "";
+  $("clubLinkInput").value = clubLink(CLUB.invite_code);
+  $("clubCopy").onclick = async () => { try { await navigator.clipboard.writeText($("clubLinkInput").value); $("clubCopy").textContent = "Lien copié"; } catch (e) { $("clubLinkInput").select(); $("clubCopy").textContent = "Sélectionné"; } setTimeout(() => { const c = $("clubCopy"); if (c) c.textContent = "Copier le lien"; }, 2000); };
+  $("clubSend").onclick = sendClubMsg; $("clubMsgIn").addEventListener("keydown", e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendClubMsg(); } });
+  const del = $("clubDel"); if (del) del.onclick = () => confirmBtn(del, "Confirmer : supprimer définitivement", async () => { await sb.from("clubs").delete().eq("id", CLUB.id); closeClub(); await loadClubs(); renderLearn(); });
+  const lv = $("clubLeave"); if (lv) lv.onclick = () => confirmBtn(lv, "Confirmer : quitter le club", async () => { await sb.from("club_members").delete().eq("club_id", CLUB.id).eq("user_id", session.user.id); closeClub(); await loadClubs(); renderLearn(); });
+  refreshClub(); clearInterval(clubTimer); clubTimer = setInterval(() => { if (document.visibilityState === "visible") refreshClub(true); }, 15000);
+}
+async function refreshClub(quiet) {
+  if (!CLUB) return; const cid = CLUB.id;
+  const [pr, ms] = await Promise.all([sb.rpc("club_progress", { c: cid }), sb.from("club_messages").select("id,user_id,body,created_at").eq("club_id", cid).order("created_at", { ascending: true }).limit(200)]);
+  if (!CLUB || CLUB.id !== cid) return;
+  const prog = $("clubProg");
+  if (pr.data) prog.innerHTML = pr.data.sort((a, b) => (b.is_read - a.is_read) || (b.pct - a.pct)).map(m => `<div class="mrow"><span class="mn"></span><span class="mini"><i style="width:${m.is_read ? 100 : m.pct}%"></i></span><span class="mp">${m.is_read ? "✓ terminé" : m.pct + " %"}</span></div>`).join("");
+  if (pr.data) prog.querySelectorAll(".mn").forEach((el, k) => el.textContent = pr.data[k].display_name + (pr.data[k].user_id === session.user.id ? " (vous)" : ""));
+  const chat = $("clubChat"); if (!ms.data) return;
+  const names = await namesFor(ms.data.map(m => m.user_id));
+  const atBottom = chat.scrollHeight - chat.scrollTop - chat.clientHeight < 40;
+  chat.innerHTML = ms.data.length ? ms.data.map(m => `<div class="msg${m.user_id === session.user.id ? " me" : ""}"><span class="mw"></span><p></p><span class="mt">${fmtDate(m.created_at)} · ${new Date(m.created_at).toTimeString().slice(0, 5)}</span></div>`).join("") : `<p class="dempty">Aucun message. Lancez la discussion : une idée qui vous a marqué, une question pour le groupe…</p>`;
+  chat.querySelectorAll(".msg").forEach((el, k) => { el.querySelector(".mw").textContent = names[ms.data[k].user_id] || "Lecteur"; el.querySelector("p").textContent = ms.data[k].body; });
+  if (!quiet || atBottom) chat.scrollTop = chat.scrollHeight;
+}
+async function sendClubMsg() {
+  const t = $("clubMsgIn").value.trim(); if (!t || !CLUB) return;
+  if (!(await needName())) return;
+  $("clubSend").disabled = true;
+  const { error } = await sb.from("club_messages").insert({ club_id: CLUB.id, body: t.slice(0, 1000) });
+  $("clubSend").disabled = false;
+  if (!error) { $("clubMsgIn").value = ""; refreshClub(); }
+}
+function closeClub() { $("clubOv").hidden = true; document.body.style.overflow = ""; CLUB = null; clearInterval(clubTimer); }
+$("clubClose").onclick = closeClub;
+$("clubCreate").onclick = createClub; $("clubCancel").onclick = () => $("clubSheet").hidden = true;
+document.addEventListener("click", e => {
+  const c = e.target.closest("[data-club]"); if (c) { openClub(c.dataset.club); return; }
+  const cb = e.target.closest("[data-clubbook]"); if (cb) { closeClub(); openBook(cb.dataset.clubbook); return; }
+  if (e.target.id === "clubNew") openClubForm();
+});
+/* Rejoindre par lien d'invitation */
+const JOINK = "biblio-manager-join";
+(function captureJoin() { const m = /^#rejoindre-([a-z0-9]{6,20})$/i.exec(location.hash); if (m) { try { sessionStorage.setItem(JOINK, m[1]); } catch (e) {} try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {} } })();
+async function checkPendingJoin() {
+  let code = null; try { code = sessionStorage.getItem(JOINK); } catch (e) {} if (!code || !sb || !session) return;
+  const { data } = await sb.rpc("club_preview", { code });
+  const pv = data && data[0]; if (!pv) { try { sessionStorage.removeItem(JOINK); } catch (e) {} openInfo("Invitation introuvable", "Ce lien d'invitation n'est plus valide. Demandez un nouveau lien à la personne qui vous a invité."); return; }
+  const b = BOOKS.find(x => x.id === pv.book_id);
+  $("joinText").textContent = `Le club « ${pv.name} » lit ${b ? "« " + b.t + " »" : "un livre de la bibliothèque"} et compte ${pv.members} membre${pv.members > 1 ? "s" : ""}.`;
+  $("joinSheet").hidden = false;
+  $("joinGo").onclick = async () => {
+    if (!(await needName())) return;
+    const r = await sb.rpc("join_club", { code }); try { sessionStorage.removeItem(JOINK); } catch (e) {}
+    $("joinSheet").hidden = true;
+    if (r.error) { openInfo("Impossible de rejoindre", /full/.test(r.error.message) ? "Ce club a atteint 50 membres." : "Le club n'a pas pu être rejoint. Réessayez plus tard."); return; }
+    await loadClubs(); openClub(r.data);
+  };
+  $("joinNo").onclick = () => { try { sessionStorage.removeItem(JOINK); } catch (e) {} $("joinSheet").hidden = true; };
+}
+
+/* Espace administrateur */
+async function renderAdmin() {
+  const box = $("adminBody"); box.innerHTML = `<p class="dempty">Chargement des statistiques…</p>`;
+  const { data, error } = await sb.rpc("admin_stats");
+  if (error || !data) { box.innerHTML = `<p class="dempty">Statistiques indisponibles. Cet espace est réservé aux administrateurs.</p>`; return; }
+  const rows = BOOKS.map(b => ({ b, st: (data.books || {})[b.id] || { read: 0, started: 0 }, rt: (data.ratings || {})[b.id] })).sort((x, y) => y.st.started - x.st.started);
+  const { data: last } = await sb.from("reviews").select("id,book_id,user_id,rating,body,updated_at").order("updated_at", { ascending: false }).limit(20);
+  const names = await namesFor((last || []).map(r => r.user_id));
+  box.innerHTML = `<div class="tiles">
+      <div class="tile"><span class="v">${data.users}</span><span class="k">Inscrits</span></div>
+      <div class="tile"><span class="v">${data.new_7d}</span><span class="k">Nouveaux (7 j)</span></div>
+      <div class="tile"><span class="v">${data.active_7d}</span><span class="k">Actifs (7 j)</span></div>
+      <div class="tile"><span class="v">${data.active_30d}</span><span class="k">Actifs (30 j)</span></div>
+      <div class="tile"><span class="v">${data.reviews}</span><span class="k">Avis</span></div>
+      <div class="tile"><span class="v">${data.clubs}</span><span class="k">Clubs</span></div></div>
+    <section class="dsec"><h2 class="sectitle">Lectures par livre</h2><div class="tblwrap"><table class="tbl"><thead><tr><th>Livre</th><th>Commencé</th><th>Terminé</th><th>Note</th></tr></thead><tbody>${rows.map(r => `<tr><td>${esc(r.b.t)}</td><td>${r.st.started}</td><td>${r.st.read}</td><td>${r.rt ? String(r.rt.avg).replace(".", ",") + " (" + r.rt.n + ")" : "–"}</td></tr>`).join("")}</tbody></table></div></section>
+    <section class="dsec"><h2 class="sectitle">Derniers avis · modération</h2><div class="rvlist">${(last || []).length ? last.map(r => `<article class="rvitem"><div class="rvtop"><strong></strong><span class="rvst">${fmtStars(r.rating)}</span><span class="rvdate"></span><button class="linkish" type="button" data-admdel="${r.id}">Supprimer</button></div><p></p></article>`).join("") : `<p class="dempty">Aucun avis publié.</p>`}</div></section>
+    <p class="dempty" style="font-style:normal;font-size:14px">Les nouveaux livres s'ajoutent en me demandant de rédiger leur fiche : le site est mis à jour automatiquement.</p>`;
+  box.querySelectorAll(".rvitem").forEach((el, k) => { const r = last[k], b = BOOKS.find(x => x.id === r.book_id); el.querySelector("strong").textContent = names[r.user_id] || "Lecteur"; el.querySelector(".rvdate").textContent = (b ? b.t + " · " : "") + fmtDate(r.updated_at); el.querySelector("p").textContent = r.body || ""; });
+  box.querySelectorAll("[data-admdel]").forEach(b => b.onclick = () => confirmBtn(b, "Confirmer", async () => { await sb.from("reviews").delete().eq("id", b.dataset.admdel); renderAdmin(); loadRatings(); }));
+}
+$("adminBtn").onclick = () => { $("acctSheet").hidden = true; if (curBook) goHome(); showView("admin"); };
 
 /* ---------- Démarrage ---------- */
 syncHome(); filter();
@@ -1801,6 +2095,7 @@ const h = location.hash.slice(1);
 if (h && BOOKS.some(b => b.id === h)) openBook(h);
 else if (h === "parcours" || h === "progression") showView("dash");
 else if (h === "apprendre") showView("learn");
+else if (h === "admin") showView("admin");
 else if (h === "carnet") showView("notebook");
 </script>
 
