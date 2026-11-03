@@ -1,0 +1,402 @@
+=== Context and thesis
+--- An unprepared captain
+kw: submarine · Santa Fe · 1999
+David Marquet is a US Navy officer who specialized in nuclear submarines. In the late 1990s, he spent a year preparing to take command of a particular attack submarine. He studied every system, every procedure, every technical detail of the boat. A few weeks before taking up his post, he was told of a change: he would command a different submarine, the USS Santa Fe.
+
+At the time, the Santa Fe was one of the lowest-rated submarines in its fleet. Its inspection results were poor, morale was low, and many sailors did not want to re-enlist. The previous captain was a competent but very directive man who made every decision himself.
+
+Marquet discovered an additional problem: he didn't know this submarine. It was a different class from the one he had prepared for, with equipment he didn't know well. In the navy, a captain is supposed to know everything about his boat and give precise orders. Marquet was not able to.
+
+He recounts an incident in his very first days. During an exercise, he gave an order that could not be carried out on this submarine. The officer of the deck nonetheless relayed it without question. Marquet then asked why no one had said anything. The answer, in essence, was that the captain had ordered it. He understood the danger: a crew used to obeying without thinking will follow the captain even when he is wrong.
+
+This episode is the book's starting point. Marquet decided to change completely the way the submarine was led.
+
+> À retenir | A captain who doesn't know his boat, and a crew that follows orders even when they're wrong: the starting point for a different way of leading.
+
+--- The leader and the followers
+kw: leader-follower · dependence · fragility
+Marquet describes the command model he wanted to abandon. He calls it the **leader-follower** model. In this model, a few people at the top think and decide, and everyone else executes. The model is deeply rooted in the navy, but also in most organizations.
+
+He acknowledges that this model has apparent advantages. It is simple, fast when the leader knows what to do, and it clarifies responsibilities. But it has serious weaknesses.
+
+**It uses only a small part of the intelligence available.** On a submarine of more than a hundred sailors, only the captain and a few officers really think. The others wait for orders.
+
+**It makes the organization dependent on the leader.** When the leader is absent, wrong or leaves, the organization collapses. Marquet observes that many crews that were brilliant under one captain became mediocre under his successor.
+
+**It breeds passivity.** People who never have to decide lose the habit of thinking and taking initiative. They do what they're asked, and no more.
+
+**It demotivates.** People have little control over their work and little reason to commit to it.
+
+Marquet stresses that this model is so familiar that people no longer notice it. Even leadership programmes often reinforce it, by teaching leaders how to motivate their followers better, rather than questioning the distinction itself.
+
+- A few think, the others execute.
+- The organization depends on the quality and presence of the leader.
+- Followers become passive.
+
+--- The leader-leader model
+kw: leader-leader · everyone decides · lasting
+Instead, Marquet proposes a model he calls **leader-leader**. The idea is that every person in the organization, at their own level, behaves as a leader: they think, take initiative, make decisions in their area and own them.
+
+The captain's role then changes completely. It is no longer about giving orders but about **creating an environment** in which everyone can make good decisions. This requires that people have the authority to decide, but also the technical competence and the understanding of goals needed.
+
+Marquet highlights an important difference from the usual approaches to delegation or empowerment. In those approaches, the leader remains at the centre: they are the one who grants power to others, and they can take it back. People fundamentally remain followers who are temporarily given some latitude. In the leader-leader model, the ability to decide is built into the very structure of the organization and its daily practices.
+
+He also insists on **durability**. A leader's success is measured not only by the results achieved during their tenure, but by what remains after they leave. An organization built on the leader-leader model keeps working well when the leader goes, because the capabilities are distributed.
+
+Marquet gives the Santa Fe's results. Within a few years, the submarine went from the bottom to the top of the rankings in inspections. The sailors' re-enlistment rate rose sharply. And, above all, an unusual number of the crew's officers later went on to command submarines themselves.
+
+> À retenir | In the leader-leader model, everyone is a leader at their own level. The real test is what remains when the leader leaves.
+
+--- A difficult start
+kw: resistance · habits · inspection
+Marquet recounts that transforming the Santa Fe was not without difficulty. The first weeks were marked by scepticism and confusion.
+
+The crew had been trained for years to wait for orders. When the captain began asking officers to propose their own decisions, many felt uncomfortable. Some thought it was a trap, or that the captain was trying to offload his responsibilities. Others kept asking permission out of habit.
+
+The chiefs in particular were wary. They had seen many captains come through with new ideas, abandoned at the first difficulty. They were waiting to see whether this one would hold out.
+
+Marquet also describes the outside pressure. The Santa Fe had to pass important inspections in the following months, and its deployment was approaching. Changing models under these conditions seemed risky. His superiors didn't always understand why he took the time to gather his officers to discuss how decisions should be made, instead of drilling them intensively on procedures.
+
+He says he himself had doubts several times. When a decision made by an officer turned out to be worse than the one he would have made, he was tempted to take back control. He had to remind himself that the aim was to develop people capable of deciding, and that this meant mistakes.
+
+The turning point came when the crew achieved very good results in an important inspection. These results convinced the sceptics, on board and ashore, that the new model could work.
+
+> À retenir | Changing models first breeds mistrust and confusion. You have to hold on long enough for the first results to convince people.
+
+=== Giving control
+--- Moving authority to information
+kw: those who know · level of decision
+The first pillar of Marquet's model is **control**. It means giving people the power to decide on matters within their work.
+
+Marquet states a principle: instead of moving information up to those with authority, **move authority down to those with the information**. In a traditional organization, the people in contact with reality, the watchstanders, technicians, operators, collect information and pass it upward. Decisions are made by leaders who have second-hand information, often incomplete or distorted, and late.
+
+Marquet proposes the reverse: identify the decisions that can be made by the people closest to the situation, and give them the authority. They have the most complete and up-to-date information. They can decide faster and better.
+
+He describes how, on the Santa Fe, he gathered his officers and chiefs to review the decisions that systematically went up to the captain, and asked which could be made lower down. Many had in fact long gone up out of habit or fear, with no real need.
+
+Marquet stresses that this principle does not mean the leader gives up all responsibility. He remains responsible for results. But his responsibility now consists of making sure that the people who decide have the necessary competence and understanding.
+
+> Question clé | Which decisions come up to you when the person with the best information is on the front line?
+
+--- "I intend to…"
+kw: language · proposing · approving
+One of the book's most famous practices is a change of language. Marquet observed that on the Santa Fe, officers were constantly coming to ask his permission: "Captain, request permission to do such and such." This language put all the responsibility for thinking on the captain.
+
+So he asked his officers to change their wording. Instead of asking permission, they were to announce what they intended to do: "Captain, I intend to do such and such." The captain could then simply reply: "Very well."
+
+This small change had profound effects. To announce an intention, the officer must have thought about the situation, considered the options and chosen an action. He can no longer just pass the problem to the captain. He becomes the author of the decision.
+
+Marquet went further. When an officer announced an intention, the captain sometimes asked him a question: "What do you think I'm thinking right now?" or "What makes you think this is the right decision?" The officer thus learned to anticipate the captain's concerns: safety, the mission, the rules. Gradually, he would present his intentions while explaining why they were safe and appropriate. All the captain had to do was approve.
+
+Marquet stresses that, over time, these announcements became so complete that the captain hardly needed to intervene. The officers were thinking like captains.
+
+- Replace "request permission" with "I intend to."
+- The officer becomes the author of the decision.
+- He learns to anticipate his leader's concerns.
+
+--- Eliminating unnecessary checks
+kw: double-checking · procedures · trust
+Marquet observes that traditional organizations pile up control mechanisms: signatures, approvals, checks at several levels of the hierarchy. These mechanisms are supposed to reduce errors. But he finds that they often have the opposite effect.
+
+When a document has to be checked by several people, each counts on the others to catch errors. No one feels fully responsible. Errors slip through every filter. Moreover, these mechanisms slow the organization down considerably, and they send people a message of mistrust.
+
+On the Santa Fe, Marquet decided to **reduce the number of signatures** required for certain documents. He describes, for example, how the procedure for sailors' leave required many signatures and took time. He gave this responsibility to the chiefs in charge of the sailors concerned. The decision was made faster, by people who knew the situation better.
+
+He also decided to **eliminate certain top-down monitoring systems**, in which leaders constantly checked their subordinates' work. Instead, he asked those in charge of each area to assess themselves and report their own difficulties.
+
+He gave a bigger role to the **chiefs**, who directly supervise the sailors. He made them responsible for organizing and training their teams, which made them accountable for results, rather than waiting for instructions from the officers.
+
+Marquet specifies that these changes did not mean an absence of control. They moved control to those doing the work and made it more effective.
+
+> À retenir | The more checks you add, the less responsible anyone feels. Give control to those doing the work.
+
+--- Chiefs in charge
+kw: chiefs · supervision · responsibility
+Marquet pays special attention to the role of senior enlisted leaders, called **chiefs** in the US Navy. They are experienced sailors, risen from the ranks, who directly supervise teams of sailors. They are the link between the officers and the crew.
+
+On the Santa Fe, as on many ships, their role had shrunk. The officers made most of the decisions, and the chiefs merely relayed orders and supervised their execution. They felt little responsibility for results.
+
+Marquet decided to give them real responsibility. They became responsible for organizing their teams' work, planning tasks, training sailors and managing leave. The officers, for their part, had to rely on them rather than directing the sailors directly.
+
+He gives a concrete example. Planning sailors' leave was a source of discontent: it went through many signatures and officers' decisions, and sailors often got their answer only at the last minute. By handing this responsibility to the chiefs, who knew each sailor's situation and the needs of the service better, the process became faster and fairer.
+
+Marquet explains that this change had a major effect on the chiefs' commitment. They became the main champions of the new model, because it gave them back a role and a sense of pride.
+
+He draws a general lesson: in many organizations, experienced middle managers are underused. Giving them real responsibility again can transform the whole.
+
+- Give real responsibility back to front-line supervisors.
+- They know each person's situation better.
+- They become the strongest champions of change.
+
+=== Competence
+--- No control without competence
+kw: technical knowledge · deciding well
+Marquet stresses that giving control is not enough. If the people who decide lack the necessary competence, they will make bad decisions, which is particularly dangerous on a nuclear submarine. The second pillar of his model is therefore **technical competence**.
+
+He explains that in the leader-follower model, competence is concentrated at the top. The captain and a few officers know the boat well; the others execute procedures. In the leader-leader model, everyone must understand what they are doing and why, in order to decide.
+
+Marquet describes how he made training a priority. It was not just about learning procedures, but about understanding how systems work, the reasons for the rules and the consequences of actions. A sailor who understands why a procedure exists will be able to react correctly in a situation the procedure didn't foresee.
+
+He also insists on one point: competence is a condition of safety. You might fear that giving sailors power increases risk. Marquet shows that the opposite is true, provided the sailors are competent. People who understand what they are doing and feel responsible make fewer mistakes than people who mechanically carry out orders.
+
+Finally, he notes that control and competence reinforce each other. When people have the power to decide, they are more eager to learn, because their knowledge directly affects their decisions.
+
+- Giving control without competence is dangerous.
+- Understand the why, not just the how.
+- Control and competence reinforce each other.
+
+--- Taking deliberate action
+kw: pause · say · point · errors
+Marquet describes a practice introduced on the Santa Fe to reduce errors: **deliberate action**.
+
+He observes that many errors on a submarine come not from lack of knowledge but from actions done mechanically, out of habit: a sailor turns the wrong valve or flips the wrong switch because he acts without thinking. Punishments and extra training do nothing about this kind of error.
+
+Deliberate action consists of **pausing before every important action**. The sailor stops, says out loud what he is about to do, points at the equipment concerned, then acts. This gesture, which may look theatrical, forces the brain to switch from automatic to conscious mode. It also lets other team members hear and see the action, and correct an error before it is made.
+
+Marquet recounts that at first the sailors found the practice ridiculous. But they quickly saw its value: many errors were avoided, because a sailor, while announcing his action, realized he was wrong, or because a colleague stopped him.
+
+He stresses that deliberate action is not meant for inspectors or leaders. It is meant for the person acting, to help them not make mistakes. He notes that similar practices exist in other safety-critical fields, such as Japanese railways, where drivers point at signals as they call them out.
+
+> Exercice | Identify an important action in your work that is often done mechanically. Before carrying it out, stop and say out loud what you are about to do.
+
+--- Learning everywhere, all the time
+kw: briefings · certifications · questions
+Marquet describes other practices introduced to build competence.
+
+**Replace briefings with certifications.** Before an operation, the officer in charge usually gave the team a presentation while they listened passively. Marquet replaced these presentations with certifications: the person in charge of the operation asks team members questions to check that they are ready. Sailors must demonstrate their understanding rather than simply listen. If the team is not ready, the operation is postponed.
+
+**Repeat the same message in many ways.** Marquet believes knowledge must be passed on through many channels: training, discussions, drills, explanations on the job.
+
+**Make every encounter an opportunity to learn.** He encourages officers to use every moment to teach: a question asked in passing, an explanation during a manoeuvre.
+
+**Specify goals, not methods.** Rather than saying how to do something, the captain says what must be achieved and lets those responsible find the way. This forces them to think and learn.
+
+**Train for autonomy.** The aim of training is not only for sailors to know how to apply procedures, but for them to be able to make decisions in new situations.
+
+Marquet stresses that these practices turned training, initially seen as a chore, into a natural part of daily life. They helped make the Santa Fe one of the top-rated submarines in technical inspections.
+
+- Active certifications rather than passive briefings.
+- Specify the goal, not the method.
+- Make every exchange an opportunity to learn.
+
+--- Training to understand, not to obey
+kw: why · procedures · judgment
+Marquet returns to the difference between two ways of training: training to **obey** and training to **understand**.
+
+In the navy, as in many safety-critical organizations, training relies heavily on procedures. Sailors learn to execute precise sequences in a precise order. This training is indispensable: on a nuclear submarine, a procedural error can have serious consequences.
+
+But Marquet observes its limits. A sailor trained only to apply procedures is helpless in a situation the procedures didn't foresee. He doesn't know why the procedure calls for a given action, and so cannot judge whether it applies to the situation.
+
+On the Santa Fe, he required every training session to explain the **why**: how the systems work physically, the reasons for each step, the risks avoided. Sailors had to be able to explain, not just recite.
+
+He also describes the use of frequent **drills**, designed to confront the crew with unexpected situations. During these drills, sailors had to think and decide, then the team analysed together what had happened.
+
+Marquet stresses that this kind of training takes longer at first, but makes the crew much more robust. Sailors who understand the systems make fewer mistakes, spot anomalies faster and can make good decisions in an emergency.
+
+He adds that this training has another effect: it increases sailors' pride and commitment, as they feel recognized as professionals capable of judgment, not mere executors.
+
+> Question clé | Do the people on your team know the why behind your most important procedures, or only the how?
+
+=== Clarity
+--- Understanding the purpose
+kw: purpose · intent · values
+The third pillar of Marquet's model is **clarity**: everyone's understanding of what the organization is trying to achieve. For people to make good decisions, it is not enough that they have the power and the competence. They must also know what matters.
+
+Marquet explains that in the leader-follower model, only the hierarchy needs to understand the goals. The others just execute. In the leader-leader model, every person must understand the organization's purpose in order to make decisions at their own level that contribute to it.
+
+On the Santa Fe, he worked with his officers to clarify the submarine's purpose and the principles that should guide decisions. Together they drew up a set of principles, such as initiative, integrity, openness, courtesy and continuous improvement. What mattered was not the list itself but the fact that it had been built collectively and was used concretely to judge decisions.
+
+He insists on the importance of explaining the **why** of things. When a person understands why a rule exists or why a mission matters, they can adapt their actions to unforeseen situations. They can also spot when a rule no longer serves its purpose.
+
+Finally, Marquet stresses that clarity protects against a drift in the leader-leader model. If everyone decides according to their own idea of what is right, the organization heads off in every direction. Clarity about the shared purpose allows decentralized decisions to remain coherent.
+
+> Question clé | If you asked each member of your team what the purpose of your work is, would they all give the same answer?
+
+--- Building trust and legacy
+kw: taking care · long term · successors
+Marquet discusses several practices that strengthen clarity and trust within the crew.
+
+**Act for the future.** He encouraged his officers to think beyond their own tour. Their success should be measured not only by results while they were on board, but by the state in which they left the submarine and crew to their successors.
+
+**Take care of people.** He describes how he set about solving sailors' concrete problems, such as promotion delays or leave difficulties, which affected their morale. He considers that taking care of people is not kindness but a condition of commitment.
+
+**Recognize immediately.** Rather than waiting for official ceremonies, he rewarded good behaviour quickly, for example by presenting an award on the spot, in front of the crew.
+
+**Use the purpose as a decision criterion.** When a decision had to be made, the captain and his officers asked whether it served the submarine's purpose. This simple question settled many debates.
+
+**Encourage questioning.** Marquet invited his sailors to question orders and procedures respectfully. An organization where no one dares contradict is one that doesn't see its own mistakes.
+
+**Accept imperfection.** He acknowledges having made mistakes and having told his crew so. He considers that this honesty strengthens trust.
+
+- Judge your success by what you leave behind.
+- Take care of people and recognize them quickly.
+- Use the purpose as the criterion for settling questions.
+
+--- Looking ahead
+kw: long term · evaluation · legacy
+Marquet describes a practice that contributed to clarity on the Santa Fe: writing **long-term goals** for the submarine and regularly evaluating progress against them.
+
+He explains that most captains focus on immediate deadlines: the next inspection, the next exercise, the next deployment. This is understandable, since their evaluations depend on those results. But it pushes toward short-term decisions that can harm the future of the boat and its crew.
+
+With his officers, he drafted a document describing what the Santa Fe should be in several years: its operational results, but also the training level of its crew, the number of sailors re-enlisting, the number of officers who would go on to command. These goals were expressed in measurable terms.
+
+The document was then used to evaluate decisions. Faced with a choice, the team asked whether it moved the submarine closer to these long-term goals. It was also used to assess progress at regular reviews.
+
+Marquet stresses that this practice changed the way people saw their role. They were no longer content to pass the next test; they were building something that would last beyond them.
+
+He also recalls that the ultimate measure of his own success was not the Santa Fe's ranking during his command, but what happened after he left. The submarine kept achieving excellent results under his successors, and many crew members were promoted to command positions.
+
+- Write down what the team should become in several years.
+- Judge decisions against the long term.
+- Success is measured after the leader leaves.
+
+=== The leader's role
+--- Resisting the urge to decide
+kw: keeping quiet · letting go · patience
+Marquet recounts that the hardest thing for him was not convincing the crew but changing himself. All his training had prepared him to decide quickly and give orders. The new model often required him to keep quiet.
+
+He describes situations in which he could see a better solution than the one an officer proposed. The temptation to step in was strong. But if he did, the officer learned that his proposals were just drafts and that the captain would decide anyway. So Marquet learned to let things go, except when safety was at stake.
+
+He explains that he also had to accept that things would take longer at first. Letting people think and decide is slower than giving an order. But over time the crew becomes faster than under the traditional model, because decisions are made at the right level without going up the chain.
+
+Marquet also describes the importance of **thinking out loud**. He encouraged officers, and the captain himself, to voice their reasoning, doubts and concerns. This lets others understand the situation, fill in information and correct errors in reasoning. A leader who thinks out loud also shows that he doesn't have all the answers.
+
+He stresses an important idea: **the leader must control his own urge to control**. It is a personal discipline that requires patience and humility.
+
+> À retenir | The hardest thing for the leader is to keep quiet. Let others decide, think out loud, and step in only for safety.
+
+--- Mechanisms, not speeches
+kw: practices · structure · lasting
+Marquet insists on a point that sets his approach apart: it is not enough to change mindsets or give fine speeches about autonomy. You must change the organization's concrete **mechanisms**, that is, its practices, rules, procedures and everyday language.
+
+He observes that many leaders claim to want their people to take initiative, but keep all the procedures that stop them: multiple approvals, meetings where the leader decides, top-down tracking charts. The message sent by the practices contradicts the speeches, and the practices win.
+
+The mechanisms described in the book have something in common: they are simple, concrete and built into daily life. The phrase "I intend to," deliberate action, certifications instead of briefings, fewer signatures, a stronger role for the chiefs. Each one changes a specific behaviour.
+
+Marquet also stresses that these mechanisms make change **lasting**. A charismatic leader can motivate a team for a while, but their influence disappears with them. Mechanisms built into daily operations survive the leader's departure.
+
+Finally, he notes that the change began with words. Changing the language used on board was one of the most powerful levers. Words shape the way people think.
+
+- Practices often contradict speeches, and practices win.
+- Change concrete, simple, everyday mechanisms.
+- Start with language.
+
+=== Beyond the submarine
+--- Applying the model elsewhere
+kw: companies · services · teams
+After leaving the navy, David Marquet has helped companies and organizations apply his model. He stresses that the principles apply well beyond the military world.
+
+In a **company**, decisions often go up to levels far removed from the front line: approving expenses, responding to customers, technical choices. By giving these decisions to the people who have the information, you gain speed and quality.
+
+In customer-facing **services**, the phrase "I intend to" lets employees propose solutions to customers' problems, rather than passing the request up to a superior.
+
+In **technical teams**, deliberate action and certifications can reduce errors in critical operations, such as production releases or data manipulation.
+
+Marquet proposes a way to start. Identify a decision that usually goes up to the manager and could be made lower down. Check that the people concerned have the necessary competence and clarity, and develop them if needed. Give them the decision, using "I intend to" at first, so that the manager can check the reasoning. Then gradually widen it.
+
+He warns against overdoing it: giving too much authority too quickly, without the necessary competence and clarity, can lead to mistakes and an abrupt return to the leader-follower model. The progression must be gradual.
+
+> Exercice | Choose a decision you are usually asked to approve. Ask the person concerned to announce it to you from now on in the form "I intend to…", with their reasoning.
+
+--- The ladder of intent
+kw: tell me what to do · I've done it
+In his later work, Marquet refined the idea of "I intend to" into a ladder of language describing a person's degree of autonomy. It can be summarized as follows, from least to most autonomous.
+
+- The person asks what to do.
+- They describe what they see, without proposing an action.
+- They say what they think of the situation.
+- They propose an action and ask for approval.
+- They announce that they intend to act.
+- They act, then report.
+- They act, without even needing to report.
+
+Marquet explains that the leader's role is to help each person **move up one rung**. If a team member asks what to do, the leader can ask them what they see and what they think. If they propose an action, the leader can suggest that next time they announce it as an intention.
+
+This ladder also helps the leader gauge their people's level of autonomy, area by area. The same person can be highly autonomous in their area of expertise and much less so in a new one.
+
+Marquet stresses that the aim is not for everyone to reach the top rung for every decision. Some decisions, very risky or very important, must remain at a level where the leader is informed before action is taken. But in most organizations, people stay well below the level they would be capable of.
+
+> À retenir | From "tell me what to do" to "I've done it": help everyone move up one rung at a time.
+
+=== Putting it into practice
+--- Mistakes to avoid
+kw: too fast · without competence · backsliding
+Drawing on his own experience and that of the organizations he has worked with, Marquet describes several common mistakes in applying his model.
+
+**Delegating without preparation.** Suddenly giving important decisions to people who lack the necessary competence and understanding leads to mistakes, which are then used to justify a return to control.
+
+**Announcing without changing the mechanisms.** A leader who proclaims that everyone is now responsible, but keeps all the approvals and all the meetings where he decides, gets nothing but cynicism.
+
+**Taking back control at the first mistake.** Mistakes are inevitable during learning. If the leader takes back every decision as soon as a mistake occurs, people understand that autonomy was just a façade.
+
+**Confusing autonomy with the absence of a framework.** The leader-leader model does not mean everyone does what they want. It presupposes a shared understanding of goals and principles, and solid competence.
+
+**Forgetting middle managers.** If the leader delegates directly to teams, bypassing middle managers, they feel threatened and may block the change.
+
+**Trying to change everything at once.** It is better to start with a few decisions and a few mechanisms, then widen.
+
+Marquet reminds us that moving to the leader-leader model is a gradual process requiring patience and consistency from the leader.
+
+> À retenir | Prepare before delegating, change the mechanisms, tolerate mistakes, keep a clear framework, involve managers.
+
+--- 30-day action plan
+kw: week by week · control · clarity
+**Week 1: observe.** Note every decision you are asked to make or approve. For each, ask who has the best information. Observe your own language and your team's: how many requests for permission, how many intentions?
+
+**Week 2: clarity.** Gather your team to clarify the purpose of your work and a few decision principles. Explain the why behind the most important rules.
+
+**Week 3: control.** Choose two or three decisions to hand over to the team. Introduce the phrase "I intend to." Remove one unnecessary approval or signature.
+
+**Week 4: competence.** Replace a briefing with a certification: ask questions to check that the team is ready. Introduce deliberate action for one critical operation. Take stock: which decisions were made faster, which errors were avoided?
+
+Marquet reminds us that the hardest change concerns the leader himself: resisting the urge to decide.
+
+> À retenir | Clarity, control, competence: one pillar at a time, and one delegated decision at a time.
+
+--- Case study: customer service
+kw: refunds · intent · speed
+At an online retailer, customer service advisers must get their supervisor's approval for any goodwill gesture above a small amount. Customers often wait several days, and supervisors spend their time approving requests. The head of the department, Karim, decides to apply Marquet's model.
+
+**Clarity.** Karim brings the advisers and their supervisors together. Together they formulate the department's purpose: to solve the customer's problem in a single contact, fairly for both the customer and the company. They define a few principles to guide goodwill gestures.
+
+**Competence.** The advisers receive training on the costs of the various solutions and on the most common cases.
+
+**Control.** For goodwill gestures up to a certain amount, advisers decide alone. Above that, they announce their intention to the supervisor, with their reasoning: "I intend to refund the shipping costs, because…" The supervisor replies in a few seconds.
+
+**Mechanisms.** Written approvals are eliminated for small amounts. A monthly sample check verifies the consistency of decisions.
+
+Three months later, most requests are resolved in a single contact, customer satisfaction has risen, and the total cost of goodwill gestures has not increased.
+
+> Question de réflexion | In your team, which approval keeps a customer waiting without adding real value?
+
+=== Critical view and links
+--- Limits of the book
+kw: military context · personal account · risks
+*Turn the Ship Around!* is an inspiring book, but it has several limits.
+
+**A personal account.** The book tells the author's experience from his point of view. The Santa Fe's results are real and recognized, but it is hard to know how much is due to the leadership model, the captain's personality, the quality of the crew or other factors.
+
+**A particular context.** A submarine is a very particular environment: a closed, highly trained crew, subject to strict procedures, with clear objectives. Companies often have vaguer goals, less stable teams and less highly trained people.
+
+**The risk of delegating too quickly.** The book insists on the need for competence and clarity, but hurried readers may retain mainly the idea of giving control and apply it without the necessary conditions.
+
+**The difficulty for the leader.** The model demands great self-control from the leader and strong trust in their teams. Not all managers are capable of this, and the book says little about how to develop these qualities.
+
+**The role of senior leadership.** Marquet had the support of his own superiors, who let him experiment. In many organizations, a manager who wants to change models runs into a hierarchy attached to control.
+
+- A powerful account, but a very particular context.
+- Control without competence and clarity is dangerous.
+
+--- Links with other books
+kw: McChrystal · Rother · Sinek · Collins
+**With Team of Teams (McChrystal).** McChrystal and Marquet, both military men, reach the same conclusion: in a complex environment, decisions must be decentralized to those who have the information, provided understanding of the situation is widely shared.
+
+**With Toyota Kata (Rother).** The leader who asks questions rather than giving answers, and who develops their people's decision-making ability, appears in both books.
+
+**With Start with Why (Sinek).** The clarity pillar echoes Sinek's idea: people commit when they understand the why of their action. Simon Sinek in fact wrote the foreword to some editions of Marquet's book.
+
+**With Good to Great (Collins).** The Level 5 leader Collins describes prepares their succession and builds an organization that succeeds without them, just as Marquet proposes.
+
+**With The Toyota Way (Liker).** Delegating authority to those doing the work, and the operator stopping the line when there is a problem, echo Marquet's principle.
+
+> Parcours conseillé | Next, read Team of Teams for the same idea at the scale of a large organization.
