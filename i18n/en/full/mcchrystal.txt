@@ -1,0 +1,390 @@
+=== Context and thesis
+--- A more agile adversary
+kw: Iraq · 2003 · network
+Stanley McChrystal is a US Army general. From 2003 to 2008, he commanded a joint special operations task force charged with fighting Al-Qaeda in Iraq. This force brought together the best-trained and best-equipped units of the US military. It had considerable technological resources and some of the most capable soldiers in the world.
+
+Yet at first, it was losing. Its adversary was a far less powerful organization, with limited means. But it was organized as a **network**: small cells, loosely connected, able to act quickly without waiting for orders, to rebuild when one was destroyed, and to adapt constantly. Attacks multiplied, and McChrystal's force could not keep up.
+
+McChrystal and his officers understood that the problem was not a lack of competence or of resources. The problem was the **structure** of their organization. It had been designed for another kind of war, in a more predictable world. It was efficient, but not fast or adaptable enough.
+
+So they decided to transform the way they worked from the ground up. The book tells the story of this transformation and draws lessons from it for every organization facing a complex, changing environment.
+
+*Team of Teams*, published in 2015, was written by McChrystal with three co-authors: Tantum Collins, David Silverman and Chris Fussell, the last a former special forces officer who served alongside him. The book mixes the military narrative with many examples drawn from history, industry, science and sport.
+
+> À retenir | A powerful, competent force was losing to an agile network. The problem was not competence but structure.
+
+--- Efficiency or adaptability
+kw: Taylor · predict · react
+The authors go back to the origins of the modern organization. At the start of the twentieth century, Frederick Taylor revolutionized industry with scientific management. He broke work down into simple tasks, measured every movement and looked for the most efficient way to carry them out. Workers executed; engineers and managers designed and controlled.
+
+This approach produced extraordinary productivity gains. It shaped factories, then offices, government agencies and armies. Most organizations today inherit it: hierarchical structures, specialized departments, precise procedures, a separation between those who think and those who execute.
+
+McChrystal explains that this model is designed for **efficiency**: doing things in the best known way, with as few resources as possible. It works very well when the environment is stable and predictable, when you can plan ahead and when the same tasks repeat.
+
+But it works poorly when the environment becomes unstable and unpredictable. An organization optimized for efficiency is rigid. It struggles to respond to new situations, because its procedures did not foresee them and because information and decisions must pass through many levels.
+
+The authors propose replacing the goal of efficiency with that of **adaptability**: the capacity to react quickly and intelligently to situations that could not be predicted. Efficiency remains useful, but it is no longer enough.
+
+- Taylor's model aims for efficiency in a predictable world.
+- It becomes rigid when the world becomes unpredictable.
+- The goal must shift from efficiency to adaptability.
+
+--- The limits of planning
+kw: plans · forecasting · reaction
+McChrystal describes how the military, like many organizations, was built around **planning**. Staffs prepare detailed plans that set out objectives, means, stages and responsibilities. These plans go through many levels of approval before being executed.
+
+This model works when the adversary is predictable and the situation evolves slowly. It makes it possible to coordinate large numbers of people and resources. But against a networked adversary constantly changing tactics, plans are outdated before they are even approved.
+
+The authors cite an idea often attributed to a nineteenth-century Prussian military strategist: no plan survives first contact with the enemy. But they go further. In a complex environment, it is not just that plans must be adjusted. The very logic of detailed planning becomes ill-suited.
+
+They describe the perverse effects of excessive planning. Teams spend a lot of time preparing plans instead of acting. Decisions go up for approval, which takes time. The people on the ground, who see the situation changing, lack the authority to adapt the plan.
+
+McChrystal does not suggest abandoning all planning. Objectives, priorities and coordination are still needed. But planning must become lighter, more frequent and more decentralized. What matters most is no longer predicting, but being able to react quickly to what is happening.
+
+He stresses that this shift is hard for officers trained in planning, who see it as a mark of professionalism.
+
+- In a complex environment, detailed plans quickly become outdated.
+- Plan lighter, more often, closer to the ground.
+- What matters becomes the capacity to react.
+
+--- Complicated or complex
+kw: predictable · interactions · unpredictable
+To explain why the world has changed, the authors distinguish two types of systems: **complicated** systems and **complex** systems.
+
+A **complicated** system has many parts, but their relationships are predictable. A car engine, for example, has hundreds of parts, but an engineer can understand how they work together and predict how the engine will behave. It can be taken apart, analyzed and repaired.
+
+A **complex** system has parts that interact in numerous and changing ways, so that its overall behavior becomes unpredictable. The weather, an ecosystem, a financial market and an epidemic are complex systems. Small causes can have large effects, and it is impossible to predict their evolution precisely, even with a lot of information.
+
+McChrystal explains that the world has become increasingly complex, particularly because of information technology. Information travels instantly, people and organizations are permanently connected, and events spread very fast. A terrorist network can coordinate attacks using mobile phones and the internet. A rumor can bring down a company in a few hours.
+
+In a complex environment, detailed planning loses its value, because forecasts are often wrong. What counts is the ability to perceive quickly what is happening and to react.
+
+The authors highlight an important consequence: organizations designed to manage complication, with experts, procedures and plans, are not suited to complexity.
+
+> Question clé | Is your environment complicated, and therefore predictable with enough analysis, or complex, and therefore unpredictable whatever the analysis?
+
+=== Teams, not machines
+--- What makes a team effective
+kw: trust · common purpose · Navy SEALs
+Before describing their organization's transformation, the authors look at what makes a **team** effective.
+
+They take the example of special forces units such as the Navy SEALs. These small teams can adapt in real time to unforeseen situations in the heat of combat. Why? Not only because their members are very well trained individually. Above all because they **know each other perfectly** and **trust** each other.
+
+The authors describe SEAL training. It is extremely demanding physically, but its main purpose is not to select the strongest individuals. It is to create bonds of trust between team members through shared ordeals. Each candidate learns that his survival depends on the others, and theirs on him.
+
+In a team of this kind, each member understands the overall situation, not just his own task. He knows what the others are doing and can anticipate their actions. When something unexpected happens, the team adapts without waiting for orders, because everyone knows what must be done to achieve the **common purpose**.
+
+McChrystal stresses the difference between a team and a **command**. In a command, roles are strictly defined, instructions come from above and everyone does what they are told. In a team, roles are more fluid, information is shared and members coordinate their actions among themselves.
+
+He also cites other examples of effective teams, in medicine, aviation or sport, where trust and shared understanding make it possible to react quickly.
+
+> À retenir | A team adapts because its members trust each other and all understand the purpose and the situation, not just their own task.
+
+--- The problem with large organizations
+kw: silos · isolated teams · coordination
+The problem, the authors explain, is that the magic of small teams does not naturally scale to a large organization.
+
+McChrystal's force was made up of excellent teams. Each one, taken on its own, was very effective and very adaptable. But they operated as **silos**. The commando teams, the intelligence analysts, the interrogation specialists, the air units and the partner civilian agencies each worked on their own, with their own methods, their own culture and mutual mistrust.
+
+Information flowed poorly between them. For example, commandos would seize documents and phones during a raid. These items were sent to analysts, who processed them according to their own priorities, sometimes weeks later. By the time the information was finally exploited, it was often out of date. Meanwhile, the adversary had adapted.
+
+The authors observe that each team had strong internal cohesion but little trust in the other teams. Each thought the others did not understand its mission, did not share enough or did poor work. This mistrust was reinforced by the structure, which only brought the teams together at the top of the hierarchy.
+
+They describe the organization as a **command of teams**: effective teams, connected to each other only through the hierarchy. All coordination had to go up to the top and then back down. This way of working was far too slow against a networked adversary.
+
+- Excellent teams can make up a slow organization.
+- Trust stops at the team's borders.
+- Coordination from the top is too slow.
+
+--- A team of teams
+kw: network · links between teams · structure
+The solution McChrystal proposes is to turn the organization into a **team of teams**.
+
+The idea is not to turn the whole organization into one big team. That is impossible: a team works thanks to mutual knowledge and trust among its members, which is only possible with a limited number of people. An organization of several thousand people cannot be a team.
+
+On the other hand, you can make sure that **teams** relate to each other the way members of a team relate to one another. Each team knows the other teams well enough, their mission, their methods, their constraints, to trust them and coordinate its actions with them directly, without going through the top.
+
+To achieve this, every member of every team does not need to know all the others. It is enough for each member to have at least one relationship of trust with someone in each of the other teams they work with. The links between teams then form a network.
+
+The authors compare the traditional structure to a tree, in which each branch communicates with the others only through the trunk, and the new structure to a network, in which the branches are connected directly.
+
+They stress that this transformation does not eliminate hierarchy. There is still a commander, managers and levels. But the hierarchy is no longer the only channel of coordination. It is complemented by a network of horizontal relationships.
+
+> À retenir | Not one big team, but teams connected by bonds of trust, like the members of a team among themselves.
+
+--- Trust between teams
+kw: mistrust · tribes · knowing the other
+The authors reflect on how trust is built, or not built, between teams.
+
+They observe that very close-knit teams often develop a strong, almost tribal identity. Their members are proud of their unit, their skills and their history. This pride is a strength: it creates cohesion and commitment. But it has a downside: it can breed mistrust, even contempt, toward other teams.
+
+In McChrystal's force, this phenomenon was very visible. Each unit considered the others less competent or less committed. Commandos mistrusted analysts, analysts mistrusted commandos, the military mistrusted civilian agencies, and vice versa. These prejudices made cooperation harder.
+
+The authors explain that mistrust between teams often comes from **ignorance**. Teams do not know the others' work, constraints or difficulties. They judge their results without understanding what produces them.
+
+They stress that trust cannot be decreed. It is built through **repeated contact** and the experience of the other's reliability. That is why exchanges of people, joint meetings and working side by side are essential.
+
+McChrystal notes that the leader's role is also to **reward cooperation**. If only the successes of individual teams are recognized and rewarded, each will protect its own interests. The contributions of teams that help others must be publicly recognized.
+
+> Question clé | Which team in your organization does yours judge harshly, without really knowing its constraints?
+
+=== Shared consciousness
+--- Everyone sees everything
+kw: transparency · system · need to know
+The first pillar of the transformation is **shared consciousness**. The aim is for every member of the organization to understand the overall situation, not just their own part.
+
+In traditional military organizations, information flows according to the **need-to-know** principle: each person receives only the information needed for their mission, for security reasons. This principle protects secrets, but it prevents people from seeing the big picture. They cannot spot links between their work and others', nor anticipate other teams' needs.
+
+McChrystal decided to reverse the logic. He wanted information shared as widely as possible, beyond what seemed reasonable. He considered the risk of leaks real, but the risk of not sharing greater: that of losing the war for lack of coordination.
+
+He explains that the goal is for each team to understand not only what it must do, but **how its work fits into the whole**. A commando who understands how analysts exploit seized documents will take more care to collect them and pass them on quickly. An analyst who understands the commandos' constraints will produce more useful intelligence.
+
+The authors draw a parallel with **systems**. In a complex system, each part must understand the whole in order to act coherently. Shared consciousness is what allows a decentralized organization to stay coordinated.
+
+> Question clé | Does your team understand how its work fits with that of other teams, or only its own mission?
+
+--- The daily briefing
+kw: meeting · thousands · every day
+The most spectacular tool of shared consciousness is a daily meeting McChrystal calls the **Operations and Intelligence** briefing (*O&I*).
+
+Every day, for about an hour and a half, thousands of people connected by video and phone from many countries: commandos in the field, intelligence analysts, leaders of other agencies, foreign partners, commanders. The briefing was broadcast across the whole organization.
+
+During this meeting, the various teams briefly presented what they had done, what they had learned and what they needed. The commander asked questions, highlighted links between pieces of information, thanked people and shared his own understanding of the situation.
+
+McChrystal explains that this meeting had several effects. It spread information very quickly across the whole organization. It let everyone see the big picture. It created relationships between people who would never otherwise have met. It set an example: when the commander openly shared information and admitted what he did not know, others did the same.
+
+He stresses the importance of the **commander's behavior** during these meetings. If he harshly criticized a team presenting a failure, no one would dare share their difficulties any more. So he learned to listen, ask open questions, thank people and value contributions. He says he made an effort to show interest and curiosity, even when he was tired or annoyed.
+
+He specifies that the meeting was not a place for detailed decision-making. It served to create a common understanding, from which teams made their own decisions.
+
+- A daily meeting open to thousands of people.
+- Each team shares what it did, what it learned and what it needs.
+- The leader's behavior determines what others dare to say.
+
+--- Exchanging liaison officers
+kw: embedding · trust · relationships
+Another tool of shared consciousness is the **exchange of people** between teams and organizations.
+
+McChrystal describes two practices. The first is sending members of one team to spend several months in another. For example, a commando spends time with a team of analysts, or an analyst goes out with a field unit. He discovers their work, their constraints, their culture. On his return, he acts as a link between the two teams.
+
+The second practice is placing **liaison officers** in partner agencies, such as intelligence services, the federal police or embassies. McChrystal says he chose some of his best officers for these posts, rather than people the unit wanted to get rid of, as was often the case. This choice showed the importance attached to these relationships and made it possible to build real trust with partners.
+
+The authors explain that these exchanges have a profound effect on trust. Teams no longer mistrust abstractions such as "the analysts" or "the other agency," but know specific people whose work they have shared. They better understand why others act as they do.
+
+They stress that these practices are costly in the short term. A team that sends one of its best members to another team loses their skills for several months. But in the long term, the gains in coordination and speed far outweigh the cost.
+
+> À retenir | Having people live inside other teams turns mistrust of a group into trust in individuals.
+
+=== Empowered execution
+--- Giving authority to the front line
+kw: decide fast · lost time · authority
+The second pillar of the transformation is **empowered execution**. Once everyone understands the overall situation thanks to shared consciousness, decisions can be entrusted to the people closest to the action.
+
+McChrystal recounts an observation that struck him. Many operational decisions, such as launching an operation, came up to him for approval. The process took time: files had to be prepared, he had to be reached, the situation had to be explained to him. Meanwhile, the opportunity sometimes vanished. And when he gave his approval, he often added nothing, because the teams knew the situation better than he did.
+
+So he decided to **delegate** a large share of these decisions to lower-level commanders. He asked them to make the decisions themselves, keeping him informed when necessary, but without waiting for his approval. He trusted them, because they had the same understanding of the situation as he did, thanks to shared consciousness.
+
+He explains that this delegation sped up the organization considerably. Operations were launched faster, while the information was still valid. The number of operations carried out rose sharply. And the quality of decisions did not decline; quite the opposite.
+
+He formulates a principle: **delegate until it becomes uncomfortable**, and then a bit more. The leader must accept not controlling everything, and seeing decisions made differently from how he would have made them.
+
+> Question clé | Which decisions come up to you without your really adding anything to them?
+
+--- Not one without the other
+kw: share then delegate · coherence
+The authors insist on one point: shared consciousness and empowered execution only work **together**.
+
+An organization that delegates decisions without sharing information gets chaos. Each team decides according to its partial view of the situation, and the decisions contradict each other. This is the risk feared by leaders who hesitate to delegate.
+
+Conversely, an organization that shares information widely but keeps decisions at the top gains nothing in speed. It produces well-informed people who are frustrated at being unable to act.
+
+It is the combination of the two that produces adaptability. Thanks to shared consciousness, each team understands the overall situation and objectives. Thanks to empowered execution, it can act immediately. Decisions are made quickly, as close to the ground as possible, and remain coherent with the whole.
+
+The authors compare this way of working to a living organism or a team sport. Each player makes their own decisions based on what they see, but they also see the whole game and know the team's plan. They don't wait for the coach's instructions for every pass.
+
+They also stress that the order matters. Shared consciousness must be built first, so that people have the necessary understanding. Only then can you delegate broadly and safely.
+
+- Delegating without sharing produces chaos.
+- Sharing without delegating gains nothing.
+- First shared consciousness, then delegation.
+
+--- Space and tools
+kw: headquarters · screens · proximity
+McChrystal describes how the physical layout of his headquarters contributed to the organization's transformation.
+
+Originally, the various teams worked in separate offices, sometimes in different buildings. Each had its own tools, its own information systems, its own meetings. Exchanges between them went through formal procedures.
+
+McChrystal decided to reorganize the space. The teams were brought together in a large open space, often compared to a newspaper newsroom. In the center, large screens displayed the important information: ongoing operations, the latest intelligence findings, maps. Everyone could see what the others were doing and easily walk over to ask a question.
+
+He explains that this physical proximity encouraged spontaneous exchanges that had been impossible in the previous organization. An analyst who discovered a piece of information could immediately flag it to the operations team sitting a few meters away. Members of different teams got to know each other by sharing the same space every day.
+
+Communication tools also played an important role. The force invested heavily in video links, secure computer networks and shared databases, so that teams spread across several countries could share information in real time.
+
+The authors stress, however, that tools are not enough. An open space where teams keep working separately changes nothing. Tools are only useful if they come with a willingness to share and a culture of cooperation.
+
+- Bring teams together in a common space.
+- Display important information for all to see.
+- Tools serve the culture; they don't replace it.
+
+=== The gardener leader
+--- From chess player to gardener
+kw: create the conditions · not controlling everything
+McChrystal describes how his own role changed. Early in his career, he saw himself as a **chess player**: he analyzed the situation, decided every move, and his subordinates executed. This is the traditional image of the military commander, and of leaders more broadly.
+
+He gradually understood that this model no longer works in a complex environment. He could not know every detail or decide everything fast enough. So he adopted another image: that of the **gardener**.
+
+A gardener does not make plants grow himself. He cannot pull on a stem to make it grow faster. His role is to **create the conditions** in which plants can grow: prepare the soil, water, weed, protect against pests, prune when necessary. Then the plants grow on their own.
+
+For the leader, this means focusing on the organization's **environment**: its structure, its culture, the flow of information, the relationships between teams. He must make sure people have the information, resources and authority needed to act. He must nurture trust and shared consciousness.
+
+McChrystal admits this change was hard for him. He had been trained and rewarded for making decisions. Giving up direct control required constant effort. He had to resist the urge to intervene in his subordinates' decisions.
+
+He stresses that the gardener's role is not passive. It requires a great deal of work, attention and presence. But that work focuses on conditions, not on individual decisions.
+
+> À retenir | The leader doesn't make the plants grow: he creates the conditions for them to grow on their own.
+
+--- Leading by example
+kw: attention · behavior · symbol
+McChrystal explains that in the gardener's role, the leader's **personal behavior** becomes particularly important. Everything he does sends a message to the organization.
+
+He recounts how he became aware of the effect of his slightest reactions. During the daily meetings, thousands of people were watching him. If he seemed distracted or checked his messages, participants concluded the meeting wasn't important. If he reacted harshly to bad news, they learned to hide problems.
+
+So he adopted several practices.
+
+**Be attentive.** He listened carefully to each presentation, asked precise questions and showed he had understood.
+
+**Say thank you.** He systematically thanked people who shared information, especially when it was bad news or mistakes.
+
+**Admit what he didn't know.** He said openly when he didn't know, or when he had been wrong, so that others would dare to do the same.
+
+**Be accessible.** He personally answered many messages, went into the field and met people at every level.
+
+**Be consistent.** He himself applied the principles he asked of others, notably information sharing.
+
+He stresses that these behaviors, repeated every day, were more effective than any speech. An organization learns what is valued by watching what the leader does, not by listening to what he says.
+
+- Every reaction of the leader is watched and interpreted.
+- Thank, admit, listen, be accessible.
+- Repeated behaviors are worth more than speeches.
+
+=== Beyond the military
+--- Civilian examples
+kw: hospital · NASA · aircraft
+The authors show that the lessons of their experience apply to other organizations. They draw on several examples.
+
+**Aviation.** They recall the emergency landing of an airliner on the Hudson River in New York in 2009, after both engines were damaged by birds. The crew reacted within minutes, with no procedure designed for that exact situation. The authors see it as an example of a highly trained team that shares a common understanding and coordinates its actions without heavy hierarchy.
+
+**NASA.** They describe the coordination difficulties between the many teams and companies that worked on space programs, and the solutions found, at certain periods, to make information flow between them.
+
+**The auto industry.** They discuss the problems of a large carmaker where information about a safety defect was known to some teams but had not reached the people who could have acted. This type of failure, they argue, is typical of siloed organizations.
+
+**Hospitals.** They describe medical teams, notably in emergency rooms or surgery, where trust, communication and a shared understanding of the situation are essential for reacting to unforeseen situations.
+
+The authors stress that in all these cases, failures generally do not come from a lack of individual competence, but from a lack of information sharing and coordination between teams. And successes come from the combination of trust, shared consciousness and the ability to decide as close to the action as possible.
+
+> Question clé | In your organization, what information known to one team could have prevented a problem if it had reached another?
+
+--- Resistance to change
+kw: control · security · identity
+The authors do not hide that the transformation met with a great deal of resistance, and they describe it to help other organizations anticipate it.
+
+**Fear of losing control.** Many senior officers were worried about decisions moving down to lower levels. They feared serious mistakes for which they would be held responsible.
+
+**Security concerns.** Sharing sensitive information widely went against deeply rooted rules and habits. Some leaders feared leaks that could endanger lives.
+
+**Attachment to team identity.** Elite units were proud of their autonomy and their culture. They took a dim view of exchanging people and sharing their information with others.
+
+**The cost in time.** The daily meeting, the exchanges and the coordination demanded a lot of time from people who were already very busy.
+
+**External structures.** The force worked with other organizations, ministries, agencies and foreign militaries, which operated according to their own rules and were not always ready to change.
+
+McChrystal explains how this resistance was gradually overcome. He set the example by sharing widely himself. He chose influential people to champion the change. He highlighted concrete results, such as the rise in successful operations. And he accepted that certain risks were the price of adaptability.
+
+> À retenir | Fear of losing control, security concerns, team pride, the cost in time: resistance is overcome through example and results.
+
+--- Building your own team of teams
+kw: links · rituals · spaces
+The authors suggest some avenues for organizations that want to adopt their approach.
+
+**Share information more widely.** Question confidentiality rules and information channels. Ask which information could be shared with the whole organization.
+
+**Create shared-consciousness rituals.** A regular, widely open meeting where teams present their activities, findings and needs. It doesn't need to bring together thousands of people, but it must cross the usual team boundaries.
+
+**Organize exchanges of people.** Have members of one team spend time in another, or place liaison people in partner teams.
+
+**Design the spaces.** McChrystal describes reorganizing his headquarters into a large open space where the different teams worked close together, with shared screens. This physical proximity made spontaneous exchanges easier.
+
+**Delegate gradually.** Once information is shared, entrust more decisions to teams, starting with those that most often come up without added value.
+
+**Adapt your own behavior.** The leader must set the example: share, listen, thank, admit mistakes.
+
+The authors stress that the transformation takes time and meets resistance. Teams are attached to their autonomy and their information. Managers are attached to their control. You have to persevere and show the benefits quickly.
+
+- Share more, create rituals, exchange people.
+- Bring teams physically closer.
+- Delegate once information is shared.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · share · delegate
+**Week 1: map the silos.** List the teams yours works with. For each, note what you know about its mission, constraints and priorities. Identify the information that flows poorly between you.
+
+**Week 2: shared consciousness.** Set up a short regular briefing, open to partner teams, where everyone shares what they are doing, what they have learned and what they need. Share more widely a piece of information you had kept to yourself until now.
+
+**Week 3: links.** Organize an exchange: a member of your team spends a day in a partner team, and vice versa. Identify a preferred contact person in each partner team.
+
+**Week 4: delegate.** List the decisions that come up to you. Choose two or three that you now entrust to the team, making sure it has the necessary information. Observe your own behavior in meetings: do you thank people for bad news?
+
+The authors remind us that the goal is not to eliminate hierarchy, but to complement it with a network of relationships and information.
+
+> À retenir | See the silos, share information, create links, then delegate. The leader as gardener.
+
+--- Case study: the hospital
+kw: emergency room · beds · coordination
+In a regional hospital, the emergency department is regularly overloaded. Patients who need to be admitted wait for hours on gurneys for lack of an available bed on the wards. Each department works well on its own, but coordination is poor. The director of nursing, Paul, decides to draw on *Team of Teams*.
+
+**The diagnosis.** The emergency department doesn't know which beds will become free during the day. The wards don't know how many patients are coming from the ER. Information goes up to management, which arbitrates late in the morning, often too late.
+
+**Shared consciousness.** Paul sets up a fifteen-minute daily briefing at eight o'clock, open to the nurse managers of every department, the ER, the operating room and social services. Each announces planned discharges, expected admissions and difficulties. A shared board displays bed occupancy in real time.
+
+**Links.** ER nurses spend a few days on the inpatient wards, and vice versa, to understand each other's constraints.
+
+**Empowered execution.** Ward nurse managers can now accept a patient from the ER directly, without going through management, according to shared rules.
+
+**The leader.** Paul attends the daily briefing, listens, thanks people and steps in only to clear blockages.
+
+Six months later, patients' waiting time on gurneys has dropped markedly.
+
+> Question de réflexion | What fifteen-minute daily briefing, open to neighboring teams, could change coordination in your organization?
+
+=== Critical view and connections
+--- Limits of the book
+kw: military context · cost · secrecy
+*Team of Teams* has been very influential, but it has several limits.
+
+**An exceptional context.** The force described had considerable resources, highly selected and highly motivated personnel, and a clear, vital mission. Few organizations have such resources and such commitment.
+
+**An insider's view.** The book was written by the commander and his close associates. It presents the transformation in a very favorable light. The difficulties, mistakes and human costs of the war are barely mentioned. Nor does the book discuss the political and ethical questions raised by the Iraq war.
+
+**The cost of sharing.** A daily ninety-minute meeting with thousands of participants, exchanges of people, liaison officers: these practices demand a great deal of time and resources. Not every organization can afford them.
+
+**The risks of transparency.** Sharing information widely can raise problems of confidentiality, information overload and security. The book acknowledges these risks but deals with them quickly.
+
+**A mainly narrative demonstration.** The civilian examples are interesting, but they are chosen to illustrate the thesis. The book does not systematically measure the effect of the approach in other organizations.
+
+- Extraordinary resources and motivation.
+- An insider's account that leaves political questions aside.
+
+--- Connections with other books
+kw: Marquet · Lencioni · Christensen · Ohno
+**With Turn the Ship Around! (Marquet).** The two military men reach the same conclusion: move authority to those who have the information, provided they understand the situation and the objectives. Marquet applies it to a crew, McChrystal to an organization of several thousand people.
+
+**With The Five Dysfunctions of a Team (Lencioni).** Lencioni describes the conditions for trust within a team. McChrystal shows how to extend that trust between teams.
+
+**With The Innovator's Dilemma (Christensen).** Both books show how very well-run, efficient organizations can be overtaken by more agile adversaries or competitors.
+
+**With Toyota Production System (Ohno).** The critique of Taylor's model and the importance of information shared as close to the work as possible echo Ohno's thinking, for whom operators must be able to flag and address problems immediately.
+
+**With Thinking, Fast and Slow (Kahneman).** The distinction between complicated and complex systems recalls the limits of prediction that Kahneman describes.
+
+> Parcours conseillé | Read Turn the Ship Around! next for the same idea at the scale of a team, then The Five Dysfunctions of a Team for the foundations of trust.
