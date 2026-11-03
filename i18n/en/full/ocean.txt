@@ -1,0 +1,429 @@
+=== Context and central idea
+--- Two researchers and a study
+kw: INSEAD · 150 moves · a century
+W. Chan Kim and Renée Mauborgne are professors of strategy at INSEAD, the international business school based in Fontainebleau. They have worked together since the 1980s. *Blue Ocean Strategy*, published in 2005, is the result of more than ten years of research. The book became a worldwide success, translated into dozens of languages, and its tools are taught in many schools and used by companies and government agencies.
+
+Their research starts from a question: how do some companies manage to create strong, profitable growth while most fight in saturated markets for a few points of market share? To answer it, the authors studied about 150 strategic moves in some thirty industries, over a period stretching from the late nineteenth century to the late twentieth.
+
+They made an important methodological choice: their unit of analysis is neither the company nor the industry, but the **strategic move**. They explain that excellent companies don't stay excellent for long: a company can be remarkable at one moment and mediocre a few years later. Industries also evolve. What explains lasting success is specific strategic decisions, such as launching a new offering that creates a market.
+
+The authors also studied the product launches of a group of companies. They found that the vast majority of these launches were line extensions, incremental improvements in existing markets. These launches accounted for most of the revenue, but a smaller share of the profits. The launches that created new market space were far fewer, but they generated a share of total profit well above their weight. This observation gave rise to the book's thesis.
+
+> À retenir | Lasting success is explained less by companies or industries than by specific strategic moves that create new markets.
+
+--- Red oceans, blue oceans
+kw: bloody competition · uncontested space
+The authors use a metaphor that has become famous. The business universe consists of two kinds of oceans.
+
+**Red oceans** represent all the industries that exist today, that is, the known market space. Industry boundaries are defined and accepted, and the competitive rules of the game are known to all. Companies try to outperform their rivals to grab a greater share of existing demand. As the space gets crowded, prospects for profit and growth shrink. Products become commodities, and cutthroat competition turns the ocean red.
+
+**Blue oceans** represent all the industries not in existence today, that is, the unknown market space. Demand is created rather than fought over. There is ample opportunity for growth that is both profitable and rapid. In blue oceans, competition is irrelevant, because the rules of the game are waiting to be set.
+
+The authors point out that blue oceans are nothing new. Economic history is full of them. A century ago, many of today's important industries did not exist: automobiles, aviation, recorded music, petrochemicals. More recently, investment funds, mobile telephony, express delivery and specialty coffee shops have created new markets. And many of tomorrow's industries do not yet exist.
+
+Yet they observe that most strategies focus on red oceans. Business schools mainly teach how to analyse the competition, position yourself against rivals, differentiate or cut costs. The very vocabulary of strategy is borrowed from the military: attack, defend, conquer, take market share. This vocabulary assumes limited terrain, where one side's gain is the other's loss.
+
+The authors do not say that red oceans will disappear or are of no interest. Companies must keep performing well in them. But with increasing supply, globalization and falling barriers to entry, red oceans are becoming ever harder. Creating blue oceans is becoming a necessity.
+
+- Red oceans fight over existing demand.
+- Blue oceans create new demand.
+- You need to be able to navigate both.
+
+--- Value innovation
+kw: value and cost at the same time
+The book's central concept is **value innovation**. The authors argue that the companies that created blue oceans did not focus on the competition. They sought to make the competition irrelevant by creating a leap in value for buyers and for themselves.
+
+Value innovation is neither technological innovation nor simple value creation. A technological innovation with no value for the buyer creates no market. Value creation without innovation merely improves the existing offering at the margin. Value innovation combines the two: a new offering that delivers markedly superior value to buyers.
+
+The authors stress an essential point: value innovation challenges one of the most accepted principles of strategy, the value-cost trade-off. According to this principle, a company must choose between two strategies: offering customers more value at higher cost, which is differentiation, or offering reasonable value at lower cost, which is cost leadership. The authors argue that companies that create blue oceans pursue both at once.
+
+How is that possible? By eliminating and reducing the factors the industry usually competes on, the company lowers its costs. By raising and creating factors the industry has never offered, it increases value for the buyer. Over time, costs fall further, thanks to the economies of scale that come with the high sales volume generated by superior value.
+
+The authors specify that value innovation is not just a matter of commercial strategy. It is a system that involves the whole company: its offering, prices, costs and partnerships. A company that has created a blue ocean has aligned all these elements.
+
+They add that value innovation does not depend on a company's size or age. Both established companies and new entrants have created blue oceans, in very different industries.
+
+> À retenir | Value innovation pursues both superior value for the buyer and lower costs, by eliminating what the industry takes for granted.
+
+=== The analytical tools
+--- The strategy canvas
+kw: value curve · factors · reading
+The book's first tool is the **strategy canvas**. It is a simple chart that helps both to understand the current state of an industry and to draw a new strategy.
+
+The horizontal axis shows the factors on which companies in an industry compete and invest. For example, for air travel: price, meal quality, lounges, seat choice, flight frequency, punctuality. The vertical axis shows the offering level on each of these factors, from low to high.
+
+Connecting a company's points gives its **value curve**: a graphic representation of its strategy. You can plot several competitors' curves on the same chart. In a red ocean, the curves look very similar: companies invest in the same factors at similar levels. They fight on the same ground.
+
+The authors illustrate this tool with the example of an Australian wine launched in the United States in the early 2000s. The American wine market was dominated by two types of offering: premium wines, which emphasized complexity, vineyard prestige, ageing and technical oenological jargon, and budget wines, which offered the same things at a lower level. The value curves looked alike.
+
+The new brand drew a very different curve. It abandoned technical jargon, ageing and big advertising campaigns. It reduced the wine's complexity and the number of varieties. On the other hand, it created new factors: a wine that was easy to drink, an easy choice, and a fun, laid-back image. It targeted people who drank beer or cocktails and found the world of wine intimidating. Within a few years, it had become one of the best-selling imported wine brands in the United States.
+
+The strategy canvas makes it possible to answer a simple question: on what factors does our industry compete, and on what factors could we stand out?
+
+> Exercice | Draw your industry's strategy canvas with six to ten factors. Plot your curve and those of two competitors. Do they look alike?
+
+--- The four actions
+kw: eliminate · reduce · raise · create
+The second tool is the **four actions framework**. It helps reconstruct buyer value elements and draw a new value curve. It rests on four questions.
+
+- **Eliminate**: which factors that the industry takes for granted should be eliminated? This question forces you to challenge factors companies have long competed on but which no longer add value, or even detract from it.
+- **Reduce**: which factors should be reduced well below the industry standard? This question forces you to examine whether you are overdoing some factors to match or beat the competition.
+- **Raise**: which factors should be raised well above the industry standard? This question forces you to uncover the compromises the industry forces on buyers.
+- **Create**: which factors that the industry has never offered should be created? This question forces you to discover entirely new sources of value.
+
+The first two questions act on costs: they make it possible to drop the cost structure relative to competitors. The last two act on value: they make it possible to lift buyer value and create new demand.
+
+The authors complement this framework with a simple four-box **grid**, the eliminate-reduce-raise-create grid, in which the answers to the four questions are noted. This grid has several advantages. It forces action on all four dimensions, not just on value or on costs. It flags companies that try to raise and create everything, which sends costs soaring. It is easy for every level of the organization to understand. And it forces a serious examination of every factor in the industry.
+
+The authors point out that the "eliminate" question is often the hardest and the most important. Companies tend to add features and services, but rarely remove them. Yet it is often by eliminating factors considered indispensable that you free up the resources to create new value.
+
+> À retenir | Eliminate and reduce to lower costs; raise and create to increase value. The question "what should we drop?" is often the most fruitful.
+
+--- The circus example
+kw: no animals · theatre · new audiences
+The book's most developed example is that of a Canadian circus company founded in the early 1980s by a group of street performers. At the time, the circus industry was in decline. Audiences were shrinking, children preferred video games, animal rights groups criticized the use of animals, and the costs of the big circuses were high, notably for star performers and animals.
+
+The company applied the four actions framework intuitively.
+
+- **It eliminated** animal acts, star performers, multiple show arenas and concession sales in the aisles. Animals and stars were among the highest costs of traditional circuses.
+- **It reduced** fun and humour and thrill and danger, which were at the heart of the traditional circus, without eliminating them entirely.
+- **It raised** the uniqueness of the venue, with a carefully designed, distinctive big top.
+- **It created** elements borrowed from theatre: a theme for each show, a refined atmosphere, artistic music and dance, and multiple productions, which gave audiences a reason to come back.
+
+The result was an entirely new offering, halfway between circus and theatre. It was aimed no longer at children but at adults and corporate clients, who were willing to pay prices comparable to those of a theatre show, far higher than those of a traditional circus. In about twenty years, the company reached a level of revenue that the big traditional circuses had taken much longer to achieve.
+
+The authors point out that the company did not fight the existing circuses. It created a new space in which those circuses were no longer direct competitors. It also attracted circus noncustomers: adults who went to the theatre or the opera.
+
+- The company eliminated the industry's heaviest costs.
+- It borrowed from theatre elements that the circus did not offer.
+- It attracted a new audience willing to pay more.
+
+--- Three qualities of a strategy
+kw: focus · divergence · tagline
+The authors observe that successful blue ocean strategies share three characteristics, visible in their value curve.
+
+**Focus.** A good strategy does not spread its efforts across every competitive factor. Its value curve shows a few very high factors and others very low or absent. Companies that try to excel on every factor have high costs and an unclear offering.
+
+**Divergence.** A good strategy has a value curve that stands out clearly from competitors'. It doesn't try to do a bit better on the same factors; it chooses different factors. Companies that merely react to competitors have value curves that look like theirs.
+
+**A compelling tagline.** A good strategy can be summed up in one simple, truthful sentence that clearly expresses what it offers. The authors cite the example of an airline that promised the speed of a plane at the price of a car. A good tagline is understandable to customers, but also to employees, who thus know what matters.
+
+These three characteristics make it possible to test a strategy. If the value curve shows no focus, the cost structure is probably too heavy. If it shows no divergence, the strategy is mere imitation. If you can't sum it up in one sentence, it is probably too complicated or poorly defined.
+
+The authors also suggest using the strategy canvas to read the value curves of your own portfolio of businesses. A company can thus spot which of its businesses are in red oceans, which are creating blue oceans, and which could do so. They recommend keeping a balance: red ocean businesses bring in today's revenue, blue ocean businesses prepare tomorrow's growth.
+
+> Question clé | Can you sum up your team's or company's offering in one simple sentence that clearly sets it apart?
+
+=== The six paths
+--- Looking at the alternatives
+kw: alternative industries · strategic groups
+To help companies find blue oceans, the authors propose six paths. Each invites you to look beyond your industry's usual boundaries. The first two concern the alternatives buyers consider.
+
+**Look across alternative industries.** A company competes not only with companies in its own industry, but also with industries offering different products or services that serve the same function or purpose. For example, to spend an evening out, you can go to the cinema or to a restaurant. The two have nothing in common technically, but they meet the same need. The authors recommend asking why buyers choose an alternative industry over ours, and borrowing from that industry what attracts them.
+
+They cite the example of a chain of women's fitness clubs created in the United States. Women who wanted to exercise had two options: traditional health clubs, well equipped but expensive, intimidating and often far away, or exercising at home, cheap but solitary and hard to sustain. The new chain combined the advantages of both: simple gyms close to home, with no mirrors and no men, a thirty-minute circuit, at a moderate price.
+
+**Look across strategic groups within industries.** In every industry there are groups of companies pursuing similar strategies, for example premium and budget offerings. These groups rarely look at one another. The authors recommend asking why customers trade up or down between groups, and combining what attracts them in each.
+
+They give the example of a company that offered fractional ownership of business jets. Large companies had a choice between commercial first-class flights, which were inflexible, and buying a private jet, which was very expensive. Fractional ownership gave access to a private jet for a limited number of hours a year, at a fraction of the cost of a whole aircraft.
+
+- Your real competitors include those who meet the same need differently.
+- Combine what attracts customers in several strategic groups.
+
+--- Buyers and complements
+kw: chain of buyers · before and after
+The next paths concern the people who buy and what surrounds the purchase.
+
+**Look across the chain of buyers.** In many industries, the buyer is not one person but a chain: the purchaser who pays, the user and the influencer. In healthcare, for example, the patient uses the medicine, the doctor prescribes it and the insurer or the state reimburses it. Companies in an industry generally focus on a single link in this chain. The authors recommend asking what would happen if you targeted a different link.
+
+They cite the example of a pharmaceutical company that made insulin. Competitors focused their efforts on doctors, improving the purity of the product. The company turned its attention to patients, who had to inject insulin themselves several times a day with impractical syringes. It created an injector pen, much easier to use, which transformed patients' daily lives.
+
+**Look across complementary product and service offerings.** The value of a product often depends on what happens before, during and after its use. The authors recommend examining the total solution the buyer is seeking, and asking what stops them getting full value from the product.
+
+They give the example of a cinema operator in Europe. Moviegoers were held back by factors unrelated to the film itself: difficulty parking, finding a babysitter, poor-quality theatres. The company built very large complexes with easy parking, many screens, comfortable seats and excellent picture and sound quality. It attracted a much wider audience.
+
+These two paths have something in common: they force you to look at the buyer's whole experience, not just the product. Often, the main sources of new value lie in elements the industry considers outside its line of business.
+
+> Exercice | Map your chain of buyers: who pays, who uses, who influences? Which link does your industry focus on? What would happen if you targeted another link?
+
+--- Emotion, function and trends
+kw: rational or emotional · time
+The last two paths concern the nature of appeal and change over time.
+
+**Look across functional or emotional appeal to buyers.** Some industries compete mainly on price and function: they are functionally oriented. Others compete mainly on feelings: they are emotionally oriented. The authors recommend flipping your industry's orientation.
+
+In an emotional industry, you can create a blue ocean by stripping out costly emotional elements and offering a more functional product. The authors cite the example of a Japanese barbershop chain that offered a quick ten-minute cut, with no shampoo or extras, for a very low price, with impeccable hygiene. It targeted busy men who found traditional barbershops too slow and too expensive.
+
+In a functional industry, you can create a blue ocean by adding an emotional dimension. The authors cite a watch brand that turned a functional product into a fashion accessory, with varied designs that changed every season, at an affordable price.
+
+**Look across time.** All companies are subject to external trends: changing technologies, regulatory changes, shifts in lifestyle. Most react to these trends as they go. The authors recommend anticipating their effects on buyer value, by asking three questions: is the trend decisive for our business? Is it irreversible? Does it have a clear trajectory?
+
+They cite the example of a major computer company that understood, in the early 2000s, that illegal music downloading was going to transform the industry. It created a simple, legal online music store, with single tracks at low prices, after negotiating with the record labels. It thus created a new market instead of being swept along by the trend.
+
+The authors stress that the six paths are not recipes. They are ways of looking at the market differently, by challenging the boundaries the industry considers natural.
+
+- Flip your industry's orientation: more functional, or more emotional.
+- Anticipate trends that are decisive, irreversible and clear.
+- The six paths challenge the boundaries the industry takes as natural.
+
+=== The big picture and noncustomers
+--- Focusing on the big picture
+kw: spreadsheets · the field · strategy fair
+The authors observe that classic strategic planning often gets lost in numbers. Strategic plans are long documents full of tables and data, but they rarely offer a clear vision. Executives spend months preparing them, and they generally produce incremental improvements to the existing situation.
+
+They propose a different method, based on the strategy canvas, which unfolds in four steps.
+
+**Visual awakening.** The leadership team draws the company's current value curve and compares it with competitors'. This step often brings home how similar the company is to its competitors, and the need to change.
+
+**Visual exploration.** Team members go into the field to observe customers, noncustomers and alternative products directly. The authors insist on the importance of this step: executives must see for themselves, not rely on market research. They use the six paths to explore possibilities. They then draw possible new value curves.
+
+**Visual strategy fair.** Several teams present their proposed value curves, each in a few minutes, to an audience of customers, noncustomers, partners and executives. The audience votes for the most convincing proposals and explains its choices. The teams improve their proposals based on this feedback.
+
+**Visual communication.** The final strategy is presented on a single page, with the current value curve and the new one. This page is distributed throughout the organization. Every employee can thus understand the strategy and see what is changing.
+
+The authors stress that this method has several advantages. It is faster than classic planning. It involves people who don't usually take part in strategy. It produces a strategy that is easy to understand and communicate. And it forces executives to confront reality on the ground.
+
+> À retenir | A strategy fits on one page: the current curve and the new one. It is built by going to see customers and noncustomers, not just by reading numbers.
+
+--- The three tiers of noncustomers
+kw: soon-to-be · refusing · unexplored
+One of the book's most important ideas concerns **noncustomers**. Companies devote most of their efforts to their current customers. They try to know them better, satisfy them better and segment them ever more finely. The authors argue that this approach leads to ever smaller markets. To create a blue ocean, you must instead look beyond current customers, toward noncustomers.
+
+They distinguish three tiers of noncustomers, more or less distant from the market.
+
+**First tier: soon-to-be noncustomers on the edge of the market.** These are people who buy the industry's product out of necessity but are ready to leave as soon as they find something better. They are on the edge of the market. The authors cite the example of a London fast-food chain offering fresh, healthy sandwiches made the same day, with fast service. It targeted office workers who ate at fast-food outlets for lack of time but would have preferred to eat better.
+
+**Second tier: refusing noncustomers.** These are people who have considered the industry's product but decided not to use it, because it doesn't meet their needs or is too expensive. The authors cite the example of a French outdoor advertising company. Many cities refused billboards, considered ugly and intrusive. The company offered to install and maintain street furniture, such as bus shelters, free of charge, in exchange for the right to place posters on them. The cities, which had refused the industry's usual offering, became customers.
+
+**Third tier: unexplored noncustomers.** These are people who have never been considered potential customers by the industry. They are very far from it. The authors cite the example of the US Department of Defense, which designed a combat aircraft common to several military services, whereas each had previously had its own very different and very expensive aircraft. By looking for the needs the services had in common rather than their differences, the project aimed to sharply reduce development and maintenance costs.
+
+The authors recommend looking for what these noncustomers have in common, rather than their differences. What unites them often reveals a market opportunity far larger than that of current customers. They advise starting with the tier that represents the greatest potential.
+
+- Current customers are only a small part of the possible market.
+- Look for what noncustomers have in common, not what sets them apart.
+
+--- Reaching the widest demand
+kw: desegmenting · commonalities · volume
+The authors develop the idea of noncustomers further through a critique of segmentation. They observe that companies tend to segment their markets ever more finely, to tailor their offerings to each customer group's preferences. This approach can be useful in a red ocean, but it often leads to ever smaller markets, with ever more complex offerings.
+
+They propose the opposite approach, which could be called desegmentation: looking for commonalities between customers and noncustomers, and building an offering that addresses those commonalities. This approach makes it possible to reach a much wider market.
+
+They give the example of an airline that brought together two kinds of travellers: those who flew for business and those who drove for medium-distance trips. What united them was the need for fast, frequent, cheap transport between two cities. The airline built its offering on these shared needs: frequent direct flights, with no meals or lounges, at prices comparable to the cost of driving.
+
+The authors stress that desegmentation has a significant effect on costs. An offering aimed at a broad public benefits from higher volumes, which lower unit costs. It also simplifies the organization, since the company doesn't have to manage many variants.
+
+They recommend asking two questions. What are the main commonalities between our customers and noncustomers? And which elements of our offering could we drop because they serve only narrow segments?
+
+This idea also applies to the public and nonprofit sectors. A public service trying to reach people who don't use it can ask what keeps them away, and what they have in common with current users. Often, simplifying the offering attracts new audiences.
+
+> Question clé | What do your current customers have in common with the people who never choose you? What offering would address that commonality?
+
+=== The strategic sequence
+--- Buyer utility
+kw: six stages · six levers
+Once a blue ocean idea has been identified, the authors propose testing it in a precise sequence: buyer utility, price, cost and adoption. The first step is the most important: does the offering deliver exceptional utility to the buyer?
+
+The authors point out that many innovations fail because they are technically fascinating but deliver no real value to buyers. They cite the example of highly sophisticated products whose customers could not see the point or found them too complicated.
+
+To assess utility, they propose a tool: the **buyer utility map**. It crosses two dimensions.
+
+The first is the **buyer experience cycle**, in six stages: purchase, delivery, use, supplements, maintenance and disposal. At each stage, the buyer may encounter difficulties or frustrations.
+
+The second is the set of **utility levers**, of which there are six: customer productivity, simplicity, convenience, risk reduction, fun and image, and environmental friendliness.
+
+Crossing these two dimensions gives thirty-six cells. Each cell represents an opportunity to deliver utility to the buyer. For example, improving simplicity of use, reducing risk at purchase or improving convenience of maintenance.
+
+The authors observe that most industries focus on only a few cells, often use and productivity. Blue oceans frequently emerge in neglected cells. They cite the example of a printer company that identified a frustration in disposing of used cartridges, or a furniture company that transformed delivery and assembly.
+
+The map also helps identify the **biggest blocks to utility**: the elements that prevent buyers from getting full value from the product. Removing these blocks is often an important source of value.
+
+> Exercice | Draw the thirty-six-cell grid for your offering. Mark the cells where your industry competes. Look for an empty cell where you could deliver real utility.
+
+--- Strategic pricing
+kw: price corridor of the mass
+The second step in the sequence is **strategic pricing**. The authors argue that exceptional utility is not enough. You also need a price that quickly attracts the mass of buyers.
+
+They explain that this choice differs from the usual way of setting prices. Usually, companies set their prices based on their costs, then add a margin. Or they benchmark against direct competitors in their industry. For a blue ocean, the authors recommend starting from the price the mass of buyers is willing to pay, and setting the price before calculating costs.
+
+They propose a tool: the **price corridor of the mass**. The approach unfolds in two steps.
+
+**Step one: identify the corridor.** List the products and services buyers currently use to meet the same need, including those from alternative industries and in different forms. Look at the price range of these alternatives and the number of buyers who use them. The price corridor of the mass is the price range that attracts the largest number of buyers.
+
+**Step two: position yourself in the corridor.** Decide where to sit within this range. The authors recommend pricing at the upper end of the corridor if the offering is hard to imitate, thanks to patents or rare skills. If it is easy to imitate, it is better to price at the lower end, to attract a large number of buyers quickly and discourage imitators.
+
+The authors point out that the strategic price is often lower than what the company could obtain with margin-based logic. But it attracts a large number of buyers quickly, which creates high volumes, lowers unit costs and makes the offering harder to imitate.
+
+They cite the example of software or services sold at low prices to quickly attract a mass of users before competitors can react. They also mention rental or sharing formulas that make expensive products accessible.
+
+- Set the price based on what the mass is willing to pay, before calculating costs.
+- Look at the prices of alternatives, not just those of direct competitors.
+- An offering that is easy to imitate should sit at the lower end of the corridor.
+
+--- Target cost and adoption
+kw: streamline · partners · resistance
+The last two steps in the sequence are cost and adoption.
+
+**Target cost.** Once the strategic price is set, the company must reach a cost that allows it to make a profit. The authors speak of "price-minus costing," as opposed to the usual logic of adding a margin to costs. If the current cost is too high, the company should neither raise the price nor reduce the utility. It must find other ways to cut costs.
+
+The authors propose three levers. The first is to **streamline operations** and innovate in processes, for example by simplifying manufacturing or using cheaper materials. The second is to **form partnerships** with other companies that have the necessary skills or resources, instead of doing everything yourself. The third is to **change the pricing model**, for example by moving from sale to rental, sharing or subscription.
+
+**Adoption.** Even an excellent idea can fail if it meets resistance. The authors identify three groups whose buy-in is needed.
+
+- **Employees**, who may fear that the new strategy threatens their jobs or habits. You must explain the strategy, its reasons and its consequences for them.
+- **Partners**, who may fear losing revenue or having their knowledge exploited. You must show them what they stand to gain.
+- **The general public**, who may oppose an innovation that challenges social norms or vested interests. You must inform and explain, often before launch.
+
+The authors stress that adoption must be prepared from the outset, not after launch. A strategy that ignores resistance risks being blocked by those who feel threatened.
+
+They sum up the sequence with four questions to ask in order: does the offering deliver exceptional utility? Is the price accessible to the mass of buyers? Can the target cost be reached? What are the obstacles to adoption? If the answer to any of these questions is no, you must go back before moving forward.
+
+> À retenir | Utility, price, cost, adoption, in that order. A negative answer at any step means revisiting the idea before moving to the next.
+
+=== Executing the strategy
+--- Tipping point leadership
+kw: four hurdles · leverage
+The authors devote part of the book to execution. They argue that blue ocean strategies face particular hurdles because they challenge the organization's habits. They identify four main hurdles.
+
+- **The cognitive hurdle**: people don't see the need for change. They are attached to the status quo and don't perceive the problems.
+- **The resource hurdle**: the organization has limited means, and change seems to require resources it doesn't have.
+- **The motivational hurdle**: people are not motivated to change, because they don't see what's in it for them.
+- **The political hurdle**: influential people whose interests are threatened oppose the change.
+
+To overcome these hurdles, the authors propose an approach they call **tipping point leadership**. It rests on the idea that in every organization there are people, acts and activities that exert a disproportionate influence on performance. By concentrating efforts on these factors, you can achieve major change with limited resources.
+
+They illustrate this approach with the example of the New York City police in the mid-1990s. The new police commissioner had inherited a demoralized organization, a limited budget and a very high crime rate.
+
+To overcome the **cognitive hurdle**, he made police managers see reality up close, for example by requiring them to ride the subway, then considered dangerous. This direct contact with reality was more persuasive than any report.
+
+To overcome the **resource hurdle**, he concentrated resources on the areas and offences with the most impact, rather than spreading them evenly.
+
+To overcome the **motivational hurdle**, he put the spotlight on key managers, holding regular meetings where they presented their results in front of their peers, which created strong emulation.
+
+To overcome the **political hurdle**, he identified allies and opponents, and relied on respected figures to win others over.
+
+- Make people see reality up close rather than describing it.
+- Concentrate resources where they have the most effect.
+- Put key managers in the spotlight and rely on respected allies.
+
+--- Fair process
+kw: engagement · explanation · expectations
+The authors devote a chapter to an idea they have researched extensively: **fair process**. They argue that the way a strategy is developed is as important as its content. People accept a decision much more readily, even an unfavourable one, when they believe the process that led to it was fair.
+
+They describe three principles of fair process.
+
+**Engagement.** This means involving people in the strategic decisions that affect them, asking for their input and allowing them to challenge one another's ideas. Engagement shows respect for people and their ideas. It also improves the quality of decisions, because it draws on more knowledge.
+
+**Explanation.** This means explaining to everyone involved why the decisions were made. Explanation shows that leaders have considered the views expressed and decided impartially. It allows people to trust leaders even when their own view was not adopted.
+
+**Expectation clarity.** Once the decision is made, the new rules of the game must be stated clearly: what is expected of each person, the targets, responsibilities and evaluation criteria. When expectations are clear, people know what they must do and can commit to it.
+
+The authors explain why fair process is so powerful. Human beings attach great importance to recognition of their intellectual and emotional worth. When they feel treated with respect, they cooperate voluntarily, beyond what is required. When they feel ignored or manipulated, they resist, even when the decision is good for them.
+
+They cite the example of companies where the same decision, implemented with or without fair process, produced very different results. In one case, employees rallied to make it succeed; in the other, they resisted and even sabotaged the change.
+
+> À retenir | Engage, explain, clarify expectations. People accept a decision that costs them if they believe the way it was made was fair.
+
+--- Lasting and renewing
+kw: imitation · barriers · new ocean
+The authors ask how long a blue ocean lasts. Sooner or later, imitators arrive, and the blue ocean turns red. They examine the barriers that slow imitation, then the moment when a new blue ocean must be created.
+
+They observe that many blue ocean strategies benefit from **natural barriers to imitation** that can protect them for years, even decades.
+
+- **A logic that runs counter to competitors'.** Established companies often find it hard to imitate a strategy that contradicts their own model, because it would mean abandoning what makes them successful today.
+- **High volumes**, which give the innovator a cost advantage that is hard to catch up with.
+- **Network effects**, when the value of the offering rises with the number of users.
+- **Patents or licences**, which legally block imitation.
+- **A strong brand**, which gives customers a reason to stay loyal.
+- **A coherent system**: a strategy that combines many aligned elements is harder to copy than a single element.
+- **Brand image risks for competitors**, who fear devaluing their brand by imitating a cheaper offering.
+
+The authors recommend monitoring value curves. As long as the company's curve remains clearly different from competitors', there is no need to look for a new blue ocean. It is better to exploit the existing ocean, improving the offering and lowering costs. When the curves start to converge, it is time to look for a new blue ocean.
+
+They warn against two mistakes. The first is looking for a new blue ocean too early, while the existing ocean still offers much potential. The second is staying too long in an ocean that has turned red, fighting for ever smaller market shares.
+
+- A logic that runs counter to competitors' slows imitation for a long time.
+- Look for a new ocean when your value curve converges with others'.
+
+=== Putting it into practice
+--- One-day workshop
+kw: canvas · four actions · noncustomers
+The book's tools lend themselves well to a group workshop. Here is a possible outline for a team of six to twelve people, applied to an offering, a service or a product.
+
+**Preparation.** A week before, each participant interviews two customers and two noncustomers: people who could use the offering but don't. They ask them what they appreciate, what bothers them and what they use instead.
+
+**Morning, part one: visual awakening.** The team lists the factors on which the industry competes. It draws the offering's current value curve and those of two or three alternatives. It notes the similarities.
+
+**Morning, part two: noncustomers.** Participants share what they learned from the interviews. They sort noncustomers into the three tiers. They look for what customers and noncustomers have in common.
+
+**Afternoon, part one: the four actions.** In small groups, the team fills in the grid: eliminate, reduce, raise, create. Each group uses one or two of the six paths to find ideas. Each group draws a new value curve.
+
+**Afternoon, part two: the strategy fair.** Each group presents its curve in five minutes. Participants vote for the most promising proposals and justify their choice. The three qualities are checked: focus, divergence, tagline.
+
+**End of day: the sequence.** For the chosen proposal, the team checks utility, price, cost and adoption. It identifies the assumptions to test and decides on a first test to run within the month.
+
+The authors insist on the importance of the field. A workshop based only on participants' opinions often produces disappointing ideas. It is observations of customers, and above all of noncustomers, that yield the best ideas.
+
+> À retenir | Prepare the workshop with interviews of noncustomers. Their answers are worth more than the opinions in the room.
+
+--- 30-day action plan
+kw: observe · draw · test
+**Week 1: the canvas.** List six to ten factors on which your industry or service competes. Draw your value curve and those of two alternatives. Write in one sentence what sets your offering apart, if you can.
+
+**Week 2: noncustomers.** Interview at least five noncustomers from different tiers. Ask them why they don't choose you, what they use instead and what would make them switch. Note the commonalities.
+
+**Week 3: the four actions.** Fill in the eliminate-reduce-raise-create grid. Use at least three of the six paths to find ideas. Draw a new value curve. Test it against the three qualities: focus, divergence, tagline.
+
+**Week 4: the sequence and the test.** Check utility, price, cost and adoption for your new curve. Identify the riskiest assumption. Design a simple, low-cost test to check it: a pilot offering, a mock-up, a presentation to a few customers. Also prepare how you will involve your team, applying the principles of fair process.
+
+The authors point out that it is rare to find a blue ocean in a month. But these exercises change the way you look at your market, and they often reveal significant improvements, even when they don't create an entirely new market.
+
+- One week per tool: canvas, noncustomers, four actions, sequence.
+- Finish with a concrete test of the riskiest assumption.
+
+--- Case study: the public library
+kw: public service · non-users
+A municipal library in a town of 40,000 inhabitants has seen attendance fall for several years. Local councillors are considering cutting its budget. The new director, Amina, decides to apply the blue ocean tools.
+
+**The canvas.** With her team, she lists the factors on which libraries usually compete: size of the collection, new releases, silence, opening hours, events, librarians' advice. She compares her curve with those of the alternatives residents use: bookshops, online platforms, cafés, coworking spaces. The library's curve looks like every other library's.
+
+**Noncustomers.** The team interviews some sixty residents who never come. First-tier noncustomers are students and freelancers looking for a quiet place to work but who find the opening hours unsuitable. Second-tier ones are families who find the place austere and unwelcoming for young children. Third-tier ones are isolated older people and residents who struggle with online procedures. The common thread: a need for a welcoming place that is useful day to day, not just for books.
+
+**The four actions.** The library **eliminates** part of the rarely borrowed collections, freeing up space. It **reduces** the requirement for silence in some areas. It **raises** opening hours, opening early in the morning and in the evening, with volunteers. It **creates** an equipped workspace, a family area and a drop-in help desk for online procedures.
+
+**The sequence.** The price remains free. Costs are kept under control thanks to partnerships with a nonprofit and the community centre. The team is involved at every step, following the principles of fair process.
+
+**The result.** Within two years, attendance has risen markedly, with new audiences. The councillors maintain the budget.
+
+> Question de réflexion | Who are your service's noncustomers, and what do they have in common with your current users?
+
+=== Critical view and links
+--- Limits of the book
+kw: after the fact · imitation · execution
+*Blue Ocean Strategy* has been widely adopted, but it has also drawn criticism.
+
+**Examples chosen after the fact.** Like many strategy books, this one relies on examples of companies that succeeded, analysed after the fact. We don't know how many companies tried to create a blue ocean and failed. Some of the book's examples also ran into difficulties later: brands lost their lead, companies were taken over or declined. This does not undermine the value of the tools, but it calls for caution about their predictive power.
+
+**Oceans that turn red fast.** In many industries, especially digital ones, imitators arrive very quickly. A blue ocean can turn red in a few months. The barriers to imitation the authors describe are not always enough.
+
+**A blurry boundary.** Some critics point out that it is often hard to distinguish a blue ocean from simple successful differentiation. Many of the book's examples could also be described as classic differentiation or focus strategies. The authors reply that the difference lies in pursuing value and cost simultaneously, but the boundary remains debated.
+
+**Execution underestimated.** The analytical tools are clear and easy to use, which accounts for their success. But finding a blue ocean idea is not enough. Execution, building a team, financing and perseverance are often harder than the idea itself. The book covers execution, but in less detail than formulation.
+
+**The risk of the slogan.** The term "blue ocean" is sometimes used to describe any innovation, or to justify ill-prepared projects. In 2017 the authors published another book, *Blue Ocean Shift*, which details the practical process further to avoid these pitfalls.
+
+- Use the tools as aids to thinking, not as guarantees.
+- Expect imitation to come, sometimes very quickly.
+
+--- Links with other books
+kw: Christensen · Sinek · Collins · Drucker
+**With The Innovator's Dilemma (Christensen).** Both books are interested in creating new markets and in noncustomers. Christensen explains why established companies struggle to serve neglected customers; Kim and Mauborgne offer tools for designing a new offering. Christensen's new-market disruptions are very close to blue oceans, but Christensen puts more emphasis on the organization needed to pursue them.
+
+**With Start with Why (Sinek).** Sinek criticizes competition on price, promotions and features, which characterizes red oceans. The why can give a blue ocean its direction, and Kim and Mauborgne's tools make it possible to translate it into a concrete offering.
+
+**With Good to Great (Collins).** Collins's Hedgehog Concept, with its three circles, and Kim and Mauborgne's value curve are two ways of answering the same question: where should you focus your efforts to stand out? Collins insists on discipline over time; Kim and Mauborgne on creating new space.
+
+**With Management: Tasks, Responsibilities, Practices (Drucker).** Drucker argued that the purpose of a business is to create a customer, and that its two essential functions are marketing and innovation. He also urged looking at noncustomers, often more numerous than customers. *Blue Ocean Strategy* can be read as a method for applying these principles.
+
+**With The Five Dysfunctions of a Team (Lencioni).** Kim and Mauborgne's fair process echoes Lencioni's pyramid: commitment requires everyone to have been able to voice their view, and clear expectations make mutual accountability possible.
+
+> Parcours conseillé | Next, read The Innovator's Dilemma to understand how to organize an established company in the face of new markets.
