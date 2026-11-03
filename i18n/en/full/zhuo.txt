@@ -1,0 +1,472 @@
+=== Context and thesis
+--- A manager by accident
+kw: Facebook · age 25 · learning on the job
+Julie Zhuo joined Facebook straight out of university, in the mid-2000s, when the company still had only a few dozen employees. She was a designer. A few years later, when she was about twenty-five, her manager offered her the job of managing the design team. She accepted, without really knowing what the job involved.
+
+She recounts her difficult beginnings frankly. She didn't know how to run a one-on-one, how to tell a colleague their work wasn't up to standard, how to hire, how to run a useful meeting. She had to manage people older and more experienced than she was, some of whom had been her peers the day before. She made many mistakes.
+
+Over the years, the team grew, and Julie Zhuo became vice president of product design, responsible for several hundred people. Throughout this time, she kept a blog where she wrote down what she was learning. Her posts were widely read by other new managers, who recognized themselves in her doubts.
+
+*The Making of a Manager*, published in 2019, brings these lessons together. It is not a theoretical treatise but a practical guide, written for someone who has just been made a manager, or recently became one, and is wondering how to do it. The author writes in a simple, direct style, with many personal examples and hand-drawn diagrams.
+
+She points out that most managers learn the job the way she did: on the job, without training, copying what they have seen others do. Her book aims to spare them a few years of trial and error.
+
+> À retenir | A practical guide, written by someone who learned the job by doing it, for those discovering it.
+
+--- What is a manager?
+kw: a group's results · not yourself
+Julie Zhuo starts with a simple question: what is a manager for? She says that at first she thought her role was to hold one-on-ones, give feedback and handle problems. These activities are part of the job, but they are not its purpose.
+
+Her definition is this: a manager's job is **to get better outcomes from a group of people working together**. The manager is judged not on what they do themselves, but on what their team achieves.
+
+This definition has important consequences. A manager can spend a whole day producing nothing directly and still have done an excellent job, if they helped the team move forward. Conversely, a manager who keeps doing their people's work themselves, because they do it better or faster, is not doing their job. They limit the team to their own capacity.
+
+The author also stresses that a manager should ask two questions to assess their work. The first concerns the team's **outcomes**: is it hitting its goals, producing quality work, moving in the right direction? The second concerns the team's **values** and how it works: are people growing, working well together, wanting to stay?
+
+She notes that a good manager is often measured over time. A team can get good short-term results by burning itself out. The manager's role is to build a team capable of lasting success.
+
+This definition echoes Andy Grove's in *High Output Management*: a manager's output is the output of their team and of the teams they influence.
+
+> Question clé | What do you spend your days on: your own output, or what moves the team forward?
+
+--- Purpose, people, process
+kw: why · who · how
+Julie Zhuo proposes thinking about the manager's job through three levers. In her view, everything a manager does acts on one of these three elements.
+
+**Purpose.** This is the team's "why": what it is trying to achieve and why it matters. A team without a clear purpose wears itself out pulling in contradictory directions. The manager must make sure everyone understands what the team is trying to achieve and what success will look like.
+
+**People.** This is the "who": the team members, their skills, their motivation, their growth. The manager must make sure the right people are in the right roles, that they have the skills they need and that they are motivated. This involves hiring, feedback, development and sometimes letting people go.
+
+**Process.** This is the "how": the way the team works together. How decisions are made, how information flows, how tasks are divided, how meetings are run. A good process lets people collaborate effectively.
+
+The author stresses that these three levers are linked. A team of brilliant people with no shared purpose will not move forward. A team with a clear purpose but a chaotic process will waste its energy. A team with a perfect process but the wrong people will not produce results.
+
+She suggests an exercise: when a team runs into a difficulty, ask which lever the problem relates to. Do people not know why they are doing this work? Do they lack skills or motivation? Or is it the way they work together that's the problem? This diagnosis guides action.
+
+- Purpose: why the team exists.
+- People: who does the work, with what strengths.
+- Process: how the team works together.
+
+=== The first three months
+--- Four ways to become a manager
+kw: apprentice · pioneer · successor
+Julie Zhuo observes that a manager's start depends greatly on how they come into the role. She describes four typical situations, each with its own challenges.
+
+**The apprentice.** They are promoted within a team they were part of, and become their former colleagues' manager. This is the most common case, and it was the author's. The apprentice knows the team and the work well, but must change their relationship with former peers. Some may be disappointed not to have been chosen. They must also learn to stop doing the work themselves.
+
+**The pioneer.** They build a new team from scratch, often in a small company or for a new project. They have great freedom, but must build everything: hire, define methods, establish the culture. They often keep doing part of the work themselves while the team takes shape.
+
+**The new boss.** They come in from outside to lead an existing team. They know neither the people, nor the history, nor the team's habits. They must earn people's trust and understand the situation before changing anything.
+
+**The successor.** They replace a well-liked manager who has left or been promoted. The team inevitably compares the new manager with the old one. They must respect what was working while bringing their own way of doing things.
+
+The author advises new managers to identify their situation, recognize its specific difficulties and adapt their first actions accordingly.
+
+> Question clé | Which of these four situations are you in, or have you been in? What was the main difficulty?
+
+--- First steps
+kw: listen · meet · expectations
+For the first few weeks, Julie Zhuo offers a series of practical tips, whatever the starting situation.
+
+**Meet each team member individually.** These first conversations are for getting to know each other, understanding what each person does, what motivates them, what frustrates them and what they expect from their manager. The author suggests simple questions: what excites you about your work? What are your career goals? How do you prefer to receive feedback? What could I do to help you?
+
+**Listen before acting.** New managers are often tempted to prove their worth quickly by launching changes. Julie Zhuo recommends understanding first. What looks absurd from the outside often has an explanation.
+
+**Clarify expectations with your own manager.** The new manager must know how they will be evaluated, what the team's priorities are and which problems their manager wants solved.
+
+**Talk to the team's partners.** Other teams that work with yours often have a valuable view of its strengths and weaknesses.
+
+**For the apprentice, address the relationship with former peers.** The author recommends talking about it openly, especially with those who might have wanted the job. Acknowledging the situation is better than pretending nothing has changed.
+
+**Accept not knowing everything.** A new manager doesn't need to have all the answers. They can say they are learning and ask for help.
+
+- Meet everyone, with good questions.
+- Understand before changing.
+- Clarify expectations upward and sideways.
+
+--- What really changes
+kw: rhythm · recognition · loneliness
+Julie Zhuo describes honestly the changes a person goes through on becoming a manager, which are rarely explained.
+
+**The rhythm of the day changes.** Before, she spent long stretches focused on her design work. As a manager, her days broke up into meetings, conversations and quick decisions. Many new managers experience this change as a loss.
+
+**Feedback on your work becomes slower.** A designer sees the result of their work in hours or days. A manager sees the result of their efforts only after weeks or months, when someone grows or a team works better. This lack of immediate results can be unsettling.
+
+**Recognition changes in nature.** The manager is no longer praised for what they produce, but for what their team produces. They must learn to draw satisfaction from others' success.
+
+**Relationships change.** Former colleagues no longer talk to the manager the same way. Some informal conversations stop when they walk in. The manager can feel lonely.
+
+**Hard problems land on their desk.** Conflicts, underperformance and unpopular decisions become their responsibility.
+
+The author admits she often doubted she had made the right choice. She encourages new managers to give themselves time. In her view, it often takes more than a year to feel comfortable in the role. She also points out that management is not a mandatory promotion: some people thrive more by remaining experts.
+
+> À retenir | Becoming a manager means changing jobs: fragmented days, slow results, indirect recognition. It takes time to adjust.
+
+=== Leading a small team
+--- Trust first
+kw: safety · caring · honesty
+Julie Zhuo believes that the foundation of all a manager's work with their people is **trust**. Without trust, feedback is badly received, problems are hidden and conversations stay superficial.
+
+She explains that trust rests on two elements. The first is the belief that the manager **genuinely cares** about the person, their success and their well-being, and not just about results. The second is the belief that the manager is **honest**, that they say what they think, including when it's hard.
+
+To build this trust, the author suggests several practices. Take an interest in the person beyond work, in their plans and constraints. Keep your commitments, even small ones. Admit your own mistakes. Protect team members when they are unfairly criticized. Never talk about a team member behind their back in a way you wouldn't stand by in front of them.
+
+She also stresses the importance of creating a sense of **safety**. People must be able to say they don't know, that they got something wrong or that they disagree, without fear of being punished. She cites research at Google showing that psychological safety was one of the most important characteristics of effective teams.
+
+Julie Zhuo warns against a common mistake among new managers: wanting to be liked at all costs. They avoid difficult conversations to preserve the relationship. But in the end this destroys trust, because people discover that their manager doesn't tell them the truth.
+
+This idea echoes Kim Scott's framework in *Radical Candor*: care personally while challenging directly.
+
+> Question clé | Would your people spontaneously tell you that they got something wrong or that they disagree with you?
+
+--- One-on-ones
+kw: their meeting · preparation · topics
+Julie Zhuo attaches great importance to regular individual meetings between the manager and each team member, often called one-on-ones. She considers them one of the manager's most powerful tools.
+
+She first makes clear that the meeting belongs to the **team member**, not the manager. It is their time, to talk about what matters to them. The manager should not use it for a detailed status update on projects, which can be done in other ways.
+
+She suggests several kinds of topics for these meetings:
+
+- **Priorities and blockers**: what is the person working on, what is holding them back, where do they need help?
+- **Feedback in both directions**: what the manager observes, and what the person thinks of the manager and the team.
+- **Career and development**: where does the person want to go, what skills do they want to develop?
+- **Well-being**: how are they doing, do they feel good in the team?
+
+The author recommends that the team member prepare the meeting with a list of topics. The manager can also offer open questions to get the conversation going: what's top of mind for you right now? What was most satisfying this week, and least? How could I better support you?
+
+She gives a test for whether a one-on-one went well: does the person leave with something that helps them, a piece of advice, a decision, a clarification, or simply the feeling of having been heard?
+
+Finally, she advises against cancelling these meetings, even in busy periods. Cancelling them regularly sends the message that the person is not a priority.
+
+- The one-on-one belongs to the team member.
+- Priorities, feedback, career, well-being.
+- It must be useful to the person.
+
+--- Delegating and growing people
+kw: entrusting · support · not taking back
+One of the hardest changes for a new manager is learning to delegate. Julie Zhuo says that at first she often took over her designers' work, because she thought she knew how to do it better. This discouraged them and overloaded her.
+
+She proposes a more thoughtful approach. For each task, the manager must ask whether the person has the necessary skills and experience, and adjust their level of involvement accordingly. For an experienced person, it is enough to set the goal and let them get on with it. For someone new to the task, more support is needed: explain, do it together, check in regularly.
+
+She insists on several principles.
+
+**Delegate the outcome, not just the tasks.** Giving someone responsibility for an outcome, rather than a list of actions to carry out, develops their autonomy and commitment.
+
+**Accept a different way of doing things.** The person won't necessarily do the work the way the manager would have. That's not a problem as long as the result is good.
+
+**Resist the urge to take it back.** When someone runs into a difficulty, the manager should help them find a solution, not take over the work.
+
+**Give stretch challenges.** People grow when they are given responsibilities a little beyond what they have done before.
+
+The author stresses that delegating well frees up the manager's time, but above all helps the team grow. A manager who doesn't delegate becomes their team's bottleneck.
+
+> Exercice | List three tasks you still do yourself. For each, who could you give responsibility for it to, and with what support?
+
+=== The art of feedback
+--- Giving useful feedback
+kw: early · often · specific
+Julie Zhuo considers feedback one of the manager's core skills. She explains that people need to know what they are doing well and what they could improve, and that the manager is often best placed to tell them.
+
+She offers several tips for making feedback useful.
+
+**Set expectations from the start.** Many performance problems come from poorly stated expectations. Before a project, the manager must explain what a good result will look like. Feedback then becomes a clear comparison between what was expected and what was done.
+
+**Give feedback often.** Feedback should not wait for the annual review. It should be given regularly, as projects progress, so the person can adjust quickly.
+
+**Be specific.** Vague feedback, such as "good job" or "you need to do better," doesn't help. Describe the specific behaviour and its effect: in that presentation, the section on the numbers was very clear, and the client immediately grasped what was at stake.
+
+**Share observations, not judgments.** Rather than saying "you're not rigorous enough," describe what was observed: two figures in the report were wrong.
+
+**Give positive feedback as much as negative.** Positive feedback helps people know what to keep doing. It also builds trust, which makes negative feedback easier to hear.
+
+**Suggest ways forward.** Where possible, the manager pairs their feedback with concrete suggestions for improvement.
+
+- Set expectations before, not after.
+- Often, specific, based on facts.
+- Positive as much as negative.
+
+--- Kinds of feedback
+kw: task · behaviour · 360
+Julie Zhuo distinguishes several levels of feedback, which call for different approaches.
+
+**Feedback on a specific task.** It concerns a particular piece of work: a document, a presentation, a mock-up. It is the easiest to give. It should be quick, concrete and focused on improving the work.
+
+**Feedback on a behaviour.** It concerns a recurring way of doing things: someone who often interrupts colleagues, hands in work late, doesn't share information. This feedback is more delicate, because it touches the person more. It must be based on several specific examples and explain the behaviour's effect on the team.
+
+**Overall performance feedback.** It takes stock over a longer period, often during reviews. It should never contain surprises: everything in it should have been said earlier, along the way.
+
+**Feedback from others.** The manager sees only part of their people's work. The author recommends gathering the views of their colleagues and partners, often called 360-degree feedback. The manager must then synthesize this feedback, drawing out trends rather than passing on every comment.
+
+She also addresses **the feedback the manager receives**. She recommends actively asking for it, with specific questions: what could I do differently to support you better? She notes that people hesitate to criticize their manager. So you must ask often, say thank you when you receive criticism, and show that you have acted on it.
+
+> Exercice | This week, ask two team members: "What could I do differently to support you better?" Say thank you, then change one thing.
+
+--- Difficult conversations
+kw: underperformance · candour · parting ways
+Julie Zhuo devotes part of the book to the most delicate situations: someone whose performance remains inadequate despite efforts.
+
+She starts with a diagnosis. When someone isn't succeeding, the cause can be of two kinds. Either they **don't know how**: they lack a skill or some information. Or they **don't want to**: they lack motivation, disagree with the direction or don't feel they belong. The solutions are very different. In the first case, you train, support, clarify. In the second, you must understand what is blocking motivation.
+
+She recommends being **candid early**. Many managers wait too long before raising a performance problem, hoping it will resolve itself. When they finally talk about it, the person is surprised, and the situation has got worse.
+
+She suggests describing clearly the gap between expectations and reality, asking for the person's own analysis, agreeing together on an improvement plan with specific goals and a timeline, and following that plan regularly.
+
+If the situation doesn't improve, the manager sometimes has to consider parting ways, or a change of role. The author acknowledges that this is one of the hardest decisions. But she stresses that keeping someone who isn't succeeding is good neither for them nor for the team. The person might thrive elsewhere, in a better-suited role. The team, meanwhile, sees that poor performance is tolerated, which discourages the best.
+
+She insists on how it's done: with respect, honesty, and by helping the person bounce back.
+
+> À retenir | Distinguish "doesn't know how" from "doesn't want to." Speak up early, with a clear plan. And know how to part ways respectfully when necessary.
+
+=== Managing yourself
+--- Impostor syndrome
+kw: doubt · comparison · normal
+Julie Zhuo talks openly about a feeling she had for a long time: that she wasn't up to it, that she was an impostor who would eventually be found out. She recalls being afraid to speak up in meetings in front of executives, feeling incompetent beside more experienced team members, and doubting every decision she made.
+
+She explains that this feeling is extremely widespread, especially among new managers, and that it also affects very competent people. It often comes from comparing what you know of your own doubts with the confident outward image others project.
+
+She suggests several ways to deal with it.
+
+**Recognize that it's normal.** Knowing that most managers go through the same thing reduces the sense of isolation.
+
+**Identify your strengths.** Rather than focusing on what you can't do, become aware of what you do well, and put it to work for the team.
+
+**See mistakes differently.** A mistake is not proof that you are an impostor, but an opportunity to learn.
+
+**Talk to other managers.** Sharing your doubts with peers, a mentor or a coach helps put things in perspective and learn from their experience.
+
+**Prepare.** For the situations that cause the most anxiety, such as presenting to senior leadership, good preparation builds confidence.
+
+The author notes that this feeling never completely goes away. Over time, she learned to recognize it, not to let it dictate her decisions, and even to see it as a sign that she was growing in a new area.
+
+- Doubt is common, even among the best.
+- Rely on your strengths, learn from your mistakes.
+- Share your doubts with peers.
+
+--- Knowing your strengths and limits
+kw: feedback · energy · strengths
+Julie Zhuo encourages managers to know themselves better, because the way they are affects their whole team.
+
+She suggests identifying your **strengths**. To do so, she proposes asking in which situations you feel most effective and energized, what compliments you often receive, and which tasks you do easily that others find hard. She also recommends asking colleagues and your manager what they see as your strong points.
+
+She then invites you to identify your **limits** and **triggers**: the situations in which you react badly, become defensive, lose patience. Knowing them helps you manage them better. She recounts, for example, that she reacted badly when her work was criticized in public, and learned to take a moment before responding.
+
+She stresses the importance of managing your **energy**. Management is emotionally demanding. An exhausted manager makes worse decisions and passes their stress on to the team. So they must protect time for recovery, and notice what gives them energy and what drains it.
+
+Finally, she encourages managers to **build a complementary team**. No one is good at everything. A manager who knows their limits can hire and surround themselves with people who compensate for them, rather than hiring people like themselves.
+
+This reflection echoes Peter Drucker's ideas in *The Effective Executive*: build on your strengths, and on others', rather than wearing yourself out correcting your weaknesses.
+
+> Question clé | In which situations do you lose your footing? What would help you respond better?
+
+=== Meetings, hiring, execution
+--- Useful meetings
+kw: clear purpose · right people · decide
+Julie Zhuo notes that managers spend a large part of their time in meetings, and that many of these meetings are useless. She proposes principles to make them effective.
+
+**Know why you are meeting.** Every meeting must have a specific purpose. She distinguishes several kinds of meetings: making a decision, sharing information, generating ideas, strengthening relationships within the team. Each type calls for a different setup.
+
+**Invite the right people.** A decision meeting should include the people who decide and those who have the necessary information, but no more. The more participants, the harder it is to decide.
+
+**Prepare.** Sending the agenda and documents in advance lets participants arrive ready and spend the meeting time on discussion.
+
+**Get everyone involved.** In many meetings, a few people talk a lot while others stay silent. The manager must make sure every view is heard.
+
+**Conclude.** A useful meeting ends with a clear decision, or at least with specific actions with owners and deadlines.
+
+**Cancel useless meetings.** The author recommends regularly reviewing recurring meetings and dropping those that no longer serve a purpose.
+
+She proposes a simple test: at the end of a meeting, participants should feel that the time was well spent. If not, something needs to change.
+
+- A specific purpose for every meeting.
+- The right people, prepared.
+- A clear decision or actions at the end.
+
+--- Hiring well
+kw: need · structured interviews · diversity
+Julie Zhuo considers hiring one of a manager's most important decisions. A good hire can transform a team; a bad one can destabilize it for a long time.
+
+She offers several tips.
+
+**Define the need precisely.** Before searching, the manager must know what the team needs the new person to bring: what skills, what experience, what profile complementary to the current members.
+
+**Search actively.** The best candidates don't always apply. The manager must tap their network, ask for referrals and contact people they admire directly.
+
+**Structure the interviews.** Each interview should assess specific skills, with questions prepared in advance. Several team members can take part, each assessing a different aspect. Decisions should rest on concrete observations, not on a general impression.
+
+**Beware of similarity.** Interviewers tend to prefer candidates who resemble them. The author insists on the value of building diverse teams, which bring different perspectives and make better decisions.
+
+**Check references.** Talking to the candidate's former colleagues or managers lets you check your interview impressions.
+
+**Take care of onboarding.** Hiring doesn't end with the signature. The new hire's first weeks shape their success. The manager must prepare their arrival, introduce them to the team and quickly give them a first project.
+
+She concludes with a rule: when in doubt, don't hire. Better to wait for the right candidate than to fill a role with the wrong person.
+
+> À retenir | Define the need, search actively, structure interviews, and when in doubt, don't hire.
+
+--- Making things happen
+kw: vision · strategy · execution
+Julie Zhuo explains that a manager must also know how to move projects forward. She describes three levels.
+
+**Vision.** This is the description of what the team is trying to achieve in the long term, the impact it wants to have. A good vision is ambitious, clear and inspiring. It helps everyone understand why their work matters.
+
+**Strategy.** This is the general plan for realizing the vision: what the team will focus on, and above all what it won't do. The author insists on this last point. A strategy that tries to do everything is not a strategy. You have to choose, based on the team's strengths and users' needs.
+
+**Execution.** This is the concrete delivery: projects, priorities, deadlines. She suggests several practices: break big goals into concrete steps, set clear priorities, track progress regularly and adjust when things don't go as planned.
+
+She insists on the importance of **doing few things, but doing them well**. Teams that launch too many projects at once rarely finish them. The manager must know how to say no, or not now.
+
+She also discusses **risk management**. For important projects, she recommends identifying early what could go wrong, and quickly testing the most uncertain assumptions, rather than discovering problems at the end.
+
+Finally, she stresses the importance of **celebrating successes** and **learning from failures**. After each project, the team should take time to reflect on what worked and what could be improved.
+
+- Vision: where we're going.
+- Strategy: what we will and won't do.
+- Execution: few projects, closely followed.
+
+--- Deciding as a team
+kw: disagreement · choice · moving forward
+Julie Zhuo addresses how to make decisions within a team, a subject that often causes new managers trouble.
+
+She observes two opposite mistakes. Some managers decide alone, without consulting, which demotivates the team and deprives the manager of useful information. Others seek consensus at all costs, and decisions drag on for weeks, because no one wants to settle the matter until everyone agrees.
+
+She proposes a middle path. For each important decision, first **clarify who decides**. Is it the manager, someone on the team, the whole team? This clarity prevents misunderstandings and frustration.
+
+Next, **gather the views** of those concerned, especially those who disagree. Disagreements are valuable: they reveal risks and options the majority hasn't seen. The manager must encourage people to voice them.
+
+Finally, the person responsible **decides**, explaining their reasons, including to those who disagreed. Once the decision is made, the team commits to carrying it out, even those who would have preferred another option.
+
+The author also stresses the importance of distinguishing **reversible** from **irreversible** decisions. The former can be made quickly, because they can be corrected. The latter deserve more time and thought.
+
+Finally, she notes that managers must accept being wrong. A quick, imperfect decision is often better than a perfect one made too late.
+
+- Clarify who decides.
+- Encourage disagreement, then decide and explain.
+- Decide quickly on what is reversible.
+
+=== Growing the team and its culture
+--- Team culture
+kw: values · example · tolerated behaviour
+Julie Zhuo explains that every team has a culture, whether chosen or not. This culture is made up of the behaviours that are valued, tolerated or sanctioned day to day.
+
+She stresses that culture cannot be decreed through posters or declarations. It is built by what the manager **does**, more than by what they say. If the manager claims the team values candour but reacts badly to criticism, the team will learn to keep quiet. If the manager talks about quality but always accepts rushed work to meet deadlines, the team will understand that deadlines matter more.
+
+She suggests explicitly defining a few values that matter to the team, then translating them into concrete behaviours. For example, a value such as "put the user at the centre" can translate into specific behaviours: testing every new feature with real users, sharing user feedback with the whole team.
+
+She insists on the role of **tolerated behaviours**. A culture often deteriorates not because of dramatic actions, but because the manager lets small lapses slide: repeated lateness, disparaging remarks, a brilliant but toxic team member. Every lapse tolerated sends a message to the whole team.
+
+She also recalls the importance of **rituals**: team meetings, celebrations, informal moments. They strengthen the sense of belonging and pass the culture on to newcomers.
+
+Finally, she notes that culture must evolve with the team. What worked with five people doesn't necessarily work with fifty.
+
+> Question clé | What behaviour in your team contradicts the stated values, and do you tolerate it?
+
+--- When the team grows
+kw: managers of managers · distance
+Julie Zhuo devotes the last chapter to the situation she went through: leading a growing team, to the point of becoming a manager of managers.
+
+She describes the changes this entails. The manager no longer knows every team member personally. They can no longer follow every project in detail. They must work through other managers, who have their own styles.
+
+**Choose and develop managers.** A key part of the job becomes choosing the people who will become managers, and supporting them. The author stresses that the best experts are not always the best managers. You must choose people who want to help others succeed.
+
+**Delegate more.** A manager of managers must delegate not just tasks but entire decisions. They must accept that their managers will make decisions different from those they would have made.
+
+**Stay in touch with the front line.** With distance, it is easy to lose touch with the reality of the work. The author recommends keeping time for direct exchanges with team members, such as occasional skip-level conversations, lunches or project visits.
+
+**Communicate more.** In a large team, information flows poorly. The manager must repeat the vision and priorities more often than they think necessary.
+
+**Think about the organization.** How to structure teams, what responsibilities to give each, how to avoid overlaps and grey areas: these questions become central.
+
+She concludes that the job changes, but the fundamentals remain the same: purpose, people and process.
+
+- Choose managers who want to help others succeed.
+- Delegate entire decisions.
+- Stay close to the front line and repeat the vision.
+
+=== Putting it into practice
+--- The new manager's mistakes
+kw: doing everything · wanting to please · avoiding
+Drawing on her own experience and that of other managers, Julie Zhuo lists the most common mistakes of new managers.
+
+**Continuing to do the work yourself.** This is the most common mistake. The new manager feels more useful producing than helping others produce. They become the team's bottleneck.
+
+**Wanting to be liked.** The manager avoids difficult conversations, doesn't dare give negative feedback, accepts every request. In the end, they lose the team's trust and respect.
+
+**Wanting to control everything.** Conversely, some managers, anxious about their new responsibility, check everything and decide everything. The team loses its autonomy and motivation.
+
+**Not communicating enough.** The manager thinks the team already knows what they know: the priorities, leadership's decisions, the reasons for choices. It doesn't.
+
+**Putting off problems.** A conflict between colleagues, poor performance, a project in trouble: the manager hopes things will sort themselves out. They often get worse.
+
+**Neglecting the relationship with your own manager.** The new manager focuses on their team and forgets to keep their boss informed, ask for help and understand expectations.
+
+**Not taking care of yourself.** The manager wears themselves out trying to do everything, and ends up making worse decisions.
+
+The author stresses that she made most of these mistakes. Recognizing them is the first step to correcting them.
+
+> Question clé | Which of these mistakes do you recognize in your own practice?
+
+--- 30-day action plan
+kw: week by week · one-on-ones · feedback
+**Week 1: take stock.** Write your team's purpose in one sentence. For each team member, note their strengths, their goals and what might hold them back. Identify which situation you came into the role in, and what its main difficulty is.
+
+**Week 2: one-on-ones.** Set up or improve regular one-on-ones. Ask each person to prepare their topics. Ask at least one question about their career goals and one about how you could support them better.
+
+**Week 3: feedback.** Give each team member at least one specific piece of positive feedback and, if needed, one piece of improvement feedback based on facts. Ask two people what you could do differently.
+
+**Week 4: process.** Review your recurring meetings and drop or transform at least one. Delegate a responsibility you were holding on to out of habit. Note your own strengths and the situations in which you lose your footing.
+
+The author reminds us that you don't become a good manager in a month. But every improved practice changes the team's daily life.
+
+> À retenir | A clear purpose, regular one-on-ones, specific feedback, useful meetings, delegation. One step each week.
+
+--- Case study: promoted among her peers
+kw: apprentice · former colleague · trust
+Inès has worked for four years in a team of five analysts. When their manager leaves, leadership offers her the job. She accepts, but she is worried: Thomas, a more senior colleague, was hoping for the role, and she is used to doing the most complex analyses herself.
+
+**The situation.** Inès recognizes herself as an apprentice. She decides to talk about it openly.
+
+**The first conversations.** She meets each analyst individually, starting with Thomas. She acknowledges his disappointment, tells him she is counting on his expertise, and asks what would help him grow. Thomas says he would like to lead more cross-team projects.
+
+**Delegating.** Inès gives Thomas responsibility for an important project with another department, which she would once have led herself. She resists the urge to redo his analyses and simply discusses the approach with him.
+
+**Feedback.** She sets up one-on-ones every two weeks. She notices that one analyst, Sarah, often hands in reports with errors. She raises it early, with specific examples, and discovers that Sarah lacks training on a new tool. A training course solves the problem.
+
+**Process.** She drops a weekly status meeting that had become pointless and replaces it with a shared dashboard.
+
+Six months later, the team is working well, and Thomas has become one of her strongest supporters.
+
+> Question de réflexion | What candid conversation have you been putting off with a member of your team?
+
+=== Critical view and links
+--- Limits of the book
+kw: tech · growth · simplicity
+*The Making of a Manager* is appreciated for its clarity and sincerity, but it has several limits.
+
+**A particular context.** The author's experience took place in a very fast-growing tech company, with substantial resources and a particular culture. Some advice, notably on hiring and organization, is less suited to small organizations, government agencies or more traditional industries.
+
+**A book for beginners.** The book is aimed first and foremost at new managers. Experienced managers will mostly find useful reminders rather than new ideas.
+
+**Little data.** The advice rests mainly on the author's experience and a few references. The book does not claim to be based on systematic studies.
+
+**An optimistic view of organizations.** The author describes a company where managers can hire, train and develop people with a certain freedom. In many organizations, managers have much less room to manoeuvre and must contend with budgetary, union or regulatory constraints.
+
+**Little on power struggles.** The book says little about office politics, conflicts with senior management or situations where the manager deeply disagrees with leadership.
+
+These limits take nothing away from the book's value; it remains one of the best practical guides to the first years of management.
+
+- An excellent starter guide, less useful for seasoned managers.
+- A tech start-up context to adapt.
+
+--- Links with other books
+kw: Grove · Scott · Drucker · Lencioni
+**With High Output Management (Grove).** Julie Zhuo takes up Grove's central idea: a manager's output is their team's output. Grove brings a more systematic view, Zhuo a more personal approach.
+
+**With Radical Candor (Scott).** Both authors worked in Silicon Valley and share the same conviction: candid feedback, given with genuine care for the person, is at the heart of the job.
+
+**With The Effective Executive (Drucker).** The advice to build on your strengths and on others' comes straight from Drucker.
+
+**With The Five Dysfunctions of a Team (Lencioni).** Lencioni places trust at the base of teamwork, just as Zhuo places trust at the base of the relationship between manager and team member.
+
+**With Toyota Kata (Rother).** The manager's role as a coach who develops their people's skills appears in both books.
+
+> Parcours conseillé | Next, read High Output Management for a more systematic view, then Radical Candor to go deeper into feedback.
