@@ -1,0 +1,475 @@
+=== Context and method
+--- Collins and his question
+kw: researcher · good is the enemy of great
+Jim Collins is an American researcher and consultant. He taught at Stanford University's business school before founding his own research laboratory in Colorado. He became known in 1994 with *Built to Last*, co-written with Jerry Porras, which studied companies that remain great for decades.
+
+*Good to Great*, published in 2001, starts from a different question. *Built to Last* studied companies that had almost always been remarkable. But most companies are not like that. They are simply good, respectable, without being exceptional. Collins therefore asks: can a good company become great, and if so, how?
+
+The book opens with a sentence that has become famous, which can be summarized as: good is the enemy of great. Collins explains that most companies never become great precisely because they are already good. They have no compelling reason to question themselves. Their results are satisfactory, their employees reasonably happy, their leaders respected. The comfort of good prevents the pursuit of great.
+
+This observation also holds beyond business. Collins notes that most schools, hospitals, nonprofits and government agencies are in the same situation. He later published a short companion devoted to the social and public sectors, showing that the same principles apply, with some adaptations.
+
+The book was a huge success. It became one of the best-selling management books of all time, and its concepts, such as Level 5 leadership and the Hedgehog Concept, are now part of the everyday vocabulary of executives.
+
+> À retenir | The main obstacle to greatness is being good already. The comfort of a satisfactory situation stops you from looking for better.
+
+--- The research method
+kw: 11 companies · comparisons · 15 years
+Much of the book's originality lies in its method. Collins assembled a team of about twenty researchers, who worked for roughly five years. They examined the companies that appeared in the American ranking of the largest corporations between 1965 and 1995.
+
+They were looking for companies with a precise profile: a period of about fifteen years in which their stock returns were close to or below the market average, followed by a transition point, then a period of at least fifteen years in which their cumulative returns were at least three times the market's. The criterion was deliberately demanding, to exclude successes due to luck or to a single charismatic leader.
+
+Out of nearly 1,500 companies examined, only eleven met this criterion. They included very different businesses, such as the Walgreens drugstore chain, the steelmaker Nucor, the hygiene products maker Kimberly-Clark, the bank Wells Fargo, the Kroger supermarket chain, the razor maker Gillette and the pharmaceutical company Abbott. On average, after their transition point, their cumulative stock returns were about seven times the market's over fifteen years.
+
+The decisive step was comparison. For each great company, the researchers chose a comparison company in the same industry, with similar opportunities and resources at the time of the transition, but which failed to make the leap. For example, Kroger was compared with A&P, Walgreens with Eckerd, Kimberly-Clark with Scott Paper. They also studied a few companies that made a transition but failed to sustain it.
+
+So the question was not "what do great companies do?" but "what did the great companies do that the comparison companies did not?" This approach avoids confusing features common to all companies with what really makes the difference.
+
+- Eleven companies out of nearly 1,500 met a very demanding criterion.
+- Each was compared with a competitor that did not succeed.
+- The question is about what distinguishes, not about what is shared.
+
+--- The surprises of the research
+kw: no charisma · no miracle · framework
+Collins explains that the research produced unexpected results, often contrary to received ideas about management. These surprises are one of the main attractions of the book.
+
+**No charismatic leaders brought in from outside.** The team expected to find spectacular leaders, hired from outside to transform the company. In reality, the leaders of the great companies almost all came from inside, and they were rather low-key. The comparison companies, by contrast, more often turned to famous, charismatic outsiders.
+
+**No systematic link with executive pay.** The researchers found no systematic correlation between the way executives were paid and the move to greatness.
+
+**No miracle strategy.** The great companies did not have better strategies in the classic sense. They spent as much time planning as the others. The difference lay in how they chose what they would not do.
+
+**No decisive technology.** Technology triggered none of the transitions. It could accelerate a transition, but never cause it.
+
+**No spectacular mergers and acquisitions.** Acquisitions played no decisive role. They can accelerate a company already on the right path, but they do not transform a mediocre one.
+
+**No motivation programs.** The great companies did not spend much energy motivating or rallying their employees. With the right people and the right framework, motivation came on its own.
+
+**No big moment of transformation.** The companies themselves were often unaware that they were undergoing a transformation. There was no slogan, no change program, no grand speech. The transformation happened gradually.
+
+**No industry advantage.** Several great companies were in difficult industries, such as steel or grocery retail.
+
+> À retenir | Greatness comes neither from charisma, nor from a technology, nor from a big announcement. It comes from disciplined choices, made gradually.
+
+--- What about outside business?
+kw: public · nonprofit · measuring differently
+After the book came out, Collins received many questions from leaders of schools, hospitals, nonprofits, government agencies and even churches. They asked whether his conclusions applied to their organizations, which do not seek profit. He answered with a short companion devoted to the social sectors, in which he defends a strong idea: most of the principles apply, but they need to be translated.
+
+**Measuring without profit.** In a business, performance is measured in financial results. In a public or nonprofit organization, money is a means, not an end. Collins proposes defining performance in relation to the mission, and accepting that some measures will be qualitative. What matters is not perfect numbers but gathering solid evidence, quantitative or not, and tracking how it changes over time. A school can track its students' progress, a hospital the quality of its care, a nonprofit the number of people it has genuinely helped.
+
+**Leading without concentrated power.** In many public and nonprofit organizations, the leader cannot decide alone. They must work with elected officials, unions, volunteers and boards. Collins distinguishes executive leadership, where the leader has the authority to decide, from legislative leadership, where they must persuade, negotiate and create the conditions for the right decisions to be made. He observes that Level 5 leaders in these sectors excel at the second.
+
+**The right people despite constraints.** In the public sector, it is often hard to hire freely or to let someone go. Collins then recommends focusing effort on the moments when there is room to act: hiring, the probation period, assignments. He also points out that these organizations often attract deeply committed people, which is a considerable asset.
+
+**A different engine.** The economic engine becomes a resource engine: volunteers' time, donations, grants, but above all reputation, which attracts everything else.
+
+> À retenir | Outside business, performance is measured against the mission, and the leader often has to persuade rather than decide alone.
+
+=== Level 5 leadership
+--- The five-level hierarchy
+kw: competence · team · management · vision
+The book's most famous finding concerns the type of leader who took companies from ordinary to great. Collins says he first asked his team to ignore the leaders, to avoid the easy "great man" explanation. But the data eventually won out: every great company had, at the time of its transition, a particular type of leader.
+
+Collins presents a hierarchy of five levels of capability. Each level includes the ones below it.
+
+- **Level 1: highly capable individual.** Makes productive contributions through talent, knowledge, skills and good work habits.
+- **Level 2: contributing team member.** Puts their abilities to work for the group's objectives and works effectively with others.
+- **Level 3: competent manager.** Organizes people and resources toward the effective pursuit of set objectives.
+- **Level 4: effective leader.** Builds commitment to a clear and compelling vision and pushes the organization toward high performance standards.
+- **Level 5: Level 5 executive.** Builds enduring greatness through a paradoxical blend of personal humility and professional will.
+
+Collins states that all the leaders of the great companies were Level 5 at the time of the transition. Many leaders of the comparison companies were Level 4: effective leaders, sometimes brilliant, but self-centred.
+
+He stresses that you do not need to go through each level in order. Some Level 5 leaders moved quickly through the early levels. But all of them have the full set of capabilities in the hierarchy.
+
+One question remains open in the book: can you become a Level 5 leader? Collins thinks some people have the potential, often revealed by a defining life experience such as an illness, an ordeal or a personal conversion. But he admits he does not really know how to develop this level.
+
+> À retenir | Level 5 is not a style, it is a combination: all the skills of the lower levels, plus ambition directed at the organization rather than at oneself.
+
+--- Humility and will
+kw: modesty · determination · examples
+The heart of Level 5 leadership is a paradox. These leaders are both modest and almost fiercely determined. Their ambition is immense, but it is directed first at the company, not at themselves.
+
+**Personal humility.** Level 5 leaders are quiet, reserved, sometimes shy. They avoid public praise and do not try to become celebrities. They credit their success to others, to their teams or to luck. They rely on high standards rather than charisma to motivate. They prepare their succession so that the company does even better after they leave.
+
+**Professional will.** At the same time, they show unwavering determination. They are ready to make very hard decisions for the good of the company. They set themselves exceptional performance standards and refuse to settle for "good." They work with remarkable consistency, often over many years.
+
+Collins gives the example of Darwin Smith, who led Kimberly-Clark for about twenty years from 1971. A little-known in-house lawyer for the company, he was appointed to general surprise. Shortly after his appointment, he was diagnosed with a serious cancer, which did not stop him from continuing to lead. He made an extraordinarily risky decision: to sell the paper mills that formed the company's historic core, in order to focus all resources on consumer products, in head-on competition with giants such as Procter & Gamble. Analysts were sceptical. Twenty years later, Kimberly-Clark had overtaken its rivals.
+
+By contrast, Collins describes leaders of comparison companies with spectacular charisma, who achieved quick results by cutting costs, then left the company in a fragile state. Their success was mainly their own, not the company's.
+
+- Immense ambition, but for the company, not for oneself.
+- Personal modesty and courageous decisions go together.
+- The real test is the company's success after the leader leaves.
+
+--- The window and the mirror
+kw: crediting success · owning failure
+Collins uses a simple image to sum up the attitude of Level 5 leaders: the window and the mirror.
+
+When things go well, Level 5 leaders look out the window. They attribute success to factors outside themselves: their colleagues, favourable circumstances, luck. Collins notes that many of them spontaneously spoke of luck to explain their success, even when the researchers could show that their own decisions had been decisive.
+
+When things go badly, Level 5 leaders look in the mirror. They take responsibility for the failure, without blaming others, circumstances or bad luck.
+
+The leaders of the comparison companies often did the opposite. They looked in the mirror to take credit for success, and out the window to explain failures by external factors: competition, the economy, regulation, other people's mistakes.
+
+This image has practical consequences for all managers, whatever their level:
+
+- **In review meetings**, start by acknowledging others' contributions when results are good, and by examining your own responsibility when they are bad.
+- **In external communication**, put the team forward rather than yourself.
+- **In team culture**, encourage everyone to adopt this attitude, which reduces finger-pointing and promotes learning.
+
+Collins stresses that this attitude is not false modesty. Level 5 leaders sincerely believe that success comes from the team and from luck. This conviction makes them more attentive to others and more clear-sighted about their own mistakes.
+
+He adds an observation about succession. Level 5 leaders set their successors up to succeed. Egocentric leaders, on the other hand, often choose weak successors or prepare none at all, as if their own greatness should be measured by the decline that follows their departure.
+
+> Question clé | After your last success, who did you give the credit to? After your last failure, did you first look out the window or in the mirror?
+
+=== First who, then what
+--- The right people on the bus
+kw: people before strategy · flexibility
+The second finding is summed up by a famous image. The leaders of the great companies did not start by setting a vision and strategy and then look for people to carry it out. They first got the right people on the bus, the wrong people off the bus and the right people in the right seats. Only then did they decide where to drive the bus.
+
+Collins gives three reasons for this order.
+
+- **Flexibility.** If you start with people rather than the destination, you can change direction more easily. People joined the company for the other people and for the venture, not for a specific destination. If the world changes, they will adapt.
+- **Motivation.** With the right people, the motivation problem largely disappears. The right people are self-motivated, driven by the desire to do excellent work. There is no need to push them.
+- **Quality of execution.** With the wrong people, even the best strategy fails. With the right ones, an imperfect strategy can be corrected.
+
+Collins cites the example of Wells Fargo in the 1970s. Anticipating the deregulation of banking, management systematically hired the best talent it could find, often with no specific job to offer. When deregulation came, the company had a team able to adapt quickly, while its competitors lacked capable leaders.
+
+He specifies that the "right people" are not defined first by their degrees or technical skills. The great companies gave more weight to character, work ethic, intelligence and values. They believed technical skills can be learned, whereas character cannot be taught.
+
+> À retenir | "Who" before "what." With the right people you can change direction; with the wrong ones, even the best strategy fails.
+
+--- Rigorous, not ruthless
+kw: three disciplines · hiring · placement
+Collins insists on an essential nuance: the great companies were rigorous in their people decisions, but not ruthless. Being ruthless means laying people off massively and without thought, especially in hard times, as an easy way to cut costs. Being rigorous means applying high standards consistently, at every level, starting with top management.
+
+He observes that the comparison companies carried out massive, repeated layoffs much more often. The great companies rarely resorted to them. Their rigour showed in hiring and placement decisions far more than in layoffs.
+
+From his research Collins draws three practical disciplines:
+
+**When in doubt, don't hire; keep looking.** The great companies preferred to leave a position vacant rather than fill it with someone they were unsure of. Collins states a rule often attributed to a former company leader: no company can grow revenues faster than its ability to get enough of the right people to implement that growth.
+
+**When you know you need to make a people change, act.** Keeping the wrong person too long is unfair to the right people, who have to compensate. It is also unfair to the person concerned, who might do better elsewhere. Collins says you should first ask whether the person is in the wrong seat rather than on the wrong bus. Sometimes a change of seat is enough.
+
+**Put your best people on your biggest opportunities, not your biggest problems.** It is a very common reflex to assign the best people to fixing crises. But that keeps them from building the future. Solving problems brings you back to normal; seizing opportunities creates greatness.
+
+Collins also stresses the importance of the leadership team. The teams of the great companies debated vigorously, then backed the decision taken. Their members put the company's interest ahead of their own.
+
+- When in doubt, don't hire.
+- When you know a change is needed, act.
+- Put your best people on opportunities, not just on crises.
+
+--- How to recognize the right person
+kw: character · values · responsibility
+In his later work Collins refined the question of what a "right person" is for an organization. His observations can be summed up in a few criteria.
+
+- **They share the organization's core values.** You cannot teach someone to share values. You can only hire people who already hold them.
+- **They do not need to be tightly managed.** The right people manage themselves. They need to be guided, taught and led, but not supervised.
+- **They understand that they do not have a job, but responsibilities.** They can describe their role in terms of outcomes and contributions, not just tasks.
+- **They keep their commitments.** They do what they say they will do, even when it is hard.
+- **They are passionate about the organization and its work.**
+- **They show "window and mirror" maturity**: they credit others and own their mistakes.
+
+Collins also proposes two questions to tell whether someone is the right person. First: if it were a hiring decision rather than a decision about keeping the person, would you hire them again? Second: if this person told you they were leaving for another opportunity, would you be disappointed or relieved?
+
+He insists on an important point: these questions must not lead to hasty decisions. Before concluding that someone is not the right person, you need to check that they are in the right seat, that they have been given the means to succeed and that they have had frank feedback about what is not working. Many people who fail in one role succeed in another.
+
+These criteria apply to hiring as much as to managing existing teams. They can serve as the basis for a discussion with HR about hiring criteria, which are often too focused on technical skills.
+
+> Exercice | For each member of your team, silently ask yourself Collins's two questions. For those who raise doubts, first check whether they are in the right seat.
+
+=== Confronting reality
+--- A climate where the truth is heard
+kw: questions · debate · autopsies without blame
+The third finding concerns the ability to confront the brutal facts. All the great companies began their transition by facing their situation squarely, even when it was very uncomfortable. The comparison companies, by contrast, tended to ignore or downplay negative signals.
+
+Collins cites the example of Kroger and A&P. In the 1950s, A&P was the largest grocery chain in the world. Both companies saw, at roughly the same time, that consumers wanted bigger supermarkets with more choice. Kroger accepted this reality and transformed its entire network, store by store. A&P ran tests, found that customers did indeed want something else, then chose to ignore the results because they challenged its historic model. A&P then declined for decades.
+
+Collins argues that the leader's role is to create a climate where the truth can be heard. He identifies four practices:
+
+- **Lead with questions, not answers.** The leaders of the great companies asked many questions to understand, instead of arriving with ready-made answers.
+- **Engage in dialogue and debate, not coercion.** Leadership team meetings were the scene of lively debates, where everyone could voice disagreement.
+- **Conduct autopsies without blame.** When a decision turned out badly, people analysed what had happened in order to understand and learn, not to punish.
+- **Build mechanisms that turn information into signals that cannot be ignored.** For example, systems that let customers or employees report problems directly to top management.
+
+Collins points out that charisma can be a liability. A charismatic leader risks having others filter information so as not to upset them. Such a leader must make a special effort to hear bad news.
+
+> À retenir | Questions rather than answers, debate rather than coercion, analysis without blame, and mechanisms that make bad news impossible to ignore.
+
+--- The Stockdale Paradox
+kw: clear-sightedness · faith · no self-deception
+Collins illustrates the attitude toward reality with the story of Admiral James Stockdale. A US Navy officer, he was the highest-ranking American held in the Hanoi prison during the Vietnam War. He stayed there about eight years, from 1965 to 1973, was tortured many times, and did not know whether he would ever see his family again. During his captivity, he organized the other prisoners' resistance and helped keep up their morale.
+
+Collins had the chance to meet Stockdale and ask him how he had held on. Stockdale replied that he never lost faith in the end of the story: he was convinced he would get out and would make the experience a defining moment of his life. Collins then asked who did not make it. Stockdale answered without hesitation: the optimists. Those who told themselves they would be out by Christmas. Then Christmas would pass, and they would say Easter. Then Easter would pass. And they eventually died of despair.
+
+The Stockdale Paradox therefore means holding two attitudes at once:
+
+- **Unwavering faith that you will prevail in the end**, whatever the difficulties.
+- **The discipline to confront the most brutal facts of your current reality**, whatever they may be.
+
+Collins observes that the leaders of the great companies all had this attitude. They did not tell themselves stories about the company's situation, but they never doubted they would find a path to greatness. The leaders of the comparison companies often swung between naive optimism and deep discouragement.
+
+This paradox has practical value beyond business. It applies to any difficult situation: a late project, a crisis, a restructuring, a hard personal period. Naive optimism leads to repeated disappointment; pessimism leads to inaction. The combination of clear-sightedness and confidence makes action possible.
+
+> À retenir | Never confuse faith in the final outcome, which you must keep, with refusing to see current reality, which is fatal.
+
+--- Warning signs
+kw: denial · artificial motivation · charisma
+Collins describes several behaviours that prevent an organization from confronting reality. Recognizing them makes it possible to correct them.
+
+**Denial of bad news.** The comparison companies tended to interpret negative signals reassuringly: a drop in sales was due to the economy, a loss of market share to a bad year, a lost customer to an isolated case. They waited too long before recognizing a structural problem.
+
+**Artificial motivation.** Collins argues that leaders who spend a lot of time motivating their troops often mask reality. Grand speeches and internal communication campaigns create a positive mood, but they sometimes prevent people from seeing problems. The right people do not need to be motivated by speeches; they need not to be demotivated by a refusal to see reality.
+
+**The leader who talks too much.** When the leader dominates the conversation in meetings, others no longer dare to voice their doubts. Collins observes that the leaders of the great companies listened far more than they spoke.
+
+**Consensus reached too quickly.** A team that agrees too easily has probably not examined the problem enough. The best decisions emerge from debate.
+
+**Fear of failure.** If mistakes are punished, no one will dare report problems. Autopsies without blame are the answer to this.
+
+Collins insists on the difference between confronting reality and losing heart. He cites leaders who, on discovering how serious their situation was, did not panic but got to work with calm determination. Confronting reality is not a matter of pessimism; it is a matter of clear-sightedness.
+
+For a manager, these signs can serve as a self-examination grid. In my team, does bad news travel up quickly? Do I talk more than I listen in meetings? Do mistakes lead to analysis or to punishment?
+
+- Be wary of repeated reassuring explanations.
+- Motivational speeches can mask problems.
+- Listen more than you speak, especially if you are charismatic.
+
+=== The Hedgehog Concept
+--- The hedgehog and the fox
+kw: one big idea · simplicity · clarity
+The fourth finding draws on an ancient Greek fable, taken up by the philosopher Isaiah Berlin in a famous essay. The fox knows many things, but the hedgehog knows one big thing. The fox is cunning, fast and imaginative. Every day it devises a new strategy to attack the hedgehog. But each time, the hedgehog rolls into a ball, presenting its spines. And each time, the fox gives up.
+
+Collins uses this image to describe two ways of thinking. "Foxes" pursue many ideas at once and see the world in all its complexity. They are often brilliant but scattered. "Hedgehogs" reduce the complexity of the world to one simple idea that guides all their decisions. They are sometimes seen as simplistic, but they are remarkably consistent.
+
+The leaders of the great companies were hedgehogs. They found a simple, clear idea of what their company should do, and they stuck to it with remarkable consistency for many years. The leaders of the comparison companies were more often foxes: they pursued many strategies, launched into diversification, changed course with every fashion.
+
+Collins specifies that the Hedgehog Concept is not a goal, a strategy or an intention to be the best. It is a deep understanding of what the company can truly be the best at. The difference matters. Many companies claim they want to be the best in their industry. Few have a clear-eyed understanding of what they can really excel at.
+
+He also stresses that the Hedgehog Concept is not simplistic. It is the result of long, deep reflection. The great companies took four years on average to formulate theirs. Simplicity is the fruit of understanding, not of laziness.
+
+> À retenir | The hedgehog reduces complexity to one clear idea that guides every decision. That simplicity is the result of years of reflection.
+
+--- The three circles
+kw: passion · best in the world · economic engine
+The Hedgehog Concept sits at the intersection of three circles. Each circle corresponds to a question.
+
+**What can you be the best in the world at?** This is not about what you want to be the best at, nor what you currently do. It is about what you genuinely have the potential to do better than anyone else. An important corollary: you must also know what you cannot be the best at, even if it is your historic business. Collins cites the example of Walgreens, which abandoned food service, a historic business, to focus on convenient neighbourhood drugstores, where it could be the best.
+
+**What drives your economic engine?** The great companies all found a single economic indicator, which he calls the economic denominator, that guides their decisions. The question is: if you could pick only one ratio of profit per unit, which would have the greatest impact on your economic engine? For Walgreens, it was profit per customer visit. For Nucor, profit per ton of steel. For Wells Fargo, after deregulation, profit per employee.
+
+**What are you deeply passionate about?** Collins specifies that this is not about stimulating passion, but about choosing activities that naturally arouse it. He observes that the great companies were passionate about what they did, even if their business might seem mundane. Walgreens' leaders were passionate about drugstores, Kimberly-Clark's about consumer products.
+
+The Hedgehog Concept lies where these three circles overlap. An activity you are passionate about but cannot be the best at is not enough. Nor is an activity you can be the best at that does not drive your economic engine. You need all three.
+
+Collins points out that the three circles also apply to individuals. A fulfilling career often lies at the intersection of what we are passionate about, what we have a particular talent for and what the world is willing to pay us for.
+
+> Exercice | Draw the three circles for your team or department. What would your "denominator" be: the single ratio that matters most?
+
+--- The Council and slow discovery
+kw: repeated debate · time · questions
+Collins explains how the great companies discovered their Hedgehog Concept. It was not the result of a strategy retreat or a flash of insight. It was an iterative and often slow process, made of questions, debates and trials.
+
+He describes a mechanism he calls the **Council**. It is a group of people who meet regularly to reflect on the company's big questions. Its members share several traits: they are chosen for their ability to debate constructively, they represent different perspectives, they respect one another and they think first of the company's interest. The Council is not a decision-making committee but a place for reflection. It meets regularly for years, and its discussions gradually feed the understanding of the Hedgehog Concept.
+
+The process follows a cycle: you ask questions, debate, make decisions, observe the results, draw lessons, then start again. Each cycle sharpens understanding. Collins stresses the importance of autopsies, which make it possible to learn from failures. He also recommends using the three circles to guide the debates.
+
+He insists on the patience required. The great companies took four years on average to clarify their Hedgehog Concept. During that time they were not idle: they acted, tested and learned. But they did not look for shortcuts.
+
+Collins gives a pointer on the right level of ambition. The Hedgehog Concept is not necessarily ambitious in a spectacular sense. It may seem modest: being the best chain of convenient drugstores, the best low-cost steelmaker. But its strength comes from the consistency and coherence with which it is applied.
+
+A manager who wants to apply this principle can bring together a small group of trusted colleagues for a few hours each quarter around the three questions. The aim is not to find a definitive answer in one session, but to gradually refine the understanding of what the team can do best.
+
+- The Hedgehog Concept is discovered through repeated debate, not a flash of insight.
+- A small, regular reflection group is worth more than a one-off retreat.
+- The strength of a modest idea comes from the consistency of its application.
+
+=== Discipline and the flywheel
+--- A culture of discipline
+kw: freedom within a framework · bureaucracy
+The fifth finding concerns discipline. Collins observes that the great companies all had a culture of discipline. He immediately specifies what he means: not an authoritarian leader who imposes discipline by force, but disciplined people who think in a disciplined way and act in a disciplined way.
+
+Collins distinguishes discipline from bureaucracy. In his view, bureaucracy exists to compensate for incompetence and lack of discipline. When you have the wrong people, you need rules and controls to manage them. But those rules drive away the right people, who need freedom. This creates a vicious circle: more bureaucracy, fewer right people, hence even more bureaucracy.
+
+The great companies avoided this trap by hiring disciplined people and giving them great freedom within a clear framework. Collins uses the image of an airline pilot. The pilot works within a highly structured system, with strict procedures. But within that system, the pilot has considerable autonomy and ultimate responsibility for decisions.
+
+He insists that discipline must be consistent with the Hedgehog Concept. Disciplined people focus their energy on what really matters, that is, on activities at the intersection of the three circles. They say no to everything else, even to tempting opportunities.
+
+Collins also distinguishes two types of disciplined leaders. Some impose discipline through their personality, tyrannically. Their companies may succeed for a while, but they often collapse after the leader leaves, because the discipline came from the person and not from the culture. Level 5 leaders, by contrast, build a culture of discipline that outlives them.
+
+> À retenir | With disciplined people, you don't need bureaucracy. Give them great freedom within a clear framework, aligned with what matters.
+
+--- The stop-doing list
+kw: saying no · tempting opportunities
+One practical consequence of a culture of discipline is what Collins calls the **stop-doing list**. Most organizations and people have a to-do list. Few have a stop-doing list. Yet this second list is often more important.
+
+Collins observes that the great companies all made hard decisions to let things go: selling historic businesses, turning down growth opportunities, giving up on diversification. They stopped everything that did not fit their Hedgehog Concept, even when those activities were profitable.
+
+He stresses that the problem is not seizing opportunities but seizing too many. A successful company is often flooded with opportunities. The danger is pursuing them all and spreading itself too thin. Collins cites a rule he considers essential: an opportunity that does not fit the Hedgehog Concept must be turned down, however tempting, however profitable.
+
+He also observes that the great companies used the budget as a tool of discipline. The budget was not used to share resources among all activities, but to decide which activities should be fully funded and which should not be funded at all.
+
+For a manager or a team, the stop-doing list can take several forms:
+
+- Review current projects every quarter and stop at least one that does not fit the priorities.
+- Turn down new requests that do not fit the team's mission, explaining why.
+- Eliminate meetings, reports and processes that no longer add value.
+- For yourself, identify the activities that take time without contributing to what matters.
+
+Collins reports that he kept such a list himself. He had made a habit, at the start of each year, of deciding what he would stop doing, along with what he wanted to accomplish.
+
+> Exercice | Write your stop-doing list for this quarter: at least three items. Share it with your team.
+
+--- Technology as an accelerator
+kw: not a trigger · deliberate choice
+The sixth finding concerns technology. Collins wrote his book in the late 1990s, during the dot-com bubble, when people thought technology would transform every company. His conclusions run counter to that enthusiasm.
+
+He observes that technology triggered none of the transitions to greatness. The great companies did not succeed thanks to a revolutionary technology. But they were pioneers in applying carefully selected technologies, those directly linked to their Hedgehog Concept. For them, technology was an accelerator, not an engine.
+
+Collins gives the example of Walgreens when the internet arrived. While many companies rushed to launch online stores, Walgreens took the time to think about how the internet could serve its concept: convenient neighbourhood drugstores. Management was criticized for being slow. But it then developed online services that strengthened its stores rather than competing with them.
+
+He also observes that the comparison companies often had a different attitude. They adopted new technologies for fear of missing the boat, with no clear link to their strategy. They invested heavily, then gave up. Collins sees this as a symptom of their lack of clarity about the Hedgehog Concept.
+
+He draws several principles from these observations:
+
+- **Ask whether the technology fits the Hedgehog Concept.** If so, aim to become a pioneer in applying it. If not, ignore the technology or settle for adequate adoption.
+- **Don't react out of fear.** Fear of being overtaken is not a good reason to invest.
+- **Think about the use before the tool.**
+
+These principles resonate strongly today, with the wave of artificial intelligence. Collins's question remains relevant: how does this technology accelerate what we do best?
+
+- Technology accelerates a company already on the right path; it does not create it.
+- Invest out of conviction, not fear of missing the boat.
+
+--- The flywheel
+kw: accumulation · momentum · doom loop
+The book's last finding is summed up by an image: the flywheel. Imagine a huge flywheel, a very heavy metal wheel mounted on an axle. Your task is to get it spinning as fast as possible. At first you push with all your strength and it barely moves. You keep pushing, and after a long effort it completes one full turn. You keep going, and it turns a little faster. Then faster still. Little by little, the accumulated momentum works for you. The flywheel almost turns by itself.
+
+Collins argues that this is how the great companies made their transition. There was no defining moment, miracle action or revolution. There was an accumulation of consistent pushes, in the same direction, for years. Results arrived gradually, then accelerated. From outside it looked like a sudden transformation. From inside it was a slow, organic process.
+
+He contrasts this image with the **doom loop**, which he observed in the comparison companies. These companies launched big change programs, announced new strategies, hired spectacular leaders, made acquisitions. The results disappointed, and they changed direction again. The flywheel never gained momentum, because its direction kept changing.
+
+Collins also highlights the role of momentum in rallying people. The great companies did not spend much energy motivating their employees or convincing them of the need for change. Concrete results, even modest ones at first, were enough. When people see the flywheel begin to turn, they naturally push in the same direction.
+
+Finally, he proposes rereading the whole book through this image. Level 5 leadership, choosing the right people and confronting reality constitute the build-up. The Hedgehog Concept, the culture of discipline and technology accelerators constitute the push. The flywheel ties it all together over time.
+
+> À retenir | Greatness comes from an accumulation of consistent pushes, not from one big blow. Constantly changing direction keeps the flywheel from gaining momentum.
+
+--- Lasting after greatness
+kw: core values · progress · clock building
+Collins links *Good to Great* to his previous book, *Built to Last*. The first explains how a company becomes great; the second, how it stays great for decades. He presents them as the two halves of a single journey.
+
+The central idea of *Built to Last* is that enduringly great companies combine two opposing forces. On one side, they preserve a core of fundamental values and a purpose that do not change. On the other, they constantly stimulate progress: they change their practices, strategies and products. Everything can change except the core.
+
+Collins uses another image to describe the leaders of these companies: they build clocks rather than tell the time. Telling the time means having a brilliant idea or being a charismatic leader on whom the company depends. Building a clock means creating an organization that works and renews itself without depending on a single person or a single idea. This image echoes Level 5 leadership: the leader prepares an organization that will do even better after they are gone.
+
+He adds that enduring companies sometimes set themselves big, hairy, audacious goals, clear and compelling challenges ten to thirty years out, which stimulate progress. But these goals do not replace the Hedgehog Concept: they must fit within the three circles.
+
+In *How the Mighty Fall*, Collins then describes the stages of decline: hubris born of success, undisciplined pursuit of more, denial of risk and peril, grasping for salvation, then capitulation. These stages are the mirror image of the principles of *Good to Great*.
+
+- Preserve the core values, change everything else.
+- Build an organization that does not depend on you.
+- Decline often starts with the hubris of success.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: team · three circles · stop-doing list
+Collins's ideas mainly concern companies and executives, but they apply to any team. Here is a plan for a manager.
+
+**Week 1: look in the mirror and confront reality.** Take an honest stock of your team's situation: its strengths, its weaknesses, its actual results compared with expectations. Ask your team to tell you what is not working, by asking questions rather than giving answers. Analyse a recent failure with the team, without looking for someone to blame.
+
+**Week 2: people.** For each team member, ask yourself Collins's two questions: would you hire them again? Would you be disappointed if they left? For those who raise doubts, first look at whether they are in the right seat. Check whether your best people are working on opportunities or only on problems.
+
+**Week 3: the Hedgehog Concept.** Bring a few trusted colleagues together for two hours. Work on the three circles applied to your team: what can we be the best in the organization at? What really creates value? What are we passionate about? Look for your denominator: the single indicator that matters most.
+
+**Week 4: discipline and the flywheel.** Write the stop-doing list. Eliminate at least one project or activity that does not fit the concept you have identified. Then identify the consistent pushes you will repeat over the next six months. Share them with the team and track the first results.
+
+Collins reminds us that the process is slow. The Hedgehog Concept will not be found in one session. But starting to ask the right questions is already an important step.
+
+> À retenir | Reality, people, focus, discipline: applied to a team, Collins's principles start with honest questions and things you give up.
+
+--- Self-assessment grid
+kw: six principles · ten questions
+Rate each statement from 1 (not at all true) to 5 (completely true).
+
+**Leadership**
+
+- When we succeed, I put the team forward; when we fail, I take responsibility.
+- I think about my team's success after I leave, and I prepare my succession.
+
+**People**
+
+- I would hire every member of my team again.
+- My best people work on the biggest opportunities, not just on crises.
+
+**Reality**
+
+- Bad news reaches me quickly.
+- We analyse our failures without looking for someone to blame.
+
+**Hedgehog**
+
+- I can explain in one sentence what my team can be the best at.
+- We track one main indicator that sums up our contribution.
+
+**Discipline and momentum**
+
+- We have a stop-doing list, and we apply it.
+- We have pursued the same priorities for at least a year, without changing course with every new fashion.
+
+**Interpretation.** A high total in the first four categories but a low one in the last indicates a healthy but scattered team: work on focus. A low total on reality signals a risk of denial: start there, because it is the foundation of everything else. A low total on people suggests that other efforts may be in vain as long as the team is not the right one.
+
+Collins insists in his work on the order: first people and reality, then strategy. If you don't know where to start, start with people.
+
+- A healthy but scattered team needs to work on focus.
+- Without a clear-eyed view of reality, no other principle holds.
+
+--- Case study: a scattered department
+kw: local government · priorities · perseverance
+Nadia has just taken over the economic development department of a medium-sized metropolitan authority. The department has twelve people. It is well liked and its staff are competent, but its results are modest: few companies set up in the area, and the elected officials are asking questions.
+
+**Reality.** Nadia starts by listening. She meets each staff member and some twenty business owners. The finding is clear: the department runs about thirty different actions, trade fairs, guides, grants, events, without any of them being properly followed through. Local businesses find the staff pleasant but not very useful.
+
+**People.** She notices that two excellent staff members spend most of their time handling administratively complex grant files, even though they know the local businesses very well. She reassigns them to supporting companies' relocation projects, and hands the administrative work to someone better suited.
+
+**Hedgehog.** With a small group of staff, she works on the three circles over several sessions. They conclude that the area can be the best in the region at quickly welcoming logistics and light-industry companies, thanks to its available land and infrastructure. They choose one main indicator: the number of jobs created by the companies they support.
+
+**Discipline.** The department stops about fifteen actions that do not fit this concept, including a long-standing trade fair much loved by the elected officials. Nadia explains the decision to them, with figures to back it up.
+
+**The flywheel.** The first months are disappointing. Then two successful relocations draw the attention of other companies. After two years, results have clearly improved, and the staff, who see the effects of their work, are more engaged than ever.
+
+> Question de réflexion | What is your team's "long-standing trade fair": the activity people love but that no longer serves what matters?
+
+=== Critical view and links
+--- Limits of the book
+kw: halo effect · later declines
+*Good to Great* is one of the most influential management books, but it has been widely criticized, particularly for its method.
+
+**The fate of some companies.** Several of the great companies ran into serious trouble after the book was published. The electronics chain Circuit City went bankrupt in the late 2000s. The mortgage refinancing agency Fannie Mae was placed under government conservatorship during the 2008 financial crisis. Wells Fargo was later caught up in a scandal over bank accounts opened without customers' consent. Collins himself addressed this in a later book, *How the Mighty Fall*, showing that great companies can decline if they abandon the principles that made them succeed.
+
+**The halo effect.** The researcher Phil Rosenzweig criticized the book's method. He points out that the researchers interviewed executives and analysed press articles after the fact, already knowing which companies had succeeded. Yet when a company succeeds, people tend to attribute positive qualities to its leaders and culture. Some of the observed characteristics might therefore be the consequence of success rather than its cause.
+
+**Survivorship bias and sample size.** Eleven companies is a very small sample. It is hard to know whether the observed characteristics are really causes of greatness or coincidences. Statisticians have also pointed out that exceptional performance over a given period guarantees nothing for what follows.
+
+**Ethical questions.** The great companies included Philip Morris, a tobacco manufacturer. The book judges success solely by stock market performance, without asking about the social impact of the business. Collins acknowledged this limitation.
+
+**The risk of dogma.** The book's concepts are sometimes applied mechanically. The Hedgehog Concept, for example, can become a pretext for refusing any adaptation, whereas Collins insists on the need to refine it constantly.
+
+- The causes of success are hard to isolate after the fact.
+- Read the principles as useful hypotheses, not as laws.
+
+--- Links with other books
+kw: Drucker · Christensen · Lencioni · Kahneman
+**With The Effective Executive (Drucker).** Drucker already argued that you should build on strengths and practise systematic abandonment. Collins's "first who" and his stop-doing list extend these ideas to the scale of the company. Drucker also insists that effective executives start with opinions and seek out disagreement, which echoes Collins's climate of truth.
+
+**With The Innovator's Dilemma (Christensen).** The two books can seem contradictory. Collins recommends focusing on what you do best. Christensen shows that companies that focus too much on their best customers and most profitable activities can be overtaken by disruptive innovation. Reading them together is very useful: the Hedgehog Concept must remain open to deep changes in the market.
+
+**With The Five Dysfunctions of a Team (Lencioni).** The leadership teams Collins describes debate vigorously, then back the collective decision. This is exactly how Lencioni's pyramid works, from trust to attention to results.
+
+**With Thinking, Fast and Slow (Kahneman).** Kahneman cites this kind of study, in particular *Built to Last*, Collins's earlier book, to illustrate the narrative fallacy and the halo effect: the tendency to build coherent stories after the fact while underestimating the role of luck. Reading Kahneman after Collins is an excellent exercise in critical thinking.
+
+**With Start with Why (Sinek).** Collins's passion circle is close to Sinek's "why." But Collins puts more emphasis on the economic engine and discipline, whereas Sinek stresses inspiration.
+
+> Parcours conseillé | Next, read The Innovator's Dilemma to balance focus with vigilance, then Thinking, Fast and Slow to sharpen your critical thinking.
