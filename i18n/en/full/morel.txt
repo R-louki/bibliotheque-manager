@@ -1,0 +1,281 @@
+=== Context and thesis
+--- A sociologist in business
+kw: senior executive · sociology · 2002
+Christian Morel is a French sociologist. He had a career as a senior executive in large industrial companies, notably in human resources, while also pursuing research in the sociology of organizations. This dual experience gave him a particular view of how decisions are made in companies and institutions.
+
+*Absurd Decisions* (French original: *Les Décisions absurdes*), published in 2002, starts from an observation. In organizations, competent, informed people acting in good faith sometimes make decisions that go **directly against the goal they are pursuing**. And they often **persist** in these decisions for a long time, despite obvious signs that they are wrong.
+
+Morel isn't talking about ordinary, inevitable mistakes, nor about dishonest or self-interested decisions. He is interested in what he calls **radical and persistent errors**: actions that produce the opposite of what is sought, and that are steadily maintained.
+
+He studies many cases, in aviation, industry, government, medicine and the military, but also in the everyday life of companies. He seeks to understand the mechanisms that produce these decisions. His conclusion is that absurdity generally doesn't come from individuals' stupidity or ill will. It comes from **cognitive**, **collective** and **meaning-related** mechanisms that can affect any organization.
+
+Morel extended this work in other books, notably *Les Décisions absurdes II*, devoted to ways of avoiding these errors, drawing on high-reliability organizations.
+
+> À retenir | Competent people together make decisions contrary to their goal, and persist. Absurdity comes from mechanisms, not stupidity.
+
+--- What is an absurd decision?
+kw: contrary to the goal · persistence · good faith
+Morel clarifies what he means by an **absurd decision**.
+
+An absurd decision is an action **radically contrary to the goal sought**. It isn't simply an imperfect decision, or one that could have been better. It is a decision that produces the opposite of what one wants to achieve. For example, a safety measure that increases risk, a communication tool nobody can use, a rule meant to save time that wastes a great deal of it.
+
+An absurd decision is also **persistent**. It isn't corrected quickly. It is maintained, sometimes for years, even though its negative effects are visible. This persistence is, according to Morel, one of the most intriguing aspects of the phenomenon.
+
+The people who make these decisions are generally **acting in good faith**. They aren't trying to cause harm. They often have the skills and information needed to decide well. And yet they go wrong together, lastingly.
+
+Morel distinguishes his approach from one that looks for culprits. The point isn't to name someone responsible but to understand the processes that lead a group to these errors. This approach is essential, in his view, to be able to prevent them.
+
+He also gives everyday examples: incomprehensible administrative forms, contradictory road signs, meetings that end in a decision nobody wanted.
+
+- The action produces the opposite of its goal.
+- It is maintained despite its effects.
+- Its authors are competent and act in good faith.
+
+=== Errors of reasoning
+--- The shuttle and the seals
+kw: Challenger · data · interpretation
+One of the cases Morel studies most closely is the accident of the **space shuttle Challenger**, which exploded shortly after liftoff in January 1986, killing its seven astronauts.
+
+The explosion was caused by the failure of **seals** on one of the boosters. These seals lost their elasticity in cold weather. On launch day, the temperature was particularly low.
+
+The day before, engineers from the booster manufacturer had voiced their concerns during a teleconference with NASA. They had recommended not launching the shuttle below a certain temperature. But the data they presented were poorly organized. In particular, they had examined the seal incidents on previous flights by looking only at the flights **where problems had been observed**. On those flights alone, the link with temperature didn't appear clearly.
+
+Morel stresses that if **all flights** had been examined, including those without incident, the link between cold and seal problems would have become obvious: almost all warm-weather flights had gone well, while almost all colder-weather flights had shown anomalies.
+
+Under pressure from NASA, which demanded proof, and in a context where the launch had already been postponed several times, the manufacturer's management finally gave its approval.
+
+Morel analyzes this case as a combination of **errors of reasoning** about the data and **collective mechanisms**: schedule pressure, the reversal of the burden of proof, the separation between engineers and decision-makers.
+
+> À retenir | Looking only at the cases where there was a problem can hide the link that jumps out across all cases.
+
+--- Cognitive traps
+kw: shortcuts · simplifications
+Morel describes several **reasoning** mechanisms that lead to absurd decisions. He draws on work in cognitive psychology, notably that of Daniel Kahneman and Amos Tversky.
+
+**Errors about data.** As in the Challenger case, one can draw false conclusions from an incomplete sample, or misinterpret statistics. Morel stresses that many decision-makers are poorly trained in statistical reasoning.
+
+**Simplistic reasoning.** Faced with a complex problem, people apply simple rules that don't fit. For example, they assume a relationship is linear when it isn't.
+
+**Binary reasoning.** People think in all-or-nothing terms, while reality comes in degrees.
+
+**Forgetting the objective.** As action unfolds, people lose sight of the initial goal and focus on intermediate objectives.
+
+**Confusing means and ends.** A procedure, an indicator or a tool becomes an end in itself, at the expense of what it was meant to serve.
+
+Morel also cites an air accident in which a crew facing an engine failure shut down the engine that was working properly instead of the faulty one. Several clues could have revealed the error, but the crew had built an interpretation of the situation, and the subsequent signals were read through that interpretation.
+
+He stresses that these errors don't come from a lack of intelligence. They come from mechanisms we all share, which are amplified by pressure, urgency and complexity.
+
+- Incomplete samples, misread statistics.
+- Simple rules applied to complex situations.
+- A first interpretation that colors all the ones that follow.
+
+--- The wrong frame of reference
+kw: mental model · persistence
+Morel insists on one particularly important mechanism: the **wrong frame of reference**.
+
+When a person or group faces a situation, they understand it through a mental model, a representation of the situation. If this model is wrong, all the decisions that follow from it are likely to be wrong, even if they are logical within the model.
+
+The problem is that this frame is rarely questioned. New information is interpreted to fit it. Information that contradicts it is ignored, minimized or explained away. This tendency explains the **persistence** of absurd decisions: as long as the frame isn't challenged, people keep acting the same way.
+
+Morel gives the example of the air accident already mentioned. The crew had identified the wrong engine as faulty. When they shut it down, some symptoms decreased by coincidence, which seemed to confirm their diagnosis. The subsequent signals, which could have revealed the error, were interpreted through this diagnosis.
+
+He also mentions business decisions where a strategy based on a flawed market analysis is maintained despite disappointing results, because each failure is explained by external factors rather than by the original error.
+
+He stresses that challenging a frame of reference is difficult, because it requires admitting that one was wrong from the start, which has a psychological and social cost.
+
+> Question clé | Which persistent decision in your organization might rest on a starting assumption that was never checked?
+
+=== Collective mechanisms
+--- The Abilene paradox
+kw: apparent agreement · nobody wanted it
+Morel devotes a large part of his book to the **collective** mechanisms that produce absurd decisions. One of the best known is the **Abilene paradox**, described by an American management researcher, Jerry Harvey.
+
+The story goes like this. On a very hot day in Texas, a family is sitting peacefully on a porch. The father-in-law suggests going to dinner in Abilene, a town more than eighty kilometers away. Each person, thinking the others want to go, agrees. They make the trip in a car without air conditioning, eat a bad meal and come back exhausted. Once home, they discover that nobody wanted to go. Each had agreed to please the others.
+
+Morel explains that this paradox illustrates a common phenomenon in organizations: a group makes a decision that **nobody really wants**, because each person believes the others want it and doesn't dare voice disagreement.
+
+He describes the mechanisms behind this phenomenon. The fear of being isolated, of being seen as negative or of breaking the group's cohesion. The idea that others know better. The wish not to make the person who proposed the idea lose face.
+
+Morel stresses that this paradox is different from **conformity**, in which individuals genuinely adopt the group's opinion. In the Abilene paradox, each person keeps their opinion but hides it.
+
+- Each person agrees to please the others.
+- The group decides what nobody wanted.
+- It isn't conformity: each keeps their opinion but stays silent.
+
+--- Experts and decision-makers
+kw: separation · burden of proof · silence
+Morel describes another important collective mechanism: the **separation between experts and decision-makers**.
+
+In many organizations, those who have the technical knowledge, the engineers, specialists and operators, aren't the ones who decide. Decisions are made by managers who depend on the information passed on by the experts. This separation creates several risks.
+
+**Experts don't dare object.** They may hesitate to contradict the decision-makers, for fear for their careers, or because they think it isn't their role.
+
+**Decision-makers misunderstand warnings.** Technical information, complex and nuanced, is simplified or poorly passed on. Decision-makers don't grasp its importance.
+
+**The burden of proof is reversed.** In the Challenger case, NASA asked the engineers to **prove** that the launch was dangerous, instead of asking them to prove it was safe. The engineers, who had no formal proof, had to give in. Morel stresses that this reversal is common: proof is demanded to stop a project, but not to continue it.
+
+**Organizational silence.** People who see a problem don't report it, or report it too discreetly to be heard.
+
+Morel stresses that these mechanisms don't come from individuals' ill will but from the organization itself: its hierarchies, its information channels, its habits.
+
+> À retenir | When those who know don't decide, the warning gets lost. And when proof is required to stop but not to continue, things continue.
+
+--- Apparent consensus
+kw: meetings · unanimity · no dissenter
+Morel also analyzes the role of **meetings** and **consensus** in absurd decisions.
+
+He observes that many organizations value consensus. Decisions are made collectively, in meetings, and everyone's agreement is sought. This way of working has advantages: it involves participants and makes implementation easier. But it can also produce absurd decisions.
+
+An **apparent consensus** can hide deep disagreements that nobody dares express. The most influential participants, or those who speak first, steer the discussion. The others fall in line, out of habit, fatigue or caution. The group has the impression of agreeing, while several members have doubts.
+
+Morel cites work on what the psychologist Irving Janis called **groupthink**: in very close-knit groups, the search for unanimity prevails over critical analysis of the options. The group believes itself invulnerable, rationalizes its choices, pressures dissenters and fails to see warning signs.
+
+He also stresses the role of **decisions by default**: in many meetings, nothing is really decided. Things are allowed to continue, because nobody proposes stopping. The persistence of absurd decisions often comes from this absence of an explicit decision.
+
+Morel recommends organizing dissent: appointing someone to critique the proposal, gathering individual opinions before the discussion, explicitly asking for objections.
+
+- An apparent consensus can hide unspoken doubts.
+- Groupthink puts unanimity ahead of analysis.
+- Organize dissent rather than hoping for it.
+
+=== Loss of meaning
+--- When action drifts from its goal
+kw: self-sustaining process · rules · indicators
+The third type of mechanism Morel describes concerns **meaning**. An absurd decision can arise when an action gradually drifts away from its goal, until it becomes an end in itself.
+
+Morel gives many examples. A safety procedure is applied scrupulously, even when it no longer protects against anything, or when it creates a new risk. A performance indicator is pursued for its own sake, at the expense of what it was meant to measure. A project continues because it was launched, even though its reasons have disappeared.
+
+He evokes a famous film, *The Bridge on the River Kwai*, in which a British officer held prisoner by the Japanese puts so much pride and energy into building a bridge for his captors that he forgets the bridge will serve the enemy. Morel uses this story as a metaphor: the concern to do a task well can make one forget the goal it serves.
+
+He also describes the phenomenon of **solutions that become problems**. A rule is created to solve a problem. The problem disappears, but the rule remains. It continues to be applied, sometimes with negative effects, because nobody remembers why it exists.
+
+Morel stresses that loss of meaning is often linked to the **division of labor**. When each person sees only part of the process, they lose sight of the overall goal and apply their own rules without asking whether they still serve it.
+
+> Question clé | Which rule in your organization is still applied even though nobody remembers why it exists?
+
+--- Escalation of commitment
+kw: sunk costs · persevering · justifying
+Morel analyzes a mechanism that explains the **persistence** of absurd decisions: the **escalation of commitment**.
+
+Once a decision has been made and resources invested in it, it becomes harder and harder to abandon, even when it turns out to be bad. Several reasons explain this.
+
+**Costs already incurred.** A great deal of money, time and energy has already been spent. Abandoning would feel like losing everything. So people continue, hoping to recover their stake, which leads them to invest even more in a project doomed to fail. Economists call this the **sunk cost fallacy**.
+
+**Justification.** The people who made the decision want to prove they were right. Abandoning would mean admitting a mistake, at a cost to their reputation and self-image.
+
+**Public commitment.** A decision announced publicly is harder to abandon, because doing so would mean backtracking in front of others.
+
+**Inertia.** Once launched, a project creates its own structures, teams, budgets and interests. It continues under its own momentum.
+
+Morel cites examples of large industrial or public projects maintained for years despite huge cost overruns and disappointing results.
+
+He stresses that, to get out of escalation, one must be able to **change one's mind without losing face**, which requires a culture that accepts error.
+
+- What has already been spent pushes people to spend more.
+- Abandoning means admitting a mistake.
+- A culture that accepts error makes it possible to stop.
+
+=== Avoiding absurd decisions
+--- Lessons from high reliability
+kw: aviation · nuclear · submarines
+In *Les Décisions absurdes II*, published in 2012, Morel looks at organizations that manage to **avoid** serious errors: so-called **high-reliability** organizations. He studies in particular civil aviation, nuclear power plants, nuclear submarines, aircraft carriers, some hospital departments and mountain teams.
+
+He draws several principles from them, which often run counter to the habits of ordinary organizations.
+
+**Collegiality.** Important decisions don't rest on a single person. In aviation, for example, the two pilots check each other's actions, and the copilot is encouraged to challenge the captain if he thinks the captain is wrong. This practice came from the analysis of accidents in which the copilot had seen the error without daring to report it.
+
+**Not punishing reported errors.** In several high-risk sectors, people who spontaneously report an error or incident are not sanctioned, except for serious or intentional misconduct. This makes it possible to gather a great deal of information about incidents and learn from it before an accident happens.
+
+**Preparing decisions.** Reliable organizations use briefings, checklists and written procedures to avoid omissions and errors at critical moments.
+
+**The right to stop.** Anyone who observes a danger can stop the action, whatever their rank.
+
+> À retenir | Reliable organizations decide collectively, don't punish reported errors, prepare decisions and give everyone the right to stop.
+
+--- Practices for everyone
+kw: devil's advocate · lessons learned
+Morel proposes practices that can be adapted to any organization.
+
+**Organize dissent.** In important meetings, appoint someone to look for the flaws in a proposal. Collect opinions in writing before the discussion. Explicitly ask participants what could go wrong.
+
+**Bring experts and decision-makers closer.** Involve the people with technical knowledge in decisions, and make sure their warnings are heard and understood.
+
+**Reverse the burden of proof.** For risky decisions, require proof that the action is safe, rather than proof that it is dangerous.
+
+**Practice lessons learned.** Regularly analyze incidents, errors and past decisions, without looking for a culprit, to understand the mechanisms and prevent them from recurring.
+
+**Return regularly to the goal.** Ask whether rules, procedures and indicators still serve their original objective. Remove those that no longer do.
+
+**Plan stopping points.** For large projects, set in advance moments when you will explicitly decide whether to continue or stop, according to criteria defined from the start.
+
+**Simplify.** Overly complex situations encourage errors. Clear procedures, well-presented information and readable organizations reduce risks.
+
+Morel stresses that these practices require a cultural change: accepting error, valuing dissent and recognizing that individual competence isn't enough to guarantee good decisions.
+
+- An appointed devil's advocate, written opinions before the discussion.
+- Stopping points set in advance.
+- Blame-free lessons learned.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · decisions
+**Week 1: identify.** List the decisions, rules or projects in your organization that seem to produce the opposite of their goal, or that are maintained despite disappointing results. For each, ask whether it is an error of reasoning, a collective mechanism or a loss of meaning.
+
+**Week 2: meetings.** At your next decision meetings, collect individual opinions in writing before the discussion. Appoint a devil's advocate. Ask explicitly: what could go wrong?
+
+**Week 3: meaning.** Choose three important rules or indicators. For each, find its original goal and check whether it still serves it. Propose removing or changing those that no longer do.
+
+**Week 4: stopping points.** For an ongoing project, set a date and clear criteria for deciding whether to continue or stop. Hold a lessons-learned review of a past decision, without looking for a culprit.
+
+> À retenir | Spot the absurd, organize dissent, return to the goal, set stopping points.
+
+--- Case study: the committee
+kw: project · overruns · stopping
+In an industrial company, a project for a new production line was launched three years ago. The budget has already doubled, deadlines have been pushed back several times, and demand for the product has fallen sharply. Yet the investment committee keeps approving each new tranche of spending.
+
+The new CFO, Isabelle, has read Morel. She recognizes several mechanisms.
+
+**Escalation of commitment.** Committee members justify each expense by the sums already invested.
+
+**Apparent consensus.** By talking individually with committee members, she discovers that several of them doubt the project but don't dare say so in front of the CEO, who launched it.
+
+**Separation between experts and decision-makers.** The project engineers had reported major technical difficulties, but their reports had been summarized in a reassuring way.
+
+Isabelle proposes a change of method. Before the next meeting, each member must give their opinion in writing and anonymously. The engineers are invited to present their analysis directly. The committee must answer a new question: if we hadn't spent anything yet, would we launch this project today?
+
+The answer is clearly no. The project is stopped, and part of the equipment is reassigned to other lines.
+
+> Question de réflexion | Which project would you still pursue if you had to launch it today, regardless of what has already been spent?
+
+=== Critical view and connections
+--- Limits of the book
+kw: chosen cases · hindsight · complexity
+*Absurd Decisions* is a well-regarded book, but it has some limits.
+
+**Hindsight bias.** It is easier to judge a decision absurd after the fact, when its consequences are known. At the time of the decision, the uncertainty was often real. Morel is aware of this, but some cases may seem more obvious than they were at the time.
+
+**Chosen cases.** The examples are selected to illustrate the mechanisms. We know less about how many comparable decisions, made under the same conditions, turned out well.
+
+**An imperfect classification.** The three types of mechanism, cognitive, collective and meaning-related, often combine in a single case, and they are sometimes hard to tell apart.
+
+**Power relations.** Morel emphasizes involuntary mechanisms and decision-makers' good faith. Some critics argue that interests, power struggles and economic constraints also play an important role in some absurd decisions.
+
+**Transferring high-reliability practices.** Practices from aviation or nuclear power aren't always easy to apply in organizations where risks are less visible and errors less immediately serious.
+
+- Hindsight makes judgment easier.
+- Interests and power matter too.
+
+--- Connections with other books
+kw: Kahneman · Lencioni · Marquet · Le Bon
+**With Thinking, Fast and Slow (Kahneman).** Morel draws on the cognitive biases described by Kahneman and Tversky to explain errors of reasoning.
+
+**With The Five Dysfunctions of a Team (Lencioni).** Fear of conflict, which Lencioni lists among team dysfunctions, lies behind the Abilene paradox and apparent consensus.
+
+**With Turn the Ship Around! (Marquet).** Marquet describes a submarine where a wrong order was passed on without discussion. His solutions, giving authority to those who have the information and encouraging questioning, echo Morel's.
+
+**With The Crowd (Le Bon).** Le Bon intuitively described the excesses of groups; Morel analyzes them rigorously, in groups of competent professionals.
+
+**With Toyota Production System (Ohno).** Stopping the line by the operator and the five whys are practices that make it possible to correct errors before they become persistent.
+
+> Parcours conseillé | Read Thinking, Fast and Slow next for errors of reasoning, then Turn the Ship Around! for an organization that dares to contradict.
