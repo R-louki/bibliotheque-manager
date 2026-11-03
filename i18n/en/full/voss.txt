@@ -1,0 +1,273 @@
+=== Context and thesis
+--- From the FBI to business negotiation
+kw: hostage-taking · kidnappings · Harvard
+Chris Voss spent more than twenty years at the FBI, the US federal law enforcement agency. He worked there as a negotiator in hostage-takings, sieges and kidnappings, in the United States and abroad. He eventually became the FBI's lead international kidnapping negotiator.
+
+After leaving the agency, he taught negotiation at business schools and founded a consulting firm. He recounts an experience that left a mark on him. Invited to a negotiation course at Harvard University, he took part in exercises with brilliant students trained in classic methods. He got better results than they did, using techniques learned in the field.
+
+He drew a conviction from this: the negotiation methods taught at universities assume that people are rational. They try to identify each party's interests and find logical solutions. But in reality, people don't negotiate like calculators. They are driven by their emotions, their fears, and their need to feel understood and in control.
+
+*Never Split the Difference*, written with journalist Tahl Raz and published in 2016, presents FBI techniques adapted to everyday negotiations: a salary, a contract, a rent, a family dispute.
+
+The title sums up one of the book's ideas: splitting the difference, accepting a middling compromise, is often a bad solution. Voss uses the image of one person who wants black shoes and another who wants brown shoes, who end up wearing one of each color. No one is satisfied.
+
+> À retenir | Negotiations aren't rational: they are driven by emotions. FBI techniques start from that observation.
+
+--- Everything is a negotiation
+kw: everyday life · emotions · being understood
+Voss argues that negotiation is not reserved for diplomats, lawyers or salespeople. We negotiate constantly: with colleagues, customers, children, spouses, neighbors. Whenever we want something from someone, and they want something from us, we are negotiating.
+
+He draws on the work of psychologists such as Daniel Kahneman, who showed that our decisions are largely shaped by intuitive and emotional mechanisms before being justified by reason. An effective negotiation must therefore address those mechanisms first.
+
+Voss explains that people's deepest need in a negotiation is to be **understood** and to feel **safe** and **in control**. When these needs are met, they become more open and more willing to reach an agreement. When they are not, they become defensive, tense up and resist.
+
+So he proposes an approach centered on **listening** and **empathy**. The negotiator doesn't start by arguing or making proposals. He starts by understanding the other side: what they feel, what they fear, what matters to them. The information gathered is then used to steer the negotiation.
+
+He specifies that this approach is not naive niceness. It is a technique aimed at getting the best possible result, even with difficult counterparts.
+
+- We negotiate constantly, at work and at home.
+- Emotions drive decisions; reason justifies them.
+- Start by understanding the other side, not by arguing.
+
+=== Listen to understand
+--- The voice and the mirror
+kw: calm voice · repeat the last words
+Voss first presents two simple techniques for quickly establishing a favorable climate.
+
+**The voice.** He explains that tone of voice has an immediate influence on the other person. He distinguishes several registers. A **calm, deep, slow** voice, like a late-night radio DJ's, reassures and soothes. It is useful for delivering a firm message without provoking a reaction. A **positive, playful** voice relaxes the atmosphere and encourages cooperation. Voss recommends using it most of the time. A **direct, assertive** voice should be reserved for the rare moments when you must draw a line, because it easily provokes resistance.
+
+**The mirror.** This is one of the simplest techniques in the book. It consists of repeating the **last words**, or the most important words, of what the other person just said, in a questioning tone. For example, if the other person says "We need this report sooner," you simply reply: "Sooner?"
+
+Voss explains that mirroring has several effects. It shows the other person you are listening. It encourages them to elaborate and clarify their thinking, which provides information. It creates a sense of closeness, because people tend to like those who resemble them. And it buys you time to think.
+
+He describes an exercise in which participants in his training sessions use only mirrors during a conversation and discover how much their counterparts open up.
+
+> Exercice | In your next conversation, use three mirrors: repeat the other person's last words in a questioning tone, then stay quiet.
+
+--- Labeling emotions
+kw: labeling · it seems that · defusing
+The second technique is **labeling**, which could also be called naming emotions.
+
+It consists of identifying the emotion the other person seems to feel and naming it out loud. Voss recommends phrases that begin with "It seems like…," "It sounds like…" or "It looks like…." For example: "It seems like this delay put you in a difficult position with your management."
+
+He specifies that it is better to avoid starting with "I think you…," which puts the focus on yourself and can sound presumptuous. Impersonal phrasing is easier to accept.
+
+Voss cites neuroscience research suggesting that putting words to a negative emotion reduces its intensity. Naming the other person's anger, fear or frustration therefore helps them calm down. Naming positive emotions, conversely, reinforces them.
+
+He also explains that a good label shows the other person they have been understood, which builds trust. If the label is wrong, it doesn't matter: the other person will correct it, and you will have learned something.
+
+Voss recommends one important rule: after placing a label, **go silent**. Let the silence do its work. The other person needs time to react, and it is often in that silence that they reveal the most important information.
+
+- Name the other person's emotion: "It seems like…".
+- Naming soothes the negative and reinforces the positive.
+- After the label, go silent.
+
+--- The accusation audit
+kw: defuse in advance · objections · fears
+Voss presents a technique that often surprises people: the **accusation audit**.
+
+Before a difficult negotiation, he recommends listing all the negative things the other person might think about you or your proposal. Every accusation, even unfair ones, they might make. Then, at the start of the conversation, state them yourself, naming them.
+
+For example, a tenant who wants to negotiate a rent reduction might begin like this: "You're probably going to think I'm a difficult tenant, trying to take advantage of the situation, and that I'm not respecting the agreement we signed."
+
+Voss explains that this technique has a powerful effect. By naming the other person's fears before they express them, you defuse them. The other person feels understood. Often they respond spontaneously to soften things: "No, that's not what I think." Tension drops, and the negotiation can begin on a more favorable footing.
+
+He says he has used this technique in many situations, including to deliver bad news to clients or colleagues.
+
+Voss stresses that you must be thorough and sincere. An accusation audit that leaves out the most obvious criticisms, or is delivered in an ironic tone, has the opposite effect.
+
+> À retenir | State yourself, from the start, everything the other person might blame you for. Their fears lose their force.
+
+=== The words that change everything
+--- The power of no
+kw: no · safety · control
+Voss challenges a common idea in sales techniques: that you should get the other person to say yes as often as possible. In his view, people are wary of questions that try to extract a yes. They feel pushed, and they defend themselves.
+
+He proposes the opposite: **let the other person say no**. For most people, saying no brings a feeling of safety and control. They feel protected and become more willing to listen.
+
+Voss explains that no is not the end of the negotiation but often the **beginning**. It rarely means a final refusal. It can mean: I'm not ready yet, I don't understand, I don't trust you yet, I need more information.
+
+He suggests phrasing some questions to get a no. For example, rather than "Do you have a few minutes to talk?", ask: "Is now a bad time to talk?" If the person says no, they are in fact agreeing to the conversation, but with the feeling of having chosen.
+
+He also describes a technique for re-engaging someone who has stopped responding: send them a short message such as "Have you given up on this project?" In his view, this kind of question often prompts a quick reply, because people dislike the idea of looking like someone who gives up.
+
+- People are wary of questions that seek a yes.
+- Saying no gives a feeling of safety.
+- A no often opens the real discussion.
+
+--- "That's right"
+kw: summary · validation · breakthrough
+Voss describes the moment he considers the turning point of a negotiation: when the other person says "**That's right**."
+
+He carefully distinguishes this phrase from another, very similar one: "**You're right**." When someone says "you're right," they are often trying to end the conversation without being convinced. It is a polite way of getting rid of the other person. Voss says he learned this difference from his own son, who would answer "you're right" to end his lectures without changing anything.
+
+By contrast, "that's right" means the other person feels deeply understood. This moment creates a kind of connection. The counterpart lowers their guard and becomes much more open to changing their position.
+
+To get there, Voss recommends making a **summary** of the situation as the other person experiences it: their facts, their emotions, their fears, their goals. The summary combines paraphrasing what the other person said with labeling their emotions. It must be so precise that the other person can only validate it.
+
+Voss recounts several negotiations, notably hostage situations, where this moment was decisive. After hours of tension, a precise summary of the other side's situation triggered a change of attitude, then a peaceful resolution.
+
+> À retenir | "You're right" closes the conversation. "That's right" opens it. A precise summary of the other person's situation leads there.
+
+--- Calibrated questions
+kw: how · what · making the other side think
+Voss attaches great importance to **calibrated questions**. These are open questions that usually begin with "how" or "what." They avoid closed questions, answered with yes or no, and questions beginning with "why," which can sound accusatory.
+
+Examples: "How can we solve this problem?", "What is most important to you in this deal?", "What's keeping us from moving forward?", "How would you like me to proceed?"
+
+These questions have several effects. They give the other person the **illusion of control**: they feel they are steering the conversation, since their opinion is being asked. They force them to **think** about the situation and its constraints, including the constraints of the person negotiating with them. They yield valuable **information**. And they avoid direct confrontation.
+
+Voss describes one question he considers particularly powerful: "**How am I supposed to do that?**" Asked calmly, without aggression, in the face of an excessive demand, it forces the other person to take their counterpart's limits into account. Voss says he used it in ransom negotiations: faced with an impossible demand for money, this question forced the kidnappers to reconsider their demands.
+
+He stresses that calibrated questions must be asked in a calm, sincere voice. Used aggressively or ironically, they lose their effectiveness.
+
+- Start with "how" or "what"; avoid "why."
+- Give the other person the illusion of control.
+- "How am I supposed to do that?" in the face of an excessive demand.
+
+=== Reaching a real agreement
+--- Ensuring execution
+kw: real yes · rule of three · hidden players
+Voss explains that an agreement is only worth something if it is carried out. Yet many agreements fail after the negotiation, because the other side was not really committed, or because other people absent from the discussion can block it.
+
+He distinguishes three kinds of yes. The **counterfeit yes**, said to get rid of the other person. The **confirmation yes**, a simple automatic response. And the **commitment yes**, which leads to action. Only the last one counts.
+
+To check commitment, Voss proposes the **rule of three**: get the other person to confirm the agreement three times, in different ways. For example, once through explicit agreement, a second time through a summary or label, a third time through a calibrated question about implementation, such as "What will we do if something doesn't go as planned?" It is hard to lie three times in a row.
+
+He also stresses the **hidden players**. In many negotiations, the person you are talking to is not the only decision-maker. A boss, a colleague or a spouse can block the deal. Voss recommends asking questions such as "How will this affect the rest of your team?" or "Who else is involved in this decision?" to identify these players and take their interests into account.
+
+Finally, he pays attention to language: people who say "I" a lot often have less power than those who say "we" or "they," which point to other decision-makers.
+
+> Question clé | In your current negotiation, who besides your counterpart could block the agreement?
+
+--- Fairness and deadlines
+kw: fair · deadlines · loss aversion
+Voss describes several emotional levers that strongly influence negotiations.
+
+**The sense of fairness.** People are very sensitive to fairness. They may reject an advantageous offer if they consider it unfair, as behavioral economics experiments have shown. Voss warns against using the word "fair" as a weapon: saying "I just want what's fair" puts the other person on the defensive by implying they are being unfair. He recommends instead showing your own commitment to fairness, by inviting the other person to say at any point if they feel they are being treated unfairly.
+
+**Deadlines.** Deadlines push people to make quick decisions, often bad ones. Voss stresses that deadlines are often arbitrary and that the other side also has its own deadlines. He recommends not getting trapped by time pressure, and sometimes revealing your own deadline, which can speed up an agreement.
+
+**Loss aversion.** People are more sensitive to what they might lose than to what they might gain. Voss suggests framing the stakes in terms of losses avoided rather than gains obtained.
+
+**Emotional anchoring.** Before making an offer, prepare the other person for bad news with an accusation audit. An offer that seemed disappointing then looks better than expected.
+
+Voss stresses that these levers must be used honestly. They serve to understand and influence emotional dynamics, not to deceive.
+
+- Perceived fairness counts more than actual value.
+- Deadlines are often arbitrary.
+- Losses weigh more than gains.
+
+--- Bargaining over price
+kw: Ackerman method · precise figures · steps
+For price negotiations, Voss presents a method he learned from a former FBI colleague, which he calls the **Ackerman model**.
+
+It rests on a carefully prepared sequence of offers. First you set your **target price**, what you want to achieve. You make a first offer well below it, around 65% of the target price in the case of a purchase. Then you increase in decreasing increments: about 85%, then 95%, then 100%.
+
+Voss explains the effects of this progression. The decreasing increments give the other side the feeling that you are reaching your limit. Between each offer, you use empathy, calibrated questions and labels to get the other side to make concessions.
+
+The final offer is a **precise, non-round number**, for example 37,893 rather than 38,000. A precise number gives the impression of having been carefully calculated, and therefore of being a real limit.
+
+With the final offer, you can add a **non-monetary** item of little value to you, to show that you have reached the end of what you can give.
+
+Voss gives several other tips. Let the other side make the first offer when possible. Avoid making an offer too early. Use ranges with caution. And above all, prepare the negotiation in advance: your goal, your limits, and the labels and calibrated questions you will use.
+
+> Exercice | For your next price negotiation, work out your four steps and your final precise figure in advance.
+
+=== Black swans
+--- Looking for hidden information
+kw: unknowns · what you don't know · uncovering
+Voss devotes the last chapter to **black swans**. He borrows the expression popularized by Nassim Nicholas Taleb, which refers to rare, unpredictable events with major consequences. In a negotiation, a black swan is an **unknown piece of information** that, once discovered, completely changes the situation.
+
+Voss explains that every negotiation involves three kinds of information: what you know, what you know you don't know, and what you don't even know you don't know. This third kind is often decisive.
+
+He gives examples. A hostage-taker demanding a ransom may have a personal reason that has nothing to do with money. A supplier refusing a price cut may be under pressure from a target set by management. A landlord turning down a tenant may have had a bad experience with a previous one.
+
+To uncover black swans, Voss recommends listening carefully, asking open questions, noticing inconsistencies and unexpected details, and meeting the other person face to face when possible. Informal exchanges, before or after the formal negotiation, are often rich in revelations.
+
+He also stresses that what seems irrational in the other side often hides missing information. Rather than concluding that they are crazy or acting in bad faith, look for what you don't know.
+
+- Look for what you don't know you don't know.
+- Apparent irrationality often hides information.
+- Informal exchanges reveal a lot.
+
+--- The three types of negotiators
+kw: analyst · accommodator · assertive
+Voss describes three types of negotiators, who react differently to the same techniques.
+
+**The analyst** is methodical, prepared, attached to facts and figures. He dislikes surprises and needs time to think. He interprets silence as an opportunity to think. With him, you must be prepared and precise, and give him time to respond.
+
+**The accommodator** places great importance on the relationship. He enjoys pleasant exchanges and tries to avoid conflict. He may say yes to please, without really committing. He interprets silence as a sign of anger. With him, you must check that his commitments are real.
+
+**The assertive** type above all wants to move fast and get results. He talks a lot, demands to be heard, and can seem aggressive. He interprets silence as an invitation to talk more. With him, you must listen first and use plenty of mirrors and labels, because he won't listen until he feels understood.
+
+Voss stresses that everyone tends to negotiate with others the way they would like others to negotiate with them. That is a mistake. You must adapt your approach to the person across the table.
+
+He adds that it is useful to know your own type, to spot your weak points. An accommodator must learn not to give in too quickly, an analyst to show more warmth, an assertive to listen more.
+
+> Question clé | What type of negotiator are you? And what type is the person you negotiate with most often?
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · one technique
+**Week 1: listen.** Use mirrors in your conversations every day. Work on your voice: calm and positive. Observe what people reveal to you when you let them talk.
+
+**Week 2: label.** Practice labeling emotions: "It seems like…". Go silent after each label. Before a delicate conversation, prepare an accusation audit.
+
+**Week 3: ask.** Replace your closed questions and your "whys" with calibrated "how" and "what" questions. Phrase some requests to get a no.
+
+**Week 4: negotiate.** Prepare a real negotiation: your goal, the other person's likely emotions, your accusation audit, your calibrated questions, and your steps if it is about price. Aim for a "that's right," and check commitment with the rule of three.
+
+Voss recommends practicing first in low-stakes situations, such as a conversation with a shopkeeper or a colleague, before using these techniques in important negotiations.
+
+> À retenir | Mirrors, labels, calibrated questions: practice on small stakes before big ones.
+
+--- Case study: the raise
+kw: salary · manager · preparation
+Lucie, a project manager for three years, wants to ask for a raise. The last time she asked, her manager told her the budget was tight, and she gave up.
+
+**Preparation.** She sets an ambitious goal, lists her achievements and writes an accusation audit.
+
+**Opening.** She starts like this: "You may think this isn't the right time, that the budget is tight and that I'm asking for a lot." Her manager smiles and replies that it isn't that simple.
+
+**Listening.** He explains that management has frozen general raises. Lucie uses a mirror: "Frozen general raises?" He specifies that exceptions are possible for people who take on new responsibilities. Lucie has just uncovered a black swan.
+
+**Calibrated questions.** "What would it take for my situation to fall under those exceptions?" "How could we present this to management?" The manager suggests she take charge of an important new client.
+
+**Agreement.** Lucie summarizes the situation, and her manager replies: "That's right." They agree on a timeline, and she checks his commitment by asking what will happen if management says no.
+
+Two months later, she gets a raise and a new title.
+
+> Question de réflexion | What hidden information could change your next negotiation?
+
+=== Critical view and connections
+--- Limits of the book
+kw: anecdotes · manipulation · context
+*Never Split the Difference* is very popular, but it has several limits.
+
+**Spectacular anecdotes.** The book relies heavily on hostage stories, which make for gripping reading. But transposing them to business or everyday negotiations is not always obvious.
+
+**The risk of manipulation.** Some techniques, such as the illusion of control or precise figures, can be used to deceive. Voss insists on empathy and honesty, but the line between influence and manipulation remains delicate.
+
+**A simplified critique of classic methods.** Voss contrasts his techniques with those of the Harvard school, presented as too rational. In reality, principled negotiation methods also take emotions and relationships into account. The two approaches are more complementary than the book suggests.
+
+**Limited evidence.** The techniques rest mainly on the author's experience and on a few references in psychology. Their effectiveness has not been systematically measured.
+
+**Repeated negotiations.** The book deals mainly with one-off negotiations. In long-term relationships, with a colleague or a partner, some tactics, such as price steps, can damage trust if they are noticed.
+
+- Powerful techniques, to be used honestly.
+- More complementary to classic methods than the book claims.
+
+--- Connections with other books
+kw: Kahneman · Carnegie · Cialdini · Taleb
+**With Thinking, Fast and Slow (Kahneman).** Voss explicitly draws on Kahneman's work: emotional decisions, loss aversion, anchoring.
+
+**With How to Win Friends and Influence People (Carnegie).** Both books stress listening, interest in others and the need to see things from the other person's point of view.
+
+**With Influence (Cialdini).** The mechanisms Cialdini describes, such as reciprocity, commitment and scarcity, shed light on several of Voss's techniques.
+
+**With Crucial Conversations.** Mirroring, paraphrasing, naming emotions, making the conversation safe: the two books share many listening techniques.
+
+**With The Black Swan (Taleb).** Voss takes up Taleb's idea and applies it to negotiation: unknown information can change everything.
+
+> Parcours conseillé | Read Influence next to understand the psychological mechanisms, then Crucial Conversations for difficult discussions.
