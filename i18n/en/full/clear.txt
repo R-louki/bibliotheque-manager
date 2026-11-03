@@ -1,0 +1,344 @@
+=== Context and thesis
+--- A personal rebuild
+kw: injury · slow progress · blog
+James Clear is an American author who has been writing since the early 2010s about habits, decision-making and continuous improvement. His articles attracted a very large audience before being developed into *Atomic Habits*, published in 2018, which became one of the best-selling self-help books of its generation.
+
+At the start of the book, Clear recounts an episode from his youth. In high school, he was accidentally hit full in the face by a baseball bat. He suffered serious fractures, had to be hospitalized and relearn several basic movements. His dream of becoming a baseball player seemed in jeopardy.
+
+Over the following years, at college, he rebuilt his life through small habits: going to bed early, keeping his room tidy, training regularly, studying methodically. None of these habits was spectacular. But together they produced results: he became a good player on his college team and did well academically.
+
+This experience convinced him of a central idea: big changes don't come from heroic decisions but from **small improvements repeated** over a long time.
+
+The book offers a practical framework for building good habits and breaking bad ones. It draws on research in psychology, neuroscience and behavioral economics, and on many examples from sport, business and everyday life.
+
+> À retenir | Big changes rarely come from a heroic decision, but from small improvements repeated over time.
+
+--- The power of small gains
+kw: 1% · compound interest · cycling
+Clear illustrates his thesis with a story from sport. For a long time, British cycling achieved mediocre results in major competitions. In the early 2000s, a new performance director adopted a strategy he called the **aggregation of marginal gains**. The idea was to look for a 1% improvement in everything that could be improved: saddles, kit, nutrition, sleep, hand hygiene to avoid colds, the riders' pillows at the hotel.
+
+Each improvement, taken on its own, was tiny. But together they produced spectacular results in international competition within a few years.
+
+Clear draws a mathematical image from this. If you get 1% better every day for a year, you don't improve by 365%; you end up about thirty-seven times better, thanks to **compounding**. Conversely, if you get 1% worse every day, you end up almost at zero. This image is a simplification, but it captures a reality: small differences, repeated, produce large gaps.
+
+He stresses that habits are **the compound interest of self-improvement**. A good habit, like reading a few pages a day, seems insignificant on any given day. Over years, it transforms a life. A bad habit, like a small unnecessary daily expense, seems inconsequential. Over years, it weighs heavily.
+
+The problem is that the effects of habits are **invisible in the short term**. You see no difference after a week. That is why so many people give up.
+
+- 1% a day, over a year, changes everything.
+- Habits work like compound interest.
+- Their effects are invisible in the short term.
+
+--- The plateau of latent potential
+kw: patience · ice · threshold
+Clear explains why people often give up on their new habits with an image: an ice cube in a cold room.
+
+Imagine an ice cube in a room at minus five degrees. You slowly warm the room: minus four, minus three, minus two. Nothing happens; the ice cube stays intact. Then, at zero degrees, it starts to melt. The one-degree change produced a visible effect, but it was only possible thanks to all the degrees before it.
+
+Clear calls the period in which efforts produce no visible results the **plateau of latent potential**. During this period, progress builds up without being seen. Many people give up at this point, discouraged. They think their efforts are useless when they are simply approaching the threshold at which results will become visible.
+
+He compares this to a stonecutter who strikes a rock a hundred times without a crack appearing, then splits it on the hundred-and-first blow. It wasn't the last blow that split it, but all the blows together.
+
+Clear stresses that our expectations are often linear: we think progress should be proportional to effort. But in reality, progress is often delayed, then sudden. Understanding this helps you persevere.
+
+> Question clé | What effort did you abandon too soon, perhaps just before reaching the threshold?
+
+=== Systems and identity
+--- Systems, not goals
+kw: goals · process · winners and losers
+Clear proposes an idea that runs counter to much self-improvement advice: focus on **systems** rather than **goals**.
+
+Goals describe the results you want: winning a championship, losing ten kilos, writing a book. Systems describe the processes that lead to those results: the training routine, eating habits, daily writing time.
+
+Clear points out several problems with goals.
+
+**Winners and losers have the same goals.** Every athlete in a competition wants to win. So it isn't the goal that sets winners apart. It's their system.
+
+**Achieving a goal is only a momentary change.** Cleaning a messy room is a goal. If you don't change the habits that created the mess, the room will be messy again a few weeks later.
+
+**Goals restrict your happiness.** You tell yourself you'll be happy once you reach the goal. Meanwhile, you live in dissatisfaction.
+
+**Goals create a yo-yo effect.** Many people who run to prepare for a race stop running once they have finished it. With the goal achieved, motivation disappears.
+
+Clear doesn't suggest abandoning goals altogether; they are useful for setting a direction. But he recommends focusing your energy on the system. If the system is good, the results will follow.
+
+- Goals set the direction; systems make the progress.
+- Winners and losers have the same goals.
+- Improve the process rather than aiming at the result.
+
+--- Identity-based habits
+kw: who I am · evidence · votes
+Clear describes three layers of change, like the layers of an onion.
+
+- **Outcomes**: what you get. Losing weight, winning a contest.
+- **Processes**: what you do. A new training routine, a work method.
+- **Identity**: what you believe about yourself. Your beliefs, your self-image.
+
+Most people try to change by starting with outcomes. Clear proposes starting with **identity**. Rather than telling yourself "I want to quit smoking," tell yourself "I'm not a smoker." Rather than "I want to run a marathon," tell yourself "I'm a runner."
+
+He gives the example of two people offered a cigarette. The first replies: "No thanks, I'm trying to quit." She still sees herself as a smoker trying to resist. The second replies: "No thanks, I don't smoke." She has changed her identity. This second person is much more likely not to start again.
+
+Clear explains that identity is built through action. Every time you act in a certain way, you provide **evidence** of who you are. He uses the image of a **vote**: every action is a vote for the type of person you want to become. You don't need unanimity, just a majority.
+
+So he proposes a two-step process: decide what type of person you want to be, then prove it to yourself with small wins.
+
+> À retenir | Every action is a vote for the person you want to become. Change your identity, then prove it through small actions.
+
+--- How a habit works
+kw: cue · craving · response · reward
+Clear describes how a habit works in four stages, drawing on research in psychology and neuroscience.
+
+**The cue.** Something triggers the behavior: a time of day, a place, an emotion, a person, a preceding action. For example, your phone buzzing.
+
+**The craving.** The cue provokes a desire, not for the action itself, but for the change of state it brings. You don't want to check your phone for its own sake, but to know who has written.
+
+**The response.** This is the habit itself, the action you perform. You pick up the phone and read the message.
+
+**The reward.** The action produces a result that satisfies the craving. You know who wrote. This satisfaction teaches the brain to repeat the behavior the next time the cue appears.
+
+These four stages form a loop. With repetition, the loop becomes automatic: you no longer need to think in order to act.
+
+From this model, Clear formulates **four laws** for creating a good habit, one for each stage:
+
+- **Make the cue obvious.**
+- **Make the craving attractive.**
+- **Make the response easy.**
+- **Make the reward satisfying.**
+
+To break a bad habit, you simply invert these laws: make it invisible, unattractive, difficult and unsatisfying.
+
+- Cue, craving, response, reward.
+- Four laws for creating a good habit.
+- Invert them to break a bad one.
+
+=== Law 1: make it obvious
+--- When, where, after what
+kw: when · where · after X I will do Y
+The first law is to **make the cue obvious**. Clear explains that many good intentions fail because they are not tied to a specific time or place.
+
+**Implementation intention.** This means specifying in advance when and where you will act: "I will [behavior] at [time] in [location]." For example: "I will meditate for ten minutes at seven o'clock in my bedroom." Clear cites studies showing that people who make this kind of precise plan are much more likely to follow through than those who have only a general intention.
+
+**Habit stacking.** This means linking a new habit to an existing one: "After [current habit], I will [new habit]." For example: "After I pour my morning coffee, I will write down my three priorities for the day." The existing habit serves as a cue for the new one. You can build chains of habits this way.
+
+Clear recommends choosing the existing habit carefully, so that it happens at the same time and with the same frequency as the desired new habit.
+
+He also presents a technique for becoming aware of your current habits: the **habits scorecard**. You write down all your actions on an ordinary day and, for each one, note whether it is positive, negative or neutral. This exercise reveals behaviors that have become so automatic you no longer notice them.
+
+> Exercice | Write a sentence on the model: "After [current habit], I will [new habit]." Apply it starting tomorrow.
+
+--- Environment first
+kw: visible · dedicated spaces · cues
+Clear attaches great importance to **environment**. He argues that our behavior depends far more on our environment than on our motivation or willpower.
+
+He cites a study conducted in an American hospital. The layout of drinks in the cafeteria was changed, with water placed in every display, especially near the registers. Without any information campaign, water sales rose and soda sales fell.
+
+He draws several tips from this.
+
+**Make the cues of good habits visible.** If you want to read more, leave a book on your pillow. If you want to eat more fruit, put it in plain view on the table. If you want to work out, lay out your gear the night before.
+
+**Associate each place with one activity.** The brain associates places with behaviors. If you work, eat and watch shows in bed, the bed is no longer associated with sleep. Clear recommends creating dedicated spaces, even in a small home: one chair for reading, one desk for working.
+
+**Remove the cues of bad habits.** To break a bad habit, it is more effective to remove the cue than to rely on willpower. Put your phone in another room rather than trying not to look at it. Don't keep sweets in the house rather than resisting them.
+
+Clear observes that people who seem to have great willpower are often those who put themselves in tempting situations least often.
+
+- Environment beats motivation.
+- Make good habits visible and bad ones invisible.
+- One place, one activity.
+
+=== Law 2: make it attractive
+--- Pairing pleasure with action
+kw: dopamine · anticipation · pairing
+The second law is to **make the habit attractive**. Clear explains that the more attractive an action is, the more likely you are to do it.
+
+He draws on neuroscience research on **dopamine**, a molecule involved in motivation. This research shows that dopamine is released not only when you get a reward, but also when you **anticipate** it. It is the anticipation of pleasure that drives us to act.
+
+Clear proposes a technique he calls **temptation bundling**. It means linking an action you need to do with an action you want to do. For example, only listening to your favorite podcast while exercising. Only watching your favorite show while pedaling an exercise bike. The enjoyable activity makes the necessary one more attractive.
+
+He combines this technique with habit stacking: "After [habit I need], I will [habit I want]." For example: "After I send one prospecting email, I will check social media."
+
+He also stresses that you can **reframe** a habit. Instead of telling yourself "I have to exercise," tell yourself "I get to exercise." Instead of seeing saving as deprivation, see it as future freedom. This change of perspective alters the craving associated with the action.
+
+> À retenir | It is the anticipation of pleasure that drives action. Pair what you need to do with what you like to do.
+
+--- The role of others
+kw: close · many · powerful · norms
+Clear stresses the influence of the people **around us**. We naturally adopt the habits valued by those around us, because belonging to the group is a fundamental need.
+
+He identifies three groups that particularly influence our habits.
+
+**The close.** We imitate the people we spend the most time with: family, friends, colleagues. He cites research suggesting that certain behaviors, such as obesity or quitting smoking, seem to spread through social networks, from a person to those close to them.
+
+**The many.** We tend to follow what the majority does. When a behavior is the norm in a group, it is hard to deviate from it.
+
+**The powerful or admired.** We imitate people who have status, prestige or success, in the hope of gaining the same recognition.
+
+Clear draws a practical tip from this: **join a group where the desired behavior is the normal behavior** and where you already have something in common with the others. If you want to run, join a running club. If you want to read, join a book club. In these groups, the desired habit becomes normal, and therefore easier.
+
+He stresses that habits that go against the group's norms are very hard to sustain, because they risk exclusion.
+
+- We imitate those close to us, the majority and those we admire.
+- Join a group where the right behavior is the norm.
+- Habits that go against the group are fragile.
+
+=== Law 3: make it easy
+--- Repeat rather than plan
+kw: repetitions · action · automaticity
+The third law is to **make the habit easy**. Clear begins with a distinction between being **in motion** and **taking action**.
+
+Being in motion means planning, researching and strategizing. Taking action means doing the behavior that delivers a result. For example, reading articles about weight training is being in motion. Doing a weight-training session is taking action.
+
+Clear observes that many people stay in motion to avoid failure. Planning gives a sense of progress without the risk of getting it wrong. But only action produces results.
+
+He recounts an experiment by a photography teacher. He divided his class into two groups. The first would be graded on the **quantity** of photos produced, the second on the **quality** of a single photo. At the end of the semester, the best photos came from the group graded on quantity. By producing a lot, these students had experimented, learned from their mistakes and improved. The others had spent their time theorizing about the perfect photo.
+
+Clear explains that a habit forms through **repetition**, not through the passage of time. The question isn't how many days it takes to form a habit, but how many repetitions. The more you repeat an action, the more automatic it becomes, because the brain strengthens the associated connections.
+
+> Question clé | What project have you been in motion on for a long time without ever taking action?
+
+--- The two-minute rule
+kw: start small · reduce friction
+Clear explains that we naturally choose the path that requires the least effort. For a habit to form, it must therefore be as easy as possible.
+
+**Reduce friction.** This means reducing the number of steps between you and the good habit. Lay out your workout clothes the night before. Choose a gym on your way to work. Prepare healthy meals in advance. Conversely, increase friction for bad habits: unplug the TV after use, log out of social media.
+
+**The two-minute rule.** Clear proposes scaling each new habit down to a version that takes less than two minutes. "Read before bed" becomes "read one page." "Run three times a week" becomes "put on my running shoes." "Do yoga" becomes "roll out my mat."
+
+The idea may sound ridiculous, but it rests on an observation: the hardest part is getting started. Once your shoes are on, it's easy to go for a run. Above all, the goal is first to establish the habit of **showing up**. You can't improve a habit that doesn't exist. Once the action has become automatic, you can gradually expand it.
+
+**Automate.** Clear also recommends using technology and one-time decisions to lock in good habits: an automatic transfer to a savings account, a subscription that delivers healthy food, apps that block certain sites.
+
+- The brain chooses the easiest path.
+- Scale each habit down to two minutes at first.
+- Automate what can be automated.
+
+=== Law 4: make it satisfying
+--- Immediate reward
+kw: short term · pleasure · reinforce
+The fourth law is to **make the habit satisfying**. Clear explains that we repeat behaviors that give us satisfaction, and that this satisfaction must be **immediate**.
+
+He highlights a fundamental problem. For many bad habits, the reward is immediate and the cost delayed: the pleasure of fatty food is immediate; its effects on health arrive years later. For many good habits, it's the opposite: the effort is immediate and the benefit delayed. Exercise tires you today and makes you stronger months from now.
+
+Our brain evolved in an environment where immediate reward mattered more. So it values the present far more than the future. That is why good habits are so hard to maintain.
+
+The solution is to **add an immediate reward** to good habits. Clear gives the example of a couple who wanted to spend less at restaurants. Each time they skipped going out to dinner, they transferred the equivalent amount into an account called "Trip to Europe." Watching the account grow gave them immediate satisfaction, which reinforced the habit.
+
+He specifies that the reward must be consistent with the target identity. Rewarding yourself for a workout with a cake contradicts the goal. A reward that reinforces the identity is better, such as a relaxing bath or a new piece of equipment.
+
+> À retenir | The brain prefers immediate pleasure. Add a small immediate satisfaction to each good habit.
+
+--- Tracking your habits
+kw: tracking · never miss twice · contract
+Clear proposes several tools to make habits satisfying and lasting.
+
+**Habit tracking.** This means marking, for example on a calendar, each day you performed the habit. Clear tells the story of a comedian who, to improve, wrote a joke every day and crossed off the day on a wall calendar. The chain of crosses itself became a motivation: he didn't want to break it.
+
+Tracking has three advantages. It reminds you to act, because the calendar is a visible cue. It motivates you, because seeing your progress is satisfying. And it delivers a small immediate satisfaction with each cross.
+
+**Never miss twice.** Clear acknowledges that everyone misses a day sometimes. That's fine. The danger is missing twice in a row, because the second miss marks the start of a new habit: not doing it. So he recommends getting back on track immediately after a miss, even with a very scaled-down version of the habit.
+
+**The habit contract.** For bad habits, Clear proposes making their consequences immediate. A habit contract is a written commitment, signed with one or two people, that sets out an unpleasant consequence if you don't keep your commitment. For example, paying a friend a sum of money for each lapse. Others' scrutiny makes the bad habit more costly.
+
+**The accountability partner.** Sharing your goals with someone who tracks your progress increases commitment.
+
+- Check off every day you do it.
+- Never miss twice in a row.
+- Make the consequences of bad habits visible.
+
+=== Going further
+--- Talent, enjoyment and boredom
+kw: strengths · right difficulty · consistency
+In the last part of the book, Clear addresses several more advanced questions.
+
+**The role of talent.** Clear acknowledges that genes and predispositions matter. A tall basketball player has an advantage. But he proposes drawing a practical conclusion: choose the areas where your natural inclinations are an asset. Habits are easier and more satisfying when they match our strengths. He suggests first exploring several activities, then focusing on those where you progress naturally and that bring enjoyment.
+
+**The Goldilocks rule.** Clear draws on research suggesting that motivation peaks when a task is of manageable difficulty: neither too easy, which bores, nor too hard, which discourages. So you need to gradually adjust the level of challenge to stay in this zone.
+
+**Boredom.** Clear argues that the greatest threat to success is not failure but boredom. Over time, a habit becomes routine and loses its appeal. The people who succeed are those who keep going even when it's boring. He cites a coach who explained that the difference between the best athletes and the rest lies in their ability to handle the monotony of daily training.
+
+**The downside of habits.** Once a behavior is automatic, you stop paying attention to it, and you can stagnate. Clear recommends combining habits with **deliberate practice** and regular moments of **reflection** on your progress.
+
+> Question clé | Which habit do you keep practicing even when it bores you? Which one did you drop for that reason?
+
+--- Reflect and review
+kw: annual review · identity · adjust
+Clear proposes complementing habits with regular moments of **reflection**.
+
+He describes his own practice. Each year, he conducts an **annual review**, asking himself three questions: what went well this year? What didn't go so well? What did I learn? He also conducts an **integrity report** at mid-year, asking whether his core values still guide his actions and how he could live more in line with them.
+
+He explains that these reviews help identify habits that no longer serve you and adjust the system. They also prevent you from carrying on through sheer inertia in a direction that is no longer right.
+
+He also returns to **identity**. He warns against an identity that is too rigid. If you define yourself entirely by a role, such as "I'm an athlete" or "I'm a great manager," you become vulnerable when that role disappears, through injury, a change of job or retirement. He recommends defining your identity through broader qualities: "I'm the type of person who loves physical challenges," "I'm the type of person who helps others grow." These identities can survive changes in circumstances.
+
+Clear concludes that habits are not an end in themselves. They are a means of becoming the person you want to be.
+
+- An annual review: what worked, what didn't, what I learned.
+- A broad identity holds up better to change.
+- Habits serve identity, not the other way around.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · one habit
+**Week 1: choose an identity.** Write down the type of person you want to become in a specific area. List your habits on an ordinary day and rate them. Choose a single new habit consistent with that identity.
+
+**Week 2: make it obvious and easy.** Phrase the habit as a stack: "After…, I will…". Scale it down to two minutes. Arrange your environment to make the cue visible and the friction minimal.
+
+**Week 3: make it attractive and satisfying.** Pair the habit with an activity you enjoy. Start tracking it daily on a calendar. Add a small immediate reward consistent with your identity.
+
+**Week 4: consolidate.** If you missed a day, get back on track immediately: never miss twice. Gradually increase the duration or intensity. Identify a bad habit and apply the inverted laws: make it invisible, unattractive, difficult and unsatisfying.
+
+Clear reminds us that results may remain invisible for a long time. What matters is showing up every day.
+
+> À retenir | One identity, one two-minute habit, an adapted environment, daily tracking. Never miss twice.
+
+--- Case study: reading every evening
+kw: manager · reading · team
+Hugo manages a sales team. He would like to read more to grow in his job, but never manages to: in the evening he is tired and looks at his phone. He decides to apply Clear's method.
+
+**Identity.** He tells himself: "I'm a manager who is always learning."
+
+**Make it obvious.** He leaves a book on his bedside table and another in his bag. He phrases a stack: "After I brush my teeth in the evening, I will read."
+
+**Make it easy.** At first, his goal is to read a single page. His phone now charges in the living room, not the bedroom.
+
+**Make it attractive.** He joins a small book club with two colleagues from other departments, who meet once a month to discuss a management book.
+
+**Make it satisfying.** He checks off every evening of reading on a calendar. When he finishes a book, he shares an idea with his team at the Monday meeting.
+
+**Never miss twice.** After a business trip during which he didn't read for two days, he starts again as soon as he gets back, with a single page.
+
+A year later, he has read some twenty books, and his team has adopted several practices he discovered in them.
+
+> Question de réflexion | What two-minute habit could you start this evening?
+
+=== Critical view and connections
+--- Limits of the book
+kw: simplification · evidence · social context
+*Atomic Habits* is very popular, but it has several limits.
+
+**An appealing simplification.** The image of 1% a day and compound interest is striking, but it oversimplifies. Real progress doesn't follow a smooth mathematical curve, and not all improvements accumulate.
+
+**Evidence of varying quality.** The book cites many studies, some solid, others more debated. Some anecdotes, such as the British cycling story, have also been qualified since, notably because of controversies surrounding that team.
+
+**Little theoretical novelty.** The main ideas come from earlier work in behavioral psychology and habit science. The book's contribution is above all their clear, practical synthesis.
+
+**An individual approach.** The book assumes everyone can transform their habits by changing their environment. But some people have little control over their environment, time or resources. Social and economic constraints are barely addressed.
+
+**The risk of quantification.** Systematic habit tracking can become obsessive and turn every activity into a box to tick.
+
+- A clear synthesis more than a new theory.
+- Our environment is not always within our control.
+
+--- Connections with other books
+kw: Covey · Newport · Dweck · Cialdini
+**With The 7 Habits of Highly Effective People (Covey).** Covey proposes principle-based habits of character. Clear explains how habits form in general. Both books stress identity and values.
+
+**With Deep Work (Newport).** Deep work rituals are habits. Clear's four laws help establish them.
+
+**With Mindset (Dweck).** Identity-based habits and the idea of continuous progress echo the growth mindset.
+
+**With Influence (Cialdini).** The role of group norms in habits corresponds to the principle of social proof.
+
+**With Toyota Kata (Rother).** The improvement kata is a kind of daily habit, practiced until it becomes automatic, in the service of continuous improvement in small steps.
+
+> Parcours conseillé | Read Deep Work next to apply these laws to concentration, then Mindset for your relationship to learning.
