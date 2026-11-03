@@ -1,0 +1,273 @@
+=== Context and thesis
+--- A psychologist and children
+kw: Stanford · failure · puzzles
+Carol Dweck is a professor of psychology at Stanford University. Since the 1970s, she has studied how people respond to failure and difficulty.
+
+She recounts an experiment that marked the start of her research. She gave children increasingly difficult puzzles and watched how they reacted. She expected to see some children get discouraged and others hold up. She discovered something more surprising: some children seemed to **love** failure. Faced with a puzzle that was too hard, they rubbed their hands together and said they loved a challenge. For them, failure was not a sign of inability but an opportunity to learn.
+
+Dweck wanted to understand what set these children apart. For decades, she conducted research with schoolchildren, students, athletes, managers and couples. She eventually identified a decisive factor: people's **beliefs** about the nature of their abilities.
+
+*Mindset*, published in 2006, presents this research to a broad audience. The book has become very influential, especially in education, where the phrase "growth mindset" has entered everyday vocabulary.
+
+The thesis is simple: how you view your abilities, as fixed or as capable of development, profoundly influences how you learn, how you respond to difficulties and how you live.
+
+> À retenir | Some children loved failure. What set them apart was not their talent but their belief about the nature of their abilities.
+
+--- Two mindsets
+kw: fixed · growth · beliefs
+Dweck distinguishes two mindsets.
+
+The **fixed mindset** is the belief that your qualities, intelligence, personality, talent, are **carved in stone**. You have a certain amount of intelligence and can't change it. With this mindset, every situation becomes a test: will you succeed, and so prove you are smart, or fail and reveal that you aren't?
+
+The **growth mindset** is the belief that your qualities can be **cultivated** through effort, good strategies and help from others. It doesn't deny that people differ or that some have more aptitude. But it holds that everyone can improve considerably through learning and practice.
+
+Dweck stresses that these mindsets are not permanent personality traits. They are **beliefs**, which can vary by domain. A person can have a growth mindset about sport and a fixed mindset about mathematics. And above all, these beliefs can change.
+
+She explains that these beliefs have cascading effects. They influence what you seek out, how you interpret failure, what you think of effort, how you respond to criticism and how you view other people's success.
+
+- Fixed: abilities are given once and for all.
+- Growth: they are cultivated through effort and learning.
+- These are beliefs, varying by domain, and they can change.
+
+--- Cascading consequences
+kw: challenges · obstacles · effort · criticism
+Dweck describes how each mindset leads to different behaviors.
+
+**Challenges.** With a fixed mindset, you avoid challenges, because failure might reveal a lack of ability. You prefer tasks you are sure to succeed at. With a growth mindset, you seek out challenges, because they allow you to learn.
+
+**Obstacles.** With a fixed mindset, you give up easily, because an obstacle is seen as proof that you aren't cut out for this. With a growth mindset, you persist, because an obstacle is a normal step in learning.
+
+**Effort.** With a fixed mindset, effort is seen as a sign of weakness: if you were really gifted, you wouldn't need to try. With a growth mindset, effort is the path to mastery.
+
+**Criticism.** With a fixed mindset, you ignore or reject criticism, because it threatens your self-image. With a growth mindset, you use it to learn.
+
+**Other people's success.** With a fixed mindset, others' success is threatening, because it can make you look less capable. With a growth mindset, it is a source of inspiration and learning.
+
+Dweck stresses that over time these behavioral differences produce major differences in results. People with a growth mindset learn more and often end up overtaking those who had more aptitude at the start.
+
+> Question clé | When you last failed, did you think "I'm not cut out for this" or "what can I learn from this"?
+
+=== School and learning
+--- Studies of students
+kw: transition · junior high · grades
+Dweck presents several studies with students that show how mindsets influence academic success.
+
+In one, she followed students through the transition to junior high, a period when demands increase and grades often fall. At the start, students with both mindsets had comparable results. But over the following years, those with a growth mindset saw their grades rise, while those with a fixed mindset stagnated or declined.
+
+Dweck explains this difference by how they reacted to difficulty. When math got harder, fixed-mindset students interpreted their bad grades as proof of their lack of ability. They became discouraged, worked less and sometimes cheated. Growth-mindset students saw these difficulties as a signal to work harder or change their approach.
+
+She also describes an experiment in which students followed a short program explaining that the brain grows stronger like a muscle when you learn. A comparable group followed a program on other study skills. Students in the first group improved their math results, while those in the second continued to decline.
+
+Dweck stresses that these effects are particularly important for students who are struggling or who belong to stigmatized groups, because the fixed mindset reinforces stereotypes that certain groups are less capable.
+
+- Gaps appear when difficulties increase.
+- The fixed mindset leads to giving up, the growth mindset to persisting.
+- Understanding brain plasticity can change results.
+
+--- The praise trap
+kw: intelligence · effort · process
+One of Dweck's most famous findings concerns how to **praise** children.
+
+She describes an experiment with hundreds of students. They were first given a set of fairly easy problems. Then some children were praised for their **intelligence**: you must be really smart to have done that. Others were praised for their **effort**: you must have worked really hard to do that.
+
+The effects were striking. Children praised for intelligence adopted a fixed mindset. When they were then offered a choice between an easy task and a hard one, most chose the easy one, so as not to risk losing their image as smart children. When they hit difficult problems, they became discouraged, enjoyed the task less and performed worse. Some even lied about their scores.
+
+Children praised for effort adopted a growth mindset. They chose the hard tasks, persisted with the problems and improved.
+
+Dweck draws a recommendation from this: **praise the process rather than the person**. Value effort, strategies, persistence and progress rather than intelligence or talent.
+
+She specifies that this doesn't mean praising any effort, even ineffective effort. You must value effort **combined with good strategies**, and help the child change approach when effort isn't enough.
+
+> À retenir | Praising intelligence leads children to avoid challenges. Praising effort and strategy leads them to seek challenges out.
+
+=== Sport, work and relationships
+--- Sport and talent
+kw: athletes · character · training
+Dweck devotes a chapter to sport, a field where people often strongly believe in natural talent.
+
+She cites athletes considered exceptional talents who didn't fulfill their potential because they relied on their gifts and didn't work hard enough. She mentions players who, after a failure, blamed others or circumstances rather than trying to improve.
+
+Conversely, she describes athletes who were not considered the most gifted at the start but reached the highest level through hard work and the ability to learn from their failures. She cites in particular great basketball and baseball players known for the rigor of their training, who had suffered major setbacks early in their careers.
+
+Dweck stresses that these athletes shared what coaches call **character**: the ability to bounce back after a defeat, stay focused under pressure and work even when it isn't enjoyable. She argues that this character is linked to the growth mindset.
+
+She also mentions famous coaches who cultivated this mindset in their players, valuing effort, preparation and personal improvement rather than winning at all costs. One of them, a college basketball coach, defined success as the satisfaction of having done your best to become the best you are capable of becoming.
+
+- Talent without work isn't enough.
+- Character means getting back up and continuing to learn.
+- Great coaches value effort and progress.
+
+--- Leaders and companies
+kw: CEOs · geniuses · culture
+Dweck applies her ideas to business and leadership.
+
+She describes leaders with a **fixed mindset**. They constantly need to prove their superiority. They surround themselves with admirers and push aside those who contradict them. They refuse to acknowledge their mistakes. They seek to shine personally rather than develop their organization. Dweck cites several famous leaders whose companies declined under their leadership, partly because of this attitude.
+
+Conversely, she describes leaders with a **growth mindset**. They seek to learn, listen to criticism, acknowledge their mistakes and surround themselves with capable people, even people more capable than themselves. They focus on developing their teams and their organization. She cites several leaders known for turning their companies around by adopting this attitude.
+
+Dweck makes the link with Jim Collins's work on companies that go from good to great. The leaders of these companies, whom Collins calls Level 5 leaders, were humble, asked questions and confronted reality, characteristics close to the growth mindset.
+
+She also discusses **organizational culture**. Some companies above all value talent, hire geniuses and pit them against one another. These cultures can encourage concealing mistakes and risky behavior. Others value learning and development, which fosters collaboration and innovation.
+
+> Question clé | Does your organization mainly value demonstrated talent, or learning and progress?
+
+--- Relationships
+kw: couple · conflict · blame
+Dweck also applies mindsets to **personal relationships**, notably couples.
+
+She explains that the fixed mindset can take a particular form in relationships. Some people believe a good relationship should be naturally easy, effortless. If two people are made for each other, they think, they should understand each other spontaneously, without having to communicate their needs. Difficulties are then seen as proof that the relationship isn't right.
+
+With this mindset, conflicts become threatening. When a problem arises, you look for someone to blame. You attribute difficulties to the other person's permanent flaws: he's selfish, she's irresponsible. These fixed judgments make problems hard to solve.
+
+With a growth mindset, you consider that a relationship is built. Difficulties are normal and can be overcome through communication and effort. You see the other person's flaws, and your own, as behaviors that can change. Conflicts become opportunities to understand each other better.
+
+Dweck also discusses friendships and situations of **rejection**. People with a fixed mindset experience rejection as a final judgment on their worth and may develop resentment or a desire for revenge. Those with a growth mindset try to understand what happened and learn from it.
+
+- A relationship isn't supposed to be easy without effort.
+- Fixed judgments about the other person block conflict resolution.
+- Difficulties are opportunities to understand each other.
+
+=== Parents, teachers, managers
+--- Passing on a mindset
+kw: messages · reactions to failure · high standards
+Dweck devotes a chapter to people who influence others' development: parents, teachers, coaches, managers.
+
+She explains that these people pass on a mindset through their **messages**, often without realizing it. Every compliment, every criticism, every reaction to failure sends a message about the nature of abilities.
+
+She gives examples of messages that convey a fixed mindset: praising talent or intelligence; telling a child who fails that they aren't cut out for it; shielding a child from all difficulty to protect their confidence; comparing children with one another in terms of gifts.
+
+Conversely, some messages convey a growth mindset: valuing effort, strategies and progress; presenting failure as a step in learning; offering appropriate challenges; showing that you are learning yourself.
+
+Dweck stresses that the growth mindset is not synonymous with **laxity**. The great teachers she describes have very high standards for all their students. But they believe everyone can meet them, and they provide the necessary support. She cites a teacher who achieved remarkable results with students from disadvantaged neighborhoods by refusing to believe their difficulties were permanent.
+
+She also warns about how adults react to their own failures in front of children. A parent who gets discouraged easily or blames others conveys a fixed mindset.
+
+> À retenir | Every compliment and every reaction to failure passes on a mindset. High standards and confidence in progress go together.
+
+--- The manager who helps people grow
+kw: potential · feedback · mistakes
+Dweck offers suggestions for managers who want to cultivate a growth mindset in their teams.
+
+**Believe in everyone's potential.** A manager who thinks some team members are gifted and others aren't will invest in the former and neglect the latter. They will also miss out on talents that could have developed.
+
+**Give progress-oriented feedback.** Rather than judging people, comment on their actions, strategies and progress. Suggest concrete ways to improve.
+
+**Value learning, not just results.** Recognize effort, initiative and lessons learned from failure, even when the result isn't there.
+
+**Accept mistakes.** Create an environment where people can acknowledge mistakes without fear, so they can learn from them.
+
+**Lead by example.** Acknowledge your own mistakes, ask for feedback, show that you keep learning.
+
+**Hire and promote on learning potential.** In hiring and promotions, value the ability to learn and improve, not just current skills.
+
+Dweck cites research showing that fixed-mindset managers notice their team members' progress less and give less useful advice. She also mentions training that helped managers change their mindset and improve their coaching.
+
+- Believe everyone can improve.
+- Comment on actions and strategies, not on people.
+- Recognize learning as much as results.
+
+=== Changing your mindset
+--- A gradual change
+kw: triggers · persona · inner voice
+Dweck devotes the last chapter to how to **change** your mindset.
+
+She first stresses that this change isn't instant. You don't move from a fixed to a growth mindset simply by reading a book. Both mindsets coexist in each of us, and the fixed mindset often resurfaces in certain situations.
+
+She first suggests **recognizing your triggers**. In which situations does the fixed mindset appear? Facing a hard challenge, criticism, a colleague's success, a failure? When you feel threatened, defensive, discouraged?
+
+She then suggests **giving a name** to your fixed-mindset persona, that inner voice that says you aren't capable, that you will fail, that others are better. Naming it lets you step back from that voice and answer it.
+
+She then recommends **talking back to that voice** with growth-mindset language. When it says "you're not cut out for this," answer "I can't do it yet, but I can learn." When it says "what if I fail?", answer "successful people have failed too."
+
+Finally, she suggests **taking action**: choose the challenge, persist, ask for feedback and observe the results.
+
+Dweck stresses that the word "**yet**" plays an important role. Saying "I can't do it" is a fixed statement. Saying "I can't do it yet" opens up the possibility of progress.
+
+> Exercice | Note a recent situation in which your inner voice told you "you're not capable." Write down how you could answer it.
+
+--- False growth mindset
+kw: misunderstandings · effort alone · talk
+In more recent editions of her book and in later articles, Dweck has warned against a phenomenon she calls **false growth mindset**.
+
+She observes that the phrase has become very popular, notably in schools, but is often misunderstood. She describes several misunderstandings.
+
+**Confusing growth mindset with a positive attitude.** Being open-minded, optimistic or flexible is not the same as believing your abilities can be developed.
+
+**Praising effort alone.** Some teachers praise students for effort even when that effort produces no progress. Dweck recalls that the goal is learning. If effort isn't working, you must help the student change strategy, ask for help or try other approaches.
+
+**Using the mindset as consolation.** Telling a failing student "never mind, you did your best" without helping them improve amounts to giving up.
+
+**Proclaiming it without living it.** Many people and organizations claim to have a growth mindset but react harshly to mistakes or rank people by talent.
+
+**Thinking you have it once and for all.** No one has a pure growth mindset. Everyone has fixed-mindset triggers.
+
+Dweck insists that the growth mindset is a journey, not a label.
+
+- It isn't optimism, or effort for its own sake.
+- The goal is learning, with good strategies.
+- No one has a pure one; it is a journey.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · triggers
+**Week 1: observe.** Each day, note a situation in which you reacted with a fixed mindset: avoiding a challenge, getting discouraged, rejecting criticism, feeling threatened by someone else's success. Identify your main triggers.
+
+**Week 2: name and answer.** Give your fixed-mindset voice a name. When it shows up, answer it in writing with growth-mindset language. Add the word "yet" to your statements of inability.
+
+**Week 3: change your praise.** In your exchanges with your children, colleagues or team members, replace praise of talent with comments on effort, strategies and progress.
+
+**Week 4: choose a challenge.** Choose an activity you have been avoiding because you didn't feel gifted. Start learning it, ask for feedback and note your progress.
+
+Dweck reminds us that change is gradual, and that relapses are normal.
+
+> À retenir | Spot your triggers, name your inner voice, change your praise, take on an avoided challenge.
+
+--- Case study: the manager and her team
+kw: talents · mistakes · growth
+Sarah leads a team of developers. She is used to distinguishing "good" developers, to whom she gives the important projects, from the others, whom she confines to simple tasks. The latter make little progress, and two of them have just resigned.
+
+**Diagnosis.** Reading Dweck, she recognizes in herself a fixed mindset about her team members' abilities.
+
+**A new outlook.** She decides to see every team member as capable of improving. She entrusts part of an important project to two less experienced developers, with support from a senior colleague.
+
+**New feedback.** In code reviews, she comments on technical choices and improvements rather than labeling people.
+
+**Accepting mistakes.** She sets up meetings in which the team analyzes incidents without looking for culprits, in order to learn from them.
+
+**Leading by example.** She acknowledges to the team an estimation error she made and explains what she learned from it.
+
+A year later, several developers once considered average have become key contributors, and the team has had no further departures.
+
+> Question de réflexion | Whom have you classed as "not very gifted," and what chance to improve could you give them?
+
+=== Critical view and connections
+--- Limits of the book
+kw: replications · modest effects
+*Mindset* has had a considerable impact, but it has also been criticized.
+
+**Effects more modest than expected.** Several recent large-scale studies have shown that interventions designed to change students' mindsets have real but often **modest** effects, more pronounced for some students, notably those who are struggling. Some studies found no effect. The book, written for the general public, presents the findings more enthusiastically than the current body of research allows.
+
+**A simplifying dichotomy.** The distinction between two mindsets is clear and memorable, but reality is more nuanced. Dweck herself stresses in her later work that everyone combines both.
+
+**Anecdotal examples.** The examples of athletes, executives and celebrities are chosen to illustrate the thesis. They don't demonstrate that mindset explains their success or failure.
+
+**The risk of blame.** By emphasizing effort and mindset, one can neglect external factors, social, economic or institutional, that limit opportunities for progress. There is a risk of holding people responsible for difficulties beyond their control.
+
+**Commercial co-optation.** The concept has been taken up in many training and self-improvement programs, sometimes superficially.
+
+- Real but often modest effects.
+- External obstacles matter too.
+
+--- Connections with other books
+kw: Ericsson · Collins · Clear · Dehaene
+**With Peak (Ericsson).** Ericsson shows that excellence comes from practice more than talent. Dweck explains why some people accept that effort and others don't.
+
+**With Good to Great (Collins).** Dweck explicitly cites Collins: Level 5 leaders show the characteristics of a growth mindset.
+
+**With Atomic Habits (Clear).** Identity-based habits and the idea of progress in small steps echo the growth mindset.
+
+**With How We Learn (Dehaene).** Dehaene draws on Dweck to explain the importance of a healthy relationship to error in learning.
+
+**With Radical Candor (Scott).** Feedback focused on actions and progress rather than on people is common to both books.
+
+> Parcours conseillé | Read Peak next for the kind of practice that leads to improvement, then How We Learn for the brain's mechanisms.
