@@ -1,0 +1,291 @@
+=== Context and thesis
+--- Two researchers and a writer
+kw: memory · research · field
+*Make It Stick* is the product of a collaboration between two cognitive psychology researchers at Washington University in St. Louis, Henry Roediger and Mark McDaniel, and a writer, Peter Brown. The two researchers have studied memory and learning for decades. Peter Brown gave their work an accessible form, illustrating it with the stories of real people: students, doctors, pilots, athletes, teachers.
+
+The book, published in 2014, starts from a worrying observation. Most students, and many teachers and trainers, use learning methods that are not very effective. They reread their notes, highlight passages and cram the night before an exam. These methods give an impression of mastery but produce fragile learning that is quickly forgotten.
+
+Conversely, the most effective methods identified by research are often counterintuitive. They require more effort, feel less comfortable and sometimes give the impression of learning less well. Yet they produce more durable and more flexible learning.
+
+The authors sum up their message in one idea: **learning is deeper and more durable when it requires effort**. They speak of **desirable difficulties**: difficulties that slow learning in the moment but strengthen it in the long run.
+
+> À retenir | The methods that feel effective are often misleading. Those that require effort produce lasting learning.
+
+--- The illusions of rereading
+kw: familiarity · highlighting · cramming
+The authors devote a large part of the book to the most widespread learning methods and their limits.
+
+**Rereading.** This is the method students use most. Yet research shows it adds little after the first reading. When you reread a text, it feels familiar. That familiarity gives the impression that you know it. But recognizing a text is not the same as being able to retrieve and use its content.
+
+**Highlighting.** Highlighting passages also gives a sense of activity and mastery. But it is mostly a form of rereading that requires neither thinking about the text's meaning nor retaining it.
+
+**Cramming.** Studying intensively just before an exam can get you through the exam, because the information is still fresh. But it is forgotten very quickly afterward. The authors compare this to a house built on sand.
+
+The authors explain why these methods remain so popular. They are easy, quick and give an immediate sense of progress. Effective methods, by contrast, are slower and more uncomfortable. Learners misjudge their own learning: they confuse ease in the moment with the solidity of what they have learned.
+
+They cite studies in which students had to choose between rereading a text and testing themselves on its content. Most preferred to reread and thought they had learned better. Later tests showed the opposite.
+
+- Familiarity gives a false impression of knowing.
+- Highlighting and rereading take little effort and leave few traces.
+- Cramming passes the exam, not the learning.
+
+--- Forgetting is normal
+kw: forgetting curve · retrieval · useful
+The authors point out that **forgetting** is a normal part of how memory works. We quickly forget most of what we learn, especially if we don't use it.
+
+They explain that memory isn't simple storage. We can distinguish **storage strength**, the solidity of the memory trace, from **retrieval strength**, how easily we can find that trace at a given moment. Information can be well stored but hard to retrieve, because we haven't used it for a long time.
+
+This distinction sheds light on a paradox. When information is easy to retrieve, retrieving it adds almost nothing. When it is somewhat forgotten and you have to make an effort to retrieve it, that effort considerably strengthens memory. A little forgetting therefore makes review more effective.
+
+The authors also stress that forgetting has a useful function. It lets us set aside information we no longer need, to make room for new information. It would be exhausting to remember everything.
+
+So the challenge is not to avoid forgetting but to organize learning so that important information is regularly retrieved, and its trace strengthened each time.
+
+> À retenir | Retrieving information you have half forgotten strengthens it far more than reviewing it while it is still fresh.
+
+=== Testing to learn
+--- Retrieval practice
+kw: tests · recall · testing effect
+The central technique of the book is **retrieval practice**, often called the **testing effect**. It means retrieving information from memory rather than rereading it.
+
+The authors present many studies showing the effectiveness of this practice. In a typical experiment, students read a text. Some reread it several times. Others read it once, then try to recall its content without looking. A few days later, the second group remembers the text clearly better, even though it spent less time reading.
+
+They also describe research conducted at an American middle school. Teachers built short, regular quizzes into their lessons, with no stakes for grades. Students scored better on exams on the material that had been quizzed than on material that had only been reviewed.
+
+The authors explain that each retrieval attempt strengthens the pathways leading to the information in memory. It also helps **connect** the information to other knowledge, making it easier to retrieve in varied situations.
+
+They specify that the effect is stronger when retrieval requires **effort**. A multiple-choice question helps, but a question where you must produce the answer yourself helps more. And it is important to then receive the correct answer, to correct mistakes.
+
+They recommend turning your notes into questions, using flashcards with a question on one side and the answer on the other, and testing yourself regularly.
+
+- Recalling is more effective than rereading.
+- The greater the effort, the stronger the effect.
+- Check the answer after each attempt.
+
+--- Testing is not grading
+kw: low stakes · frequent · anxiety
+The authors insist on an important distinction. In most people's minds, a test is for **assessment**: it measures what you know and gives a grade. The authors propose seeing the test differently, as a **learning tool**.
+
+A learning test is **low-stakes**. It doesn't count, or counts very little, toward the final grade. It is **frequent**: at the start or end of each class, after each chapter. It is **followed by feedback**: answers are corrected immediately.
+
+They highlight several benefits of these frequent tests.
+
+**They strengthen memory**, thanks to the retrieval effect.
+
+**They reveal what you don't know.** Learners often overestimate their mastery. Tests show them their gaps, which lets them better target their review.
+
+**They reduce test anxiety.** Students used to regular testing are less stressed on exam day.
+
+**They encourage regular study**, rather than cramming everything at the last minute.
+
+**They inform the teacher** about what students have and haven't understood.
+
+The authors tell the story of a university professor who transformed his course by adding short tests at the start of each session. His students, reluctant at first, came to acknowledge that these tests had helped them learn better and do better.
+
+> Question clé | How could you turn your next training session, or your next reading, into a series of small questions to ask yourself?
+
+=== Space, interleave, vary
+--- Spacing practice
+kw: intervals · partial forgetting · lasting
+The second major technique is **spacing**. Rather than practicing a skill or reviewing a concept in a concentrated way, you spread sessions out over time.
+
+The authors cite many studies showing that spacing greatly improves long-term retention. They explain why: between two sessions, you forget a little. At the next session, you have to make an effort to retrieve the information, and that effort strengthens memory. Spacing also allows time for **consolidation**, the process by which the brain stabilizes and reorganizes new knowledge, notably during sleep.
+
+They tell the story of surgeons in training. Studies compared two groups of young surgeons learning a microsurgery technique. The first group took all the training sessions in a single day. The second took the same sessions spread over several weeks. The second group mastered the technique clearly better afterward.
+
+The authors specify that the ideal interval depends on what you want to retain and for how long. It must be long enough for a little forgetting to occur, but not so long that you have forgotten completely. In practice, gradually lengthening intervals are effective: a day, then a few days, then a week, then a month.
+
+They acknowledge that spacing feels less effective in the moment. During a massed session, you progress quickly and feel competent. During a spaced session, you feel you have forgotten. But it is precisely that effort that makes the difference.
+
+- Spread sessions out over time.
+- A little forgetting between sessions strengthens memory.
+- Gradually lengthening intervals.
+
+--- Interleaving topics
+kw: mixing · discriminating · choosing the method
+The third technique is **interleaving**, or interleaved practice. Rather than practicing one type of problem at a time and then another, you mix different types of problems within the same session.
+
+The authors describe an experiment in which students learned to calculate the volume of different geometric shapes. One group practiced in blocks: first all the problems on one shape, then all those on another. The other group practiced in a mixed way. During practice, the first group performed better. But on the final test, a week later, the second group did much better.
+
+They explain this effect. When you practice in blocks, you know in advance which method to use: you just repeat the same procedure. When you interleave, you must first **identify** the type of problem and **choose** the right method. This skill, recognizing the nature of a problem, is essential in real life, where problems don't arrive sorted by category.
+
+They also cite a study on learning the styles of different painters. Participants who saw paintings by different artists mixed together learned better to recognize each one's style than those who saw all of one painter's works in a row.
+
+The authors give an example from sport. A baseball player who practices hitting varied types of pitches, thrown unpredictably, improves more than one who hits the same type of pitch several times in a row.
+
+> À retenir | Mixing problem types is harder, but it teaches you to recognize which one is in front of you.
+
+--- Varying practice
+kw: contexts · transfer · flexibility
+The fourth technique is **variation**. It means practicing a skill under different conditions rather than always in the same way.
+
+The authors cite an experiment in which children practiced tossing beanbags into a basket. Some always practiced from the same distance. Others practiced from varied distances, but never from the distance of the final test. On the test, this second group did better, even though it had never practiced at the tested distance.
+
+The authors explain that variation forces the brain to build a **more general representation** of the skill. Instead of learning a precise movement for a precise situation, you learn to adjust your movement to different situations. This general representation then lets you adapt to new situations.
+
+They stress that variation is particularly useful for **transfer**, the ability to use what you have learned in a context different from the one in which you learned it. Learning that is too uniform remains tied to the context in which it was acquired.
+
+They give professional examples: pilots train on simulators that present varied situations, including rare failures; doctors encounter patients with different profiles; firefighters train in different buildings.
+
+- Practice under varied conditions.
+- Variation builds a more general skill.
+- It makes transfer to new situations easier.
+
+=== Understanding and connecting
+--- Elaboration
+kw: explaining · connecting · examples
+The authors present several techniques that help **understand** new knowledge and **connect** it to existing knowledge.
+
+**Elaboration** means giving meaning to new information by explaining it in your own words, connecting it to what you already know and finding examples from your own experience. The more connections you create between new information and other knowledge, the easier it is to retrieve.
+
+The authors tell the story of a physics student who, to understand angular momentum, thought of a figure skater who spins faster when she pulls her arms in close to her body. This concrete image helped her understand and remember the principle.
+
+**Generation** means trying to answer a question or solve a problem **before** receiving the explanation. Even if you get it wrong, the effort of searching prepares the brain to better understand and retain the solution when it is given. The authors cite studies in which participants who had to guess a word before seeing it remembered it better than those who saw it directly.
+
+**Reflection** means revisiting a recent experience, a class, a meeting, a project, to ask what happened, what worked, what you could have done differently and what you learned. This practice combines retrieval, elaboration and generation. The authors cite doctors and teachers who regularly write short reflections on their practice.
+
+> Exercice | After your next important meeting, spend five minutes writing: what happened, what I take away from it, what I would do differently.
+
+--- Building mental models
+kw: structure · rules · experts
+The authors explain that the best learners don't just accumulate facts. They **build structures**: mental models that organize knowledge and show how it fits together.
+
+They cite research showing that some people are particularly good at extracting a text's main ideas and organizing them into a coherent structure. Others retain isolated details without seeing how they fit together. The former learn better and retain longer. The authors suggest that this ability can be trained, for example by summarizing a text in a few main ideas or drawing a concept map.
+
+They also distinguish two ways of learning a skill: learning **examples** and learning **rules**. Some people mainly retain specific examples; others look for the principles that connect them. The latter are often better able to adapt to new situations.
+
+They stress that experts in every field have rich, well-organized mental models. An experienced doctor quickly recognizes a set of symptoms as the sign of a specific disease. An experienced chess player sees a position as a familiar configuration. These models are built through long, varied practice, with moments of reflection.
+
+- Organize knowledge into structures.
+- Look for the rules behind the examples.
+- Experts have rich mental models.
+
+=== Knowing yourself as a learner
+--- The illusion of knowing
+kw: overconfidence · calibration · testing
+The authors devote a chapter to the **illusions** that distort our judgment about what we know.
+
+They explain that we are often poor judges of our own learning. Several mechanisms mislead us.
+
+**Familiarity.** A reread text feels known, which gives the impression of having mastered it.
+
+**Fluency.** A clear explanation that is easy to follow gives the impression you could reproduce it. You can't.
+
+**Overconfidence.** People who are least competent in a field often tend to overestimate their abilities, because they lack the knowledge needed to spot their own mistakes. The authors mention research on this phenomenon, often called the Dunning-Kruger effect.
+
+**Reconstructed memories.** Our memory is not a faithful copy of reality. It reconstructs memories, filling in gaps, sometimes wrongly. The authors cite cases of sincere but mistaken witnesses.
+
+To protect yourself from these illusions, the authors recommend **calibrating** your judgment, that is, checking it against objective measures. Tests are the best calibration tool: they show what you actually know. Feedback from others, comparison with peers and practical application also help verify your mastery.
+
+> À retenir | We misjudge what we know. Testing yourself is the best way to calibrate your judgment.
+
+--- The myth of styles
+kw: learning styles myth · effort · intelligence
+The authors address two very widespread ideas about learning.
+
+**Learning styles.** Many people believe there are visual, auditory or kinesthetic learners, and that teaching should be adapted to each person's style. The authors explain that this idea, though popular, is not supported by research. Studies that tried to verify whether adapting to a person's declared style improved learning have generally found no effect. The authors acknowledge that people have different preferences and strengths, but they recommend adapting teaching to the **nature of the content** rather than to the learner's supposed style.
+
+**Intelligence.** The authors recall Carol Dweck's work on **mindset**. People who believe intelligence is fixed tend to avoid difficulties so as not to reveal their limits. Those who believe it can be developed see difficulties as opportunities to learn. The authors stress that the book's techniques, which require effort and confront learners with error, are easier to adopt with a growth mindset.
+
+They also cite research showing that the brain changes with learning and that intellectual effort strengthens cognitive abilities.
+
+They conclude that learning abilities are not fixed once and for all. You can learn to learn better.
+
+- Learning styles are a persistent myth.
+- Adapt teaching to the content, not to a supposed style.
+- Believing you can improve helps you accept effort.
+
+=== Putting it into practice
+--- Advice for learners and trainers
+kw: students · teachers · trainers
+The book's last chapter offers practical advice to different audiences.
+
+**For students and learners:**
+- Turn your notes into questions and test yourself regularly.
+- Space your reviews, returning to material already covered.
+- Mix problem types.
+- Try to solve a problem before reading the solution.
+- Connect new knowledge to what you already know, in your own words and with your own examples.
+- Be wary of the sense of mastery that rereading and familiarity give.
+
+**For teachers and trainers:**
+- Explain to learners how learning works, so they accept desirable difficulties.
+- Build in frequent low-stakes tests.
+- Regularly revisit material from previous sessions.
+- Design exercises that interleave problem types.
+- Make learning cumulative: each assessment can include questions on earlier material.
+
+**For professional training:**
+- Spread training over time rather than concentrating it.
+- Use simulations and varied cases.
+- Hold moments of reflection after important experiences.
+
+The authors stress that this advice requires no extra resources. Above all, it requires changing habits.
+
+> À retenir | Test yourself, space, interleave, generate, reflect. And explain to learners why it is harder.
+
+--- 30-day action plan
+kw: week by week · self-testing
+**Week 1: stop rereading.** Choose a subject to learn. After each reading, close the book and write down what you remember. Then compare with the text.
+
+**Week 2: create questions.** Turn your notes into questions. Prepare flashcards with the question on one side and the answer on the other. Test yourself every day.
+
+**Week 3: space and interleave.** Plan your reviews: the next day, three days later, a week later. Mix subjects or exercise types within the same session.
+
+**Week 4: generate and reflect.** Before reading an explanation, try to answer the question. After each session or important experience, write a short reflection. At the end of the month, take a test on everything you have learned since the start.
+
+The authors remind us that these methods often feel like learning less well. That's normal: effort is the sign that learning is getting stronger.
+
+> À retenir | If it's easy, it's probably not effective. Effort is the sign of progress.
+
+--- Case study: the certification
+kw: exam · professional · review
+Karim, an accounting manager, must take a professional certification exam in four months. On a first attempt, he had reread his textbooks several times, highlighted important passages and crammed during the final week. He had failed, even though he thought he knew the syllabus well.
+
+**Diagnosis.** Reading *Make It Stick*, he realizes he fell victim to the illusion of familiarity.
+
+**Self-testing.** He turns each chapter into questions and starts each study session with a test on the previous chapters.
+
+**Spacing.** He spreads his review over the four months, with a calendar that returns to each chapter at increasing intervals.
+
+**Interleaving.** Rather than doing all of a chapter's exercises in a row, he mixes exercises from different chapters.
+
+**Generation.** He tries to solve case studies before reading the answers.
+
+**Calibration.** A month before the exam, he takes a mock exam under real conditions, which reveals two areas that are still weak.
+
+He passes the exam with a comfortable margin, and six months later finds he still remembers the essentials.
+
+> Question de réflexion | For your next important learning goal, which misleading methods are you still using?
+
+=== Critical view and connections
+--- Limits of the book
+kw: laboratory · motivation · content
+*Make It Stick* is highly valued for its clarity and scientific rigor, but it has some limits.
+
+**Studies often in the laboratory.** Many results come from experiments on students, with simple material such as word lists or short texts. The authors also cite classroom and workplace studies, but the techniques' effectiveness for very complex learning is less well documented.
+
+**Motivation barely addressed.** The book explains how to learn effectively but says less about motivation: how to make people want to learn, how to persevere when effective methods feel hard.
+
+**Techniques suited mainly to knowledge.** The techniques are particularly effective for retaining knowledge and procedures. For highly creative or interpersonal skills, their application is less direct.
+
+**Lost comfort.** The authors acknowledge that desirable difficulties can discourage some learners, especially those lacking confidence. Excessive difficulty is not desirable.
+
+**Repetition.** The book often returns to the same ideas, which reinforces the message but lengthens the read.
+
+- Solid techniques, especially for knowledge.
+- Motivation and confidence must be worked on separately.
+
+--- Connections with other books
+kw: Dehaene · Ericsson · Dweck · Young
+**With How We Learn (Dehaene).** Dehaene explains the brain mechanisms that make the techniques presented here effective: error feedback, consolidation, sleep.
+
+**With Peak (Ericsson).** Deliberate practice also rests on effort, error feedback and building mental representations.
+
+**With Mindset (Dweck).** The authors draw on Dweck to explain why some learners accept difficulties better.
+
+**With Ultralearning (Young).** Scott Young applies these techniques, retrieval, feedback and retention, to intensive learning projects.
+
+**With Thinking, Fast and Slow (Kahneman).** The illusions of knowing described here are close to the judgment biases Kahneman studied.
+
+> Parcours conseillé | Read Ultralearning next to organize a complete learning project, then Peak to aim for excellence.
