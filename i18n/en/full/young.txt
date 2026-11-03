@@ -1,0 +1,311 @@
+=== Context and thesis
+--- The MIT Challenge
+kw: self-taught · one year · online courses
+Scott Young is a Canadian author who has been writing about learning and productivity since the mid-2000s. He became known for an unusual project. Around 2011, after studying business, he became interested in computer science. Rather than going back to long, expensive studies, he decided to work through, on his own and in about a year, the equivalent of MIT's undergraduate computer science curriculum, using the courses the university makes available free online. He took the courses' final exams and completed the programming projects, grading himself against the published answer keys.
+
+He then carried out other projects of the same kind. With a friend, he spent a year learning four languages, staying three months in each of the countries concerned and forbidding himself to speak English. He also set out to learn portrait drawing in a month.
+
+These experiences led him to take an interest in other people who had carried out intensive, self-directed learning projects: people who had learned a language in a few months, mastered a scientific field on their own, or acquired a professional skill in a very short time.
+
+*Ultralearning*, published in 2019, describes what he calls **ultralearning**: a strategy for acquiring skills and knowledge in a way that is **self-directed** and **intense**. He draws nine principles from it, illustrated by these stories and by research in cognitive science.
+
+> À retenir | Self-directed, intensive learning projects, carried out outside conventional programs, which show that hard things can be learned quickly.
+
+--- Why learn this way
+kw: economy · advantage · satisfaction
+Young argues that the ability to learn hard things quickly has become an essential skill.
+
+He draws on an analysis of the economy. Jobs requiring middling skills are increasingly automated or outsourced. Rare, complex skills, on the other hand, are ever better paid. In a world where technologies and jobs change fast, knowing how to learn new skills quickly gives a considerable advantage.
+
+He also points to the rising cost of formal education. University studies are long and expensive, and don't always prepare you for the skills you need. Ultralearning can complement, or in some cases replace, conventional training.
+
+Finally, he presents a personal argument. Carrying out an intense learning project brings deep satisfaction. Mastering a difficult skill, speaking a language, understanding a complex field changes how you see yourself and the world. Young speaks of a kind of confidence born of the feeling that you can learn almost anything.
+
+He specifies that ultralearning is not for everyone, nor for everything. It requires a significant investment of time and energy. But its principles can also be applied more lightly, in ordinary learning projects.
+
+- Learning fast is becoming a major advantage.
+- Ultralearning sometimes complements or replaces conventional training.
+- It brings deep confidence in your ability to learn.
+
+=== Preparing the project
+--- Principle 1: metalearning
+kw: map · why · what · how
+The first principle is **metalearning**: before you start learning, you need to understand **how** you will learn. Young compares it to drawing a map before setting out on a trip.
+
+He suggests answering three questions.
+
+**Why?** Why do you want to learn this skill? Young distinguishes **instrumental** motivations, when you learn to achieve another goal such as getting a job, from **intrinsic** motivations, when you learn for the pleasure of learning. In the first case, you must check that the targeted skill is really the one that will get you to your goal, for example by asking people who have already succeeded.
+
+**What?** What needs to be learned? Young proposes distinguishing three types of content: **concepts**, which must be understood; **facts**, which must be memorized; and **procedures**, which must be practiced. This distinction helps pinpoint the project's main difficulties.
+
+**How?** What resources and methods should you use? Young recommends **benchmarking**: look at how others learn the field, for example university programs or the methods of recognized people, then adapt.
+
+He suggests spending about **10%** of the time planned for the project on this preparation. That time usually pays for itself, because it keeps you from heading off in the wrong directions.
+
+> Exercice | For a skill you want to learn, write down why, then list the concepts, facts and procedures to master.
+
+--- Principle 2: focus
+kw: starting · staying · right intensity
+The second principle is **focus**. Young explains that many learning projects fail not for lack of ability but for lack of focus. He identifies three difficulties.
+
+**Starting.** Procrastination often keeps people from getting down to work. Young proposes several techniques: notice the moment you put a task off, set a very short goal such as working for just five minutes, or use timed work periods.
+
+**Staying focused.** Once at work, distractions come from the environment, such as the phone or noise, but also from the task itself, when it is too easy or too hard, and from the mind, which wanders. Young recommends removing environmental distractions, choosing tasks at the right level of difficulty, and accepting intrusive thoughts without following them.
+
+**Finding the right intensity.** Young notes that the optimal level of arousal depends on the task. For a complex task, such as solving a mathematical problem, a calm, focused state is better. For a simple, repetitive task, a higher level of arousal can help. He suggests adapting your environment: a quiet place for complex tasks, background noise for simple ones.
+
+He cites a writer who learned to focus by first setting very modest goals, then gradually increasing them.
+
+- Beat procrastination with very short starts.
+- Remove distractions and adjust the difficulty.
+- Match the intensity to the task.
+
+=== Practicing close to reality
+--- Principle 3: directness
+kw: transfer · real situation · projects
+The third principle is **directness**. Young considers it one of the most important.
+
+He starts from a problem well known to education researchers: **transfer**. Knowledge acquired in one context, such as a classroom, is often hard to use in another, such as a real work situation. A student can pass a language exam without being able to hold a conversation. An economics student can solve exercises without knowing how to analyze a real situation.
+
+Young explains that the best way to overcome this problem is to learn **in the context where you will use the skill**, or as close to it as possible. If you want to speak a language, you have to talk with people, not just do grammar exercises. If you want to program, you have to write real programs. If you want to give presentations, you have to present in front of an audience.
+
+He tells the story of a young architect looking for a job. Rather than taking more courses, he taught himself to produce high-quality architectural visualizations, the skill firms most sought, and built a portfolio of real projects. He quickly found a job.
+
+Young suggests several ways to make learning more direct: learn through projects, immerse yourself in the real environment, use simulations close to reality, or set yourself challenges harder than the real situation.
+
+> À retenir | You learn best in the context where you will use the skill. Transfer from the abstract works poorly.
+
+--- Principle 4: drill
+kw: weak point · isolate · break down
+The fourth principle is **drill**. It consists of isolating a particular component of a skill and working on it intensively.
+
+Young explains that complex skills are made up of many sub-skills. When you practice the skill as a whole, you improve, but slowly, because some weak components limit overall performance. He compares this to a chemical reaction whose speed depends on its slowest step.
+
+The solution is to **identify the weak point** that most limits performance and work on it separately. For example, a language learner who has mastered grammar but whose pronunciation is hard to understand can devote specific sessions to pronunciation.
+
+Young cites Benjamin Franklin, who describes in his autobiography how he learned to write. He would take articles he admired, note their main ideas, then try to rewrite them in his own words a few days later before comparing his version with the original. In this way he isolated different skills: argument structure, word choice, style.
+
+He proposes an alternating approach. Start with **direct practice** to identify weak points. Work on them with **drills**. Then return to direct practice to check progress and integrate the improvements.
+
+He presents several drill techniques: isolate a difficult moment, copy or imitate a model, break a skill down into steps.
+
+- Identify the component that limits performance.
+- Work on it separately.
+- Alternate drills and direct practice.
+
+=== Retrieving and correcting
+--- Principle 5: retrieval
+kw: self-testing · free recall · difficulty
+The fifth principle is **retrieval**: learning by trying to recall information from memory rather than rereading it.
+
+Young draws on research in cognitive psychology, notably that presented in *Make It Stick*. He recalls that testing yourself is much more effective than rereading, even if it feels less comfortable.
+
+He stresses the importance of **difficulty**. The harder it is to recall information, the more the effort strengthens memory. So he suggests favoring demanding forms of retrieval: **free recall**, which consists of writing down everything you remember about a subject without any help, is more effective than answering multiple-choice questions.
+
+He proposes several practical techniques.
+
+**Question cards.** Turn your notes into questions rather than summaries.
+
+**Free recall.** After reading, write down from memory everything you retained.
+
+**Problems before solutions.** Try to solve a problem before learning the method.
+
+**Self-imposed challenges.** Take on a project that forces you to use your knowledge without being able to look it up easily.
+
+Young says that during his MIT Challenge, he made a point of solving exercises without looking at his notes, and used explanations out loud to check his understanding.
+
+> Exercice | After your next reading, close the book and write down everything you remember for ten minutes.
+
+--- Principle 6: feedback
+kw: outcomes · information · correction
+The sixth principle is **feedback**: actively seeking feedback on your performance, even when it is unpleasant.
+
+Young tells the story of a comedian who wanted to become a great stand-up. For months, he performed almost every night in small clubs, testing new jokes and watching the audience's reactions. Every night he noted what worked and what didn't, and changed his act accordingly. This constant feedback allowed him to improve far faster than if he had only written his material.
+
+Young distinguishes three types of feedback.
+
+**Outcome feedback** only tells you whether you succeeded or failed. It is useful but limited, because it doesn't say why.
+
+**Informational feedback** tells you what is wrong, without necessarily saying how to fix it. For example, a foreign speaker who doesn't understand what you are saying.
+
+**Corrective feedback** tells you what is wrong and how to fix it. It usually comes from a teacher, coach or expert.
+
+He stresses that feedback can be hard to take. It touches the ego, and many people avoid it. But it is one of the fastest ways to improve. He recommends seeking situations that provide fast, frequent feedback, while avoiding overreacting to one-off feedback, which can be noisy.
+
+- Actively seek feedback, even unpleasant feedback.
+- Prefer corrective feedback when it is available.
+- Don't overreact to an isolated piece of feedback.
+
+=== Retaining and understanding
+--- Principle 7: retention
+kw: spacing · overlearning · procedures
+The seventh principle is **retention**: making sure you don't forget what you have learned.
+
+Young recalls that forgetting is fast and inevitable. He presents several strategies for fighting it.
+
+**Spacing.** Review at increasing intervals rather than cramming everything together. He recommends spaced-repetition software, which automatically schedules flashcard reviews according to the learner's answers.
+
+**Proceduralization.** Skills practiced until they become automatic, such as riding a bike or typing, are forgotten much less than declarative knowledge. So it is useful to turn knowledge into procedures by practicing it until it becomes automatic.
+
+**Overlearning.** Continuing to practice beyond the point at which you have mastered a skill makes it more durable. Young cites studies on emergency skills, such as CPR, which are quickly forgotten if not maintained.
+
+**Mnemonics.** For certain information, such as vocabulary, Young describes mnemonic techniques that associate information with images or places. He considers them useful for specific facts, but less so for complex skills.
+
+Finally, he stresses the importance of **continuing to use** what you have learned. A language you no longer speak will eventually be forgotten. Planning regular opportunities to use it is the best guarantee of retention.
+
+> Question clé | What skill did you once learn and then almost forget for lack of practice? How could you have maintained it?
+
+--- Principle 8: intuition
+kw: understanding · explaining simply · Feynman
+The eighth principle is to **build intuition**: understanding deeply rather than memorizing formulas or procedures.
+
+Young takes the example of physicist Richard Feynman, famous for his ability to understand and explain complex ideas simply. Feynman always tried to understand things for himself, from first principles, rather than accepting a ready-made explanation. He built concrete examples to check his understanding.
+
+Young proposes several practices for building intuition.
+
+**Don't give up too quickly on a hard problem.** He cites studies showing that students often abandon a problem after a few minutes, whereas persistence helps build deep understanding.
+
+**Prove things to understand them.** Rather than accepting a result, try to re-derive or reconstruct it.
+
+**Start from concrete examples.** Abstract ideas become more understandable when you apply them to specific cases.
+
+**Beware the illusion of understanding.** It is easy to believe you've understood something because you read a clear explanation.
+
+To check your understanding, Young proposes a technique inspired by Feynman: choose a concept, try to explain it in writing in simple words, as if to someone who doesn't know it, spot the passages where the explanation becomes fuzzy, then go back to the source to fill those gaps.
+
+- Understand from principles, not formulas.
+- Persist on hard problems.
+- Explain simply to reveal what you haven't understood.
+
+--- Principle 9: experimentation
+kw: beyond comfort · trying · styles
+The ninth principle is **experimentation**: stepping out of your comfort zone and trying new methods and approaches.
+
+Young explains that at the start of learning, it is useful to follow proven methods, such as a teacher's or a textbook's. But as you progress, you need to **experiment** more and more: try different resources, techniques and styles to find what works best and to develop your own way of doing things.
+
+He takes the example of the painter Vincent van Gogh, who learned drawing and painting largely on his own, trying many techniques, copying masters, taking classes, then gradually developing his own style.
+
+Young proposes several forms of experimentation.
+
+**Copy, then create.** Start by imitating models, then gradually depart from them.
+
+**Compare methods.** Try two ways of learning the same thing and measure which works better.
+
+**Impose constraints.** Deliberately limit your means to stimulate creativity.
+
+**Combine skills.** The most valuable skills often lie at the intersection of several fields.
+
+**Explore extremes.** Test very different approaches to discover new possibilities.
+
+He stresses that experimentation requires accepting failure: many attempts won't work.
+
+> À retenir | Follow proven methods first, then experiment to find your own way.
+
+=== Running your project
+--- Building your project
+kw: research · schedule · trial · review
+Young ends his book with a practical method for running your own ultralearning project.
+
+**Do your research.** Define precisely what you want to learn, and why. Identify the main and supplementary resources. Study how others have learned the field.
+
+**Schedule your time.** Decide how many hours a week you can devote to the project, and over what period. Young recommends blocking these hours in your calendar, at regular times, like appointments. He suggests planning a project of limited duration, a few weeks to a few months, rather than an open-ended effort.
+
+**Run a trial.** Start with a trial week to check that the plan is realistic and the resources suitable.
+
+**Execute.** Follow the plan, applying the nine principles. Adjust along the way when a method isn't working.
+
+**Review.** At the end of the project, assess what you have learned, what worked and what could be improved next time.
+
+**Maintain.** Plan how you will keep up the skill you have acquired: regular practice, review, new projects.
+
+Young stresses that projects can be carried out **full time**, like his own challenges, or **part time**, alongside a job. Most readers will choose the second option.
+
+- Research, schedule, trial, execution, review, maintenance.
+- A project of limited duration, with blocked-out hours.
+
+--- Ultralearning as a team
+kw: organization · managers · culture
+Young also discusses applying his principles in organizations, not just for individuals.
+
+He observes that many companies invest in ineffective training: theoretical courses far removed from practice, followed by little follow-up. The principles of ultralearning can improve them.
+
+**Directness** suggests training employees on real projects rather than in classrooms.
+
+**Drill** suggests identifying the skills that limit a team's performance and working on them specifically.
+
+**Feedback** suggests creating frequent opportunities for feedback, through project reviews, mentoring or demonstrations.
+
+**Retrieval** suggests including exercises in application and recall rather than handing out documents to read.
+
+He also stresses the role of **managers** in creating a culture in which learning is valued. A manager who gives team members time to learn, encourages ambitious projects and accepts mistakes makes ultralearning easier.
+
+Finally, he notes that ultralearning can also be **collective**: friends or colleagues who undertake a learning project together motivate each other, give each other feedback and share their resources.
+
+> Question clé | In your organization, does training resemble the real work context, or a classroom?
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · one project
+**Week 1: prepare.** Choose a specific skill. Write down why you want to learn it. List the concepts, facts and procedures to master. Identify a main resource and how others have learned the field. Block regular slots in your calendar.
+
+**Week 2: practice directly.** Dive into practice close to the real situation: a conversation, a small project, a presentation. Note the weak points that limit your performance.
+
+**Week 3: drill and retrieve.** Work separately on the main weak point. Test yourself every day through free recall or unaided problems. Find a source of feedback: an expert, a colleague, an audience.
+
+**Week 4: understand and anchor.** Explain the most important concepts in writing, in simple words. Plan spaced reviews. Return to direct practice to measure your progress. Review the project and decide what comes next.
+
+Young reminds us that a successful learning project isn't necessarily spectacular. What matters is applying the principles consistently.
+
+> À retenir | A specific skill, direct practice, a weak point drilled, tests, feedback, a review.
+
+--- Case study: data analysis
+kw: career change · projects · portfolio
+Nadia works in marketing. She wants to learn data analysis in order to move into an analyst role. She has already started several online courses without ever finishing them.
+
+**Metalearning.** She interviews two analysts at her company. They explain that the most useful skills are manipulating data with a query language, visualization and the ability to formulate recommendations. She builds a three-month plan around these three skills.
+
+**Focus.** She blocks out an hour every morning before work and four hours on Saturdays.
+
+**Directness.** Rather than doing abstract exercises, she picks a real problem: analyzing the results of her department's campaigns.
+
+**Drill.** She notices that complex queries hold her back. She devotes two weeks to specific exercises on this point.
+
+**Feedback.** One of the analysts agrees to review her analyses every two weeks.
+
+**Intuition.** She makes herself explain each result in simple words to her team.
+
+After three months, she presents an analysis that leads to a change in campaign strategy. Six months later, she lands an analyst position.
+
+> Question de réflexion | What real project could serve as the vehicle for your next learning effort?
+
+=== Critical view and connections
+--- Limits of the book
+kw: exceptional cases · time · self-teaching
+*Ultralearning* is inspiring, but it has several limits.
+
+**Exceptional cases.** The stories told are those of highly motivated people, often with time and resources. They are not representative and can give an overly optimistic picture of what is possible.
+
+**Available time.** The most spectacular projects were carried out full time. For someone with a job, a family and other obligations, the intensity described is hard to achieve.
+
+**The limits of self-teaching.** Some skills, notably those that require supervision, certification or supervised practice, cannot be learned alone. The MIT Challenge, for example, does not confer an MIT degree.
+
+**Principles that are not very new.** The principles rest on well-known research in cognitive science. The book's contribution is mainly their organization and illustration.
+
+**The risk of performance.** Ultralearning can become a race for competence, at the expense of the pleasure of learning or work-life balance.
+
+- Inspiring stories, but rare ones.
+- Intensity depends on available time.
+
+--- Connections with other books
+kw: Make It Stick · Ericsson · Newport · Clear
+**With Make It Stick (Brown, Roediger, McDaniel).** The principles of retrieval, retention and intuition draw on the scientific techniques presented in *Make It Stick*.
+
+**With Peak (Ericsson).** Drill and feedback correspond to the deliberate practice Ericsson describes.
+
+**With Deep Work (Newport).** The focus principle echoes the case for deep work directly. Scott Young and Cal Newport have in fact often collaborated.
+
+**With Atomic Habits (Clear).** Scheduling regular slots and keeping up practice is a matter of habit building.
+
+**With Toyota Kata (Rother).** Experimentation and feedback are at the heart of the improvement kata, applied here to personal learning.
+
+> Parcours conseillé | Read Peak next to go deeper into deliberate practice, then Deep Work to protect your learning hours.
