@@ -1,0 +1,415 @@
+=== Context and thesis
+--- From Intel to Google
+kw: Grove · 1975 · investor
+John Doerr is one of the best-known venture capitalists in Silicon Valley. At the Kleiner Perkins fund, he financed and supported many technology companies, including Google and Amazon in their early days.
+
+But his story with the method he describes begins earlier. In 1975, as a young engineer, he joined Intel as an intern and then as a salesman. There he attended an internal course given by Andy Grove, then one of the company's executives. Grove presented a goal-setting method he had developed at Intel, inspired by Peter Drucker's ideas on management by objectives. Grove called it iMBO; it would later become known as **OKR**, for *Objectives and Key Results*.
+
+Doerr was struck by the method's simplicity and effectiveness. Years later, in 1999, he invested in a young company founded by two Stanford students, Larry Page and Sergey Brin: Google. Soon after, he introduced them to OKRs. The founders adopted the method, which is still used at Google today, at every level.
+
+*Measure What Matters*, published in 2018, tells this story and describes the method. The book alternates Doerr's explanations with accounts from leaders of companies and organizations that adopted OKRs: technology companies, but also a foundation, a humanitarian organization and a maker of children's products.
+
+The book's thesis is simple: ideas are easy, execution is everything. OKRs are a tool for turning ambitions into results by focusing energy on what really matters.
+
+> À retenir | A method born at Intel with Andy Grove, passed on to Google by John Doerr, and adopted by many organizations.
+
+--- What is an OKR?
+kw: objective · key results · what and how
+An OKR has two parts.
+
+**The objective** describes **what you want to achieve**. It is qualitative, ambitious, concrete and action-oriented. It should be inspiring, understandable by everyone, and important. For example: "Become the benchmark for customer service in our industry."
+
+**The key results** describe **how you will know the objective has been reached**. They are quantitative, precise, measurable and time-bound. There are usually three to five per objective. For example: "Cut average response time to under two hours," "Reach a 90% satisfaction rate," "Resolve 80% of requests on first contact."
+
+Doerr stresses the nature of key results. They must be **verifiable**: at the end of the period, you must be able to say unambiguously whether they were met. A vague formulation such as "improve customer satisfaction" is not a key result. He quotes a line attributed to Marissa Mayer, a former Google executive: if it doesn't have a number, it's not a key result.
+
+He also emphasizes that a key result describes an **outcome**, not an activity. "Launch a communication campaign" is an activity. "Get 10,000 new sign-ups" is a result. Activities are the means to reach key results, and they can change along the way.
+
+OKRs are set for a short period, often a quarter, sometimes with broader annual objectives. They are **few**: three to five objectives at most per team or per person.
+
+- The objective says where you are going.
+- The key results say how you will know you are there.
+- Measurable results, not activities.
+
+--- Where OKRs come from
+kw: Drucker · management by objectives · Grove
+Doerr places OKRs within a longer history: that of management by objectives.
+
+In the 1950s, Peter Drucker proposed an idea that would leave a lasting mark on management: **management by objectives**. Rather than directing people by telling them exactly what to do, he suggested agreeing with them on the objectives to reach, then letting them choose the means. Drucker insisted on self-control: everyone should be able to measure their own progress toward their objectives.
+
+In many companies, this idea was later distorted. Management by objectives became an annual, heavy, top-down exercise. Objectives were set once a year, often imposed by the hierarchy, kept confidential and tied directly to bonuses. They quickly became obsolete, and employees had every reason to set them low.
+
+Andy Grove, at Intel, took Drucker's idea and transformed it. He made it a faster practice, with quarterly or even monthly cycles. He added measurable key results, so that everyone would know precisely whether the objective had been met. He insisted on a small number of objectives, on transparency and on separation from pay.
+
+Doerr points out that these differences are what make OKRs more effective than the old management by objectives: frequency, measurement, transparency, team participation and ambition.
+
+He also describes how Grove presented the method to his new recruits: with an engineer's rigor, but also with the conviction that clear objectives free initiative instead of stifling it.
+
+- Drucker: agree on objectives, let people choose the means.
+- Grove: short cycles, measurable key results, transparency.
+- The old management by objectives was annual, secret and tied to bonuses.
+
+--- The four superpowers
+kw: focus · align · track · stretch
+Doerr presents the benefits of OKRs as four "superpowers," which structure the book.
+
+**1. Focus and commit to priorities.** OKRs force you to choose a small number of truly important objectives and to give up the rest. They turn an endless list of good ideas into a few clear commitments.
+
+**2. Align and connect for teamwork.** OKRs are public, at every level of the organization. Everyone can see the objectives of leadership, of their team and of their colleagues. This transparency helps connect each person's efforts to overall priorities and spot duplication and dependencies.
+
+**3. Track for accountability.** OKRs are tracked regularly during the period and assessed at the end. This tracking makes it possible to spot difficulties early and adjust.
+
+**4. Stretch for amazing.** OKRs encourage ambitious objectives, beyond what seems easily achievable. This ambition pushes teams to find new ways of working.
+
+Doerr adds a dimension he considers essential for OKRs to work: **CFRs**, for conversations, feedback and recognition. These regular exchanges between managers and their reports are what bring objectives to life.
+
+Each superpower is illustrated in the book by one or more organizational stories.
+
+> À retenir | Focus, align, track, stretch. And bring them to life through regular conversations.
+
+=== Superpower 1: focus
+--- Choose few
+kw: three to five · give up · priorities
+Doerr considers the first benefit of OKRs to be forcing organizations to **choose**. Most companies have too many priorities. Every department, every executive adds its own projects. Teams scatter, and no project gets the attention it needs.
+
+OKRs impose a discipline: no more than three to five objectives per period. To set them, leaders must ask what really matters most for the coming months. That choice means giving up interesting projects, which is hard but necessary.
+
+Doerr recalls an idea of Andy Grove's: by trying to focus on everything, you focus on nothing. He also quotes Steve Jobs, who said he was as proud of the things Apple hadn't done as of the things it had.
+
+He stresses that objectives should come partly from the **top** and partly from the **bottom**. Leadership sets the company's major priorities. But teams and individuals also propose their own OKRs, connected to those priorities. Doerr recommends that a significant share of OKRs, often presented as about half, come from the teams themselves. People commit more to objectives they helped define.
+
+He also insists on **clarity**. A poorly worded objective creates confusion. Leaders must take the time to word their objectives well and check that everyone understands them the same way.
+
+> Question clé | If your team could achieve only three objectives this quarter, which would you choose? What would you give up?
+
+--- Operation Crush
+kw: Intel · Motorola · 1980
+Doerr tells a story he lived through at Intel: **Operation Crush**.
+
+At the end of 1979, Intel was in trouble. Its microprocessor, the 8086, faced competition from Motorola's, which many customers found easier to program and more powerful. Intel's salespeople were losing deals. A sales manager wrote an alarm message to leadership: Intel was losing the microprocessor battle.
+
+Leadership reacted very quickly. Within a few weeks, it launched a campaign to win back the market, with a clear objective: make the 8086 the industry's reference microprocessor. This objective was translated into precise key results, notably a very high number of new design contracts with customers, known as *design wins*.
+
+The OKRs cascaded across the whole company. Marketing had to produce new materials and organize customer seminars. Engineers had to improve development tools. Salespeople had to meet customers and show them the advantages of Intel's entire product line, beyond the processor alone. Every team knew what it had to do and how its contribution fit into the overall objective.
+
+Within a few months, Intel far exceeded its target for new contracts. Among the customers won during this period was IBM, which chose a processor from the Intel family for its first personal computer. That decision would make Intel the dominant microprocessor supplier for decades.
+
+Doerr draws from this story the power of a single, clear, shared objective, and the speed with which an organization can mobilize when everyone understands how to contribute.
+
+- One clear objective, rolled out across the whole company in a few weeks.
+- Every team knows how it contributes.
+
+--- Google adopts OKRs
+kw: 1999 · founders · whole company
+Doerr recounts his presentation of OKRs to Google's founders in 1999, shortly after investing in the company. Google then had only about thirty employees. The founders, Larry Page and Sergey Brin, had no management experience. They had immense ambition but no method for organizing the work of a company that was going to grow very fast.
+
+Doerr explained the method, with examples from Intel. The founders adopted it quickly. OKRs became one of the company's basic tools, used at every level, from top leadership to engineering teams.
+
+In the book, Larry Page explains that OKRs helped Google stay focused despite its growth. Every quarter, leadership sets the company's objectives, and each team sets its own. Everyone's OKRs are visible to everyone, so each person can know what other teams are working on.
+
+Doerr highlights some practices specific to Google. Ambitious objectives are common there, and a score of 1 on every OKR is seen as a sign of insufficient ambition. OKRs are graded publicly at the end of each quarter, and teams openly discuss what didn't work. Company OKRs are presented to all employees at all-hands meetings.
+
+He also tells the story of Chrome, Google's browser. The team set very ambitious user targets that it missed in the first years. But those objectives pushed it to keep improving the product's speed and quality, until it became one of the most widely used browsers in the world.
+
+> À retenir | At Google, OKRs are public, graded openly and deliberately ambitious, from the top down to the teams.
+
+=== Superpower 2: align
+--- Transparency and alignment
+kw: public OKRs · dependencies
+The second superpower of OKRs is **alignment**. Doerr explains that in many organizations, teams don't know what other teams are working on, or how their work fits into overall priorities. They work in silos, sometimes with conflicting objectives.
+
+OKRs answer this problem with **transparency**. In organizations that use them, everyone's OKRs are visible to all, from the CEO to the most junior employee. Everyone can see the company's objectives, their team's and their colleagues'.
+
+This transparency has several effects. It lets each person **connect their work** to the company's priorities. It makes it possible to **spot duplication**, when two teams are working on the same thing without knowing it. It helps identify **dependencies**: a team that needs another to reach its objectives can see this and discuss it. It also creates a form of **public accountability**: people commit more strongly to an objective everyone can see.
+
+Doerr warns against one mistake: alignment does not mean that all OKRs must cascade mechanically from top to bottom, with each level taking the key results of the level above as its objectives. An overly rigid system slows the organization down and discourages initiative. He recommends a balance between OKRs proposed by leadership and those proposed by teams.
+
+He also stresses the importance of **horizontal alignment**: teams must coordinate their OKRs with each other, not just with their hierarchy.
+
+> À retenir | OKRs visible to all let people connect their work to priorities, see duplication and coordinate dependencies.
+
+--- The foundation and the humanitarian
+kw: Gates · ONE · nonprofits
+Doerr shows that OKRs are not reserved for businesses. He presents several nonprofit organizations that have adopted them.
+
+The **Bill & Melinda Gates Foundation**, one of the largest philanthropic foundations in the world, uses measurable objectives and results to steer its global health programs, such as the fight against malaria or vaccination. In the book, Bill Gates stresses the importance of measuring progress: without measurement, it is impossible to know whether resources are being well used, or to adjust programs.
+
+The **ONE organization**, co-founded by the singer Bono to fight extreme poverty and preventable disease, particularly in Africa, has also used OKRs. Bono describes how the method helped the organization clarify its priorities in its advocacy campaigns and measure progress in a field where results are hard to quantify.
+
+Doerr points out that nonprofits often need focus even more than businesses do. Their resources are limited, their causes are vast, and the temptation to do everything is strong. OKRs help them choose where to concentrate their efforts and demonstrate their impact to donors.
+
+He also notes that alignment is essential in these organizations. They often work with many partners, governments, local associations and companies, and must coordinate their efforts.
+
+- OKRs also serve foundations and NGOs.
+- Measure progress to make better use of limited resources.
+
+=== Superpower 3: track
+--- Track and adjust
+kw: regular check-ins · add · drop
+The third superpower is **tracking**. Doerr explains that an objective set at the start of the quarter and forgotten until the end is useless. OKRs must be tracked regularly throughout the period.
+
+He recommends **regular check-ins**, often weekly, between the manager and each team member, and within the team. In these check-ins, you look at the progress of each key result, identify difficulties and decide on actions.
+
+This tracking makes it possible to **adjust OKRs** during the period. Doerr describes several possible adjustments:
+
+- **Continue**: the key result is progressing as planned.
+- **Update**: the key result remains relevant, but the means or the target level must change because the situation has changed.
+- **Add**: a new OKR becomes necessary mid-period.
+- **Drop**: an OKR no longer makes sense because the situation has changed. Doerr specifies that this should be said explicitly, and lessons drawn, rather than letting it die quietly.
+
+He also recommends using **shared tools** that let everyone see OKR progress in real time.
+
+At the end of the period, OKRs are **graded**. At Google, each key result gets a score between 0 and 1. Doerr explains that a score of around 0.6 to 0.7 is often considered good for an ambitious objective. A score consistently close to 1 means the objectives were too easy. A very low score is an invitation to understand what didn't work.
+
+He insists on the importance of **reflection** at the end of the period: what did we learn? What could we have done differently? These lessons feed the next OKRs.
+
+> À retenir | Track every week, adjust without shame, grade at the end, and draw the lessons. Always 1 out of 1 means aiming too low.
+
+--- Health and small organizations
+kw: start-up · discipline · growth
+To illustrate tracking, Doerr presents several smaller companies that adopted OKRs, often at a critical moment in their development.
+
+In particular, he tells the story of a **young company** that makes child car seats, and of its founder. Coming from a large, structured company, she discovered that a growing start-up often lacks discipline. OKRs allowed her to clarify priorities at a time when the company had to move from prototype to production, and to track closely the progress of critical projects, such as safety certifications.
+
+He also presents a **nutrition and physical-activity tracking app**, whose leaders describe how OKRs helped them focus on a small number of priorities while the company's rapid growth kept multiplying opportunities.
+
+Doerr highlights a lesson common to these stories: OKRs are particularly useful in **periods of transition**, when an organization is growing fast, changing strategy or going through a crisis. At such times, priorities change often and the risk of scattering is high.
+
+He also notes that adopting OKRs takes time. The first periods are often difficult: too many objectives, poorly worded key results, irregular tracking. It takes several cycles for the method to become natural. He recommends starting with the leadership team before extending the method to the whole organization.
+
+- OKRs help most in periods of transition.
+- It takes several quarters to master them.
+- Start with the leadership team.
+
+--- Tracking pitfalls
+kw: neglect · too many OKRs · dashboard
+Doerr and the book's contributors describe several pitfalls that organizations starting with OKRs fall into.
+
+**Neglect.** OKRs are carefully set at the start of the quarter, then nobody looks at them until the end. Teams return to their daily emergencies, and the objectives lose their meaning. The remedy is regular, short tracking built into existing meetings.
+
+**Too many OKRs.** To avoid offending anyone, every department adds its objectives, and the company ends up with dozens of OKRs. Focus disappears. You have to accept choosing.
+
+**Key results that are tasks.** "Hold three meetings" or "write a document" are activities, not results. A team can tick them off without having made progress toward the objective.
+
+**Frozen OKRs.** Some teams refuse to change their OKRs when the situation changes, for fear of seeming inconsistent. They then pursue objectives that have become useless.
+
+**OKRs that only cascade down.** If each level simply takes over the key results of the level above, teams don't take ownership of the objectives, and the process becomes slow.
+
+**The dashboard without conversation.** Tracking numbers in software is not enough. It is discussing the numbers that makes it possible to understand difficulties and find solutions.
+
+Doerr stresses that these pitfalls are normal in the first cycles. What matters is spotting them and correcting them during the end-of-quarter reflection.
+
+- Track every week, or OKRs die.
+- Results, not tasks.
+- Numbers, but above all conversations.
+
+=== Superpower 4: stretch
+--- Committed and aspirational objectives
+kw: committed · aspirational · 70%
+The fourth superpower is **ambition**. Doerr distinguishes two types of OKRs.
+
+**Committed OKRs** correspond to results the organization commits to achieving in full. They often concern essential activities: hitting a sales figure, delivering a product by a specific date, meeting a standard. For these OKRs, a score below 1 is a problem that must be explained.
+
+**Aspirational OKRs** (*aspirational* or *stretch*) correspond to deliberately very high objectives that you are not sure to reach. They serve to push the organization beyond what it thinks possible. For these OKRs, achieving about 70% of the objective is considered a success.
+
+Doerr explains the value of stretch objectives. A modest objective encourages marginal improvement of what you already do. A very ambitious objective forces you to completely rethink how you work. He cites an idea dear to Google's founders: it is often easier to make a tenfold improvement than a 10% one, because a 10x goal forces you to change your approach rather than optimize what exists.
+
+He warns, however, against two excesses. Ambitious objectives that are impossible to reach discourage teams. And if stretch objectives are used to evaluate people and set their pay, they will try to set them low. That is why he recommends clearly distinguishing the two types of OKRs and not tying OKRs directly to compensation.
+
+> Question clé | Among your current objectives, which are commitments to keep, and which are ambitions to change scale?
+
+--- YouTube and the billion hours
+kw: watch time · ambition
+One of the most detailed stories in the book is that of **YouTube**. It is told partly by one of the company's engineers, Cristos Goodrow, and by its then CEO, Susan Wojcicki.
+
+Around 2012, the YouTube team decided to change its main metric. Until then, it had mainly measured the number of video views. But that figure encouraged videos with catchy titles that users quickly abandoned. The team decided that a better indicator of value to the user was **watch time**: the time people actually spend watching videos.
+
+It then set itself an ambitious objective: reach **one billion hours of watch time per day** within a few years. At the time, this figure represented a considerable multiple of the existing level. Many in the company thought it unrealistic.
+
+The objective was broken down into quarterly OKRs for the various teams: the recommendation algorithm, loading speed, the mobile experience, tools for creators. Every quarter, the teams measured their contribution and adjusted their priorities.
+
+According to the book's account, the objective was reached at the end of 2016, shortly before the deadline.
+
+Doerr draws from this story the power of an ambitious, clear and measurable multi-year objective broken down into quarterly OKRs. He also stresses the importance of choosing the metric. The book was written before the debates on the effects of recommendation algorithms, which show that a metric can also have unintended consequences: maximizing time spent is not always aligned with users' well-being.
+
+- An ambitious multi-year objective, broken down every quarter.
+- The choice of metric is decisive and can have unintended effects.
+
+--- Ambition that changes scale
+kw: tenfold · rethink · accepted risk
+Doerr develops the idea that a very ambitious objective produces not just more effort but a **change of method**.
+
+He explains that, faced with a 10% improvement goal, a team looks to optimize what it already does: work a bit harder, remove a few inefficiencies, improve existing tools. Faced with a tenfold goal, these means are clearly insufficient. The team is forced to question its assumptions, look for entirely new approaches and collaborate with other teams.
+
+He cites several Google projects that illustrate this logic, born of objectives initially judged unrealistic. He stresses that not all of them succeeded, but that even projects that missed their objective often produced important advances.
+
+Doerr spells out the conditions for stretch objectives to work.
+
+**Leadership must own them.** It must publicly accept that they will probably not be fully reached, and not penalize teams that score 0.6 or 0.7.
+
+**They must be understood.** Teams must know why the objective matters and why it was set so high.
+
+**They must remain rare.** A team cannot have only stretch objectives. Essential activities must be covered by committed OKRs.
+
+**Resources are needed.** A stretch objective without additional means or clear priority is just a source of frustration.
+
+Finally, he notes that ambitious objectives often attract the most talented people, who look for challenges worthy of their abilities.
+
+> Question clé | Which of your team's objectives, if multiplied by ten, would force you to change your method completely?
+
+=== Conversations, feedback, recognition
+--- CFRs
+kw: conversations · feedback · recognition
+Doerr devotes a significant part of the book to **CFRs**: conversations, feedback and recognition. He considers them the indispensable complement to OKRs.
+
+He starts from a critique of traditional **annual reviews**. Once a year, the manager evaluates the employee, often in connection with pay. This practice has many flaws: it comes too late to correct anything, it focuses on the past, it creates anxiety, and it often reflects only the last few months of the year.
+
+Instead, Doerr proposes **continuous performance management**, based on CFRs.
+
+**Conversations** are regular exchanges between manager and employee about objectives, progress, difficulties, development and career. They focus on the future rather than on judging the past.
+
+**Feedback** flows in every direction: from manager to employee, but also from employee to manager, and between colleagues. It is given often, as projects unfold.
+
+**Recognition** consists of regularly expressing appreciation for people's contributions. It can come from the manager but also from colleagues. It strengthens engagement and shows the behaviors the organization values.
+
+Doerr cites the example of a large software company that eliminated its annual reviews and replaced them with regular check-ins. According to the account, the company saw a drop in voluntary departures and an improvement in engagement.
+
+> À retenir | OKRs set the course, CFRs bring it to life: regular conversations, feedback in every direction, frequent recognition.
+
+--- Separate objectives and pay
+kw: caution · ambition · evaluation
+Doerr tackles a delicate question: should OKRs be tied to pay and bonuses?
+
+His answer is cautious. He recommends **not tying** OKR achievement **directly** to compensation. If bonuses depend on OKR scores, people will have every reason to set easy objectives. Ambition will vanish. They might also be tempted to hide difficulties or manipulate measurements.
+
+This does not mean performance should not count toward pay. But performance evaluation must take several factors into account: the results achieved, but also the difficulty of the objectives, the circumstances, how the person worked with others, and their contribution to the organization. OKRs are one piece of information among others.
+
+Doerr stresses that OKRs are above all a **steering and learning tool**, not an individual evaluation tool. They serve to focus energy, coordinate teams and measure progress. Used as an instrument of control and sanction, they lose their value.
+
+He also notes the importance of **psychological safety**. For teams to set ambitious objectives and honestly report their difficulties, they must be sure that a missed stretch objective will not be penalized.
+
+- Don't mechanically link OKRs and bonuses.
+- Evaluate performance on several criteria.
+- OKRs are a steering tool, not a sanction.
+
+--- Culture before method
+kw: values · transparency · trust
+In the final chapters, Doerr stresses that OKRs don't work in just any culture.
+
+He explains that the method assumes several cultural conditions. **Transparency**: leaders must accept that their own objectives and their own failures are visible to all. **Trust**: employees must believe that a missed stretch objective will not be held against them. **Accountability**: everyone must feel committed to the objectives they set, without waiting to be watched.
+
+In an organization dominated by mistrust, fear of error or politics, OKRs become one more control tool. People set easy objectives, hide difficulties and manipulate measurements. The method then produces the opposite of what it promises.
+
+Doerr presents the account of a leader of a technology company who describes how OKRs helped transform her organization's culture: by making priorities visible, they reduced political games and allowed teams to say openly when an objective no longer made sense.
+
+He also stresses the importance of **values**. OKRs say what the organization wants to achieve, but not how it wants to behave to get there. A company can reach its objectives by cheating, exhausting its employees or deceiving its customers. Values set the limits.
+
+He concludes that method and culture reinforce each other. OKRs can help build a culture of transparency and accountability, but they cannot create it on their own.
+
+- OKRs require transparency, trust and accountability.
+- In a culture of fear, they become a control tool.
+- Values set the limits on pursuing objectives.
+
+=== Putting it into practice
+--- Writing good OKRs
+kw: action verb · measurable · few
+Doerr and the practitioners whose accounts he gathers give many tips for writing good OKRs.
+
+**For objectives:**
+- Word them in a **concrete, action-oriented** way, often with a verb.
+- Make them **important**: an objective must really matter to the team or organization.
+- Make them **inspiring**: it should make people want to commit.
+- Limit them to **three to five** per team per period.
+
+**For key results:**
+- Make them **measurable**: a number, a percentage, a date.
+- Describe **results**, not tasks.
+- Plan **three to five** per objective, no more.
+- Make them **hard but realistic**, depending on whether the OKRs are committed or aspirational.
+- Watch the **balance**: if one key result is about quantity, add one about quality, so that one isn't sacrificed to the other.
+
+Doerr insists on this last point. A single metric can be hit in harmful ways. If a sales team must increase the number of contracts, it might grant excessive discounts. Adding a key result on margin or customer satisfaction balances the whole.
+
+He also gives advice on **process**: OKRs should be set quickly, within a few days, at the start of the period. An overly long, bureaucratic process discourages teams.
+
+> Exercice | Write an OKR for your team this quarter: one inspiring objective and three measurable key results, one of which balances the others.
+
+--- OKRs for yourself
+kw: personal · career · learning
+Doerr notes that OKRs can also apply to personal life and individual development. Several of the book's contributors say they use them for their own projects.
+
+The principle remains the same. You choose a small number of important objectives for the coming months: learn a skill, improve your health, advance your career, spend more time with your family. For each, you define a few measurable results.
+
+For example, the objective "Become comfortable presenting in public" can translate into key results such as: give four presentations to my team this quarter; get an average score of 4 out of 5 in participant feedback; present once to leadership.
+
+The benefits are the same as for an organization. Personal objectives become more concrete. You know whether you are progressing. You can adjust along the way. And you focus on a few things rather than trying to improve everything at once.
+
+Doerr also recommends **sharing** your personal OKRs with someone you trust: a manager, a mentor or a loved one. Simply making them visible strengthens commitment, and that person can help track progress.
+
+He warns against one excess: turning your whole life into metrics. Some important dimensions, like the quality of relationships or the meaning you give your work, cannot be reduced to numbers. Personal OKRs must remain a tool in service of what matters, not the other way around.
+
+> Exercice | Write a personal OKR for the next three months: one objective that matters to you and three measurable results. Share it with someone you trust.
+
+--- 30-day action plan
+kw: week by week · one OKR · tracking
+**Week 1: choose.** With your team, list everything you are working on. Choose the three most important priorities for the quarter. Note what you are giving up or postponing.
+
+**Week 2: write.** For each priority, write an objective and three to five measurable key results. Indicate whether it is a committed or aspirational OKR. Check that at least one key result balances the others. Make the OKRs visible to the whole team and, if possible, to neighboring teams.
+
+**Week 3: align and track.** Compare your OKRs with those of the teams you work with. Identify dependencies and discuss them. Set up a short weekly check-in to track progress.
+
+**Week 4: converse.** Hold a conversation with each team member about their objectives, difficulties and development. Express specific recognition to at least three people. Adjust the OKRs if the situation has changed.
+
+Doerr reminds us that the method takes several quarters to become natural. The first cycle is mostly for learning.
+
+> À retenir | Choose, write, make visible, track every week, converse. Then grade and learn at the end of the quarter.
+
+--- Case study: the nonprofit
+kw: volunteers · scattering · three priorities
+A homework-help nonprofit for middle-school students runs with a small paid staff and about a hundred volunteers. Its projects keep multiplying: new neighborhoods, digital workshops, cultural outings, partnerships with companies. The director, Nora, notices that the team is exhausted and that several projects are stalling.
+
+**Choose.** With the board, she sets three objectives for the semester. The first: "Every enrolled student makes real progress." The other two concern volunteer retention and financial stability.
+
+**The key results.** For the first objective: 80% of students supported at least once a week; an average improvement in math results measured by a test at the start and end of the semester; a family satisfaction rate of 90%. The last one balances the other two.
+
+**Give up.** The digital workshops are postponed to the following year. So is the opening of a new neighborhood.
+
+**Track.** A chart posted in the premises shows progress. Every Monday, the paid staff holds a twenty-minute check-in.
+
+**CFRs.** Nora organizes regular meetings with the volunteer coordinators and sets up a monthly moment of recognition.
+
+At the end of the semester, the first objective is two-thirds achieved according to the scores, and the number of volunteers leaving the organization has fallen.
+
+> Question de réflexion | Which projects should your team give up in order to succeed at the three most important ones?
+
+=== Critical view and connections
+--- Limits of the book
+kw: success stories · metrics · bureaucracy
+*Measure What Matters* has contributed greatly to the spread of OKRs, but it has several limits.
+
+**Selected stories.** The book mainly presents successes, often told by the leaders themselves. We learn little about organizations where OKRs did not work, or why.
+
+**An involved author.** John Doerr invested in several of the companies he presents. His enthusiasm is sincere, but he is not a neutral observer.
+
+**The risk of tyranny by metrics.** Measuring what matters is useful, but not everything that matters is easy to measure. An organization too focused on its key results may neglect important but hard-to-quantify dimensions, such as the quality of relationships, ethics or creativity. The YouTube example also shows that a well-chosen metric can produce undesirable effects.
+
+**The risk of bureaucracy.** In many companies, OKRs have become a heavy administrative exercise: dozens of objectives, complex software, endless validation meetings. This is not what the book recommends, but it says little about how to avoid that drift.
+
+**A method suited to certain contexts.** OKRs work well in organizations where objectives can be measured in the short term. In long-term activities, such as basic research, they are harder to apply.
+
+- Successes told by committed participants.
+- Not everything that matters can be measured.
+
+--- Connections with other books
+kw: Grove · Drucker · Rother · Collins
+**With High Output Management (Grove).** OKRs come directly from Andy Grove, who describes them in his book under the name management by objectives. Doerr is their main popularizer.
+
+**With Management (Drucker).** As early as the 1950s, Drucker formulated the idea of management by objectives and self-control. OKRs are a simpler, faster version of it.
+
+**With Toyota Kata (Rother).** The challenge and target conditions of the improvement kata resemble stretch objectives and key results. The kata places more emphasis on learning through experimentation.
+
+**With Good to Great (Collins).** The idea of focusing on a few priorities echoes Collins's hedgehog concept: concentrate on what you do best.
+
+**With Thinking, Fast and Slow (Kahneman).** The optimism biases described by Kahneman explain why teams often overestimate what they can accomplish, and why regular tracking is necessary.
+
+> Parcours conseillé | Read High Output Management next for the source of the method, then Toyota Kata for an approach based on experimentation.
