@@ -1,0 +1,505 @@
+=== Context and thesis
+--- Goldsmith, executive coach
+kw: stakeholders · paid for results
+Marshall Goldsmith is one of the best-known executive coaches in the world. With a doctorate in organizational behaviour, he has worked for decades with CEOs and senior executives of major companies. He wrote *What Got You Here Won't Get You There* in 2007, with the journalist Mark Reiter.
+
+His coaching practice has one feature that explains a lot about the book. Goldsmith does not work with people who are struggling. He works with people who are very successful but whose interpersonal behaviours limit their careers or damage their teams. They are often brilliant, intelligent, hard-working leaders whom the company wants to see grow further.
+
+His method relies on **stakeholders**: the colleagues, direct reports and managers who work with the person being coached. They are the ones who identify the behaviours to change, and they are the ones who judge, after a year or more, whether the change has happened. Goldsmith gets paid only if the stakeholders see significant improvement. This rule forced him to develop an effective method, because he cannot settle for good intentions.
+
+The book adapts this method so that anyone can apply it to themselves. It is aimed mainly at people who have succeeded and want to go further: managers, executives, experts, seasoned professionals. But its advice is useful to anyone who wants to improve their working relationships.
+
+Its title sums up the central thesis: the skills and behaviours that got you this far will not be enough for the next stage. Worse, some of these behaviours, which may have contributed to your success, become obstacles as you rise. The higher you go, the more your problems are behavioural rather than technical.
+
+> À retenir | The higher you go, the more the obstacles are behavioural. And it is others, not you, who judge whether you have really changed.
+
+--- The success delusion
+kw: confidence · superstition · blindness
+Goldsmith explains why it is so hard for successful people to change. He describes a phenomenon he calls the **success delusion**. Successful people tend to believe four things about themselves: I have succeeded, I can succeed, I will succeed, and I choose to succeed.
+
+These beliefs are valuable. They give confidence, energy and perseverance. They partly explain why these people succeeded. But they have a downside: they make it very hard to question yourself. If I am convinced I succeeded because of who I am and what I do, why should I change? Other people's criticisms seem unfair or unimportant.
+
+Goldsmith also stresses the role of **superstition**. Successful people tend to attribute their success to all their behaviours, including the bad ones. A hot-tempered leader may believe his outbursts contributed to his success by pushing others to excel. He confuses correlation with causation. In reality, he often succeeded despite his outbursts, not because of them. Goldsmith speaks of people who succeed "because of" some behaviours and "in spite of" others.
+
+He also observes that successful people almost always overestimate their own performance relative to their peers. When executives are asked to rank themselves, the vast majority place themselves among the best. It is statistically impossible, but it is human. This overestimation makes feedback even harder to accept.
+
+Finally, he notes that success creates a kind of isolation. The higher a person rises, the less others dare to tell them the truth. Their people filter out bad news and criticism. They receive less and less honest feedback, just as their behaviour is having more and more impact.
+
+- The beliefs that make you successful also stop you questioning yourself.
+- People often succeed despite certain behaviours, not because of them.
+- The higher you go, the less truth you hear.
+
+--- Why we don't change
+kw: self-interest · values · evidence
+Goldsmith finds that successful people rarely change, even when they know they should. He identifies several reasons.
+
+**We don't see the problem.** Interpersonal behaviours are often invisible to the person who has them. Someone who interrupts doesn't notice, because it has become automatic. It takes other people's eyes to reveal it.
+
+**We don't think it matters.** Even when we become aware of a behaviour, we often think it is harmless. We minimize it: it's just a detail, everyone does it, it doesn't bother anyone.
+
+**We think changing would mean betraying who we are.** Many people see their behaviours as part of their identity. Changing would mean losing their authenticity. Goldsmith replies that the problem is not identity but certain behaviours, and that you can change your behaviour without changing your values.
+
+**We don't see what's in it for us.** Goldsmith argues that successful people change when they see a personal benefit in changing: advancing their career, succeeding more, earning their colleagues' respect, protecting their family. Moral arguments or appeals to the greater good have little effect. The change must also serve the person's own goals.
+
+**We wait for the right moment.** We tell ourselves we will change later, when we have less work, when the current project is finished. Goldsmith stresses that this moment never comes. There will always be a reason to put it off.
+
+For him, the key to change is therefore twofold: becoming aware of the problem through other people's eyes, and linking the change to your own values and interests. The rest of the book provides the tools to do this.
+
+> Question clé | Which behaviour have people criticized you for several times, which you played down? What would it cost you to change it?
+
+--- What changes at each stage
+kw: expert · manager · executive
+The book's title takes on its full meaning when you look at the stages of a career. At each change of level, what was a strength can become an obstacle. Goldsmith does not present the stages systematically, but his examples make it possible to reconstruct them.
+
+**Early in your career**, you succeed through individual competence. You are recognized because you know how to do things, because you find the answers, because you work fast and well. It helps to show what you know, defend your ideas, want to win. These behaviours help you get noticed.
+
+**When you become a manager**, the situation changes. You no longer succeed through your own output, but through other people's. Showing that you already know, correcting your people's ideas or wanting to be right in meetings becomes counterproductive. These reflexes, which got you promoted, now discourage the team. The new manager must learn to keep quiet, ask questions and let others find the solutions.
+
+**When you become an executive**, the effect of every behaviour is amplified. An offhand remark is taken as an instruction. A frown can stop a project. A forgotten thank-you is noticed by hundreds of people. The executive must be aware that their words carry a weight they did not have before. Goldsmith observes that many executives do not realize this, because they still see themselves as the same person they were at the start of their career.
+
+Goldsmith sums up this evolution with a simple idea: at first, it is about making yourself shine; the higher you rise, the more it is about making others shine. People who don't make this transition plateau, even if they remain very competent.
+
+This lens is useful at the time of a promotion. Before taking on a new role, it is worth asking: which behaviours have made me successful so far, and which could become obstacles in this new role?
+
+> À retenir | At first, you succeed by shining yourself. The higher you rise, the more you succeed by making others shine.
+
+=== The twenty habits
+--- Winning and shining
+kw: winning · adding · judging · "no, but"
+The heart of the book is a list of twenty interpersonal habits that Goldsmith has observed in successful people. He specifies that these are not flaws in skill, intelligence or personality, but behaviours that can be changed. Most people have one or two, rarely more. The first concern the need to win and to shine.
+
+**Winning too much.** This is the most common habit and the source of many others. Successful people like to win, which has helped them. But they want to win everywhere, including in situations where it doesn't matter at all: a discussion about a restaurant, a debate over a detail, a family conversation.
+
+**Adding too much value.** When someone presents an idea, the manager can't help adding their own touch: "that's great, but you could also..." The idea may be improved by a few per cent, but the person's commitment drops sharply, because it is no longer really their idea. Goldsmith often recommends simply saying thank you.
+
+**Passing judgment.** Rating other people's ideas, even positively, creates an evaluative relationship. If you say "good idea" to some and nothing to others, the others understand that you don't like their ideas.
+
+**Making destructive comments.** Sarcastic remarks, little digs, needless comments. Goldsmith suggests a simple question before speaking: is it worth it? If the remark only serves to please yourself, it is better to keep quiet.
+
+**Starting with "no," "but" or "however."** These words tell the other person they are wrong, whatever follows. Goldsmith says he charges his clients a small fine each time they use them, which quickly makes them aware of how often they do it.
+
+> Exercice | For one day, count how many times you start a sentence with "no," "but" or "however." The number will surprise you.
+
+--- Appearing smart and staying in control
+kw: showing you know · anger · withholding
+The second group of habits concerns the need to appear intelligent and stay in control.
+
+**Telling the world how smart we are.** This is the reflex of saying "I knew that" or "I'd already thought of that" when someone brings us information or an idea. The message is clear: you're not teaching me anything. It discourages others from sharing anything at all.
+
+**Speaking when angry.** Goldsmith argues that anger rarely has positive effects at work. It may give the impression of controlling the situation, but it leaves lasting marks. People remember an outburst for a long time, even when the person who lost their temper has forgotten it. He adds that even if someone rarely gets angry, a single explosion is enough to create a reputation.
+
+**Negativity.** This is the reflex of answering every proposal with "let me explain why that won't work." Some people are so used to criticizing that they do it even when nobody asked for their opinion. They may be right on the substance, but their negativity discourages initiative.
+
+**Withholding information.** Keeping to yourself information useful to others, deliberately or through carelessness. Goldsmith specifies that most often it is not malice but inattention: you forget to forward a message, don't warn people of a change, don't reply. The result is the same: others feel excluded.
+
+**Failing to give proper recognition.** Forgetting to congratulate, thank or acknowledge a contribution. Goldsmith observes that this habit is very common among executives, who consider good work to be normal and not worthy of praise.
+
+Goldsmith stresses that these behaviours have something in common: they serve the ego of the person who displays them, at the expense of others. Each one, taken on its own, seems harmless. But repeated day after day, they erode trust and commitment.
+
+- "I knew that" discourages others from sharing.
+- A single outburst can define a reputation.
+- Withholding information is often carelessness, but it still excludes people.
+
+--- Taking credit and dodging blame
+kw: stolen credit · excuses · favourites
+The third group of habits concerns how we handle credit and responsibility.
+
+**Claiming credit we don't deserve.** This is one of the habits that breed the most resentment. Someone who takes credit for others' work, or who lets people believe they played a bigger role than they did, quickly loses their colleagues' trust. Goldsmith notes that this behaviour is often unintentional: we mostly remember our own contribution and forget other people's.
+
+**Making excuses.** Goldsmith distinguishes two kinds of excuses. Blunt excuses: "I'm late because of the traffic." And subtler ones, which present a flaw as a character trait: "I'm hopeless with names," "I'm impatient, that's just how I am." These excuses let us avoid changing by turning a behaviour into fate.
+
+**Clinging to the past.** This is the reflex of explaining your current behaviour by your history: your upbringing, your parents, your past experiences. Goldsmith does not deny the influence of the past, but he argues there is no point dwelling on it. You cannot change the past; you can only change the future.
+
+**Playing favourites.** Managers often have favourites without realizing it. Goldsmith uses an amusing image: he observes that in many families it is the dog that greets people most warmly when they come home, and that gets the most attention. Managers often reward the people who flatter them, admire them or resemble them, rather than those who do the best work.
+
+**Refusing to express regret.** Some people find it very hard to say they are sorry. They see apologizing as a sign of weakness. Goldsmith argues, on the contrary, that a sincere apology is one of the most powerful acts there is. It disarms the other person and makes it possible to rebuild the relationship.
+
+> Question clé | Who on your team is your "dog": the person who gets your attention because they flatter you, rather than for their work?
+
+--- Listening and thanking
+kw: listening · gratitude · messenger
+The last group of habits concerns attention to others.
+
+**Not listening.** This is one of the most widespread and visible habits. Not listening shows in many ways: checking your phone while someone is talking to you, interrupting, finishing other people's sentences, looking elsewhere, preparing your reply instead of listening. Goldsmith stresses that intelligent people are particularly prone to it: they understand quickly and become impatient. But others perceive this lack of listening as a lack of respect.
+
+**Failing to express gratitude.** Goldsmith argues that the simplest and most effective word is "thank you." He recommends answering almost all advice, compliments or criticism with a simple thank-you, instead of justifying yourself or arguing. The word closes the discussion positively and shows you have heard.
+
+**Punishing the messenger.** This is the reflex of reacting with annoyance, even anger, when someone brings us bad news or criticism. Even a slight sigh or a frown can discourage others from telling us things in future. In the long run, you hear only good news, which is dangerous.
+
+**Passing the buck.** Blaming a team member, another department or circumstances when things go wrong. Goldsmith notes that leaders who pass the buck quickly lose their teams' respect. People want a leader who takes responsibility.
+
+**An excessive need to be "me."** This is the reflex of presenting your flaws as virtues: "that's just how I am," "I say what I think," "I'm blunt." Goldsmith argues that this is often just an excuse not to change. You can remain authentic while adapting your behaviour.
+
+He adds a **twenty-first habit**, which he classes separately: **goal obsession**. This is the tendency to focus so hard on a goal that you forget the larger mission. A manager can hit sales targets by exhausting the team and damaging customer relationships. They have reached their goal, but lost sight of what matters.
+
+- Brilliant people are the most prone to not listening.
+- "Thank you" is almost always the best answer.
+- Don't let a goal make you forget the mission.
+
+--- The habits in writing and at a distance
+kw: messaging · video calls · cc
+Goldsmith wrote his book before instant messaging and remote work became widespread. But his twenty habits all show up in these new modes of communication, sometimes even more strongly.
+
+**Winning too much** shows up in long message threads where everyone wants the last word. **Adding too much value** takes the form of systematically rewriting team members' documents with dozens of minor corrections. **Passing judgment** appears in curt replies to a proposal, which can come across as contempt.
+
+**Speaking when angry** becomes **writing** when angry. A message sent in irritation stays, can be forwarded and reread. Goldsmith has long recommended not reacting immediately when angry. With writing, this advice matters even more: you can draft a message, then wait until the next day before sending it.
+
+**Withholding information** takes new forms: not replying to messages, forgetting to include someone in a thread, not sharing a document. **Failing to give recognition** shows in messages to senior management that forget to mention the contributors. **Passing the buck** sometimes shows up in the strategic use of cc, to show everyone that the mistake was someone else's.
+
+**Not listening** is especially visible on video calls: reading your messages while others speak, switching off your camera, answering beside the point. Others notice, even at a distance.
+
+To apply Goldsmith's method to these situations, you can ask colleagues for specific feedback on your written and remote communication. The answers are often surprising, because we rarely reread our messages through the recipient's eyes.
+
+- Writing in anger is worse than speaking in anger: writing stays.
+- Reread your messages as the recipient will read them.
+
+--- Identifying your main habit
+kw: one or two · priorities · others' eyes
+After presenting the twenty habits, Goldsmith gives an essential recommendation: don't try to change everything. Most people have one or two habits that really matter. You need to identify them and focus on them.
+
+He stresses that it is tempting to recognize yourself in many habits, or on the contrary in none. Both reactions are misleading. If you recognize yourself in all of them, you get discouraged and change nothing. If you recognize yourself in none, you are probably wrong: other people often see our habits better than we do.
+
+Goldsmith therefore recommends asking others to identify your priority habits. He suggests several ways, detailed in the next branch: structured feedback, observing what others say about you, and listening to your own words.
+
+He also gives criteria for choosing the habit to work on:
+
+- **Its impact**: the habit that has the most negative effect on others and on results.
+- **Its frequency**: a behaviour repeated daily has more impact than an occasional one.
+- **Its visibility**: a habit others notice matters more than an invisible one.
+- **Its link to your goals**: a habit that stops you reaching your personal goals is more motivating to correct.
+
+Goldsmith also specifies that you should choose a habit you are truly ready to change. It is better to change a modest behaviour than to claim to change a major one and fail.
+
+Finally, he stresses that correcting one habit often has a knock-on effect. If someone learns to listen, they also start to judge less, add less value and thank more. The habits are linked, and working on one often improves the others.
+
+> Exercice | Among the twenty habits, choose the three you most recognize in yourself. Then ask two trusted colleagues to pick one for you. Compare.
+
+=== Changing: the method
+--- Gathering feedback
+kw: 360 · confidentiality · observing
+The first step in Goldsmith's method is **feedback**. He argues that it is the only reliable way to know what you need to change. Our self-perceptions are too biased.
+
+In his professional practice, Goldsmith uses 360-degree feedback: he confidentially interviews the colleagues, direct reports and managers of the person being coached. He asks them what the person does well and what they could improve. He then summarizes the results without revealing who said what. Confidentiality is essential: without it, people don't dare tell the truth.
+
+For those without access to a coach, Goldsmith suggests other methods:
+
+- **Ask directly**, simply: "What could I do to be a better colleague?" Then listen, without defending yourself, and say thank you.
+- **Observe others' reactions**: how they respond to what you say, the silences, the glances, the lack of replies.
+- **Listen to what people say about you**, including in the form of jokes. Jokes often reveal a truth.
+- **List the remarks** that have been made to you several times, at work and at home.
+- **Listen to yourself talk**: note the phrases you repeat, such as "I knew that" or "yes, but."
+
+Goldsmith stresses that negative feedback is hard to hear, especially for successful people. He recommends receiving it with curiosity rather than defensiveness. The aim is not to judge whether the feedback is fair, but to understand how others perceive you. For it is this perception that counts in relationships.
+
+He adds an important point: feedback tells you what is wrong, but not how to change. It helps identify the problem, not solve it. For that, other tools are needed.
+
+> À retenir | What others perceive of you is the reality of your relationships. Gather it confidentially, listen without defending yourself, and say thank you.
+
+--- Apologizing and advertising
+kw: sincere apology · publicizing the change
+Once the habit is identified, Goldsmith recommends two steps that often surprise his clients: apologize, then publicly announce that you are going to change.
+
+**Apologizing.** Goldsmith considers the apology one of the most powerful acts of change. It acknowledges the problem, shows that you have heard and opens the door to a new relationship. He recommends a simple apology: "I'm sorry. I've realized that I tend to interrupt people in meetings. I'm going to try to do better. I'd be grateful for your help." He insists on simplicity: no justification, no explanation, no "but." An apology followed by a justification is no longer an apology.
+
+**Advertising.** After apologizing, you must tell the people around you what you are going to change. Goldsmith calls this advertising. Why? Because others already have an image of us, and that image is hard to change. Even if you really change, others may not notice, because they see what they expect to see. By announcing the change, you invite them to watch your efforts. You draw their attention to the new behaviours.
+
+Goldsmith stresses that these two steps also have an effect on you. Apologizing and announcing publicly creates a commitment. It becomes harder to backslide when you have told everyone you are going to change.
+
+He recommends repeating the announcement regularly over several months. A single announcement is quickly forgotten. You need to remind others that you are working on this behaviour and ask them whether they notice progress.
+
+He compares this approach to a marketing campaign: the message must go out several times, in different ways, for it to be heard. Changing perception takes much longer than changing behaviour.
+
+- An apology followed by a "but" is no longer an apology.
+- Advertise your change: people see only what they expect to see.
+- Perception changes more slowly than behaviour.
+
+--- Listening and thanking
+kw: question before speaking · "thank you"
+Goldsmith pays special attention to two skills that accompany almost every change: listening and thanking.
+
+**Listening.** He argues that listening is the skill that most distinguishes great leaders. He observes that the most admired people know how to make the person they are talking to feel like the only person who matters at that moment. They don't look elsewhere, check their phone or interrupt.
+
+He suggests several practices:
+
+- **Listen without interrupting**, and wait until the other person has finished before answering.
+- **Don't finish other people's sentences.**
+- **Ask yourself a question before answering**: is my reply worth saying?
+- **Ask questions** to understand rather than to steer.
+- **Don't show annoyance**, even when what you hear is unpleasant.
+
+**Thanking.** Goldsmith makes the word "thank you" a central tool in his method. When someone gives us advice, criticism or even a compliment, our reflex is often to justify ourselves, argue or play it down. Goldsmith recommends simply saying thank you. The word acknowledges the other person's contribution, avoids pointless arguments and encourages them to keep speaking frankly to us.
+
+He stresses that gratitude also affects the person who expresses it. Getting into the habit of thanking makes you more attentive to what others bring, and reduces the tendency to take credit for everything.
+
+He says he asks his clients to thank everyone who gives them feedback, systematically, even when they disagree. At first it is hard. Then it becomes a habit, and relationships improve markedly.
+
+> Exercice | For one week, answer every remark, piece of advice or criticism with a simple "thank you," adding nothing. Watch how others react, and how you react.
+
+--- Following up and feedforward
+kw: monthly follow-up · future suggestions
+The last two steps of the method are **follow-up** and **feedforward**.
+
+**Follow-up.** Goldsmith argues that follow-up is the most important element of the whole process. His research on thousands of participants in leadership development programmes led him to one conclusion: people who follow up regularly with their colleagues improve far more than those who don't. Following up means going back to the people concerned regularly, say once a month, to ask: "Last month I told you I wanted to listen better. Have you noticed a change? What could I do better?"
+
+Follow-up has several effects. It reminds others that you are working on this behaviour, which helps them notice progress. It brings you regular advice on how to improve. It keeps the person who is changing committed, unable to forget their goal.
+
+**Feedforward.** This is a technique Goldsmith developed that has become famous. It involves asking for suggestions for the future rather than criticism of the past. The process is simple:
+
+- Choose a behaviour you want to change.
+- Describe it briefly to someone, who can be a colleague, a friend or even a stranger.
+- Ask them for two suggestions for the future that could help you change it.
+- Listen to the suggestions without commenting, judging or justifying yourself.
+- Say thank you.
+- Repeat with someone else.
+
+Goldsmith explains that feedforward is easier to accept than feedback, because it is about the future, which you can change, not the past, which you cannot. It involves no personal judgment. Participants often find the exercise enjoyable, both those receiving suggestions and those giving them.
+
+> À retenir | Monthly follow-up is the most powerful success factor. Feedforward asks for two ideas for tomorrow, with no debate about yesterday.
+
+--- Getting support
+kw: buddy · coach · daily questions
+Goldsmith stresses that change is easier when you are not alone. In his practice, he plays the role of supporter himself. For those without a coach, he suggests other forms of support.
+
+**The buddy.** Two people who each want to change a behaviour agree to call each other regularly, say every day or every week. Each asks the other the questions they have set themselves, such as "did you do your best to listen today?", and notes the answer. Goldsmith says he has done this kind of daily exchange with a friend himself for many years. Simply having to answer to someone makes you much more consistent.
+
+**The observing colleague.** You can ask a trusted colleague to watch your behaviour in a meeting and give quick feedback at the end. For example, how many times you interrupted, or how many times you started with "no." This immediate feedback is very effective for becoming aware of your automatic reflexes.
+
+**Your manager.** If the relationship allows, it helps to tell your own manager about the change you are undertaking. They can support it, notice it and recognize it, which boosts motivation.
+
+**Family and friends.** Goldsmith observes that many habits also show up at home. Those close to us are often the most clear-sighted observers. Several of his clients found that their efforts at work also improved their family relationships, and vice versa.
+
+Goldsmith insists on choosing the right supporter. They must be kind, honest and available. They must not judge, but help. The supporter's role is not to say what needs changing, but to help the person keep their commitment.
+
+> Exercice | Find a buddy who also wants to change a behaviour. Each of you sets three questions, and you exchange your answers every Friday for a month.
+
+=== The rules of change
+--- Picking the right battle
+kw: illness · the right issue · no ideal
+Goldsmith sets out several rules for successful change. The first concern choosing what to change.
+
+**You may not have a problem that behavioural change can fix.** Goldsmith specifies that his method applies only to interpersonal behaviours. It cannot solve a problem of technical skill, ethics or health. If someone lacks skills, they need training. If they have an integrity problem, coaching is not enough. If they suffer from a serious psychological problem, they need a health professional.
+
+**Choose what really needs to change.** You should change not what you would like to change, but what others consider important. Feedback is indispensable for this.
+
+**Don't kid yourself about what you need to change.** Sometimes someone receives clear feedback but chooses to work on another, more comfortable issue. Goldsmith recommends facing the real problem.
+
+**Don't hide from the truth you need to hear.** Even when feedback is painful, you have to accept it. A person who refuses to hear the truth cannot change.
+
+**There is no ideal behaviour.** Goldsmith warns against looking for a perfect model. Companies often publish lists of ideal competencies for their leaders. No one can have them all. It is better to identify one or two behaviours to improve than to try to become a perfect leader.
+
+**Don't fix what isn't broken.** If a behaviour doesn't cause others any problem, there is no need to change it, even if it doesn't match a theoretical model. Energy should be focused on what really matters.
+
+Goldsmith insists on one principle: change is judged by others. It is not up to the person changing to decide whether they have improved, but up to the people who work with them.
+
+- Behavioural coaching fixes neither a skills gap nor an ethical problem.
+- Change what others consider important, not what suits you.
+- One or two behaviours are enough, not an ideal model.
+
+--- Measuring and persevering
+kw: numbers · now · patience
+The other rules concern how to carry out the change.
+
+**If you can measure it, you can achieve it.** Goldsmith recommends quantifying the behaviours you want to change. For example, counting how many times you interrupt someone in a meeting, or how many thank-yous you express in a day. Measurement makes progress visible and motivates you to keep going.
+
+**Put a value on the outcome.** He suggests linking the change to a concrete consequence, sometimes financial. He describes situations where a team agreed that a member would donate a small sum to charity every time they slipped back into their habit. This playful rule made the behaviour visible and added motivation.
+
+**The best time to change is now.** Goldsmith observes that people often put off change, waiting for less work or a calmer period. That moment never comes. You have to start now, even modestly.
+
+**Change takes time.** Goldsmith argues that it generally takes twelve to eighteen months for others to perceive real change. Behaviour can change faster, but perception evolves slowly. So you have to persevere, even when you feel your efforts are not being recognized.
+
+**Relapses are part of the process.** No one changes perfectly overnight. There will be times when you slip back into your habit. What matters is to acknowledge it, apologize if necessary, and start again.
+
+**Involve others.** Change is easier when you are supported. Goldsmith recommends asking colleagues to point out relapses and to encourage you when they see progress.
+
+He also stresses that change is often easier than people think, once they have decided to commit to it. Many of his clients are surprised to find that their colleagues quickly notice their efforts and are grateful for them.
+
+> À retenir | Measure your behaviour, start now, allow twelve to eighteen months for others to see it, and don't stop at the first relapse.
+
+--- The traps of willpower
+kw: overestimation · environment · relapse
+In a later book, *Triggers*, Goldsmith explored the obstacles to change in more depth. His ideas usefully complement *What Got You Here*. He observes that we overestimate our ability to change through willpower alone. We think deciding is enough, whereas our environment constantly pushes us back toward old habits.
+
+He identifies several beliefs that stop us changing:
+
+- **"If I understand it, I'll do it."** Understanding is not enough. You can know perfectly well what to do and not do it.
+- **"I have enough willpower."** Willpower runs out, especially at the end of the day or in stressful periods.
+- **"Today is a special day."** There is always a good reason to make an exception, and exceptions become the rule.
+- **"I won't be tempted."** We underestimate the power of the situations that trigger our habits.
+- **"I'll have more time eventually."** We believe we will be less busy later, which never happens.
+
+Goldsmith therefore recommends identifying the **triggers** of your habits: the situations, people or moments that provoke the behaviour you want to change. For example, someone who gets angry may notice that it happens mostly at the end of the day, when they are tired, or with one particular person. Once the triggers are identified, you can prepare yourself or change your environment.
+
+He also suggests a daily practice: asking yourself a few questions every evening about your efforts that day. For example: "Did I do my best to listen today?", "Did I do my best to thank people?" He insists on the wording "did I do my best," which focuses on effort rather than outcome. He rates the answer from 1 to 10. This practice makes change visible day by day.
+
+- Willpower is not enough: identify your triggers.
+- Prepare for the situations that set off your habits.
+- Every evening: "did I do my best to…?"
+
+=== The manager and the team
+--- What managers forget
+kw: not just yourself · team · example
+Goldsmith devotes part of the book to the particular challenges of people who lead others. He observes that the higher someone rises, the more impact their habits have. A team member who doesn't say thank you affects a few colleagues; an executive who doesn't say thank you affects an entire organization.
+
+He stresses that managers tend to believe their role is to correct others, not themselves. They send their people on training courses to improve their behaviour, without asking whether their own behaviour is a problem. Goldsmith argues that change must start at the top. If a leader changes and shows it publicly, they encourage the whole organization to do the same.
+
+He also notes that managers often struggle with delegation. They want to control everything, add too much value to others' ideas and don't let their people take initiative. This behaviour reduces team commitment and limits the organization's growth.
+
+Goldsmith recommends that managers treat their people as adults and partners, not subordinates. He stresses that the best people, especially knowledge workers, often know more about their field than their manager does. The manager's role is not to tell them how to do it, but to support them and help them grow.
+
+He also insists on the need to thank and recognize. Managers almost always underestimate the importance of recognition. They think the salary is enough, or that doing good work is normal. Goldsmith argues that sincere recognition is one of the most powerful drivers of commitment.
+
+Finally, he advises managers not to try to be liked by everyone. Their role is to make decisions, sometimes unpopular ones. But they must do so respectfully and explain their reasons.
+
+> Question clé | Which behaviour are you asking your team to change that you could change in yourself first?
+
+--- Changing as a team
+kw: each person chooses · collective feedforward
+Goldsmith describes an approach he uses with leadership teams to improve how they work together. It applies his individual method at team level.
+
+The approach starts with a question put to every team member: on a scale of 1 to 10, how would you rate how our team works today, and what score would you like to reach? Most of the time, members give an average score and want a much higher one. This creates shared motivation.
+
+Next, the team identifies a few collective behaviours that would help it improve: better communication between departments, keeping commitments, listening to each other in meetings. Then each member chooses one personal behaviour they will improve to help the team progress.
+
+Each member then practises feedforward with colleagues: they describe the behaviour they want to change and ask for suggestions. They say thank you, without commenting.
+
+Over several months, each member follows up regularly with colleagues: have they noticed any progress? What could they do better? After several months, the team rates how it works again.
+
+Goldsmith reports that this approach produces significant progress in the vast majority of teams that apply it seriously. It has several advantages. It does not rely on finding culprits: everyone works on themselves. It creates positive momentum, because everyone sees the others' efforts. And it is simple to implement, without consultants or long training.
+
+He stresses that the leader's role is essential. They must be the first to choose a behaviour to improve and to ask their people for suggestions. Their example gives others permission to question themselves.
+
+- Each member chooses a behaviour to improve for the team.
+- Feedforward between colleagues, then monthly follow-up.
+- The leader goes first.
+
+--- Helping a team member change
+kw: feedback · choice · support · follow-up
+Managers can also use Goldsmith's method to help their people change a behaviour. Goldsmith offers some recommendations for doing so respectfully.
+
+**Start with yourself.** A manager who asks someone to change without being engaged in change themselves lacks credibility. If they have chosen a behaviour to improve, apologized and asked for feedback, they can more easily suggest the same approach to their people.
+
+**Check that the problem is behavioural.** Before using the method, make sure the problem really is an interpersonal behaviour, not a lack of skills or resources, or a personal problem. Goldsmith reminds us that his method does not solve everything.
+
+**Let the person choose.** The manager can share what they observe and what others have told them, but it is better for the person to choose the behaviour they will work on. Imposed change is rarely lasting.
+
+**Link the change to their goals.** Goldsmith insists on self-interest. The manager must show the person how the change will help them reach their own goals: a promotion, better relationships, more influence.
+
+**Support the process.** The manager can facilitate feedback, encourage feedforward with colleagues and publicly notice progress. They can also follow up with the person in one-to-ones.
+
+**Be patient.** As with yourself, change takes time. The manager must avoid judging too quickly and accept relapses.
+
+Goldsmith adds an important point: some people don't want to change. In that case, no method will work. The manager must then decide whether the behaviour is acceptable in the team, and if not, act accordingly.
+
+- Commit to a change yourself first.
+- Let the person choose, and link the change to their goals.
+- If the person refuses to change, no method will work.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: choose · apologize · follow up
+Here is a plan for applying Goldsmith's method to yourself.
+
+**Week 1: identify.** Reread the twenty habits and pick the three you recognize in yourself. Ask five people, colleagues, direct reports, your manager or people close to you, to tell you frankly which behaviour you could improve to be more effective with others. Promise not to defend yourself and thank them for every answer. Choose a single priority behaviour, the one that comes up most often.
+
+**Week 2: apologize and advertise.** Go and see the people concerned. Apologize simply for this behaviour, without justification. Announce that you are going to work on changing it, and ask them to help by pointing out your relapses. Start measuring the behaviour, for example by counting each day how many times it happens.
+
+**Week 3: feedforward.** Practise feedforward with at least eight people: describe the behaviour, ask for two suggestions, listen without commenting, say thank you. Pick the suggestions that seem most useful and start applying them. Every evening, ask yourself: "Did I do my best to…?" and rate your answer from 1 to 10.
+
+**Week 4: the first follow-up.** Go back to the people you told about your change. Ask whether they have noticed progress and what you could do better. Thank them. Schedule a monthly follow-up in your calendar for the next twelve months.
+
+Goldsmith insists that this first month is only a beginning. Real change takes twelve to eighteen months. But people who follow this process seriously generally see clear progress, noticed by those around them.
+
+> À retenir | A single behaviour, chosen with others' help. Apology, announcement, feedforward, then monthly follow-up for at least a year.
+
+--- Self-assessment grid
+kw: twenty habits · scoring · those around you
+This grid covers the twenty habits. For each, score from 0 to 3 how often you think you display it: 0 never, 1 rarely, 2 sometimes, 3 often. Then ask someone you trust to fill in the same grid about you.
+
+**Winning and shining**
+
+- I want to win even in discussions that don't matter.
+- I add my own touch to other people's ideas.
+- I pass judgment on other people's ideas.
+- I make sarcastic or hurtful remarks.
+- I often start with "no," "but" or "however."
+
+**Appearing smart and staying in control**
+
+- I show that I already knew.
+- I speak when I'm angry.
+- I often respond with an objection.
+- I forget to pass on information that would be useful to others.
+- I don't acknowledge others' contributions enough.
+
+**Credit and responsibility**
+
+- I take more credit than I deserve.
+- I make excuses for my behaviour.
+- I explain my behaviour by my past.
+- I favour certain people.
+- I find it hard to apologize.
+
+**Attention to others**
+
+- I don't always really listen.
+- I forget to say thank you.
+- I react badly to bad news.
+- I shift responsibility onto others.
+- I justify my flaws with "that's just how I am."
+
+**Interpretation.** Don't look at the total, but at the gaps. The habits where the trusted person scores you higher than you score yourself are your blind spots: these are often the most important to work on. Pick just one to start with.
+
+- The gaps between your score and others' reveal your blind spots.
+- One habit at a time.
+
+--- Case study: the brilliant expert
+kw: promotion · meetings · perception
+Isabelle is general counsel at an industrial company. She is unanimously recognized as the best lawyer in the group. Her CEO is considering giving her a broader division to lead, but he hesitates. Several colleagues complain about her attitude in meetings.
+
+**Feedback.** An internal coach confidentially gathers the views of twelve people. The result is clear: Isabelle is highly respected for her expertise, but she often interrupts others, starts her answers with "no, that's not it" and systematically corrects her colleagues' proposals. Several people have stopped asking her opinion to avoid being corrected.
+
+**Awareness.** Isabelle is shocked at first. She thinks her exacting standards are what make her valuable. The coach points out that she succeeded because of her expertise, and in spite of these behaviours. She realizes that her new role will require persuading peers, not correcting them.
+
+**Choice.** She chooses one behaviour: adding too much value and starting with "no."
+
+**Apology and announcement.** At a committee meeting, she apologizes simply to her colleagues and announces that she wants to listen better to their proposals before reacting. She asks them to point out her relapses.
+
+**Feedforward.** She asks eight colleagues for suggestions. Among them: ask a question before giving her opinion, count to three before answering, start with what is right in the proposal.
+
+**Follow-up.** Every month, she asks her colleagues whether they notice progress. At first, the answers are cautious. After six months, several colleagues tell her they are happy to consult her again. A year later, a second round of feedback shows clear improvement. She gets the promotion.
+
+> Question de réflexion | Which behaviour, which may have helped you so far, could stop you succeeding in your next role?
+
+=== Critical view and links
+--- Limits of the book
+kw: anecdotes · surface · elite
+Goldsmith's book is very practical and widely appreciated, but it has several limits.
+
+**A particular audience.** The method was developed for senior executives of large companies, well paid, with power and room to manoeuvre. Some advice is harder to apply for employees in weaker positions. For example, apologizing publicly and asking colleagues for feedback is riskier for someone whose job is insecure.
+
+**Evidence drawn mainly from his own practice.** Goldsmith relies on his experience as a coach and on surveys of participants in his programmes. These data are interesting, but they are not independent, rigorous research. The people who see the process through to the end are probably also the most motivated, which may partly explain their progress.
+
+**A behavioural approach.** The method focuses on visible behaviours, without trying to understand their deeper causes. Goldsmith owns this: he believes you can change a behaviour without understanding why you have it. This approach works for many habits, but it can fall short when behaviours are linked to deeper psychological difficulties, such as anxiety or trauma.
+
+**The risk of a façade.** Someone could change their visible behaviour without changing their attitude, for example by saying thank you mechanically or apologizing insincerely. Goldsmith believes others eventually perceive the lack of sincerity, but the risk exists.
+
+**The role of the system.** Like many personal development books, this one pays little attention to organizational factors. Some habits are encouraged by company culture: a system that rewards individual competition fosters the need to win at all costs. Changing alone can be hard if the system pushes the other way.
+
+**An anecdotal style.** The book is full of stories about famous or anonymous clients. They make for pleasant reading, but some readers find them repetitive.
+
+- The method assumes a certain security of job and status.
+- It treats behaviours, not always their deeper causes.
+
+--- Links with other books
+kw: Covey · Scott · Collins · Kahneman
+**With The 7 Habits of Highly Effective People (Covey).** Covey offers a global vision based on character and principles. Goldsmith offers a very concrete method for changing specific behaviours. The two complement each other: Covey says who to become, Goldsmith says how to change one behaviour at a time. Several of Goldsmith's habits, such as not listening or not thanking, correspond to withdrawals from Covey's emotional bank account.
+
+**With Radical Candor (Kim Scott).** Goldsmith's method for receiving feedback, listening without defending yourself and saying thank you, matches exactly what Kim Scott recommends when she advises starting by asking for feedback. Both authors insist on the need to reward others' candour.
+
+**With Good to Great (Collins).** The Level 5 leaders Collins describes display few of Goldsmith's habits: they give credit to others, own their mistakes and listen. Goldsmith offers a method for getting closer to that.
+
+**With Thinking, Fast and Slow (Kahneman).** Kahneman explains scientifically several phenomena Goldsmith describes: self-overestimation, overconfidence and the difficulty of seeing your own biases. The success delusion is a particular form of these biases.
+
+**With High Output Management (Grove).** Grove warns against managerial meddling, which corresponds to Goldsmith's habit of "adding too much value." Both authors show that a manager who intervenes too much reduces their people's motivation and development.
+
+> Parcours conseillé | Next, read Thinking, Fast and Slow to understand why we see our own habits so poorly.
