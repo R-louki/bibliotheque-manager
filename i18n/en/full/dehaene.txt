@@ -1,0 +1,322 @@
+=== Context and thesis
+--- A neuroscientist and the school
+kw: Collège de France · brain · education
+Stanislas Dehaene is a French researcher in cognitive psychology and neuroscience. He heads a neuroimaging laboratory and holds the chair of experimental cognitive psychology at the Collège de France. He is known for his work on how the brain learns to read and to count. He also chaired the scientific council of France's national education ministry.
+
+*How We Learn* (French original: *Apprendre !*), published in 2018, brings together what the cognitive sciences have discovered about learning. Dehaene wants to make this knowledge accessible to parents, teachers and anyone who wants to learn better.
+
+The book is organized around three big questions. What is learning? How does a baby's brain learn so fast? And what principles make learning effective, at any age?
+
+Dehaene often compares the human brain with artificial intelligence systems. These have made considerable progress, but they remain far less efficient than a child's brain. A child learns a new word after hearing it once or twice. A machine often needs thousands or millions of examples. Understanding this difference helps us understand what the brain does when it learns.
+
+The book's main thesis is that learning rests on four fundamental mechanisms, which he calls the **four pillars of learning**: attention, active engagement, error feedback and consolidation. Every teacher, parent and learner can act on each of them.
+
+> À retenir | Neuroscience identifies four pillars of learning, and everyone can act on each of them.
+
+--- Learning is building a model
+kw: internal model · hypotheses · adjusting
+Dehaene proposes a definition of learning: **to learn is to form an internal model of the world**.
+
+Our brain doesn't simply record information. It builds representations, models that allow it to understand its environment, predict what will happen and act. When we learn to read, we build a model that links visual shapes to sounds and meanings. When we learn mathematics, we build a model of quantities and their relationships.
+
+This model is constantly adjusted. The brain makes **hypotheses**, compares them with reality and corrects them when they are wrong. Dehaene describes the brain as a statistician that is constantly assessing the probability of its hypotheses from the data it receives.
+
+He stresses that the brain is not a blank slate at birth. Research on babies shows that from the first months they possess astonishing knowledge: they grasp basic notions about objects, numbers, probabilities, people and language. This innate knowledge doesn't replace learning. It makes it possible, by providing a framework in which new information can be organized.
+
+Dehaene also insists on the brain's **plasticity**. Connections between neurons change with experience. This plasticity is particularly strong in children, but it persists throughout life. It is possible to learn at any age, even if certain periods, like early childhood for language, are more favorable.
+
+- To learn is to build an internal model of the world.
+- The brain makes hypotheses and corrects them.
+- A baby is not a blank slate; the brain remains plastic throughout life.
+
+--- Neuronal recycling
+kw: reading · visual area · culture
+Dehaene presents an idea he developed in his research on reading: **neuronal recycling**.
+
+Writing is a recent invention in human history, only a few thousand years old. So the brain has not had time to evolve a region specialized for reading. How, then, does it manage to read?
+
+Brain imaging research shows that when a person learns to read, a region of their brain located in the visual cortex becomes specialized in recognizing letters and words. This region was previously used to recognize objects and faces. Learning to read therefore **recycles** an existing circuit, redirecting it to a new function.
+
+Dehaene explains that this phenomenon applies to many cultural skills, such as mathematics. Cultural inventions don't create new circuits from scratch. They build on old circuits, inherited from evolution, which they transform.
+
+This idea has consequences for teaching. It explains why some methods work better than others. For reading, Dehaene advocates explicit teaching of letter-sound correspondences, which matches the way the brain learns. He criticizes methods that ask children to recognize the overall shape of words, because they don't build on the brain's actual mechanisms.
+
+He also stresses that learning transforms the brain. A person who can read does not have the same brain as one who cannot.
+
+> À retenir | Cultural skills such as reading recycle old circuits in the brain. Teaching in line with those circuits is more effective.
+
+=== Pillar 1: attention
+--- Filtering information
+kw: selection · alerting · orienting · control
+The first pillar of learning is **attention**. Dehaene explains that the brain receives an enormous amount of information at every moment. It cannot process it all. Attention serves to **select** the important information and amplify it, while dampening the rest.
+
+He distinguishes three attention systems.
+
+**Alerting** tells us when to pay attention. It mobilizes the brain in the face of an important or new event.
+
+**Orienting** tells us what to pay attention to. It directs the brain's resources toward an object, a sound, an idea.
+
+**Executive control** tells us how to process information. It lets us follow an instruction, resist distractions and switch from one task to another.
+
+Dehaene insists on an important consequence: **what we don't pay attention to is barely learned**. Information that hasn't been selected by attention leaves few traces in memory. He cites famous experiments in which people focused on a task fail to notice a clearly visible event, such as a person in costume walking across the scene.
+
+For teaching, this means that a teacher's first task is to capture students' attention and direct it toward what matters. A lesson filled with distracting details, decorative images or incidental information scatters attention.
+
+Dehaene also warns against **multitasking**. The brain cannot really do two demanding things at once. When we try, we switch rapidly between them, and each suffers.
+
+- Attention selects and amplifies important information.
+- What isn't noticed is barely learned.
+- Multitasking scatters attention.
+
+--- Developing attention
+kw: teacher · screens · executive functions
+Dehaene explains that attention, especially executive control, develops slowly in children, through adolescence and beyond. The brain regions that support it, located in the prefrontal cortex, are among the last to mature.
+
+He stresses that this capacity can be **trained**. He cites educational programs that help children develop self-control, for example through games in which they must wait their turn, follow rules or resist an impulse. Some activities, such as music or certain structured games, also seem to contribute to this development.
+
+He gives several tips for fostering attention in learning.
+
+**Show clearly what matters.** The teacher must guide students' attention through voice, gestures, gaze and the structure of the lesson.
+
+**Avoid distractions.** A classroom overloaded with decorations or a handout filled with useless images reduces attention to what matters. Dehaene cites studies showing that children learn less well in heavily decorated classrooms.
+
+**Limit screens during learning.** Notifications, videos and games capture attention very effectively, which diverts it from learning tasks.
+
+**Use gaze and relationship.** From early childhood, children learn by following the adult's gaze. Shared attention between a teacher and a student is a powerful driver of learning.
+
+Finally, Dehaene notes that the human brain is particularly sensitive to teaching: it is made to learn from others.
+
+> Question clé | In your training or presentation materials, what draws attention to the essentials, and what scatters it?
+
+=== Pillar 2: active engagement
+--- A passive organism doesn't learn
+kw: curiosity · hypotheses · participating
+The second pillar is **active engagement**. Dehaene explains that a passive organism learns almost nothing. To learn, the brain must make hypotheses, test them and actively seek information.
+
+He cites an old experiment conducted on young kittens. Two kittens were placed in a circular apparatus. One could walk freely; the other was carried in a gondola and saw exactly the same things, but without acting. Only the active kitten developed normal spatial vision. Simply receiving information isn't enough: you have to act on the world.
+
+Dehaene stresses that active engagement doesn't necessarily mean physical activity. It is **mental activity**: thinking, asking questions, making predictions, trying to answer. A seated student thinking hard is more active than one handling objects without thinking.
+
+He warns against a common confusion. Some so-called active teaching methods let students discover on their own, without guidance. Research shows that **pure discovery** is often ineffective: students get lost, learn wrong ideas or miss the essentials. The ideal is **structured teaching** that guides students while forcing them to think actively: asking questions, eliciting predictions, setting appropriate problems.
+
+He also stresses **curiosity**, a powerful driver of engagement. The brain is drawn to what it doesn't yet know, provided the gap with what it knows isn't too large.
+
+- A passive brain learns little.
+- The activity that counts is mental.
+- Guide without giving the answers, rather than leaving learners to discover alone.
+
+--- Nurturing curiosity
+kw: knowledge gap · pleasure · not extinguishing
+Dehaene devotes a major section to **curiosity**, which he presents as a fundamental force in learning.
+
+He explains that curiosity is linked to the brain's reward system. Learning something new brings pleasure. So the brain actively seeks situations where it can learn. Babies and young children constantly explore their environment, ask questions and test objects.
+
+Curiosity peaks when there is a **moderate gap** between what we know and what we could learn. If we already know everything, we get bored. If the gap is too large, we get discouraged. A good teacher creates situations in which students feel they can understand something new that is within reach.
+
+Dehaene worries about how school can sometimes **extinguish** children's natural curiosity. He cites several causes.
+
+**Lack of challenge.** Teaching that is too easy or too repetitive bores.
+
+**Punishing errors.** If students are punished or humiliated when they are wrong, they stop taking risks and asking questions.
+
+**Teaching that gives all the answers.** If the teacher explains everything before students have had time to ask the question, it deprives their brains of the pleasure of searching.
+
+He recommends asking questions before giving answers, valuing students' questions, and adapting difficulty so that everyone has a chance to discover something.
+
+> Exercice | Before explaining something to someone, first ask them a question that makes them want to know the answer.
+
+=== Pillar 3: error feedback
+--- Getting it wrong in order to learn
+kw: prediction · surprise · correction
+The third pillar is **error feedback**. Dehaene explains that the brain learns by comparing its predictions with reality. When a prediction is right, the model is confirmed. When it is wrong, the brain detects an **error** and adjusts its model to predict better next time.
+
+He stresses that error is not failure but a condition of learning. Without error, there is no signal telling the brain what to correct. He describes brain signals observed when a person makes a mistake or is surprised: the brain reacts strongly to unexpected events, and it is this reaction that triggers the model update.
+
+This mechanism is also at the heart of artificial intelligence algorithms. Artificial neural networks learn by measuring the gap between their answer and the correct one, then adjusting their parameters to reduce that gap.
+
+Dehaene draws an important consequence from this: **to learn, you need fast, precise feedback on your errors**. A student who does an exercise without knowing whether they got it right learns little. A student who immediately receives a clear correction can adjust their model.
+
+He specifies that feedback must be **informative**. It isn't enough to say "wrong"; you must indicate what is wrong and, if possible, why. Precise feedback helps the brain know what to correct.
+
+- The brain learns by comparing its predictions with reality.
+- Error is the signal that triggers correction.
+- Fast, precise feedback speeds up learning.
+
+--- Grades and fear
+kw: assessment · punishment · stress
+Dehaene carefully distinguishes **error feedback** from **punishing errors**. The first is essential to learning. The second can prevent it.
+
+He criticizes certain assessment practices. A grade given long after an assignment, without detailed explanation, provides little useful information. The student only knows whether they passed or failed, without knowing what to correct. And if the grade is experienced as a judgment of their worth, it can cause anxiety and demotivation.
+
+He stresses the negative effects of **stress** and **fear** on learning. A student who is afraid of being wrong avoids taking risks, doesn't ask questions and ends up disengaging. Chronic stress also disrupts memory. Dehaene mentions the phenomenon of **learned helplessness**: a student who fails repeatedly despite their efforts ends up believing they are incapable and stops trying.
+
+He doesn't propose abolishing all assessment. On the contrary, he recommends **frequent**, low-stakes assessments that serve learning rather than ranking. **Tests** are an excellent learning tool, provided they are experienced as opportunities to check one's knowledge and correct errors, not as sanctions.
+
+He also cites the importance of **mindset**: students who believe intelligence can be developed respond better to errors than those who see it as fixed.
+
+> À retenir | Error feedback is essential; punishing errors is harmful. Assess often, at low stakes, in order to learn.
+
+=== Pillar 4: consolidation
+--- Automating
+kw: repetition · freeing attention
+The fourth pillar is **consolidation**. Dehaene explains that at the start of learning, a task requires a lot of conscious effort. The learner must mobilize all their attention, and they are slow. With practice, the task becomes increasingly **automatic**. It is performed quickly, effortlessly, and frees attention for other things.
+
+He takes the example of reading. A child learning to read deciphers slowly, letter by letter, with great effort. All their attention is absorbed by decoding, and they struggle to understand the meaning of the text. With practice, decoding becomes automatic, and attention can turn to comprehension. Brain imaging shows that in experienced readers, word recognition runs through fast, specialized circuits that no longer call on the regions of conscious effort.
+
+This automation is the result of **repetition**. Dehaene stresses that regular practice is essential, even when it seems tedious. It isn't a waste of time: it is what frees the mind for higher-level tasks.
+
+He also cites mathematics. A student who has to think about every elementary calculation no longer has enough mental resources to solve a more complex problem. Automating the basics is therefore necessary for progress.
+
+- Practice turns conscious effort into automaticity.
+- Automaticity frees attention for higher-level tasks.
+- Regular repetition is not a waste of time.
+
+--- The role of sleep
+kw: replay · night · memory
+Dehaene gives an important place to **sleep**, which he presents as a key player in consolidation.
+
+He explains that during sleep the brain doesn't rest completely. It **replays** the day's experiences. Animal experiments have shown that neurons activated during daytime learning are reactivated during sleep, in the same order but sped up. This replay strengthens the connections associated with learning.
+
+He cites studies in humans showing that sleep improves memorization and even understanding. In some experiments, participants who slept after learning more often discovered a hidden rule in a problem than those who stayed awake for the same length of time. Sleep doesn't just preserve knowledge: it reorganizes it.
+
+Dehaene draws several recommendations from this.
+
+**Respect children's and adolescents' sleep.** Lack of sleep, common among adolescents, harms learning. He mentions the debates about school start times that are too early.
+
+**Study before sleeping.** Reviewing a lesson in the evening allows sleep to consolidate it.
+
+**Spread learning over several days.** Each night offers an opportunity for consolidation. Spreading learning over several days is more effective than cramming it all into one session.
+
+> Question clé | In your organization, how many nights separate the first presentation of a concept from its review?
+
+--- Spacing and self-testing
+kw: spaced review · tests · forgetting
+Dehaene presents two techniques from cognitive psychology research that greatly strengthen consolidation.
+
+**Spaced review.** Research shows that it is far more effective to spread learning over time than to concentrate it. Reviewing a lesson three times over a week produces more lasting memory than reviewing it three times on the same day. Dehaene recalls Hermann Ebbinghaus's early work on the **forgetting curve**: we quickly forget what we have learned unless we review it at regular intervals. The optimal intervals gradually lengthen: you review a concept after a day, then a few days, then a few weeks.
+
+**Testing.** Testing yourself, that is, trying to retrieve information from memory, is more effective than rereading it. Each time you make the effort to recall, you strengthen the memory trace. Tests also reveal what you don't yet know, which guides your review.
+
+Dehaene stresses that these two techniques are counterintuitive. Rereading a text gives an impression of mastery, because it feels familiar. But that impression is misleading. Testing and spacing require more effort and feel less comfortable, but they are much more effective.
+
+He recommends that students turn their lessons into questions, test themselves regularly and plan their reviews over several weeks. He recommends that teachers regularly return to concepts already covered rather than treating them as acquired.
+
+> À retenir | Space your reviews and test yourself rather than reread: more effort, much more memory.
+
+=== The brain and the machine
+--- What babies do better than AI
+kw: few examples · abstraction · meaning
+Dehaene regularly returns to the comparison between the human brain and artificial intelligence. He acknowledges the spectacular progress of artificial neural networks, which can recognize images, translate texts and play games better than humans.
+
+But he points out several areas where the human brain, even a baby's, remains far superior.
+
+**Learning from few examples.** A child learns a new word after a few exposures. Machines often need enormous amounts of data.
+
+**Abstraction.** The human brain extracts general rules and abstract concepts that it can apply to new situations. Machines often struggle to generalize beyond the examples they have seen.
+
+**Building a language of thought.** Dehaene defends the idea that the human brain has a kind of internal language that lets it combine ideas to create new ones, just as words are combined to form sentences.
+
+**Learning from others.** Human beings learn enormously through teaching, imitation and communication. They can understand the intentions of the person teaching them.
+
+**Reasoning under uncertainty.** The brain constantly assesses the reliability of its knowledge, which allows it to know what it doesn't know.
+
+Dehaene suggests that future progress in artificial intelligence may come from a better understanding of these human abilities.
+
+- The brain learns from very few examples.
+- It abstracts, combines and generalizes.
+- It learns from others and knows what it doesn't know.
+
+--- Sensitive periods
+kw: languages · childhood · lifelong
+Dehaene addresses the question of **sensitive periods**: are there ages when we learn certain things better?
+
+He explains that brain plasticity is particularly strong in childhood. For certain kinds of learning, there are periods when the brain is especially receptive. This is notably the case for perceiving the sounds of a language. Babies can distinguish the sounds of every language in the world, but toward the end of their first year they specialize in the sounds of their mother tongue and lose part of their sensitivity to others. That is why it is harder for an adult to acquire a perfect accent in a new language.
+
+He also cites work on children who lived in conditions of severe deprivation during their first years and who retained difficulties despite later care. This work shows the importance of a rich environment in early childhood.
+
+But Dehaene insists that most learning remains possible **throughout life**. The adult brain remains plastic. Adults can learn new languages, new skills, new trades. They sometimes learn more slowly than children in certain areas, but they also have advantages: broader knowledge, better organizational ability, more conscious motivation.
+
+He recommends exposing children early to a wide variety of experiences, notably foreign languages, without believing that everything is settled before a certain age.
+
+> À retenir | Some periods are more favorable, but the brain remains able to learn throughout life.
+
+=== Putting it into practice
+--- The four pillars at work
+kw: training · meetings · managers
+Dehaene's principles apply well beyond school. They can guide adult training, onboarding of new employees and personal learning.
+
+**Attention.** In a training session, limit the amount of information, remove distracting elements and clearly flag what is essential. Keep participants from checking their messages during sessions.
+
+**Active engagement.** Replace part of the lectures with questions, case studies and exercises in which participants must think and predict. Start a session with a question rather than with the answer.
+
+**Error feedback.** Give learners frequent opportunities to test their knowledge, with immediate, precise feedback. Create a climate in which error is seen as a normal step in learning, not a fault.
+
+**Consolidation.** Spread training over several days or weeks rather than concentrating it in one session. Plan spaced reminders and tests after the training. Practice basic skills until they become automatic.
+
+For a manager, these principles can also guide the coaching of team members: give fast feedback, encourage questions, allow time to practice, regularly revisit important points.
+
+- Less information, better targeted.
+- Questions before answers.
+- Spaced tests after each training session.
+
+--- 30-day action plan
+kw: week by week · learning better
+**Week 1: attention.** Choose a skill you want to learn. During your learning sessions, remove all distractions: phone off, notifications muted. Note what distracted you most.
+
+**Week 2: active engagement.** Before each session, write down a question you want to answer. During the session, make predictions before reading the answers. Restate what you learned in your own words.
+
+**Week 3: error feedback.** Turn what you have learned into questions. Test yourself every day without looking at your notes. Correct your errors immediately, understanding why you were wrong.
+
+**Week 4: consolidation.** Plan spaced reviews: after one day, three days, a week. Review in the evening, before going to sleep. Protect your sleep. Practice the basic moves until they become automatic.
+
+Dehaene reminds us that these principles are simple, but they often go against our habits, such as rereading rather than self-testing, or learning everything in one go.
+
+> À retenir | Protected attention, questions before answers, frequent tests, spaced reviews, respected sleep.
+
+--- Case study: onboarding
+kw: onboarding · tests · spacing
+At a software company, new customer support agents follow an intensive five-day training course, with presentations lasting several hours on the products. Three weeks later, many have forgotten the essentials, and errors are frequent. The head of training, Céline, decides to draw on Dehaene.
+
+**Attention.** She cuts the presentations down to the essentials, removes overloaded slides and opens each module with the three most important points.
+
+**Active engagement.** Each concept is introduced through a real customer case. The newcomers must propose a solution before the trainer explains.
+
+**Error feedback.** Each day ends with a short no-stakes quiz, corrected immediately as a group, with an explanation for each error.
+
+**Consolidation.** The training is spread over three weeks, alternating with half-days in the field. Refresher quizzes are sent one week, then one month after the end of the training.
+
+Six months later, the new agents' error rate has fallen markedly, and they become autonomous more quickly.
+
+> Question de réflexion | In the last training you attended or gave, which of the four pillars was most lacking?
+
+=== Critical view and connections
+--- Limits of the book
+kw: teaching debates · laboratory · classroom
+*How We Learn* is a reference work, but it has some limits.
+
+**From laboratory to classroom.** Many of the results cited come from experiments conducted in the laboratory, under controlled conditions. Applying them in a real classroom, with thirty different students and curriculum and time constraints, is not always simple.
+
+**Teaching debates.** Dehaene takes positions in educational debates, such as reading methods or the role of discovery. His positions are grounded in research, but some educators believe he underestimates other dimensions of education, such as motivation, the social dimension or creativity.
+
+**A demanding book.** Some passages on neuroscience and artificial intelligence require considerable reading effort for a non-specialist audience.
+
+**An evolving science.** The neuroscience of learning is advancing rapidly. Some claims may be qualified by new research.
+
+**The child before the adult.** The book deals mainly with learning in children. The principles apply to adults, but the specifics of adult learning, such as prior experience or professional constraints, are less developed.
+
+- Sound principles whose classroom application requires adaptation.
+- Positions that feed teaching debates.
+
+--- Connections with other books
+kw: Make It Stick · Ericsson · Dweck · Kahneman
+**With Make It Stick (Brown, Roediger, McDaniel).** This book develops in detail the techniques of testing, spacing and interleaving that Dehaene presents under the consolidation pillar.
+
+**With Peak (Ericsson).** Deliberate practice, with constant feedback on errors and the building of mental representations, echoes the pillars of error feedback and consolidation.
+
+**With Mindset (Dweck).** Dehaene cites the importance of the growth mindset for responding well to errors.
+
+**With Thinking, Fast and Slow (Kahneman).** The automation Dehaene describes corresponds to the shift from slow, conscious processing to fast, automatic processing.
+
+**With Deep Work (Newport).** The first pillar, attention, echoes the case for distraction-free concentration.
+
+> Parcours conseillé | Read Make It Stick next for concrete memorization techniques, then Peak for training toward excellence.
