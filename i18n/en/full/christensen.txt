@@ -1,0 +1,438 @@
+=== Context and dilemma
+--- Christensen and his question
+kw: Harvard · thesis · disk drives
+Clayton Christensen (1952-2020) was a professor at Harvard Business School. Before his academic career, he had been a consultant, then head of a manufacturing company. He says this experience led him to wonder about a phenomenon he did not understand: why do very well-run companies, which listen to their customers and invest in the technologies of the future, nonetheless lose their leadership position?
+
+He devoted his doctoral thesis to this question, studying the computer disk drive industry in detail. *The Innovator's Dilemma*, published in 1997, grew out of this research, broadened to other industries. The book has had considerable influence. It introduced the concept of **disruptive innovation**, which has become one of the most widely used terms in business, often in a sense different from Christensen's.
+
+The book's starting point is surprising. You might think large companies fail because they are badly run: arrogant leaders, heavy bureaucracy, underinvestment in research. Christensen argues the opposite. The companies he studies were well managed by every usual standard. They listened carefully to their customers, invested heavily in the technologies their customers asked for, sought the highest margins and targeted the largest markets. It is precisely for that reason that they failed.
+
+Christensen concludes that the principles of good management taught in business schools are valid only in certain situations. In others, they lead to failure. The leader's role is to recognize these situations and adopt different principles.
+
+The book is rigorous and sometimes technical, especially in the chapters on disk drives. But its thesis is clear and has been applied to many industries: steel, earthmoving equipment, retail, computing, healthcare, education.
+
+> À retenir | Leading companies are not overtaken because they are badly managed, but because they are well managed according to rules that no longer apply.
+
+--- The dilemma
+kw: good decisions · bad outcome
+The dilemma that gives the book its title can be put like this. The decisions that are rational and good for an established company in the short and medium term are also those that make it vulnerable in the long term to certain innovations.
+
+Christensen describes the typical reasoning of a leading company faced with a new technology. The new technology performs worse than the current one on the criteria that matter to the best customers. Current customers don't ask for it. The market it would serve is small and poorly defined. The margins it would yield are low. The company's investors expect substantial growth, which this small market cannot provide.
+
+Faced with this situation, a well-run company makes a logical decision: it does not invest in the new technology, or invests little. It prefers to devote its resources to the improvements its best customers are asking for, which promise higher margins and safer growth.
+
+The problem is that the new technology improves. It gradually becomes good enough to meet the needs of a growing part of the market, while remaining cheaper, simpler or more convenient. The new entrants who adopted it gain market share, starting from the bottom. By the time the leading company reacts, it is often too late: the new entrants have acquired the experience, cost structure and customer base needed to overtake it.
+
+Christensen insists that this is not a problem of technical competence. In many of the cases he studies, the leading companies had developed the new technology in their labs. They knew how to make it. But they failed to commercialize it, because it did not match their customers' needs or their business model.
+
+- Not investing in an inferior, low-margin technology is a rational decision.
+- The problem comes from the gradual improvement of that technology.
+- The leaders often knew how to make it; they didn't know how to sell it.
+
+--- The principles of failure
+kw: five principles · resources · markets
+Christensen sums up his conclusions in five principles that explain why well-run companies fail in the face of disruptive innovations. They are developed in the following branches, but it is useful to see them together.
+
+**Companies depend on customers and investors for resources.** It is they, not the executives, who really decide how resources are allocated. A company that does not satisfy its current customers and investors does not survive. It therefore cannot invest in what its customers don't ask for.
+
+**Small markets don't solve the growth needs of large companies.** A company with revenues of several billion must find hundreds of millions of additional growth every year. A new market worth a few million doesn't interest it.
+
+**Markets that don't exist can't be analysed.** Classic market research and planning methods assume you know the size and needs of the market. For disruptive innovations, that information doesn't exist yet.
+
+**An organization's capabilities define its disabilities.** The processes and values that allow a company to succeed in its current business prevent it from succeeding in a different one.
+
+**Technology supply may not equal market demand.** Technologies often progress faster than customers' needs. Products end up offering more performance than most customers need, which opens the door to simpler, cheaper products.
+
+Christensen specifies that these principles are not destiny. They are forces acting on organizations. Leaders who understand them can harness them, instead of fighting them in vain.
+
+> À retenir | Customers and investors decide resources, small markets don't interest big companies, the unknown can't be analysed, strengths become constraints, and technology overshoots needs.
+
+=== Two kinds of innovation
+--- Sustaining and disruptive
+kw: best customers · simpler · cheaper
+Christensen distinguishes two broad categories of technological innovation.
+
+**Sustaining innovations** improve the performance of existing products along the dimensions that mainstream customers already value. They can be modest, such as a gradual improvement in processor speed, or radical, such as the switch from one technology to another. What defines them is not their technical difficulty, but the fact that they serve current customers on criteria they know. Christensen observes that leading companies almost always succeed at sustaining innovations, even the hardest ones. They have the resources, the skills and the motivation to do so.
+
+**Disruptive innovations** bring to market a very different value proposition. At first, they generally perform worse than existing products on the usual criteria. But they have other qualities that some new or fringe customers value: they are often cheaper, simpler, smaller or more convenient. Christensen observes that leading companies very often fail in the face of these innovations.
+
+He insists that "disruptive" does not mean a revolutionary technology. A disruptive innovation can be technically simple. It is its effect on the market that is disruptive: it allows new entrants to serve customers the established companies neglect, then to move gradually up toward the heart of the market.
+
+He gives several historical examples. The small off-road motorcycles introduced to the United States by Japanese manufacturers were less powerful than the big American and European bikes, but they were cheap and easy to ride. Personal computers were far less powerful than minicomputers, but they were affordable for individuals. Discount retailing offered less service than department stores, but much lower prices.
+
+This distinction is essential, because the two types of innovation require very different strategies.
+
+- Sustaining innovation improves what the best customers already value.
+- Disruption is worse at first, but cheaper, simpler or more convenient.
+- Leaders almost always win at sustaining innovation and often lose to disruption.
+
+--- Performance oversupply
+kw: trajectories · surplus · new criteria
+Christensen offers a simple diagram for understanding the mechanism of disruption. He compares two trajectories over time.
+
+The first is the **trajectory of customer needs**: the level of performance that customers in a market can use or absorb. This trajectory rises slowly. Customers need a bit more performance each year, but not much.
+
+The second is the **trajectory of technological progress**: the level of performance companies are able to offer. This trajectory often rises much faster, because companies invest heavily to improve their products and outdo their competitors.
+
+The result is an important phenomenon: over time, products end up offering more performance than most customers need. Christensen calls this **performance oversupply**. Customers are no longer willing to pay more for improvements they don't use.
+
+That is when disruption becomes possible. A disruptive technology, starting from a lower level of performance, also improves. It eventually reaches a level sufficient to meet the needs of most customers. And because it is cheaper or more convenient, it becomes more attractive than the established technology.
+
+Christensen also describes how buying criteria evolve. Early in a market's life, customers choose mainly on functionality: does the product do what I need? When several products meet that need, customers choose on reliability. Then, when several products are reliable, they choose on convenience. Finally, when all products are functional, reliable and convenient, they choose on price. At each change of criterion, the companies that built their advantage on the previous criterion become vulnerable.
+
+This diagram helps explain why a leading company can lose customers even though its products are objectively the best. They are the best on a criterion that no longer counts.
+
+> Question clé | Do your best products offer more performance than most of your customers use? If so, on what criterion will the next competition be fought?
+
+--- Excavators and minimills
+kw: hydraulics · rebar · moving upmarket
+Christensen shows that his model applies well beyond computing, through two industrial examples.
+
+**Earthmoving equipment.** For decades, mechanical, cable-actuated shovels dominated the excavator market. Dozens of companies made these very powerful machines, used for major construction projects and mines. After the Second World War, a new technology appeared: hydraulics. The first hydraulic excavators were small and weak. They could not lift the loads required on large sites. The established manufacturers' customers didn't want them.
+
+But these small machines interested other customers: small contractors digging trenches for pipes or house foundations. For them, precision and manoeuvrability mattered more than power. The new manufacturers built their business in this market. Little by little, hydraulic technology improved until it could compete with cable machines on large sites. Only a small minority of cable shovel makers made the transition. Most disappeared.
+
+**Steel.** For a long time, steel was produced by large, very expensive integrated mills that processed iron ore. Minimills, which melted scrap in electric furnaces, first produced low-quality steel used for the least profitable market: reinforcing bar for concrete. The integrated mills were happy to abandon this low-margin market. Their overall margins even improved.
+
+The minimills then improved their quality and moved up into more profitable products: angle iron, beams, then sheet steel. At each stage, the integrated mills abandoned the least profitable segment and retreated upmarket. They ended up losing a large part of their business. The steelmaker Nucor, one of the minimill pioneers, became one of the largest steel producers in the United States.
+
+- Disruptions often begin in the least profitable segment.
+- Leaders willingly abandon that segment, which at first improves their margins.
+- Each retreat upmarket brings the disruption closer to the heart of the market.
+
+=== The disk drive story
+--- Why disk drives
+kw: rapid change · natural laboratory
+Christensen chose to study the disk drive industry for a methodological reason. He compares it to the fruit fly used by geneticists. Fruit flies reproduce very quickly, making it possible to observe many generations in a short time. In the same way, the disk drive industry went through extremely rapid technological change, many product generations and frequent turnover among the leading companies. In a few years, you could observe what takes decades in other industries.
+
+Disk drives store data in computers. Since their invention, their storage capacity has increased spectacularly and their price per unit of storage has fallen sharply. The industry has seen intense competition, with dozens of companies entering and leaving the market.
+
+Christensen built a highly detailed database of every disk drive model sold over several decades, with their technical specifications, prices and manufacturers. He was thus able to analyse each innovation and its effects on the market.
+
+He first tested a common explanation: that leading companies fail because they can't keep up with the pace of technological progress. He found that this was not the case. The leading companies led almost all of the industry's technological innovations, including the hardest ones, such as the move to new read-write head technologies or recording materials. They were often the pioneers.
+
+What made them fail was a small number of technically simple innovations that changed the architecture of the drives, making them smaller. These innovations used known components, but assembled differently. At first they performed worse than existing drives. And they targeted different customers.
+
+> À retenir | The disk drive leaders succeeded at the most technically difficult innovations. They failed at simple ones that targeted different customers.
+
+--- The generations of drives
+kw: 14, 8, 5.25 and 3.5 inches · new customers
+Christensen describes several generations of disk drives, each defined by the size of the disk, measured in inches.
+
+**14-inch drives** were used in companies' large mainframe computers. Their customers demanded above all a large storage capacity.
+
+**8-inch drives** appeared in the late 1970s. Their capacity was markedly lower than that of 14-inch drives, which made them useless for mainframes. But they were smaller, which interested a new market: minicomputers, smaller and cheaper than large systems. The 14-inch makers consulted their customers, who didn't want them. So they went on improving their 14-inch drives. Meanwhile, new entrants developed 8-inch drives for minicomputers. The capacity of these drives rose quickly until it met the needs of mainframes. Almost all the 14-inch makers disappeared.
+
+**5.25-inch drives** appeared in the early 1980s. They performed worse than 8-inch drives, but they suited the new personal computers. The 8-inch makers consulted their customers, the minicomputer makers, who didn't want them. History repeated itself.
+
+**3.5-inch drives** appeared in the mid-1980s, for portable computers. Christensen recounts that one of the 5.25-inch leaders had developed 3.5-inch prototypes in its labs. But when its salespeople showed them to their customers, the desktop computer makers, they weren't interested: they wanted more capacity, not smaller drives. The project was shelved. Frustrated engineers left the company to found a competitor, which took the lead in the 3.5-inch market.
+
+At each generation, the same pattern repeats: the new architecture performs worse, current customers don't want it, the leaders don't invest, new entrants grow in a new market, then move upmarket and overtake the leaders.
+
+- At each generation, current customers rejected the smaller product.
+- The leaders often had the prototypes in their labs.
+- The new entrants found new markets, then moved upmarket.
+
+--- What the story shows
+kw: listening to customers · trap · networks
+The disk drive story allows Christensen to draw several general conclusions.
+
+**Listening to your customers can be dangerous.** This is one of the most counterintuitive ideas in the book. Leaders are taught to listen to their customers. Christensen shows that the disk drive companies that failed listened very well to their customers. The problem is that their customers could not tell them what they would need in the future, still less what the customers of a market that did not yet exist would need. Christensen does not recommend ceasing to listen to customers, but understanding the limits of what they can tell you.
+
+**The leaders are not lazy.** They invested heavily in innovation, but in sustaining innovations requested by their customers. They were very good at it.
+
+**New entrants are not necessarily more technically innovative.** They did not have superior technology. They had simply agreed to serve a market the leaders neglected, with a product that performed worse but was suited to it.
+
+**Companies are prisoners of their value networks.** Christensen introduces here the notion of the **value network**: the set of customers, suppliers, partners and competitors within which a company operates. Each value network has its own performance criteria and its own cost structure. The 14-inch makers were part of the mainframe value network. Their criteria, costs and margins were suited to that network. To sell 8-inch drives to minicomputer makers, they had to enter another value network, with other criteria, other costs and lower margins.
+
+**The companies that made the transition were those that created a separate organization.** Christensen observes that the rare leading companies that survived a disruption did so by creating an independent unit charged with developing the new technology for the new market.
+
+> À retenir | Your current customers can't tell you about the needs of a market that doesn't exist yet. Listen to them, but know the limits of what they can say.
+
+=== Why leaders fail
+--- Customers and investors decide
+kw: resource allocation · margins
+Christensen's first principle states that companies depend on their customers and investors for resources. He draws on a management theory called resource dependence. According to this theory, it is not really the executives who decide a company's direction, but the outside actors who provide its resources: customers, who bring its revenue, and investors, who bring its capital.
+
+Christensen explains how this mechanism works day to day. In a company, investment decisions are made at every level, through thousands of small decisions: which project to fund, which product to develop, which customer to prioritize. These decisions follow implicit criteria that reflect customers' and investors' expectations. A project promising high margins with large customers will always be preferred over one promising low margins with unknown customers.
+
+These criteria are rational. A company that does not satisfy its customers loses them. A company that does not meet its investors' expectations sees its share price fall and may be taken over. But they have a consequence: it is very hard for a company to invest in projects its customers don't ask for, even when its leaders see the point.
+
+Christensen recounts that in several cases studied, the executives had recognized the importance of the new technology and decided to invest in it. But their decisions had no effect. The teams responsible for allocating resources always gave priority to projects requested by large customers. The disruptive projects lacked money, people and attention. They ended up abandoned.
+
+He concludes that leaders cannot simply impose a change of priorities. The forces of resource dependence are too powerful. They must create an organization whose customers and business model match the new technology.
+
+- Customers and investors really steer resource allocation.
+- The thousands of small decisions follow their expectations, not the leaders' intentions.
+- A top-management decision is not enough to counter these forces.
+
+--- Small markets, big appetites
+kw: growth · size · patience
+The second principle states that small markets don't meet the growth needs of large companies.
+
+Christensen explains this phenomenon with simple arithmetic. A company with revenues of 40 million aiming for 20% annual growth must find 8 million in additional revenue the following year. A company with 4 billion aiming for the same growth must find 800 million. A new market worth a few tens of millions is a major opportunity for the first, but a drop in the ocean for the second.
+
+Yet the markets created by disruptive innovations are almost always small at first. They are poorly defined, their customers are few and their margins are low. For a large company, they are not worth the trouble. Its executives prefer to wait until they are big enough to be interesting. But by then it is often too late: the new entrants have taken the lead.
+
+Christensen points out that most large companies have tried several strategies to solve this problem, without success. Some waited until the market became large, then tried to catch up. Others tried to make the market grow faster by investing heavily in it, which often led to costly failures because the market wasn't ready.
+
+The solution he recommends is to entrust the disruptive project to an organization small enough for a small market to be a significant opportunity for it. A small unit can get excited about small wins that the large organization would find insignificant. It can also be patient, because its growth needs are proportionate to its size.
+
+He adds an important point: the first years of a disruptive innovation are often disappointing. A small organization is better able to get through them, because its expectations match the reality of the market.
+
+> À retenir | A market of a few million can't interest a company of several billion. Give the disruption to a unit small enough for it to matter.
+
+--- The unknown can't be analysed
+kw: market research · forecasting errors
+The third principle states that markets that don't exist can't be analysed.
+
+Christensen explains that well-run companies make their decisions on the basis of rigorous analysis. Before investing, they study the size of the market, customers' needs, competition and expected profitability. These methods work well for sustaining innovations, because the market already exists and its customers can describe their needs.
+
+For disruptive innovations, these methods don't work. The market doesn't exist yet. Its customers don't know they need it. The technology's applications are not yet known. All forecasts are therefore highly uncertain, and often wrong.
+
+Christensen gives the example of forecasts made by experts when certain technologies first appeared. Forecasts of market size were almost always wrong, often by a large factor. No one could predict the uses that would develop.
+
+He points out that well-run companies demand evidence before investing. They want market studies, numbers and forecasts. When this information is not available, they don't invest. This behaviour is reasonable for sustaining innovations, but paralysing for disruptive ones. Companies that wait for reliable data arrive too late.
+
+Christensen therefore recommends a different approach, which he calls **discovery-driven planning**. Instead of trying to predict the market, the company acknowledges that it doesn't know, and organizes its action to learn as quickly and cheaply as possible. It runs trials, observes the results, adjusts. It keeps resources in reserve so it can change direction if the first attempt fails.
+
+He stresses that in the cases studied, the successful new entrants had not found the right market at the first attempt. They often started with an idea that didn't work, then changed approach. Their strength was being able to change quickly.
+
+- Classic analytical methods assume an existing market.
+- Forecasts for new markets are almost always wrong.
+- Plan to learn, not to execute.
+
+--- The pull upmarket
+kw: higher margins · cost structure
+Christensen describes a phenomenon that explains why established companies find it so hard to move down into less profitable markets: the **pull toward the upper end of the market**.
+
+He observes that companies are naturally drawn toward the most profitable segments of their market. When they have a choice between a project targeting high-end customers with high margins and one targeting entry-level customers with low margins, they almost always choose the first. It is logical: resources are limited, and it is rational to allocate them to the most profitable projects.
+
+This phenomenon is reinforced by **cost structure**. Over time, a company builds an organization suited to its customers: specialized sales teams, support services, quality processes, overheads. This structure has a cost that must be covered by sufficient margins. For a company with a high cost structure, a low-margin market is not profitable. It can't go there, even if it wanted to.
+
+New entrants, by contrast, have a light cost structure suited to low margins. They can be profitable in markets the established companies consider uninteresting. Then, as they move upmarket, they retain a cost advantage.
+
+Christensen notes that the pull upmarket is asymmetric. It is easy to move up into more profitable markets, but very hard to move down into less profitable ones. Established companies always have a good reason to leave entry-level segments to new entrants: these segments are not very profitable, and abandoning them even improves margins. But by repeatedly abandoning the lower segments, they end up confined to an ever narrower high-end segment.
+
+He gives the example of discount retailing versus traditional department stores, which retreated toward ever more upmarket products while the discounters gradually won most of the market.
+
+> Question clé | Which customer segments has your organization abandoned in recent years because they weren't profitable? Who serves them today?
+
+=== Capabilities and disabilities
+--- Resources, processes, values
+kw: three elements · what drives success
+Christensen proposes a framework for understanding what an organization is capable of doing and what it is not. He distinguishes three elements.
+
+**Resources.** These are the most visible elements: people, equipment, technologies, products, brands, cash, relationships with customers and suppliers. Resources are relatively flexible: they can be bought, sold and transferred from one business to another. When assessing an organization, people think first of its resources.
+
+**Processes.** These are the ways of working, the methods of coordination, communication and decision-making that turn resources into products and services. Some processes are formal and written, others are informal habits. Processes are designed to accomplish certain tasks efficiently and repeatedly. But this efficiency has a downside: a process designed for one task is rarely suited to another. A product development process designed for incremental improvements, with many approval stages, is ill-suited to a disruptive innovation that demands speed and experimentation.
+
+**Values.** These are the criteria people use to make decisions and set priorities. Christensen is not talking here only about ethical values, but about concrete criteria: how big an opportunity must be, what margins are acceptable, which customers matter. These values are often implicit, but they steer the thousands of daily decisions. In a large company, values naturally lead people to favour large, high-margin opportunities.
+
+Christensen points out that early in a company's life, its capabilities reside mainly in its resources, especially its people. Over time, they shift to its processes and values. That is why a large company can keep succeeding even when its founders leave: its processes and values have taken over. But it is also why it finds it hard to change.
+
+- Resources are flexible; processes and values much less so.
+- A process that is efficient for one task is rarely suited to another.
+- Values are the implicit criteria that steer decisions.
+
+--- When strengths become constraints
+kw: adapt · acquire · separate
+The framework of resources, processes and values allows Christensen to formulate the fourth principle: an organization's capabilities also define its disabilities.
+
+When a company faces a sustaining innovation, its resources, processes and values are perfectly suited. It knows exactly how to develop, make and sell a better-performing product for its current customers. It has the right people, the right processes and the right decision criteria.
+
+When it faces a disruptive innovation, the situation is different. Its resources may be suitable: it often has the necessary technology and skills. But its processes and values are not. Its processes are too heavy, too slow, too oriented toward current customers. Its values lead it to judge the project too small and not profitable enough.
+
+Christensen draws a practical conclusion. When an organization must face a change, leaders should first ask whether it has the necessary resources, processes and values. Depending on the answer, he proposes three options.
+
+- **Adapt the existing organization**, when the change fits its processes and values. This is the case for most sustaining innovations.
+- **Acquire another organization**, when that organization has the necessary processes and values. But Christensen warns: if you fold the acquired organization into the existing structure, you often destroy its processes and values, which were precisely what you wanted to acquire.
+- **Create a separate organization**, when the change requires different processes and values. This is the solution he recommends for disruptive innovations.
+
+He highlights a common mistake: leaders think it is enough to hand a disruptive project to capable people in the existing organization. But these people, however capable, work with the organization's processes and values. Those processes and values end up smothering the project.
+
+> À retenir | Before any change, ask: are our processes and decision criteria suited to it? If not, adapt, acquire or separate.
+
+=== Responding to disruption
+--- An autonomous organization
+kw: right size · right customers · independence
+Christensen's main recommendation is to entrust disruptive innovations to an autonomous organization. He observes that in the cases he studied, the rare leading companies that managed to survive a disruption did so this way.
+
+He sets out the conditions for such an organization to succeed.
+
+**It must be oriented toward the customers who need the innovation.** These customers, not those of the main organization, provide its resources. That way, the mechanism of resource dependence works for the innovation instead of against it.
+
+**It must be sized to the market.** It must be small enough for the opportunities in the new market to be significant to it, and for it to get excited about small wins.
+
+**It must have its own cost structure**, suited to the lower margins of the new market. It must not carry the main organization's overheads.
+
+**It must have its own processes and values**, suited to experimentation and learning. It must not be subject to the main organization's approval procedures.
+
+**It must be free to compete with the main organization.** This is one of the hardest conditions. If the disruptive innovation succeeds, it will eventually take customers from the main organization. Leaders must accept this: it is better to be competed against by your own subsidiary than by a new entrant.
+
+Christensen cites several examples of companies that applied this approach. A major computer maker created an independent unit, far from its headquarters, to develop its personal computer. A printer maker developed a cheaper printing technology in a separate division, which eventually became very large, even though it competed with its own high-end products.
+
+He stresses that autonomy is not total isolation. The autonomous organization can use some of the main organization's resources, such as technology or the brand. But it must be protected from its processes and values.
+
+- Its own customers, the right size, light costs, its own processes and criteria.
+- Accept that it will compete with the core business.
+- Share resources, but protect it from headquarters' processes and criteria.
+
+--- Planning to learn
+kw: assumptions · trials · agnostic marketing
+Christensen insists that disruptive innovations require a different approach to planning. Since the market can't be predicted, action must be organized to discover the market.
+
+He proposes several principles for this discovery-driven planning.
+
+**Acknowledge what you don't know.** The first step is to distinguish clearly between what you know and what you assume. Traditional plans often mix the two and present assumptions as certainties. A plan for learning explicitly lists the assumptions on which success depends.
+
+**Test assumptions as early as possible.** Rather than investing heavily from the start, begin with small-scale trials that check the main assumptions. For example, sell a first simple product to a few customers to see whether it meets a real need.
+
+**Preserve resources to change direction.** Christensen stresses that first assumptions are almost always wrong. A company that has spent all its resources on a first strategy cannot try another. So you must keep enough in reserve for a second or third attempt.
+
+**Practise agnostic marketing.** Christensen recommends assuming that no one, neither the company nor its customers, knows how the technology will be used. You have to observe how the first customers actually use it, rather than assuming they will use it as planned.
+
+He tells the story of a Japanese motorcycle maker that arrived in the United States in the late 1950s. The company wanted to sell big motorcycles to compete with the established brands. But its big bikes kept breaking down, because they weren't designed for long American distances. Meanwhile, the company's employees were using small motorcycles to get around town and ride off-road. Passers-by asked them where they could buy these small bikes. The company hesitated at first, fearing these small models would hurt its image. Then it decided to sell them, not through motorcycle dealers, but through sporting goods stores. This unexpected success became the foundation of its success in the United States.
+
+> À retenir | List your assumptions, test them early and on a small scale, keep resources for a second attempt, and watch how customers really use the product.
+
+--- And the core business?
+kw: cannibalization · two rhythms · trade-offs
+A question that often comes up when reading Christensen: what should the core business do while the autonomous organization develops the disruption? Abandon it, shrink it, protect it? The book offers several answers, supplemented by his later work.
+
+**Keep doing what you do well.** Christensen does not recommend abandoning the core business. It often remains profitable for many years, and it finances exploration. You must keep applying good management practice to it: listen to the best customers, improve products, optimize margins. The problem is not managing the core business well; it is believing that this management is enough.
+
+**Accept cannibalization.** If the disruption succeeds, it will take customers from the core business. Many leaders then hold back their own innovation to protect current revenue. Christensen argues that this is a mistake: if the company doesn't cannibalize its own business, a competitor will. Better to lose customers to your own subsidiary than to a new entrant.
+
+**Manage two rhythms.** The core business and the autonomous organization don't move at the same pace and aren't judged by the same criteria. One aims for profitability and reliability, the other for learning and growth. Leaders must accept this difference and avoid judging the new unit by the old one's indicators. This refereeing role generally falls to the CEO, who alone can protect the autonomous unit from internal pressures.
+
+**Choose the moment for integration.** When the new business becomes significant, the question of integrating it arises. Christensen warns against integrating too early, which risks imposing the old business's processes and values on the new one. In some cases, it is better for the new business to gradually become the core of the company, rather than being absorbed by the old one.
+
+**Prepare people.** Employees in the core business may experience the autonomous unit as a threat or an injustice. You need to explain the purpose of the approach and show that it protects the future of the whole company.
+
+> À retenir | Keep managing the core business well, but accept that the new unit will cannibalize it, and don't judge it by the same indicators.
+
+--- The electric car case
+kw: exercise · 1997 · criteria
+In an original chapter, Christensen applies his model to a question that was being asked when the book came out: could the electric car become a disruptive technology?
+
+In the late 1990s, electric cars were far behind petrol cars on the criteria that mattered to customers: range, speed, acceleration, price. The established carmakers invested in them mainly under regulatory pressure, especially in California, which required a certain percentage of zero-emission vehicles to be sold.
+
+Christensen shows that this approach was doomed. The carmakers were trying to sell electric cars to petrol car customers, comparing them on the usual criteria. On those criteria, the electric car was inferior, and it would take many years to catch up.
+
+He proposes a different approach, in line with his model: look for a market where the electric car's shortcomings don't matter and its qualities are valued. For example, customers who need small vehicles for short trips: students, older people, urban travel, delivery vehicles. In these markets, a short range is not a problem, and simplicity, low maintenance costs and zero pollution are advantages.
+
+He also recommends that such a project be entrusted to an autonomous organization with a light cost structure, suitable distribution channels and success criteria different from those of the core business.
+
+This chapter is interesting to reread today. The market actually evolved differently from what Christensen imagined: electric cars first took off at the top, with a new manufacturer that started with a high-end sports car. This path does not exactly match the model of disruption from below. But the exercise remains an excellent example of how an analytical framework can be applied to a real question.
+
+- Don't sell a disruptive technology to current customers on their current criteria.
+- Look for a market where its weaknesses don't matter and its strengths do.
+- Reality can follow a different path from the model.
+
+--- Innovations that come from below
+kw: low end · new markets · signals
+In his later work, notably *The Innovator's Solution*, Christensen refined his theory by distinguishing two types of disruptive innovation.
+
+**Low-end disruptions** target the least demanding customers in an existing market. These customers are overserved: current products offer more performance than they need, at too high a price. A simpler, cheaper offering suits them perfectly. Minimills and discount retailing are examples. These disruptions often rely on a low-cost business model.
+
+**New-market disruptions** target people who were not consuming the product at all, because it was too expensive, too complicated or inaccessible. A simpler, more accessible offering lets them become customers. The personal computer and the small Japanese motorcycles are examples. These disruptions compete first against non-consumption, not against existing products.
+
+Christensen proposes questions for spotting a potential disruption:
+
+- **Are there overserved customers** paying for performance they don't use?
+- **Are there non-consumers** who would like to use the product but lack access to it?
+- **Does a new approach make it possible to serve these customers** profitably, at lower prices?
+- **Can this approach improve** enough to gradually satisfy more demanding customers?
+- **Do established companies have an incentive to ignore** or abandon these customers?
+
+If the answers are yes, a disruption is probably under way or possible. Christensen stresses that these questions can be used both ways: by an established company that wants to protect itself, and by a new entrant looking for an opportunity.
+
+He also specified that an innovation that starts at the top of the market, with a better-performing and more expensive product, is generally not a disruption in his sense, even if it transforms an industry. It is often a sustaining innovation that established companies have the means to fight.
+
+> Exercice | Answer the five questions for your industry. Identify your overserved customers and the non-consumers no one is serving.
+
+=== Putting it into practice
+--- Vulnerability check
+kw: questions · weak signals · team
+Christensen writes for the leaders of large companies, but his ideas apply to any organization, including a department or a team. Here is a diagnostic approach.
+
+**Step 1: your customers and their criteria.** List your main customers or beneficiaries, internal or external. For each, identify the criteria on which they choose you: performance, reliability, convenience, price. Ask whether your products or services exceed their needs on some criteria.
+
+**Step 2: neglected segments.** Identify the customers you have abandoned or never served, because they were not very profitable, too small or too demanding for too little value. Who serves them today? How?
+
+**Step 3: simple alternatives.** Spot the simpler or cheaper solutions appearing in your field, even if they seem poor quality to you. Christensen points out that the reaction "that's not serious" is often a warning sign.
+
+**Step 4: your processes and values.** Ask whether your organization would be capable of developing a simpler, cheaper offering. Would your approval processes, profitability criteria and cost structure allow it?
+
+**Step 5: the options.** Depending on the answers, decide to monitor the situation, experiment on a small scale or create an autonomous team.
+
+This approach also applies to internal services. For example, a corporate IT department can be challenged by simple tools that teams adopt directly. A training department can be challenged by free online content. A consultancy can be challenged by automated tools that do part of the work at lower cost.
+
+- Do your offerings exceed your customers' needs?
+- "That's not serious" is often a warning sign.
+- Would your processes and criteria allow a simpler offering?
+
+--- 30-day action plan
+kw: observe · test · protect
+**Week 1: understand your criteria.** Interview five customers or users, including minor customers or former customers. Ask them what they really use in your offering, what seems superfluous to them and what they would like at lower cost. Note the gaps between what you offer and what they need.
+
+**Week 2: spot disruptions.** List the new solutions that have appeared in your field over the past three years, especially those that are simpler or cheaper. For each, ask the five disruption questions. Identify the most threatening.
+
+**Week 3: test an assumption.** Choose an idea for a simpler, more accessible or cheaper offering for a neglected segment. List the assumptions on which its success depends. Design a small-scale, low-cost test to check the most important one. For example, offer it to ten customers and watch how they react.
+
+**Week 4: protect the experiment.** If the test is promising, think about how to develop it without having it smothered by your usual processes. Who could lead it? With what success criteria, different from those of the core business? With what budget, not in direct competition with your priority projects?
+
+Christensen insists on patience. Disruptive innovations often take years to become significant. The aim of this first month is not to find the next big innovation, but to learn to see the signals and to experiment.
+
+> À retenir | Listen to the customers you neglect too, test small and fast, and protect the experiment from your usual criteria.
+
+--- Case study: the accounting firm
+kw: online tools · small clients · spin-off
+A regional accounting firm of eighty people serves mainly small and medium-sized businesses with twenty to two hundred employees. It is known for the quality of its advice and its margins are good. In recent years, automated online accounting solutions have been spreading. They are simple, cheap and aimed at very small businesses and the self-employed.
+
+**The initial reaction.** The partners aren't worried. These tools are limited, don't suit their clients and don't replace real advice. Very small businesses have never been profitable for the firm, which stopped prospecting them.
+
+**The diagnosis.** A young partner, Léa, applies Christensen's framework. She finds that the online tools serve a market the firm neglects, that they are more convenient and cheaper, and that they are improving fast. Some of the firm's SME clients are starting to use them for day-to-day bookkeeping and now call on the firm only for the annual accounts. The firm also offers very comprehensive services, of which some clients use only a fraction.
+
+**The resistance.** When Léa proposes developing a simplified offering, the partners object that margins would be low, that it would harm the firm's image and that the teams are already overloaded. These objections correspond exactly to the forces Christensen describes.
+
+**The autonomous organization.** Léa gets permission to create a small separate entity, with two people, a different brand and its own success criteria. She offers a low-cost subscription combining an online tool with minimal support, for the self-employed and very small businesses.
+
+**Learning.** The first offering doesn't work: clients find the tool too complex. Léa switches tools and simplifies the offering. The second version finds its audience.
+
+**What happens next.** Three years later, the small entity has three hundred clients and is starting to attract small SMEs that used to be clients of the main firm.
+
+> Question de réflexion | Which customers has your organization decided to stop serving because they weren't profitable? Who could serve them differently?
+
+=== Critical view and links
+--- Limits of the book
+kw: chosen cases · forecasts · overused word
+*The Innovator's Dilemma* is one of the most influential strategy books of recent decades, but it has been the subject of significant criticism.
+
+**Chosen cases.** In 2014, the historian Jill Lepore published a very critical article in a major American magazine. She accused Christensen of choosing examples that confirmed his theory and ignoring others. She also pointed out that several companies presented as victims of disruption had in fact survived, or that their decline had other causes. Christensen responded vigorously to these criticisms, but they reopened the debate on the validity of the theory.
+
+**A theory that explains the past better than the future.** Researchers examined dozens of cases presented as disruptions and found that few matched all the elements of the theory. Christensen himself made predictions that turned out to be wrong. Notably, in 2007 he predicted that a major manufacturer's smartphone would not succeed, because in his view it was a sustaining innovation that established manufacturers would be able to counter.
+
+**An overused word.** The term "disruption" is now used to describe any important innovation. Christensen himself regretted this usage. He specified, for example, that some platform companies often presented as disruptive did not fit his definition, because they started neither from the low end nor from a new market.
+
+**A view centred on technology and products.** The theory gives little room to other factors in success or failure: regulation, network effects, financial resources, quality of management. A company can decline for many reasons other than disruption.
+
+**The risk of an excuse.** The theory can be used to justify questionable choices, for example to present a drop in quality as a disruption strategy, or to disparage established companies.
+
+- Use the theory as an analytical lens, not as a law.
+- Not every important innovation is a disruption in Christensen's sense.
+
+--- Links with other books
+kw: Collins · Kim · Grove · Kahneman
+**With Good to Great (Collins).** The two books can seem opposed. Collins recommends focusing on your Hedgehog Concept and avoiding dispersion. Christensen shows that focusing on your best customers can lead you to miss disruptions. They can be reconciled: keep strong discipline in the core business, while entrusting exploration to a separate organization.
+
+**With Blue Ocean Strategy (Kim and Mauborgne).** Both books are interested in creating new markets and paying attention to non-customers. Christensen explains why established companies find this hard; Kim and Mauborgne offer tools for designing a new offering. Christensen's new-market disruptions look a lot like blue oceans.
+
+**With High Output Management (Grove).** Andy Grove was one of the first executives to apply Christensen's theory. After meeting the author, he backed Intel's launch of a range of low-cost processors, to prevent competitors from taking the low end of the market. Grove also describes hybrid organizations and dual reporting, useful for organizing an autonomous unit.
+
+**With Thinking, Fast and Slow (Kahneman).** Loss aversion and the endowment effect partly explain why leaders find it so hard to abandon profitable businesses. Hindsight bias also invites caution about the cases Christensen presents, reconstructed after the fact.
+
+**With Management: Tasks, Responsibilities, Practices (Drucker).** Drucker argued that the two essential functions of a business are marketing and innovation. He also recommended organizing innovation separately from ongoing operations. Christensen provides a detailed explanation of this recommendation.
+
+> Parcours conseillé | Next, read Blue Ocean Strategy to move from diagnosing disruption to designing a new offering.
