@@ -1,0 +1,272 @@
+=== Context and thesis
+--- The expertise researcher
+kw: psychologist · experts · decades
+Anders Ericsson was a Swedish psychologist and professor at Florida State University. For more than thirty years, he studied experts in many fields: musicians, chess players, athletes, doctors, taxi drivers, memory champions. He wanted to understand what sets the best apart from the rest.
+
+His work was widely popularized, and sometimes distorted, notably through the famous "ten-thousand-hour rule" made popular by a journalist. With science writer Robert Pool, Ericsson wrote *Peak*, published in 2016, to present his conclusions directly and correct the misunderstandings.
+
+The book's thesis is that excellence doesn't come mainly from **innate talent**, but from a particular kind of training that Ericsson calls **deliberate practice**. This practice transforms the brain and body, and builds abilities once thought to be reserved for the gifted.
+
+Ericsson doesn't deny any influence of genetics. He acknowledges that certain physical characteristics, such as height for a basketball player, play a role. But he argues that in most fields, the differences between the best and the rest are explained above all by the quantity and quality of their training.
+
+The book is aimed at anyone who wants to improve in a field, as well as at parents, teachers and managers who want to help others improve.
+
+> À retenir | Excellence comes less from a gift than from a particular kind of training: deliberate practice.
+
+--- Perfect pitch and digits
+kw: Mozart · training · new abilities
+Ericsson opens with two examples that challenge the idea of innate talent.
+
+**Perfect pitch.** This is the ability to identify the exact pitch of a note without a reference. It was long considered a rare gift possessed by some great musicians, such as Mozart. Ericsson reports research, notably a Japanese study, in which young children trained regularly with an appropriate method almost all developed this ability. Perfect pitch would thus be less a gift than an ability developed through early training. Ericsson also recalls that Mozart had been intensively trained by his father from a very young age.
+
+**Memory for digits.** In the late 1970s, Ericsson conducted an experiment with a student. Most people can remember about seven digits heard in sequence. At the start of the experiment, the student could remember no more. For nearly two years, he trained several times a week. He ended up remembering more than eighty digits. He had developed techniques for grouping the digits, for example by associating them with running times, which he knew well as a runner.
+
+Ericsson draws a central idea from these examples: training doesn't just improve an existing ability. It can **create new abilities** by changing the way the brain processes information.
+
+- Perfect pitch can be trained in young children.
+- Memory for digits can be multiplied by training.
+- Training creates new abilities.
+
+--- The brain adapts
+kw: plasticity · London taxis · homeostasis
+Ericsson explains why training can produce such effects: the body and brain **adapt** to the demands placed on them.
+
+He first takes the example of the body. When you exercise at a level slightly beyond your capacity, the body responds by developing new muscle, new blood vessels and greater lung capacity. It seeks to restore equilibrium at a higher level. But if exercise stays within the comfort zone, the body has no reason to adapt, and progress stops.
+
+The brain works in a comparable way. Ericsson cites a famous study of **London taxi drivers**. To get their license, they must memorize the city's complex layout, which takes several years of training. Researchers observed through brain imaging that the region of the brain linked to spatial memory, the hippocampus, was more developed in these drivers than in comparable people. And this development appeared during their training.
+
+Ericsson also cites studies of musicians, in whom the brain regions linked to finger control are more developed, especially when they started young.
+
+He concludes that the adult brain remains capable of transforming itself in response to demanding training. But this transformation requires regularly stepping out of your comfort zone.
+
+> À retenir | The body and brain adapt to what is asked of them, provided they are pushed a little beyond their comfort.
+
+=== Deliberate practice
+--- Naive practice, purposeful practice
+kw: repetition · goals · stagnation
+Ericsson distinguishes several forms of practice.
+
+**Naive practice** consists simply of repeating an activity, hoping repetition will be enough to improve. That is what most people do. An amateur tennis player who plays every week with friends, a driver who drives every day, an employee who does their job every day. At first they improve. Then, once they reach an acceptable level, their performance plateaus. They can carry on for years without improving further. Ericsson even cites studies suggesting that some experienced doctors get worse results than younger ones, because their knowledge is no longer up to date.
+
+**Purposeful practice** is more effective. It has several characteristics:
+
+- **Specific, well-defined goals**, rather than a general intention to improve.
+- **Full concentration** during training.
+- **Feedback** on performance, to know what works and what doesn't.
+- **Getting out of the comfort zone**: practicing what you can't yet do.
+
+Ericsson illustrates this with the student who developed his memory for digits. He set specific goals, concentrated in every session, received immediate feedback and constantly sought new techniques when he hit a plateau.
+
+> Question clé | In your job, do you practice naively, by repetition, or purposefully, with goals, concentration and feedback?
+
+--- What makes practice deliberate
+kw: methods · teacher · representations
+**Deliberate practice** is the most effective form of training. It shares the characteristics of purposeful practice and adds others.
+
+**It relies on a well-developed field.** Deliberate practice is possible in fields with proven training methods, objective performance criteria and a long teaching tradition: classical music, chess, many sports, dance, mathematics.
+
+**It is guided by a teacher or coach.** An experienced teacher knows the stages of progression, knows how to design suitable exercises and spots errors the learner doesn't see.
+
+**It targets specific aspects of performance.** Rather than practicing the activity as a whole, you work on particular elements, often the weakest.
+
+**It produces and relies on mental representations.** According to Ericsson, this is the most important element.
+
+**It builds on skills already acquired.** Each stage builds on the previous ones.
+
+**It is demanding and often not enjoyable.** Ericsson stresses that deliberate practice is not a game. It requires intense, sustained effort. The top musicians Ericsson studied didn't find their practice sessions particularly pleasant, but they considered them necessary.
+
+Ericsson specifies that in less structured fields, such as many occupations, deliberate practice in the strict sense isn't always possible. But you can get close by applying its principles.
+
+- A field with proven methods.
+- A teacher who guides.
+- Intense, often unpleasant effort.
+
+--- The ten-thousand-hour myth
+kw: average figure · quality · not magic
+Ericsson devotes a passage to correcting an idea that has circulated widely: the "**ten-thousand-hour rule**."
+
+He recounts the origin of the figure. In a study conducted in the early 1990s on violinists at a music academy in Berlin, Ericsson and his colleagues had observed that the best students had accumulated, by around age twenty, about ten thousand hours of solitary practice, clearly more than the less accomplished students. A journalist took up this figure in a bestselling book, claiming that ten thousand hours of practice were needed to become an expert in any field.
+
+Ericsson explains that this claim distorts his work on several points.
+
+**The figure has nothing magic about it.** Ten thousand hours was an average, and some violinists had far fewer. In other fields, the number of hours needed can be very different.
+
+**The violinists were not yet masters.** At twenty, they were very good, but not yet at the top of their discipline.
+
+**Not all hours are equal.** What counts is not the number of hours but the quality of practice. Thousands of hours of naive practice don't produce an expert.
+
+**There is no threshold.** You don't suddenly become an expert after a certain number of hours. Progress is continuous.
+
+Ericsson acknowledges, however, that the general idea is right: excellence requires a great deal of time and effort, far more than most people imagine.
+
+> À retenir | Ten thousand hours is not a rule. What counts is the quality of practice, not the number of hours.
+
+=== Mental representations
+--- What experts see
+kw: chess · patterns · organizing information
+Ericsson considers **mental representations** the key to expertise.
+
+A mental representation is a structure in the brain that corresponds to an object, idea, situation or procedure. When you think of the face of someone you know, you use a mental representation. Experts have far richer and more precise representations in their field than beginners.
+
+Ericsson takes the example of **chess players**. Classic experiments showed that grandmasters can memorize a real chess position almost perfectly after seeing it for a few seconds, whereas beginners retain only a few pieces. But when the pieces are placed randomly, in a position that could never arise in a real game, grandmasters do little better than beginners.
+
+This shows that grandmasters don't have better memories in general. They have mental representations that let them recognize familiar **patterns** in real positions. They see a group of pieces as a single meaningful configuration, where the beginner sees isolated pieces.
+
+These representations let experts process a great deal of information quickly, spot what matters, anticipate what will happen and quickly choose a good move. They are built over thousands of hours of deliberate practice.
+
+- Experts see patterns where beginners see details.
+- Their advantage disappears in random situations.
+- Representations are built through deliberate practice.
+
+--- Representations and performance
+kw: anticipating · planning · self-correcting
+Ericsson explains how mental representations improve performance in different fields.
+
+**They let you anticipate.** An experienced tennis player guesses the direction of the ball by watching the opponent's body position before the opponent even hits it. Their representations let them read signals the beginner doesn't see.
+
+**They let you plan.** An experienced climber visualizes the route before starting the ascent. An experienced writer has a representation of the structure of a text before writing it.
+
+**They let you self-correct.** An experienced musician has a clear representation of what a piece should sound like. They hear immediately when their performance departs from it and can correct it without needing a teacher. That is why experts can keep improving on their own.
+
+**They let you understand information.** An experienced doctor reading a file immediately sees the important elements and connects them.
+
+Ericsson stresses a virtuous circle: deliberate practice builds better representations, which allow more effective practice, which builds even better representations.
+
+He draws a consequence for learning. The goal of training is not just to repeat movements but to build mental representations. So you must train yourself to understand what you are doing, analyze your mistakes and compare your performance with that of the best.
+
+> Exercice | In your field, choose an example of excellent work. Analyze it to understand what makes it excellent, then try to reproduce it without looking at it.
+
+=== Training at work and alone
+--- Deliberate practice at work
+kw: doctors · pilots · real training
+Ericsson devotes a chapter to applying deliberate practice in the professional world. He observes that most professionals don't train. They do their job and assume experience is enough to improve. But experience alone often produces stagnation.
+
+He presents several examples of organizations that introduced forms of deliberate practice.
+
+**Fighter pilots.** During the Vietnam War, the US Navy created a training school where its pilots faced very experienced instructors in simulated combat, the instructors imitating enemy tactics. After each exercise, a detailed debrief helped pilots understand their mistakes. According to Ericsson, results in real combat improved markedly for pilots trained this way.
+
+**Doctors.** Ericsson mentions simulation training programs in which doctors practice procedures on mannequins or simulated cases, with immediate feedback. He also cites radiologists who improve their reading of mammograms by training on cases whose diagnosis is known.
+
+He proposes an approach for organizations: identify the best professionals, understand what sets them apart, and design exercises that develop those skills, with frequent feedback.
+
+He also stresses the importance of **measuring actual performance**, rather than years of experience or qualifications, which say little about competence.
+
+- Experience alone doesn't lead to improvement.
+- Simulate, train, debrief after each exercise.
+- Measure actual performance, not years.
+
+--- Improving on your own
+kw: model · plateau · motivation
+Ericsson acknowledges that not everyone has access to a teacher. He offers advice for practicing deliberately on your own.
+
+**Find a model.** Identify people who excel in the field and study precisely what they do. Ericsson recalls the example of Benjamin Franklin, who improved his writing by analyzing articles he admired and trying to reconstruct them.
+
+**Set specific goals.** Rather than "get better," choose one component to improve and a criterion for success.
+
+**Get feedback.** Record your performance to analyze it, compare your work with that of the best, and ask competent people for their opinion.
+
+**Overcome plateaus.** Everyone hits periods when progress stops. Ericsson recommends identifying precisely what is blocking you by changing the conditions of practice, for example by going faster or changing method to bring the errors to light.
+
+**Sustain motivation.** Deliberate practice is demanding, and motivation often flags. Ericsson suggests several ways to maintain it: set aside regular, protected times to practice, limit session length to keep concentration high, surround yourself with people who share the same goal, and celebrate progress. He stresses that the experts he studied didn't rely on willpower alone, but on habits and an environment that supported their practice.
+
+> À retenir | Without a teacher: a model, specific goals, feedback, and an environment that supports the effort.
+
+=== Talent and the path to expertise
+--- The road to excellence
+kw: stages · childhood · commitment
+Ericsson describes the typical stages in the paths of the experts he studied.
+
+**Discovery.** Future experts usually discover their field in childhood, in a playful way. Their parents encourage them, praise them and give them opportunities to practice.
+
+**Commitment.** Toward the end of childhood or early adolescence, they begin training more seriously, often with a teacher. Practice becomes more regular and more demanding. Parents play an essential role in supporting this commitment.
+
+**Full investment.** In adolescence or early adulthood, some decide to devote their lives to the field. They train several hours a day with the best teachers available.
+
+**Innovation.** The greatest experts eventually go beyond what their teachers can teach them. They develop new techniques and approaches and move their field forward.
+
+Ericsson stresses that this path isn't reserved for children. Adults can also improve considerably, even if they generally won't be able to reach the highest level in very physical or very competitive fields where the best started very early.
+
+He cites examples of adults who developed remarkable skills in music, sport or other fields after starting late.
+
+- Playful discovery, commitment, investment, innovation.
+- The role of parents and teachers is decisive.
+- Adults can also improve a great deal.
+
+--- What about talent?
+kw: genetics · prodigies · consequences
+Ericsson addresses the question of **innate talent** head-on. He examines several cases often presented as proof of talent and offers another explanation.
+
+He returns to Mozart, often cited as the example of innate genius. Ericsson recalls that from early childhood he received intensive training from his father, himself a musician and teacher. His first compositions were probably heavily corrected by his father. His major works date from a time when he had already accumulated many years of practice.
+
+He also discusses people presented as prodigies, showing that their paths almost always reveal intensive early training.
+
+Ericsson acknowledges that genetics plays a role in some fields, especially physical ones. Height, build and certain physical abilities influence performance. He also concedes that individual differences can affect how easily one progresses at first. But he argues that these differences matter much less than practice, especially at high levels.
+
+Finally, he highlights a danger of believing in talent: it can become a **self-fulfilling prophecy**. If a child is judged not very gifted, they aren't encouraged, they practice less and they improve less, which seems to confirm the initial judgment. Conversely, a child judged gifted receives more attention and opportunities.
+
+> Question clé | Have you ever given up an activity because you thought you weren't "gifted"?
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · one skill
+**Week 1: choose and observe.** Choose a skill you want to improve. Identify someone who excels in this field. Analyze precisely what they do better than you. Measure your current level.
+
+**Week 2: target.** Choose a specific aspect to work on. Design an exercise that forces you slightly out of your comfort zone. Practice every day, with full concentration, in short sessions.
+
+**Week 3: get feedback.** Record your performance, compare it with your model, or ask a competent person for an opinion. Adjust your exercises according to the errors you find.
+
+**Week 4: build representations.** Try to reproduce an example of excellent work without looking at it, then compare. Note what you now understand that you didn't at the start. Measure your level again.
+
+Ericsson reminds us that significant progress takes months or years. This first month is mainly for establishing a method of practice.
+
+> À retenir | A model, a targeted aspect, an uncomfortable exercise, feedback, representations that grow sharper.
+
+--- Case study: the salesperson
+kw: meetings · recording · progress
+Thomas has been a salesperson at a software company for five years. His results are decent but flat, while some colleagues improve every year. He thinks they are simply more gifted.
+
+**Observe.** He asks to accompany the team's best salesperson on several client meetings. He notices that she asks far more questions than he does before presenting the product, and that she often restates the client's needs.
+
+**Target.** He decides to work specifically on the needs-discovery phase. For each meeting he prepares a set of questions and sets himself the goal of not presenting the product before asking at least ten questions.
+
+**Leave the comfort zone.** At first he is uncomfortable: he feels he is wasting time.
+
+**Feedback.** With clients' consent, he records some calls. Each week he listens to them with his colleague, who points out what he could have done differently.
+
+**Representations.** After a few months, he quickly recognizes the different client profiles and their typical concerns.
+
+A year later, his conversion rate has risen markedly.
+
+> Question de réflexion | In your job, whom could you observe, and what specific aspect could you train?
+
+=== Critical view and connections
+--- Limits of the book
+kw: genetics · debates · ill-defined fields
+*Peak* is an important synthesis, but its theses have sparked debate.
+
+**The role of genetics.** Several researchers believe Ericsson underestimates the influence of innate individual differences. Studies have shown that the amount of practice explains a significant share, but not all, of differences in performance, and that this share varies across fields.
+
+**Poorly structured fields.** Deliberate practice in the strict sense assumes a field where training methods are established and performance measurable. In many occupations, especially those that require creativity or judgment in uncertain situations, it is harder to apply.
+
+**The cost of excellence.** The book describes paths requiring thousands of hours of intense effort, often from childhood. It says little about the costs of these paths: pressure, burnout, giving up other activities.
+
+**Motivation.** The book explains how to train, but the question of why some people can sustain such commitment remains partly open.
+
+**Selected examples.** The success stories presented are striking, but we know less about people who practiced a great deal without reaching excellence.
+
+- Practice matters enormously, but not on its own.
+- Harder to apply in poorly structured fields.
+
+--- Connections with other books
+kw: Dweck · Young · Newport · Csikszentmihalyi
+**With Mindset (Dweck).** Both books challenge the idea of fixed talent and emphasize effort and learning.
+
+**With Ultralearning (Young).** Young's drill and feedback principles apply deliberate practice to self-directed learning projects.
+
+**With Deep Work (Newport).** Deliberate practice requires intense concentration, which corresponds to deep work.
+
+**With Flow (Csikszentmihalyi).** Flow occurs when the challenge slightly exceeds one's skills, which is also the zone of deliberate practice.
+
+**With How We Learn (Dehaene).** Ericsson's mental representations correspond to the internal models the brain builds, according to Dehaene.
+
+> Parcours conseillé | Read Mindset next for your relationship to effort, then Ultralearning to organize your own project.
