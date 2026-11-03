@@ -1,4 +1,4 @@
-const VERSION = "bm-6dd05855e2";
+const VERSION = "bm-bbe0c782eb";
 const CORE = ["./", "index.html", "en/index.html", "ar/index.html", "vendor/supabase.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(VERSION).then(c => c.addAll(CORE)).then(() => self.skipWaiting())); });
 self.addEventListener("activate", e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== VERSION).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
