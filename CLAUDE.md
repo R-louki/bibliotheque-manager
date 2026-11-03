@@ -36,8 +36,8 @@ Test local : `cd bibliotheque-manager && python3 -m http.server 8765`.
 Fait : étapes 1–3 (appli, apprentissage, communauté), étape 4 (EN/AR de l'interface, des métadonnées, cartes et quiz ; connexion Google en ligne).
 
 **En cours — traduction intégrale des fiches (demande : « la traduction en anglais, arabe concerne aussi les livres, tout »)**
-- Faits (EN + AR) — 14/40 : womack-lean, liker, goldratt, ohno, rother-shook, rother-kata, drucker-eff, grove, scott, lencioni, collins, sinek, covey, goldsmith.
-- Reste à faire — 26 : kahneman, christensen, ocean, drucker-mgmt, zhuo, marquet, doerr, horowitz, mcchrystal, carnegie, patterson, voss, cialdini, newport, clear, dehaene, brown, young, ericsson, dweck, harari, frankl, lebon, taleb, csikszentmihalyi, morel.
+- Faits (EN + AR) — 15/40 : womack-lean, liker, goldratt, ohno, rother-shook, rother-kata, drucker-eff, grove, scott, lencioni, collins, sinek, covey, goldsmith, kahneman.
+- Reste à faire — 25 : christensen, ocean, drucker-mgmt, zhuo, marquet, doerr, horowitz, mcchrystal, carnegie, patterson, voss, cialdini, newport, clear, dehaene, brown, young, ericsson, dweck, harari, frankl, lebon, taleb, csikszentmihalyi, morel.
 - Méthode : lire `books/<id>.txt`, écrire `i18n/en/full/<id>.txt` puis `i18n/ar/full/<id>.txt`, lancer `build.py`, publier (un commit par livre : « Texte complet traduit (EN, AR) : <titre original> »).
 - Conventions : en anglais, citer les autres livres par leur titre original anglais ; en arabe, titre traduit entre guillemets « » (et titre original en italique la première fois) ; noms propres translittérés de façon cohérente (دراكر، غروف، لنسيوني، كولينز، كانمان…).
 
