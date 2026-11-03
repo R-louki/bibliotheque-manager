@@ -1,0 +1,308 @@
+=== Context and thesis
+--- A computer scientist without social media
+kw: professor · concentration · 2016
+Cal Newport is a professor of computer science at Georgetown University in Washington. He has long been interested in how people work in a world saturated with digital technology. He is unusual in never having had an account on the major social networks, which has not prevented his career as a researcher and author from flourishing.
+
+*Deep Work*, published in 2016, starts from an observation. Knowledge workers, managers, engineers, researchers and consultants, spend much of their day answering emails, attending meetings, and checking instant messaging and social media. Their attention is constantly fragmented. They rarely get the chance to concentrate for long on a difficult task.
+
+Newport argues that this fragmentation has an enormous, often invisible cost. The most important tasks, those that require thinking, creating and learning hard things, demand sustained concentration. They get postponed or done in poor conditions.
+
+The book has two parts. The first explains why deep work is valuable, rare and a source of satisfaction. The second proposes four rules for building it into your working life.
+
+Newport writes for a broad audience of knowledge workers. He illustrates his argument with examples of writers, scientists, executives and craftspeople.
+
+> À retenir | The work that matters most requires sustained concentration, which the modern workday makes increasingly rare.
+
+--- Deep work and shallow work
+kw: definitions · value · replicable
+Newport distinguishes two types of work.
+
+**Deep work** refers to professional activities performed in a state of distraction-free concentration that push our cognitive capabilities to their limit. These activities create value, improve our skills and are hard to replicate. Examples: writing an important report, solving a complex technical problem, designing a strategy, learning a difficult new skill.
+
+**Shallow work** refers to logistical, cognitively undemanding tasks, often performed while distracted. They create little value and are easy to replicate. Examples: answering routine emails, organizing meetings, filling in forms, browsing the internet for work.
+
+Newport doesn't claim that shallow work is useless. Many of these tasks are necessary for an organization to function. But he observes that they tend to take over the whole schedule. They are easier, more immediately rewarding, and give the impression of being busy.
+
+He proposes a simple test to tell the two apart: how long would it take to train a smart recent college graduate with no particular experience to do this task? If a few weeks would be enough, it is probably shallow work. If it would take years of training, it is deep work.
+
+- Deep: full concentration, high value, hard to replicate.
+- Shallow: logistical, low value, easy to replicate.
+- Shallow work naturally takes over the schedule.
+
+--- The book's hypothesis
+kw: rare · valuable · advantage
+Newport states a hypothesis that structures the entire book: deep work is becoming increasingly **valuable** in today's economy at the same time as it is becoming increasingly **rare**. Those who cultivate it and make it the core of their working life will thrive.
+
+Why is it valuable? Newport draws on economists' work showing that technology is transforming the labor market. Routine tasks are automated. The people who succeed are those who can work with complex machines, those who are the best at what they do, and those who have capital. The first two categories require difficult skills, acquired through deep work.
+
+He identifies two essential abilities. First, the ability to **quickly master hard things**, because technologies and jobs keep changing. Second, the ability to **produce at an elite level**, in both quality and speed. Both depend on concentration.
+
+Why is it rare? Because the modern work environment discourages it: open offices, instant messaging, a culture of responsiveness, social media. Newport observes that many companies value constant availability more than the quality of work.
+
+He concludes that deep work is a competitive advantage. Since few people practice it, those who master it stand out.
+
+> À retenir | The rarer deep work becomes, the more valuable it is. Cultivating it is an advantage.
+
+=== Why depth matters
+--- Quality = time × intensity
+kw: intensity · attention residue · multitasking
+Newport proposes a formula for producing high-quality work: the quality of work produced equals **time spent** multiplied by **intensity of focus**.
+
+This formula has an important consequence. If you increase intensity, you can produce as much in less time. One hour of full concentration can be worth several hours of distracted work.
+
+Newport explains why concentration matters so much, drawing on researcher Sophie Leroy's work on **attention residue**. When you switch from task A to task B, part of your attention stays stuck on task A. You keep thinking about it, at least a little, which reduces performance on task B. This residue is particularly strong when task A is unfinished.
+
+This means that **multitasking** is costly, even when it takes the form of brief interruptions. Glancing at your email every ten minutes, even for a few seconds, leaves an attention residue that prevents full concentration. The person who works this way feels efficient but is permanently working with diminished attention.
+
+Newport cites great authors and scientists who organized their work in long, uninterrupted stretches and produced a considerable body of work.
+
+- Quality depends on time and intensity.
+- Every task switch leaves attention residue.
+- Small interruptions cost more than we think.
+
+--- Why it is rare at work
+kw: open space · responsiveness · busyness
+Newport analyzes why organizations discourage deep work, even though it is so valuable.
+
+**The costs are invisible.** Companies find it hard to measure the cost of interruptions and meetings. They see the benefit of instant messaging, which makes communication easier, but not the drop in productivity it causes.
+
+**The culture of responsiveness.** In many organizations, answering messages quickly is seen as a sign of professionalism. It also lets people avoid planning: requests are handled as they come in, which is easier than organizing your work.
+
+**Busyness as proof of productivity.** In the absence of clear indicators of the value produced, knowledge workers show they are working by being visibly busy: sending lots of emails, attending lots of meetings. Newport calls this **busyness as a proxy for productivity**.
+
+**The cult of the internet.** Every new digital technology is seen as progress, and not adopting it seems backward. Companies adopt tools without asking whether they really help their work.
+
+Newport also criticizes **open offices**, meant to foster collaboration and creativity. He acknowledges the value of informal encounters but argues they should be combined with spaces where people can concentrate.
+
+> Question clé | In your organization, how do people show they are working: through the value they produce, or through visible activity?
+
+--- Depth makes you happy
+kw: flow · meaning · chosen attention
+Newport adds an argument of a different kind: deep work doesn't just make you more productive, it also makes you **happier**.
+
+He first draws on psychologist Mihaly Csikszentmihalyi's work on optimal experience, which he calls *flow*. Csikszentmihalyi showed that people feel most fulfilled when absorbed in a difficult activity that engages all their abilities. Paradoxically, moments of passive leisure are often less satisfying. Deep work creates precisely the conditions for such experiences.
+
+He then cites work suggesting that **what we pay attention to shapes our experience of life**. If we spend our days reacting to messages, emergencies and demands, our life feels hectic and shallow. If we devote our attention to meaningful tasks, our life feels richer.
+
+Finally, he evokes a more philosophical dimension: the **meaning of craft**. He draws on reflections about craftsmanship, in which work done well, with attention and skill, is a source of deep satisfaction. He cites a blacksmith who forges swords using ancient methods and finds a form of fulfillment in this demanding work.
+
+Newport concludes that deep work can turn an ordinary job into a source of satisfaction by fully engaging the person's abilities.
+
+- The most satisfying moments are often moments of intense concentration.
+- What you pay attention to shapes your life.
+- Work done well is a source of meaning.
+
+=== Rule 1: work deeply
+--- Choose your philosophy
+kw: monastic · bimodal · rhythmic
+The second part of the book proposes four rules. The first is to **organize deep work**. Newport explains that willpower isn't enough: we have a limited supply of it, and distractions are constant. So you need routines and rituals that make concentration automatic.
+
+He begins by describing four philosophies for integrating deep work into your life.
+
+**The monastic philosophy.** You almost entirely eliminate shallow work. Some writers and researchers live this way: no email, few meetings, all their energy devoted to their work. This approach suits people whose value depends almost entirely on a single type of work.
+
+**The bimodal philosophy.** You alternate between long periods of deep work, several days or weeks, and periods devoted to everything else. Newport cites the psychiatrist Carl Jung, who regularly retreated to an isolated house to write while also maintaining an intense professional and social life.
+
+**The rhythmic philosophy.** You make deep work a regular habit, at a fixed time, every day. For example, every morning from six to nine. This is the most accessible approach for most people.
+
+**The journalistic philosophy.** You take advantage of every free moment to switch into deep mode, as some journalists used to writing on deadline do. This approach requires a lot of practice and is not suited to beginners.
+
+> Question clé | Which of these four philosophies best fits your current constraints?
+
+--- Rituals and grand gestures
+kw: place · duration · rules · break
+Newport recommends creating **rituals** around deep work. A ritual reduces the amount of willpower needed to get started. He specifies what should be defined:
+
+- **Where**: a specific place, reserved for deep work if possible.
+- **How long**: a time set in advance, with a start and an end.
+- **Rules**: for example, no internet, phone off, or a specific goal to reach.
+- **Support**: whatever helps you concentrate, such as a coffee, a walk beforehand, water within reach.
+
+He also describes the **grand gesture**: a radical change of environment for an important task. He cites a famous author who checked into a luxury hotel to finish a novel, and executives who go away for several days to an isolated place to think. The investment of money or effort strengthens commitment to the task.
+
+Newport also stresses the importance of well-designed **collaboration**. Deep work isn't always solitary. Two people working on a problem at a whiteboard can produce intense concentration. But these moments of focused collaboration must be distinguished from constant chatter.
+
+Finally, he presents an execution method inspired by a management book: focus on **a few wildly important goals**, track **lead measures** (hours of deep work rather than final results), keep a visible **scoreboard**, and hold a **regular review**.
+
+- A place, a duration, rules, support.
+- A grand gesture for a major task.
+- Count your hours of deep work.
+
+--- The shutdown ritual
+kw: disconnecting · rest · list
+Newport insists on an often-neglected point: to work deeply, you also need to know how to **stop**.
+
+He cites research showing that rest improves the capacity to concentrate. Real breaks, walks in nature, and moments when you stop thinking about work let the brain recover. Some studies also suggest that the mind keeps working on complex problems unconsciously during rest.
+
+He also points out that the capacity for deep concentration is limited. According to the work he cites, even experts can rarely exceed a few hours of truly deep work per day, often around four. Beyond that, quality declines. Working on email in the evening adds almost nothing and prevents recovery.
+
+He proposes a **shutdown ritual**. Before leaving work, he reviews his email and ongoing tasks, notes what remains to be done, checks his calendar for the coming days and prepares the next day's plan. Then he says a phrase that marks the end of the workday. This ritual lets him leave work behind without fear of forgetting something.
+
+He explains that unfinished tasks tend to occupy the mind. Simply writing them down and planning when you will deal with them is often enough to free your attention.
+
+> À retenir | Concentration needs rest. A shutdown ritual lets you truly leave work behind.
+
+=== Rule 2: embrace boredom
+--- Concentration is a muscle
+kw: training · distraction · dependence
+The second rule is to **embrace boredom**. Newport explains that the capacity to concentrate is like a muscle: it develops with training and weakens when unused.
+
+The problem, in his view, is that we have got into the habit of fleeing the slightest moment of boredom. In a queue, on public transport, between two tasks, we take out our phones. Our brain gets used to receiving new stimulation as soon as it is bored. When we then want to concentrate for a long time on a difficult task, it craves that stimulation, and we find it very hard to resist.
+
+Newport concludes that it isn't enough to protect yourself from distractions during deep work sessions. You also have to change your relationship with distraction **outside** those sessions.
+
+He criticizes a commonly recommended practice: **internet sabbaths**, in which you disconnect for one day a week. In his view, if you spend the rest of the week constantly checking your phone, one day of disconnection doesn't change much.
+
+He proposes the opposite: schedule **breaks from focus**. You decide in advance when you will use the internet and communication tools, and refrain from using them outside those times. If you need something online outside those slots, you wait for the next one. The goal is to retrain the brain to tolerate the absence of stimulation.
+
+- Concentration is built up through training.
+- Fleeing every moment of boredom weakens the ability to concentrate.
+- Schedule your connection time, not just your disconnection time.
+
+--- Concentration exercises
+kw: productive meditation · deadlines · memory
+Newport proposes several exercises to develop concentration.
+
+**Work as if you had a very short deadline.** Choose an important task, estimate how long it normally takes, then set yourself a much shorter deadline. Work with maximum intensity, without any distraction, to meet it. This exercise trains you for peaks of concentration.
+
+**Productive meditation.** During a physical activity that occupies the body but not the mind, such as walking, running, showering or commuting, focus on a single well-defined professional problem. When your attention drifts, gently bring it back to the problem. Newport recommends structuring this thinking: identify the relevant variables, define the next-step question, then consolidate your gains.
+
+**Memorize.** He cites memory champions who use techniques to quickly memorize the order of decks of cards. In his view, this kind of training improves general concentration. He suggests learning to memorize the order of a deck of cards using a technique that associates each card with an image in a familiar place.
+
+Newport stresses that these exercises may seem artificial, but they develop an increasingly rare skill. Like an athlete who trains outside competitions, the knowledge worker can train their concentration outside their main tasks.
+
+> Exercice | On your next walk, choose a specific professional problem and think about it without letting yourself be distracted. Write down your conclusions when you get back.
+
+=== Rule 3: quit social media
+--- The craftsman approach
+kw: tools · benefits · costs · choosing
+The third rule is provocative: **quit social media**. Newport specifies, however, that he isn't proposing to reject all technology. He proposes choosing your tools thoughtfully.
+
+He criticizes what he calls the **any-benefit approach**: you adopt a tool if it offers the slightest advantage. By this logic, almost every social network deserves to be used, since they all offer some advantages: staying in touch with old friends, discovering interesting information, building visibility.
+
+He proposes instead the **craftsman approach**. A craftsman chooses tools according to their real contribution to the work. He doesn't use a tool simply because it has a few advantages; he uses it if its advantages substantially outweigh its drawbacks.
+
+The approach consists of identifying the **most important goals** in your professional and personal life, then asking of each tool whether it contributes strongly to those goals, harms them, or has little effect. You keep only the tools whose positive effect is clear.
+
+Newport cites a rule often called the Pareto principle: in many areas, a small share of activities produces most of the results. The few most important activities deserve most of our time. Tools that pull us away from those activities, even if they have some advantages, cost us dearly.
+
+> À retenir | Don't adopt a tool because it has advantages, but only if its advantages clearly outweigh its costs for what matters.
+
+--- The thirty-day test
+kw: stop · observe · decide
+To apply the craftsman approach to social media, Newport proposes a simple experiment: the **thirty-day test**.
+
+For thirty days, you stop using all your social networks, without announcing your departure or deactivating your accounts. You simply disappear. At the end of the thirty days, you ask two questions about each network:
+
+- **Would the last thirty days have been notably better if I had been able to use this service?**
+- **Did people care that I wasn't using it?**
+
+If both answers are no, you can quit that network for good. If they are yes, you can return to it. If they are unclear, it's up to you.
+
+Newport explains that this experiment often reveals that social media was taking up a lot of time and attention for little real benefit. Many people discover that no one noticed their absence, which contradicts the fear of missing out.
+
+He also addresses **leisure**. In his view, many people spend their free time browsing aimlessly online, which tires without resting. He recommends planning your leisure carefully: reading, manual activities, sport, meeting people. Demanding, chosen leisure is more restful than passive entertainment.
+
+He stresses that this advice doesn't apply equally to everyone. For some professions, social media is an essential tool. What matters is choosing consciously.
+
+- Thirty days without social media, without announcing anything.
+- Ask what you missed, and whether anyone noticed.
+- Plan demanding leisure rather than browsing aimlessly.
+
+=== Rule 4: drain the shallows
+--- Schedule every minute
+kw: blocks · schedule · adjust
+The fourth rule is to **drain the shallows**. Newport doesn't propose eliminating shallow work, which is impossible, but containing it so it doesn't swallow the time available for deep work.
+
+His first technique is to **schedule every minute of your workday**. Each morning, or the evening before, he divides his day into blocks of at least half an hour and assigns an activity to each: deep work on a project, processing email, a meeting, a break. Small tasks are grouped into dedicated blocks.
+
+Newport specifies that this schedule isn't rigid. Unexpected things happen; tasks take longer than planned. When that happens, he redoes the schedule for the rest of the day. The goal isn't to stick to the plan at all costs, but to decide consciously how to use your time rather than letting demands decide for you.
+
+He also suggests **quantifying the depth** of each activity, using the question mentioned earlier: how long would it take to train a recent graduate to do this task?
+
+He recommends setting a **shallow work budget** in agreement with your manager. For example, spending no more than 30 to 50% of your time on shallow tasks. This explicit discussion helps get the importance of deep work recognized.
+
+> Exercice | Tomorrow morning, divide your day into blocks of at least thirty minutes and assign an activity to each. In the evening, compare the plan with reality.
+
+--- Taming email
+kw: filter · close the loop · don't reply
+Newport devotes several tips to managing email, one of the main sources of shallow work.
+
+**Make people who send you email do more work.** He suggests filtering who can write to you, for example by stating on your website which kinds of messages you respond to and which you don't. Senders then know what to expect.
+
+**Write emails that close the loop.** Many email exchanges drag on needlessly because each message calls for a reply. Newport recommends writing complete messages that anticipate the next questions and propose a solution. For example, rather than replying "Yes, we can meet, when are you available?", propose several dates directly and specify what will happen next. He calls this a **process-centric** approach.
+
+**Don't respond to everything.** Newport accepts not answering certain messages when a reply would be neither useful nor necessary. He acknowledges that this can sometimes offend, but believes the time and attention saved are worth it. He doesn't reply to ambiguous messages, to those that don't interest him, or to those where nothing good would come of it.
+
+**Batch.** Rather than checking your inbox constantly, process email at specific times of day.
+
+He stresses that these practices require accepting small inconveniences, such as slower replies or a disgruntled sender, in exchange for a major benefit: regained time and attention.
+
+- Filter requests upstream.
+- Write messages that close the loop.
+- Accept not answering everything.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · deep hours
+**Week 1: measure.** Each day, note the number of hours actually spent in deep work, without any distraction. Identify your main sources of distraction.
+
+**Week 2: a ritual.** Choose a philosophy, probably rhythmic, and block out a fixed slot for deep work every day. Define a place, a duration and rules. Set up a shutdown ritual.
+
+**Week 3: boredom.** Schedule your times for internet and messaging. Outside those times, don't touch them. Practice productive meditation during a walk.
+
+**Week 4: drain the shallows.** Plan each day in blocks. Batch your email into two or three sessions. Start the thirty-day test on your social media. Compare your deep work hours with those of the first week.
+
+Newport reminds us that the capacity to concentrate develops gradually. Start with short sessions, an hour for example, and lengthen them.
+
+> À retenir | Measure, ritualize, train yourself to tolerate boredom, contain the shallow. Count your deep hours every week.
+
+--- Case study: the overwhelmed analyst
+kw: meetings · messaging · report
+Élodie is a financial analyst at a large company. Every quarter she must produce an important strategic report, but she never manages to devote time to it during the day. She writes it in the evenings and at weekends, exhausted. Her days are filled with meetings, emails and instant messages.
+
+**Measure.** For a week, she counts her hours of deep work: fewer than four in total.
+
+**The ritual.** She blocks a slot in her calendar every morning from eight to ten-thirty, visible to her colleagues. She works in a small room, phone in airplane mode, messaging closed.
+
+**Agreement with her manager.** She explains her approach and asks him what percentage of her time he thinks it reasonable to spend on shallow tasks. They agree on about half. He agrees not to interrupt her during her slot, except in a real emergency.
+
+**The shallow.** She processes her email at eleven and at four. She answers meeting requests by directly proposing a time slot and an agenda.
+
+**End of day.** Every evening, she notes what remains to be done and prepares the next day.
+
+The following quarter, she finishes her report during working hours, and her manager praises its quality.
+
+> Question de réflexion | What daily slot could you protect, starting next week, for your most important work?
+
+=== Critical view and connections
+--- Limits of the book
+kw: privileged · collaboration · occupations
+*Deep Work* has been very influential, but it has several limits.
+
+**A privileged perspective.** The examples often come from writers, researchers or executives who have great freedom to organize their time. Many workers cannot block out hours, ignore emails or check into a hotel. Newport is aware of this, but his advice is easier for some to apply than others.
+
+**The value of shallow work underestimated.** In many occupations, coordination, availability and responsiveness have real value: customer service, management, healthcare. The book tends to present these activities as secondary.
+
+**A fairly individual perspective.** The book mainly proposes personal strategies. Yet the fragmentation of attention is also an organizational problem. Newport in fact developed this aspect in later books on how organizations could change their communication practices.
+
+**A radical position on social media.** For some people, social media is an important professional tool or a way to stay in touch with distant loved ones. The recommendation to quit doesn't suit everyone.
+
+**Uneven evidence.** Some of the research cited is solid, such as that on attention residue or flow. Other claims rest mainly on selected examples.
+
+- Advice that is easier for those who control their schedule.
+- The fragmentation of attention is also an organizational problem.
+
+--- Connections with other books
+kw: Drucker · Csikszentmihalyi · Clear · Grove
+**With The Effective Executive (Drucker).** Drucker already insisted on the need to consolidate your time into large blocks for the tasks that matter, and to measure where your time goes.
+
+**With Flow (Csikszentmihalyi).** Newport draws explicitly on the research on flow: intense concentration on a difficult task is one of the main sources of satisfaction.
+
+**With Atomic Habits (Clear).** Deep work rituals are habits. Clear's techniques, such as designing your environment, help establish them.
+
+**With High Output Management (Grove).** Grove valued protected blocks of time for important work and criticized unscheduled interruptions.
+
+**With Peak (Ericsson).** Deliberate practice, which leads toward excellence, is a form of deep work.
+
+> Parcours conseillé | Read Atomic Habits next to establish your rituals, then Peak for deliberate practice.
