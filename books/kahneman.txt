@@ -1,0 +1,471 @@
+id: kahneman
+t: Système 1 / Système 2
+o: Thinking, Fast and Slow
+a: Daniel Kahneman
+y: 2011
+cat: Décision
+p: ≈ 550 p.
+c: --b5
+center: Les deux vitesses de la pensée
+pitch: Comment notre esprit juge et décide, pourquoi il se trompe de façon prévisible, et comment mieux décider.
+
+=== Contexte et projet
+--- Kahneman et Tversky
+kw: psychologie · économie · Nobel 2002
+Daniel Kahneman (1934-2024) était un psychologue israélo-américain. Enfant, il a vécu en France pendant l'Occupation, puis sa famille s'est installée en Palestine sous mandat britannique, futur État d'Israël. Il a étudié la psychologie, a servi dans l'armée israélienne où il a travaillé sur les méthodes de sélection des recrues, puis il a fait carrière dans plusieurs universités, en Israël, au Canada et aux États-Unis, notamment à Princeton.
+
+L'essentiel de ses travaux est né d'une collaboration exceptionnelle avec un autre psychologue, Amos Tversky. À partir de la fin des années 1960, les deux chercheurs ont étudié la manière dont les êtres humains jugent et décident dans des situations d'incertitude. Ils ont montré que nos jugements s'écartent de manière systématique et prévisible de ce que prédit la théorie économique classique, qui suppose des agents rationnels. Leurs travaux ont donné naissance à ce qu'on appelle aujourd'hui l'économie comportementale.
+
+En 2002, Kahneman a reçu le prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel, souvent appelé prix Nobel d'économie, pour ces travaux. Tversky était mort en 1996 et n'a pas pu le partager, car le prix n'est pas décerné à titre posthume. Kahneman a souvent dit que ce prix revenait aux deux.
+
+*Thinking, Fast and Slow*, publié en 2011 et traduit en français sous le titre *Système 1 / Système 2 : les deux vitesses de la pensée*, est une synthèse de plusieurs décennies de recherche, écrite pour le grand public. C'est un livre long et dense, mais très accessible, qui contient de nombreuses expériences que le lecteur peut tester sur lui-même.
+
+Ce livre est un peu différent des autres de cette bibliothèque. Ce n'est pas un livre de management au sens strict. Mais il est devenu une référence pour tous ceux qui prennent des décisions, car il explique pourquoi même les experts les plus compétents se trompent, et comment réduire ces erreurs.
+
+> À retenir | Nos erreurs de jugement ne sont pas aléatoires : elles sont systématiques et prévisibles. C'est ce qui permet de les anticiper.
+
+--- Le but du livre
+kw: vocabulaire · voir les erreurs des autres
+Kahneman explique dans l'introduction que son but est modeste et précis. Il ne prétend pas que la lecture du livre permettra au lecteur d'éviter toutes ses erreurs de jugement. Il sait, par expérience, que connaître un biais ne suffit pas à s'en protéger. Lui-même, après des décennies de recherche, continue à en être victime.
+
+Son objectif est plutôt de donner au lecteur un **vocabulaire** pour reconnaître les erreurs de jugement. Il compare cela à la manière dont un médecin apprend à reconnaître les symptômes d'une maladie. Une fois qu'on connaît le nom d'un biais, on le repère plus facilement, en particulier chez les autres. Kahneman remarque qu'il est beaucoup plus facile de voir les erreurs des autres que les siennes. Il espère que ce vocabulaire améliorera les conversations au travail, autour de la machine à café, et qu'il aidera les organisations à prendre de meilleures décisions.
+
+Il insiste sur le rôle des organisations. Une personne seule a du mal à se corriger, car elle ne voit pas ses propres biais. Mais une organisation peut mettre en place des procédures, des listes de contrôle et une culture qui aident à repérer et à corriger les erreurs. Les organisations pensent plus lentement que les individus, et elles peuvent imposer des méthodes.
+
+Chaque chapitre du livre se termine d'ailleurs par une série de phrases illustrant la manière dont on pourrait utiliser les concepts dans une conversation professionnelle. Par exemple, pour signaler qu'une décision est influencée par un premier chiffre arbitraire, ou qu'une équipe est trop sûre d'elle.
+
+Pour un manager, ce livre est donc utile à deux niveaux. Il aide à mieux comprendre ses propres décisions et celles de son équipe. Et il propose des outils pour améliorer les processus de décision collective.
+
+- Connaître un biais ne suffit pas à l'éviter.
+- Il est plus facile de repérer les erreurs des autres que les siennes.
+- Les organisations peuvent corriger ce que les individus ne voient pas.
+
+--- Deux personnages fictifs
+kw: rapide · lent · métaphore
+Kahneman organise tout le livre autour de deux personnages, qu'il appelle Système 1 et Système 2. Il précise dès le départ que ce ne sont pas des parties du cerveau, mais des métaphores pratiques pour décrire deux modes de pensée. Il les présente comme des personnages d'une histoire, ce qui rend les explications plus faciles à suivre.
+
+**Le Système 1** fonctionne de manière automatique et rapide, avec peu ou pas d'effort, et sans contrôle volontaire. C'est lui qui nous permet de reconnaître un visage, de comprendre une phrase simple, de conduire sur une route vide, de sentir de l'hostilité dans une voix ou de calculer deux plus deux.
+
+**Le Système 2** concentre l'attention sur les activités mentales qui demandent un effort, comme les calculs complexes. C'est lui qui nous permet de remplir un formulaire fiscal, de chercher une personne dans une foule, de vérifier la validité d'un raisonnement logique ou de garder un rythme de marche plus rapide que d'habitude.
+
+Kahneman explique que nous nous identifions spontanément au Système 2 : le moi conscient, qui raisonne, fait des choix et décide. Mais il affirme que le héros du livre est le Système 1. C'est lui qui produit la plupart de nos impressions, de nos intuitions et de nos jugements. Le Système 2 se contente souvent d'accepter ce que lui propose le Système 1, sans vérifier.
+
+Il souligne que le Système 1 est remarquablement efficace. Il nous permet de fonctionner dans un monde complexe sans réfléchir à chaque décision. La plupart du temps, ses intuitions sont justes. Mais il a aussi des faiblesses : il commet des erreurs systématiques dans certaines situations, il ne sait pas quand il se trompe et il ne peut pas être éteint.
+
+Le Système 2, de son côté, peut corriger les erreurs du Système 1, mais il est lent, il demande de l'effort, et il est paresseux. Il ne s'active que lorsque c'est vraiment nécessaire.
+
+> À retenir | Le Système 1 pense vite et automatiquement, le Système 2 lentement et avec effort. Le premier produit la plupart de nos jugements, le second les valide souvent sans vérifier.
+
+=== Les deux systèmes
+--- Le Système 1 au travail
+kw: associations · émotions · cohérence
+Kahneman décrit en détail le fonctionnement du Système 1. Il fonctionne par associations. Lorsqu'une idée est activée, elle active automatiquement d'autres idées liées, qui en activent d'autres, dans une cascade rapide et inconsciente. Si l'on voit le mot « banane » à côté du mot « vomi », on ressent immédiatement un léger dégoût, on a peut-être une grimace, et l'on construit une histoire qui relie les deux mots, sans l'avoir voulu.
+
+Le Système 1 est aussi très sensible aux émotions. Il évalue en permanence les situations : est-ce dangereux ? Est-ce normal ? Est-ce que je dois m'en occuper ? Ces évaluations sont rapides et automatiques. Elles nous permettent par exemple de juger en une fraction de seconde si un visage est digne de confiance.
+
+Une de ses caractéristiques centrales est la recherche de **cohérence**. Le Système 1 cherche toujours à construire une histoire cohérente à partir des informations disponibles. Il comble les vides, ignore les contradictions et fabrique un récit plausible. Cette capacité est très utile, mais elle nous rend vulnérables aux histoires séduisantes et aux conclusions hâtives.
+
+Le Système 1 a aussi tendance à **substituer** une question facile à une question difficile. Lorsqu'on nous pose une question complexe, comme « ce candidat sera-t-il un bon manager ? », le Système 1 répond souvent à une question plus simple, comme « ce candidat m'est-il sympathique ? ». Nous ne remarquons pas la substitution. Nous pensons avoir répondu à la question posée.
+
+Kahneman donne un exemple frappant. Lorsqu'on demande à des personnes quel montant elles seraient prêtes à donner pour sauver des oiseaux menacés par une marée noire, les réponses sont à peu près les mêmes, qu'il s'agisse de 2 000, 20 000 ou 200 000 oiseaux. Le Système 1 ne calcule pas : il répond à la question « quelle émotion ressens-je en imaginant un oiseau mazouté ? ».
+
+- Le Système 1 fonctionne par associations rapides et automatiques.
+- Il construit une histoire cohérente, même avec peu d'informations.
+- Il remplace souvent une question difficile par une question facile.
+
+--- Le Système 2 est paresseux
+kw: effort · contrôle · la balle et la batte
+Le Système 2 est capable de raisonner, de calculer et de vérifier. Mais Kahneman insiste sur un point : il est paresseux. Il ne s'active que lorsque c'est nécessaire, et il accepte souvent sans vérifier les propositions du Système 1.
+
+Kahneman propose un petit problème devenu célèbre. Une batte et une balle coûtent ensemble 1,10 dollar. La batte coûte un dollar de plus que la balle. Combien coûte la balle ? La réponse qui vient immédiatement à l'esprit est 10 centimes. Elle est fausse. Si la balle coûtait 10 centimes, la batte coûterait 1,10 dollar, et le total serait 1,20 dollar. La bonne réponse est 5 centimes.
+
+Ce problème est simple. Le Système 2 peut facilement le résoudre s'il prend la peine de vérifier. Pourtant, plus de la moitié des étudiants de grandes universités américaines donnent la réponse fausse. Dans des universités moins sélectives, la proportion dépasse 80 %. Kahneman en conclut que beaucoup de personnes intelligentes font trop confiance à leurs intuitions et ne vérifient pas.
+
+Il explique aussi que l'effort mental a un coût. Lorsque le Système 2 est occupé par une tâche exigeante, il a moins de ressources pour contrôler le Système 1. Les personnes qui doivent mémoriser une série de chiffres sont plus enclines à choisir un gâteau au chocolat plutôt qu'une salade. La fatigue, le stress, la faim ou la surcharge de travail réduisent notre capacité de contrôle.
+
+Kahneman cite une étude sur des juges israéliens chargés d'examiner des demandes de libération conditionnelle. La proportion de décisions favorables était nettement plus élevée juste après les pauses repas, et diminuait progressivement jusqu'à la pause suivante. Les juges fatigués avaient tendance à choisir l'option par défaut, c'est-à-dire le refus. Cette étude a été discutée par la suite, mais elle illustre une idée importante : la qualité des décisions dépend aussi de l'état de celui qui décide.
+
+> Exercice | Repérez dans votre agenda les moments où vous prenez des décisions importantes. Combien ont lieu en fin de journée, après une série de réunions, ou à jeun ?
+
+--- Aisance et amorçage
+kw: familiarité · vrai-semblable · prudence
+Kahneman décrit plusieurs phénomènes qui montrent comment le Système 1 influence nos jugements sans que nous le sachions.
+
+**L'aisance cognitive.** Lorsque quelque chose est facile à traiter pour notre esprit, nous le jugeons plus vrai, plus familier, plus agréable et plus sûr. Une phrase écrite dans une police claire, avec un bon contraste, est jugée plus crédible que la même phrase écrite de manière difficile à lire. Une affirmation répétée plusieurs fois paraît plus vraie, même si elle est fausse. Kahneman souligne que ce phénomène est exploité par la publicité et la propagande. Il a aussi des conséquences pratiques : un document clair et simple est plus convaincant qu'un document complexe, à contenu égal.
+
+À l'inverse, lorsqu'une tâche est difficile, le Système 2 s'active davantage. Kahneman cite une expérience où la batte et la balle étaient présentées dans une police difficile à lire : les participants faisaient moins d'erreurs, parce que la difficulté les poussait à réfléchir.
+
+**L'amorçage.** Kahneman décrit des expériences montrant que des stimuli très discrets peuvent influencer nos comportements. Par exemple, des étudiants exposés à des mots liés à la vieillesse auraient marché plus lentement ensuite. Ces expériences étaient très présentes dans la première édition du livre.
+
+Il faut toutefois signaler un point important. Après la publication du livre, plusieurs de ces études sur l'amorçage n'ont pas pu être reproduites par d'autres chercheurs. Ce problème, appelé crise de la réplication, a touché une partie de la psychologie sociale. Kahneman a lui-même reconnu publiquement qu'il avait accordé trop de confiance à des études fondées sur de petits échantillons, et qu'une partie de ce chapitre ne devait plus être prise au pied de la lettre.
+
+L'idée générale, selon laquelle le contexte influence nos jugements, reste solide. Mais les effets spectaculaires de l'amorçage doivent être considérés avec prudence. Ce cas est d'ailleurs une excellente illustration des propres idées de Kahneman : même les experts peuvent être trop confiants dans des résultats séduisants.
+
+- Ce qui est facile à lire ou familier paraît plus vrai.
+- La difficulté peut pousser à réfléchir davantage.
+- Les effets d'amorçage spectaculaires sont à considérer avec prudence.
+
+--- Ce qu'on voit est tout ce qui existe
+kw: conclusions hâtives · effet de halo
+Kahneman résume une caractéristique essentielle du Système 1 par une formule qu'il abrège en anglais par un acronyme. On peut la traduire ainsi : ce qu'on voit est tout ce qui existe. Le Système 1 construit son jugement uniquement à partir des informations disponibles, sans se demander quelles informations manquent.
+
+Cette tendance a des conséquences importantes. Elle nous conduit à tirer des conclusions hâtives à partir de très peu d'éléments. Elle nous rend trop confiants, car une histoire cohérente construite avec peu d'informations paraît plus convaincante qu'une histoire complexe construite avec beaucoup d'informations contradictoires. Kahneman souligne que la confiance que nous avons dans un jugement dépend surtout de la cohérence de l'histoire, et non de la quantité ou de la qualité des preuves.
+
+Il donne un exemple. On présente à des participants des informations sur un procès. Certains entendent seulement les arguments de l'accusation, d'autres seulement ceux de la défense, d'autres les deux. Les participants qui n'ont entendu qu'une version sont plus confiants dans leur jugement que ceux qui ont entendu les deux. Ils ne pensent pas à l'information qu'ils n'ont pas.
+
+Un phénomène proche est l'**effet de halo** : la tendance à juger l'ensemble d'une personne à partir d'une seule caractéristique. Si nous trouvons une personne sympathique, nous avons tendance à la juger aussi compétente, honnête et intelligente. Kahneman cite une expérience classique. On décrit deux personnes avec les mêmes traits, dans un ordre différent. Alan est intelligent, travailleur, impulsif, critique, têtu et envieux. Ben est envieux, têtu, critique, impulsif, travailleur et intelligent. La plupart des gens jugent Alan beaucoup plus favorablement que Ben. Les premiers traits colorent l'interprétation des suivants.
+
+Kahneman raconte qu'il a lui-même découvert l'effet de halo en corrigeant des copies d'examen. Il s'est aperçu que sa note pour la première question influençait celles des questions suivantes. Il a alors changé de méthode : corriger la même question pour toutes les copies, puis passer à la question suivante.
+
+> À retenir | Nous jugeons avec ce que nous avons, sans penser à ce qui manque. Avant de conclure, demandez-vous : quelles informations n'avons-nous pas ?
+
+=== Heuristiques et biais
+--- L'ancrage
+kw: premier chiffre · négociation · estimations
+L'ancrage est l'un des biais les plus robustes et les plus étudiés. Il désigne la tendance à se laisser influencer par un chiffre présenté avant une estimation, même lorsque ce chiffre n'a aucun rapport avec la question.
+
+Kahneman et Tversky ont mené une expérience célèbre. Ils faisaient tourner devant des participants une roue de loterie truquée, qui s'arrêtait soit sur 10, soit sur 65. Ils demandaient ensuite aux participants d'estimer le pourcentage de pays africains membres des Nations unies. Ceux qui avaient vu 10 donnaient en moyenne une estimation d'environ 25 %, ceux qui avaient vu 65, environ 45 %. Le chiffre de la roue, totalement arbitraire, avait influencé leur estimation.
+
+L'ancrage touche aussi les experts. Kahneman cite une étude menée auprès de juges allemands expérimentés. On leur présentait un dossier de vol à l'étalage, puis on leur faisait lancer des dés truqués qui donnaient 3 ou 9. On leur demandait ensuite s'ils condamneraient la personne à une peine plus ou moins longue que ce nombre de mois, puis quelle peine ils prononceraient. Ceux qui avaient obtenu 9 proposaient en moyenne des peines nettement plus longues que ceux qui avaient obtenu 3.
+
+Kahneman explique que l'ancrage fonctionne par deux mécanismes. Le Système 2 part de l'ancre et s'ajuste, mais il s'arrête trop tôt. Le Système 1, de son côté, active des idées compatibles avec l'ancre, ce qui rend certaines réponses plus plausibles.
+
+Les conséquences pratiques sont nombreuses. Dans une négociation, le premier chiffre proposé influence fortement le résultat final. Dans une estimation budgétaire, le budget de l'année précédente sert d'ancre. Dans un recrutement, le salaire actuel du candidat influence l'offre. Dans une réunion, le premier avis exprimé influence les suivants.
+
+Pour se protéger, Kahneman recommande de mobiliser le Système 2 : se demander activement quels arguments vont contre l'ancre, et rechercher d'autres points de référence. Dans une négociation, si l'autre partie avance un chiffre extrême, il vaut mieux ne pas discuter à partir de ce chiffre, mais le rejeter clairement et repartir de zéro.
+
+> Exercice | Lors de votre prochaine estimation collective, demandez à chacun d'écrire son chiffre avant que quiconque ne parle. Comparez avec la discussion habituelle.
+
+--- La disponibilité
+kw: facilité de rappel · médias · contributions
+L'heuristique de disponibilité est la tendance à juger la fréquence ou la probabilité d'un événement par la facilité avec laquelle des exemples nous viennent à l'esprit. Si des exemples viennent facilement, nous pensons que l'événement est fréquent.
+
+Cette heuristique est souvent utile, car les événements fréquents sont généralement faciles à se rappeler. Mais elle est trompeuse lorsque la facilité de rappel dépend d'autres facteurs : la nouveauté, l'émotion, la couverture médiatique ou l'expérience personnelle. Par exemple, après un accident d'avion très médiatisé, beaucoup de personnes surestiment le risque de prendre l'avion. Les morts par accident spectaculaire sont surestimées, alors que les morts par maladies chroniques, plus fréquentes mais moins visibles, sont sous-estimées.
+
+Kahneman cite une expérience surprenante. On demande à des participants de citer soit six exemples, soit douze exemples de situations où ils se sont montrés affirmés. Puis on leur demande d'évaluer leur propre caractère. Ceux qui ont dû citer douze exemples se jugent moins affirmés que ceux qui en ont cité six. Pourquoi ? Parce que trouver douze exemples est difficile, et cette difficulté leur fait conclure qu'ils ne sont pas si affirmés.
+
+Une autre application concerne la répartition du travail. Lorsqu'on demande à chaque membre d'un couple ou d'une équipe quel pourcentage du travail commun il a effectué, la somme des réponses dépasse presque toujours 100 %. Chacun se souvient plus facilement de ses propres efforts que de ceux des autres. Kahneman en tire un conseil pratique : si vous avez l'impression d'en faire plus que votre part, c'est probablement le cas de vos collègues aussi.
+
+Kahneman décrit aussi les **cascades de disponibilité** : un événement mineur reçoit une attention médiatique, ce qui augmente sa disponibilité dans les esprits, ce qui suscite davantage d'inquiétude, ce qui provoque encore plus de couverture médiatique. Ces cascades peuvent conduire à des décisions publiques disproportionnées.
+
+- Nous jugeons fréquent ce qui vient facilement à l'esprit.
+- Chacun surestime sa propre part dans un travail commun.
+- La couverture médiatique déforme notre perception des risques.
+
+--- La représentativité
+kw: stéréotypes · Linda · taux de base
+L'heuristique de représentativité est la tendance à juger la probabilité d'un événement par sa ressemblance avec un stéréotype, en négligeant les statistiques de base.
+
+Kahneman et Tversky ont créé un exemple devenu célèbre : le problème de Linda. On décrit Linda comme une femme de 31 ans, célibataire, franche et très intelligente. Elle a étudié la philosophie. Étudiante, elle s'intéressait beaucoup aux questions de discrimination et de justice sociale, et participait à des manifestations antinucléaires. On demande ensuite aux participants quelle est l'affirmation la plus probable : Linda est employée de banque, ou Linda est employée de banque et militante féministe.
+
+La grande majorité des participants, y compris des étudiants en statistiques, choisissent la seconde réponse. C'est une erreur logique : la probabilité que deux conditions soient vraies en même temps ne peut pas être supérieure à la probabilité d'une seule de ces conditions. Toutes les militantes féministes employées de banque sont des employées de banque. Mais la description de Linda ressemble tellement au stéréotype d'une militante que le Système 1 ignore la logique.
+
+Un autre aspect de la représentativité est la **négligence des taux de base**. Supposons qu'on vous décrive un étudiant timide, ordonné, qui aime les détails. On vous demande s'il étudie plutôt la bibliothéconomie ou les sciences humaines. La description évoque le stéréotype du bibliothécaire. Mais il y a beaucoup plus d'étudiants en sciences humaines qu'en bibliothéconomie. Statistiquement, il est donc plus probable qu'il étudie les sciences humaines. La plupart des gens oublient cette information.
+
+Kahneman recommande deux disciplines pour corriger ce biais. D'abord, partir du taux de base, c'est-à-dire de la fréquence générale de l'événement, avant d'ajuster en fonction des informations spécifiques. Ensuite, se méfier de la qualité des informations spécifiques : une description vivante et cohérente n'est pas forcément fiable.
+
+Pour un manager, ce biais apparaît dans le recrutement, lorsqu'on juge un candidat sur sa ressemblance avec l'image qu'on se fait d'un bon profil, ou dans l'évaluation des projets, lorsqu'on juge un projet sur sa ressemblance avec des succès passés.
+
+> À retenir | Une description séduisante n'augmente pas la probabilité. Partez toujours de la fréquence générale avant de juger le cas particulier.
+
+--- Petits nombres et retour à la moyenne
+kw: échantillons · hasard · éloges et critiques
+Kahneman décrit deux erreurs statistiques que le Système 1 commet très souvent.
+
+**La loi des petits nombres.** Nous avons tendance à tirer des conclusions générales à partir de petits échantillons. Kahneman donne un exemple frappant. Une étude sur le cancer du rein aux États-Unis montre que les comtés où le taux est le plus faible sont surtout ruraux, peu peuplés et situés dans certaines régions. Spontanément, on cherche une explication : la vie à la campagne, l'air pur, une alimentation saine. Mais la même étude montre que les comtés où le taux est le plus élevé sont aussi ruraux et peu peuplés. L'explication est statistique : dans les petites populations, les résultats extrêmes, dans un sens comme dans l'autre, sont plus fréquents, simplement par hasard.
+
+Cette erreur a des conséquences pratiques. Kahneman cite l'exemple d'une fondation qui avait investi des sommes importantes dans la création de petites écoles, parce que les meilleures écoles du classement étaient souvent petites. Mais les plus mauvaises écoles étaient souvent petites elles aussi. Les petites écoles n'étaient pas meilleures en moyenne, elles étaient plus variables.
+
+**Le retour à la moyenne.** Lorsqu'une performance est exceptionnelle, la suivante a tendance à être plus proche de la moyenne, simplement parce qu'une part de la performance exceptionnelle était due au hasard. Kahneman raconte un épisode qui a marqué sa carrière. Il donnait une formation à des instructeurs de l'armée de l'air israélienne et leur expliquait que les récompenses sont plus efficaces que les punitions. Un instructeur l'a contredit : lorsqu'il félicitait un élève après un vol excellent, le vol suivant était souvent moins bon ; lorsqu'il réprimandait un élève après un vol raté, le suivant était souvent meilleur. Il en concluait que les critiques fonctionnaient mieux que les éloges.
+
+Kahneman a compris que l'instructeur observait simplement un retour à la moyenne. Après un vol exceptionnellement bon, le suivant avait de fortes chances d'être moins bon, et inversement, quelle que soit la réaction de l'instructeur.
+
+Pour un manager, la leçon est importante : un mauvais trimestre suivi d'un trimestre moyen ne prouve pas que les mesures prises ont fonctionné, et un excellent résultat suivi d'un résultat moyen ne prouve pas qu'un collaborateur s'est relâché.
+
+- Les petits échantillons produisent plus souvent des résultats extrêmes.
+- Une performance exceptionnelle est souvent suivie d'une performance plus moyenne.
+- Ne concluez pas trop vite qu'une mesure a marché, ou qu'une personne s'est relâchée.
+
+=== L'illusion de comprendre
+--- L'illusion narrative
+kw: histoires a posteriori · chance · halo
+Kahneman consacre une partie du livre à l'excès de confiance. Il commence par ce qu'il appelle l'**illusion narrative** : notre tendance à construire après coup des histoires simples et cohérentes pour expliquer le passé.
+
+Il explique que ces histoires mettent l'accent sur les talents, les intentions et les décisions des personnes, et négligent le rôle de la chance. Elles se concentrent sur quelques événements marquants et oublient tous ceux qui auraient pu se produire. Elles donnent l'impression que le passé était prévisible, alors qu'il ne l'était pas.
+
+Kahneman prend l'exemple des histoires de réussite d'entreprises célèbres. On raconte comment les fondateurs ont pris les bonnes décisions au bon moment. Mais on oublie les nombreuses entreprises dont les fondateurs ont pris des décisions similaires et ont échoué. On oublie aussi le rôle des circonstances favorables et des concurrents qui ont fait des erreurs.
+
+Il critique notamment les livres de management qui prétendent identifier les secrets du succès en comparant des entreprises qui ont réussi et d'autres qui ont échoué. Il observe que l'écart de performance entre ces entreprises se réduit souvent dans les années qui suivent la publication. C'est en partie un retour à la moyenne : une part de la réussite exceptionnelle était due à la chance. Il souligne aussi que ces études sont exposées à l'effet de halo : lorsqu'une entreprise réussit, on décrit son dirigeant comme visionnaire et sa culture comme forte ; lorsqu'elle échoue, on décrit le même dirigeant comme rigide et la même culture comme dépassée.
+
+Kahneman décrit aussi le **biais rétrospectif** : une fois qu'un événement s'est produit, nous avons l'impression qu'il était prévisible. Nous oublions ce que nous pensions avant. Ce biais a des conséquences graves pour l'évaluation des décideurs. On juge une décision par son résultat, et non par la qualité du raisonnement au moment où elle a été prise. Un médecin, un dirigeant ou un responsable politique qui a pris une décision raisonnable mais qui a échoué par malchance est blâmé, tandis qu'un décideur imprudent qui a eu de la chance est récompensé.
+
+> À retenir | Le passé paraît toujours plus prévisible qu'il ne l'était. Jugez une décision sur ce que l'on savait au moment de la prendre, pas sur son résultat.
+
+--- L'illusion de validité
+kw: confiance · experts · prévisions
+Kahneman décrit un autre phénomène, qu'il a découvert pendant son service dans l'armée israélienne. Il était chargé d'évaluer des candidats à la formation d'officier. Une des épreuves consistait à observer un groupe de huit candidats qui devaient faire passer une longue poutre au-dessus d'un mur, sans que la poutre ni eux-mêmes ne touchent le mur. Les évaluateurs observaient qui prenait l'initiative, qui coopérait, qui se décourageait. Ils en tiraient des conclusions très claires sur le potentiel de leadership de chaque candidat.
+
+Les évaluateurs étaient très confiants dans leurs jugements. Mais lorsque l'armée leur a transmis les résultats des candidats lors de la formation, ils ont découvert que leurs prévisions étaient à peine meilleures que le hasard. Le plus frappant, selon Kahneman, c'est que cette information n'a pas réduit leur confiance. Lors de la session suivante, ils ont continué à juger les candidats avec la même certitude.
+
+Kahneman appelle ce phénomène l'**illusion de validité** : la confiance subjective dans un jugement ne dit rien de sa qualité. Elle reflète la cohérence de l'histoire que nous construisons, pas sa justesse.
+
+Il retrouve ce phénomène dans de nombreux domaines. Il raconte avoir analysé les résultats de conseillers financiers d'une société d'investissement sur plusieurs années. Il a constaté que le classement des conseillers d'une année à l'autre ne présentait presque aucune corrélation. Leur performance relevait essentiellement de la chance. Pourtant, ils étaient convaincus de leur compétence, et leurs primes dépendaient de leurs résultats.
+
+Kahneman ne dit pas que tous les experts sont incompétents. Il dit que, dans certains domaines, les prévisions à long terme sont très difficiles, voire impossibles, et que les experts surestiment leur capacité à prévoir. Il cite les travaux d'un chercheur qui a montré que les prévisions politiques et économiques d'experts sur plusieurs années n'étaient pas meilleures que celles de simples algorithmes, et souvent moins bonnes.
+
+- Être sûr de soi ne prouve pas qu'on a raison.
+- Dans certains domaines, la performance relève surtout du hasard.
+- Les prévisions à long terme des experts sont souvent peu fiables.
+
+--- Intuitions contre formules
+kw: algorithmes simples · entretiens structurés
+Kahneman s'appuie sur les travaux du psychologue Paul Meehl, qui a montré dès les années 1950 que, dans de nombreux domaines, de simples formules statistiques font de meilleures prévisions que des experts. Depuis, des centaines d'études ont confirmé ce résultat dans des domaines variés : diagnostic médical, réussite scolaire, risque de récidive, solvabilité des emprunteurs, qualité des vins ou succès des recrutements.
+
+Kahneman explique pourquoi. Les experts essaient d'être subtils et de combiner de nombreuses informations de manière complexe. Mais cette complexité réduit souvent la précision. Les experts sont aussi incohérents : face aux mêmes informations, ils donnent parfois des jugements différents à des moments différents. Une formule, elle, est toujours cohérente.
+
+Il cite l'exemple du score d'Apgar, mis au point par une anesthésiste américaine dans les années 1950. Il permet d'évaluer l'état d'un nouveau-né en quelques minutes, à partir de cinq critères simples notés de 0 à 2 : le rythme cardiaque, la respiration, le tonus musculaire, les réflexes et la couleur de la peau. Ce score très simple a contribué à réduire la mortalité infantile, car il permettait de repérer rapidement les bébés en difficulté.
+
+Kahneman raconte aussi comment il a conçu, jeune psychologue dans l'armée, une nouvelle méthode d'entretien de sélection. Plutôt que de laisser les recruteurs se faire une impression générale, il leur a demandé d'évaluer six traits de caractère séparément, avec des questions précises et une note pour chacun. Le score final était calculé à partir de ces notes. Les recruteurs protestaient : ils avaient l'impression d'être transformés en machines. Kahneman a accepté qu'ils donnent aussi une note intuitive globale, mais à la fin, après les six évaluations. Cette méthode a nettement amélioré la qualité des prévisions. La note intuitive, donnée après l'évaluation structurée, était elle aussi utile.
+
+Pour un manager, la leçon est directement applicable au recrutement : définir à l'avance quelques critères, poser des questions précises pour chacun, noter chaque critère séparément, et ne former un jugement global qu'à la fin.
+
+> Exercice | Pour votre prochain recrutement, définissez cinq critères, une question par critère et une échelle de notation. Notez chaque critère avant de donner votre avis global.
+
+--- Quand faire confiance à l'intuition
+kw: environnement régulier · pratique · retour
+Kahneman ne rejette pas l'intuition. Il reconnaît que certains experts ont des intuitions remarquablement justes. Il raconte avoir longtemps débattu de cette question avec le psychologue Gary Klein, qui étudie les intuitions des experts sur le terrain, comme les pompiers, les infirmières ou les joueurs d'échecs. Klein admirait l'intuition des experts ; Kahneman s'en méfiait. Les deux chercheurs ont fini par écrire ensemble un article pour préciser leurs points d'accord.
+
+Ils ont conclu que l'intuition d'un expert est fiable lorsque deux conditions sont réunies.
+
+- **Un environnement suffisamment régulier.** Il faut que les situations présentent des régularités, des indices qui permettent de prévoir ce qui va se passer. C'est le cas aux échecs, en médecine d'urgence, dans la lutte contre les incendies ou dans la conduite automobile. Ce n'est pas le cas des prévisions boursières ou des prévisions politiques à long terme, où le hasard joue un rôle prépondérant.
+- **Une pratique prolongée avec un retour rapide et clair.** Il faut que l'expert ait eu l'occasion d'apprendre ces régularités, par une longue pratique et des retours rapides sur la justesse de ses jugements. Un joueur d'échecs sait rapidement si son coup était bon. Un psychiatre qui prédit l'évolution d'un patient sur dix ans reçoit rarement un retour clair.
+
+Lorsque ces deux conditions sont réunies, l'intuition est une forme de reconnaissance rapide. L'expert reconnaît une situation qu'il a déjà vue, et il sait ce qu'il faut faire. Lorsqu'elles ne sont pas réunies, l'intuition n'est souvent qu'une impression trompeuse, même si l'expert est très confiant.
+
+Kahneman souligne que la confiance de l'expert ne permet pas de savoir si son intuition est fiable. Il faut regarder l'environnement et l'expérience. Pour un manager, la question à poser est : dans ce domaine, la personne a-t-elle eu l'occasion d'apprendre, avec des retours clairs, sur des situations comparables ?
+
+- L'intuition est fiable dans un environnement régulier, après une longue pratique avec retour.
+- La confiance de l'expert n'est pas un indice de fiabilité.
+
+=== Prévoir et planifier
+--- L'erreur de planification
+kw: vue intérieure · vue extérieure · manuel
+Kahneman raconte une expérience personnelle qui illustre l'un des biais les plus coûteux pour les organisations. Il avait réuni une équipe pour écrire un manuel scolaire sur le jugement et la décision, destiné aux lycées israéliens. Après un an de travail, il a demandé à chaque membre de l'équipe d'estimer combien de temps il faudrait pour terminer. Les estimations allaient d'un an et demi à deux ans et demi.
+
+Il a ensuite posé une autre question à un membre de l'équipe, spécialiste de l'élaboration de programmes scolaires : combien de temps d'autres équipes avaient-elles mis pour réaliser des projets comparables ? Après réflexion, le spécialiste a répondu qu'environ 40 % de ces équipes n'avaient jamais terminé, et que celles qui avaient terminé avaient mis entre sept et dix ans. Il a ajouté que leur équipe était plutôt moins bien placée que la moyenne.
+
+L'équipe a décidé de continuer malgré tout. Le manuel a été terminé huit ans plus tard, et il n'a jamais été utilisé, car le ministère avait entre-temps changé de priorités.
+
+Kahneman appelle ce phénomène l'**erreur de planification** : la tendance à faire des prévisions trop optimistes, fondées sur le meilleur scénario, en ignorant les statistiques des projets similaires. Il distingue deux manières de prévoir. La **vue intérieure** se concentre sur les particularités du projet : ce que l'équipe sait faire, les étapes prévues, les ressources disponibles. La **vue extérieure** regarde les résultats de projets comparables. La vue intérieure est naturelle, mais elle conduit systématiquement à sous-estimer les délais et les coûts, car elle ignore les imprévus, qui sont nombreux et variés.
+
+Il recommande une méthode appelée prévision par classe de référence : identifier une catégorie de projets comparables, obtenir les statistiques de cette catégorie, puis ajuster en fonction des particularités du projet. Cette méthode a été adoptée dans certains pays pour les grands projets d'infrastructure, dont les dépassements de budget sont fréquents.
+
+> À retenir | Avant d'estimer un délai ou un budget, demandez-vous combien de temps et d'argent ont coûté des projets comparables. Puis ajustez.
+
+--- L'optimisme et la concurrence
+kw: entrepreneurs · excès de confiance
+Kahneman consacre un chapitre à l'optimisme. Il reconnaît que l'optimisme a de nombreux avantages : les optimistes sont plus heureux, plus résistants face aux difficultés et plus persévérants. Mais il souligne que l'optimisme excessif peut conduire à prendre des risques mal évalués.
+
+Il cite des études sur les entrepreneurs. La grande majorité d'entre eux pensent que leurs chances de réussite sont élevées, bien supérieures aux statistiques réelles de survie des nouvelles entreprises. Une part importante pense même que son entreprise n'a aucune chance d'échouer. Kahneman observe que cet optimisme explique en partie pourquoi des personnes créent des entreprises malgré des statistiques défavorables. C'est utile pour la société, car certaines réussissent et créent beaucoup de valeur. Mais c'est souvent coûteux pour les individus.
+
+Il décrit aussi la **négligence de la concurrence**. Lorsque les dirigeants évaluent leurs chances de succès, ils pensent à leurs propres atouts, mais ils oublient que leurs concurrents ont aussi des atouts et qu'ils prennent eux aussi des décisions. Par exemple, un studio de cinéma qui choisit une date de sortie pour un film peut penser que la période est favorable, sans se demander combien d'autres studios ont fait le même raisonnement.
+
+L'optimisme excessif touche aussi les dirigeants financiers. Kahneman cite une étude où des directeurs financiers de grandes entreprises devaient prévoir l'évolution de la bourse sur l'année suivante, avec une fourchette dans laquelle ils étaient sûrs à 80 % de se trouver. Leurs prévisions n'avaient presque aucun lien avec la réalité, et leurs fourchettes étaient beaucoup trop étroites. Ils étaient très confiants dans des prévisions qui ne valaient guère mieux que le hasard.
+
+Kahneman observe enfin que les organisations récompensent souvent l'optimisme et pénalisent le réalisme. Un dirigeant qui annonce des prévisions prudentes paraît moins dynamique qu'un dirigeant qui promet beaucoup. Les experts qui reconnaissent leur incertitude sont moins écoutés que ceux qui affichent leur confiance.
+
+- L'optimisme aide à agir, mais fausse l'évaluation des risques.
+- Pensez à ce que font vos concurrents, pas seulement à vos atouts.
+- Les organisations récompensent souvent la confiance plus que la justesse.
+
+--- Le pré-mortem
+kw: imaginer l'échec · liberté de parole
+Pour réduire l'excès d'optimisme dans les décisions collectives, Kahneman recommande une méthode imaginée par Gary Klein : le **pré-mortem**. Le principe est simple. Lorsqu'une équipe est sur le point de prendre une décision importante, mais avant de s'engager définitivement, on réunit les personnes qui connaissent bien le projet. On leur dit : « Imaginez que nous sommes dans un an. Nous avons mis en œuvre le plan tel qu'il est aujourd'hui. Le résultat a été un désastre. Prenez cinq à dix minutes pour écrire une brève histoire de ce désastre. »
+
+Kahneman explique pourquoi cette méthode fonctionne. Lorsqu'une équipe se rapproche d'une décision, les doutes sont progressivement étouffés. Ceux qui ont des réserves hésitent à les exprimer, de peur de paraître déloyaux ou pessimistes. Le groupe développe une forme d'aveuglement collectif. Le pré-mortem renverse cette dynamique : il rend légitime, et même nécessaire, l'expression des doutes. Il demande aux participants d'utiliser leur imagination pour trouver des failles, ce qui libère des informations que personne n'aurait osé partager.
+
+Le pré-mortem a deux avantages principaux. Il fait remonter des risques que l'équipe n'avait pas envisagés. Et il réduit l'excès de confiance, en obligeant chacun à imaginer concrètement comment les choses pourraient mal tourner.
+
+Kahneman précise que le pré-mortem ne garantit pas une bonne décision. Mais il est simple, rapide et peu coûteux, et il améliore souvent la qualité de la réflexion. Il peut être utilisé pour un lancement de produit, un recrutement important, une réorganisation, un investissement ou un projet informatique.
+
+Pour l'animer efficacement :
+
+- Réunissez les personnes qui connaissent le projet, y compris celles qui ont des réserves.
+- Demandez à chacun d'écrire seul avant de partager, pour éviter que les premiers avis influencent les autres.
+- Recueillez les causes d'échec, puis classez-les par probabilité et gravité.
+- Décidez des actions à prendre pour réduire les risques principaux.
+
+> Exercice | Organisez un pré-mortem de trente minutes avant votre prochaine décision importante. Comptez combien de risques nouveaux apparaissent.
+
+=== Choisir sous le risque
+--- La théorie des perspectives
+kw: point de référence · aversion à la perte
+Kahneman présente ensuite les travaux qui lui ont valu le prix Nobel : la **théorie des perspectives**, développée avec Tversky à la fin des années 1970. Elle décrit la manière dont les personnes prennent réellement des décisions en situation de risque, en s'écartant de la théorie économique classique.
+
+La théorie économique classique suppose que les personnes évaluent les résultats en fonction de leur richesse totale. Kahneman et Tversky ont montré que ce n'est pas le cas. Les personnes évaluent les résultats par rapport à un **point de référence**, souvent la situation actuelle. Ce qui compte, ce n'est pas d'avoir une certaine somme, mais de gagner ou de perdre par rapport à ce point.
+
+Ils ont aussi montré que les pertes pèsent plus lourd que les gains. Kahneman propose une expérience simple : on vous propose de jouer à pile ou face. Si c'est pile, vous perdez 100 euros ; si c'est face, vous gagnez 150 euros. Le pari est favorable : en moyenne, vous gagnez de l'argent. Pourtant, la plupart des personnes refusent. Pour accepter, elles demandent en général un gain potentiel d'environ deux fois la perte. C'est l'**aversion à la perte** : la douleur d'une perte est environ deux fois plus forte que le plaisir d'un gain équivalent.
+
+L'aversion à la perte a de nombreuses conséquences. Elle explique pourquoi les personnes et les organisations résistent au changement : les pertes liées au changement sont plus visibles et plus douloureuses que les gains attendus. Elle explique pourquoi les négociations sont difficiles : chaque partie perçoit ses concessions comme des pertes et celles de l'autre comme des gains, et les pertes pèsent plus lourd. Elle explique aussi pourquoi les salariés réagissent si fortement à une baisse de salaire, même minime.
+
+Kahneman souligne aussi la **sensibilité décroissante** : la différence entre 100 et 200 euros paraît plus grande que la différence entre 1 100 et 1 200 euros, alors qu'elle est la même.
+
+Pour un manager, comprendre l'aversion à la perte aide à mieux conduire le changement : il faut reconnaître explicitement ce que les personnes vont perdre, et pas seulement présenter les gains.
+
+> À retenir | Nous jugeons par rapport à un point de référence, et une perte pèse environ deux fois plus qu'un gain. Tout changement est d'abord perçu comme une perte.
+
+--- L'effet de possession
+kw: ce que l'on a · prix de vente · statu quo
+Un phénomène lié à l'aversion à la perte est l'**effet de possession** : nous accordons plus de valeur à ce que nous possédons qu'à ce que nous ne possédons pas encore.
+
+Kahneman décrit une expérience menée avec l'économiste Richard Thaler et d'autres chercheurs. On distribue des tasses à la moitié des participants d'un groupe. On demande ensuite à ceux qui ont reçu une tasse à quel prix ils seraient prêts à la vendre, et à ceux qui n'en ont pas à quel prix ils seraient prêts à l'acheter. Le prix de vente demandé est en moyenne environ deux fois plus élevé que le prix d'achat proposé. Le simple fait de posséder la tasse depuis quelques minutes augmente sa valeur aux yeux de son propriétaire.
+
+L'effet de possession explique de nombreux comportements. Les propriétaires d'une maison en demandent souvent un prix supérieur à sa valeur de marché. Les investisseurs gardent trop longtemps des actions en perte, parce que les vendre reviendrait à réaliser une perte. Les salariés sont attachés à leurs avantages actuels, même lorsqu'on leur propose des avantages différents de valeur équivalente.
+
+Il est aussi lié au **biais du statu quo** : la tendance à préférer la situation actuelle, même lorsqu'une autre option serait plus avantageuse. Abandonner la situation actuelle est perçu comme une perte, ce qui rend le changement plus difficile.
+
+Kahneman cite des exemples dans le domaine des politiques publiques. Lorsque l'adhésion à un plan d'épargne retraite ou à un registre de don d'organes est automatique, avec possibilité de refuser, la participation est beaucoup plus élevée que lorsqu'il faut faire la démarche d'adhérer. L'option par défaut est perçue comme le point de référence, et la quitter demande un effort.
+
+Pour un manager, ces phénomènes ont deux implications. D'abord, les propositions de changement doivent tenir compte de l'attachement des personnes à la situation actuelle. Ensuite, le choix de l'option par défaut est une décision puissante : dans une organisation, ce qui se fait par défaut a beaucoup plus de chances d'être adopté.
+
+- Posséder une chose augmente sa valeur à nos yeux.
+- Le statu quo est perçu comme le point de référence.
+- Choisir l'option par défaut est une décision très puissante.
+
+--- Le cadrage
+kw: formulation · survie ou mortalité
+L'**effet de cadrage** désigne le fait que la manière de présenter une information influence la décision, même lorsque l'information est la même.
+
+Kahneman et Tversky ont créé une expérience célèbre. On demande aux participants d'imaginer qu'une épidémie menace 600 personnes. Deux programmes sont proposés. Avec le programme A, 200 personnes seront sauvées. Avec le programme B, il y a une chance sur trois que les 600 personnes soient sauvées, et deux chances sur trois que personne ne soit sauvé. La majorité des participants choisit le programme A, l'option sûre.
+
+On présente ensuite le même problème à d'autres participants, avec une formulation différente. Avec le programme C, 400 personnes mourront. Avec le programme D, il y a une chance sur trois que personne ne meure, et deux chances sur trois que les 600 personnes meurent. Cette fois, la majorité choisit le programme D, l'option risquée.
+
+Pourtant, A et C sont identiques, de même que B et D. La seule différence est la formulation : en termes de vies sauvées, les gens préfèrent la certitude ; en termes de morts, ils préfèrent le risque. Le cadrage change le point de référence, et donc la décision.
+
+Kahneman cite aussi une étude menée auprès de médecins. On leur présentait les résultats d'une opération chirurgicale. Lorsque l'on disait que le taux de survie à un mois était de 90 %, une grande majorité recommandait l'opération. Lorsque l'on disait que le taux de mortalité à un mois était de 10 %, nettement moins de médecins la recommandaient. Les experts, comme les autres, sont sensibles au cadrage.
+
+Kahneman souligne que le cadrage n'est pas forcément une manipulation. Toute information doit être présentée d'une certaine manière. Mais les décideurs doivent en être conscients. Il recommande de reformuler les problèmes de plusieurs manières avant de décider, pour vérifier que la décision ne dépend pas de la formulation.
+
+> Exercice | Pour votre prochaine décision importante, formulez les options de deux manières : en termes de gains, puis en termes de pertes. Votre préférence change-t-elle ?
+
+--- Coûts irrécupérables et cadre étroit
+kw: persévérer à tort · portefeuille
+Kahneman décrit deux autres erreurs de décision très courantes dans les organisations.
+
+**Les coûts irrécupérables.** Lorsqu'on a déjà investi beaucoup d'argent, de temps ou d'efforts dans un projet, on a tendance à continuer, même lorsque le projet n'a plus de chances de réussir. Arrêter reviendrait à reconnaître que l'investissement a été perdu, ce qui est douloureux. Kahneman donne un exemple simple : deux personnes ont acheté une place pour un match de basket qui a lieu à une heure de route. Une tempête de neige se déclare. Celle qui a payé sa place a plus tendance à prendre la route que celle qui a reçu sa place gratuitement. Pourtant, l'argent est dépensé dans les deux cas, et le risque est le même.
+
+Dans les organisations, ce biais conduit à poursuivre des projets voués à l'échec. Kahneman souligne que les dirigeants qui ont lancé un projet sont particulièrement exposés, car l'abandonner remet en cause leur jugement. Il recommande de faire réévaluer les projets par des personnes qui n'ont pas participé à leur lancement, et de se demander à chaque étape : si nous n'avions encore rien investi, lancerions-nous ce projet aujourd'hui ?
+
+**Le cadre étroit.** Nous avons tendance à évaluer chaque décision isolément, au lieu de considérer l'ensemble des décisions similaires que nous prenons. Kahneman explique qu'une personne qui refuse un pari favorable parce qu'elle a peur de perdre fait un choix raisonnable si c'est le seul pari de sa vie. Mais si elle a l'occasion de faire de nombreux paris de ce type, elle devrait les accepter tous, car sur l'ensemble, elle gagnera.
+
+Il rapporte une expérience de l'économiste Richard Thaler avec les dirigeants d'une entreprise. Thaler leur avait demandé si chacun accepterait un projet risqué mais favorable pour sa propre division. La plupart refusaient. Il avait demandé ensuite au président s'il voudrait que toutes les divisions acceptent ces projets. Le président avait répondu oui sans hésiter. Sur l'ensemble des divisions, les gains compenseraient largement les pertes.
+
+Kahneman recommande donc de penser en **portefeuille** : considérer ses décisions comme un ensemble, et adopter des règles de décision cohérentes plutôt que de réagir à chaque cas.
+
+- Ce qui est dépensé est dépensé : ne laissez pas le passé décider de l'avenir.
+- Faites réévaluer les projets par des personnes extérieures.
+- Pensez en portefeuille de décisions, pas en cas isolés.
+
+--- Les deux soi
+kw: expérience · souvenir · pic et fin
+La dernière partie du livre s'intéresse au bonheur et au bien-être. Kahneman distingue deux « soi » : le **soi qui vit l'expérience**, qui ressent le plaisir ou la douleur moment après moment, et le **soi qui se souvient**, qui garde une trace de l'expérience et qui prend les décisions pour l'avenir.
+
+Il décrit une étude menée auprès de patients qui subissaient une coloscopie, à une époque où cet examen était douloureux. Les patients notaient leur douleur toutes les minutes. À la fin, on leur demandait d'évaluer l'ensemble de l'examen. Les chercheurs ont découvert que l'évaluation globale ne dépendait pas de la durée de l'examen ni de la douleur totale. Elle dépendait surtout de deux moments : le pic de douleur et la fin de l'examen. C'est la **règle du pic et de la fin**. Un examen plus long, mais qui se terminait de manière moins douloureuse, laissait un meilleur souvenir qu'un examen plus court qui se terminait sur un moment très douloureux.
+
+Kahneman a confirmé ce phénomène par une expérience. Des participants plongeaient une main dans de l'eau froide pendant soixante secondes. Dans un autre essai, ils la plongeaient pendant quatre-vingt-dix secondes, mais l'eau était un peu moins froide pendant les trente dernières secondes. Lorsqu'on leur demandait quel essai ils voulaient répéter, la plupart choisissaient le plus long, qui contenait pourtant plus de douleur au total. Le soi qui se souvient préférait une meilleure fin.
+
+Cette distinction a des conséquences pratiques. Nous prenons nos décisions en fonction de nos souvenirs, et non de nos expériences. Nous choisissons nos vacances, nos emplois ou nos relations en fonction de ce que nous en retenons, qui peut être très différent de ce que nous avons réellement vécu.
+
+Pour un manager, la règle du pic et de la fin s'applique à de nombreuses situations : la fin d'un projet, la conclusion d'une réunion, le départ d'un collaborateur, la dernière impression laissée à un client. Ces moments pèsent de manière disproportionnée dans le souvenir.
+
+Kahneman décrit aussi l'**illusion de focalisation** : lorsque nous pensons à un aspect de notre vie, comme le climat, le salaire ou une nouvelle voiture, nous surestimons son importance pour notre bonheur.
+
+> À retenir | Le souvenir retient surtout le moment le plus intense et la fin. Soignez la fin des projets, des réunions et des relations.
+
+=== Mettre en pratique
+--- Améliorer les décisions d'équipe
+kw: avis indépendants · listes · procédures
+Kahneman insiste sur le fait que les organisations peuvent réduire les erreurs de jugement beaucoup plus efficacement que les individus. Voici des pratiques directement inspirées du livre.
+
+**Recueillir des avis indépendants.** Avant une discussion, demandez à chaque participant d'écrire son avis ou son estimation. Cela évite l'ancrage sur le premier avis exprimé et la pression du groupe. Kahneman recommande aussi de faire parler en premier les personnes les moins gradées.
+
+**Partir de la vue extérieure.** Pour toute estimation de délai, de budget ou de chance de succès, commencez par les statistiques de projets comparables.
+
+**Structurer les évaluations.** Pour les recrutements, les évaluations de projets ou de fournisseurs, définissez à l'avance quelques critères, notez-les séparément et ne formez un jugement global qu'à la fin.
+
+**Organiser un pré-mortem** avant les décisions importantes.
+
+**Désigner un contradicteur.** Demandez à une personne de défendre la position contraire à celle qui domine.
+
+**Reformuler.** Présentez les options de plusieurs manières, en termes de gains et de pertes.
+
+**Juger les décisions sur le processus.** Lorsqu'une décision a échoué, analysez si le raisonnement était bon avec les informations disponibles, avant de chercher des coupables.
+
+**Utiliser des listes de contrôle.** Kahneman a coécrit un article proposant une liste de questions à poser avant une décision importante, par exemple : l'équipe est-elle tombée amoureuse de sa proposition ? Les alternatives ont-elles été sérieusement envisagées ? Les chiffres ont-ils été ancrés sur une référence arbitraire ? Le pire scénario est-il assez pessimiste ?
+
+Ces pratiques demandent un peu plus de temps, mais elles améliorent nettement la qualité des décisions importantes. Elles ne sont pas nécessaires pour les décisions courantes et réversibles.
+
+> À retenir | Avis écrits avant la discussion, vue extérieure, critères notés séparément, pré-mortem. Réservez ces outils aux décisions importantes.
+
+--- Plan d'action sur 30 jours
+kw: une pratique par semaine
+**Semaine 1 : observer.** Relisez la liste des biais et choisissez-en trois que vous pensez rencontrer souvent dans votre travail. Pendant la semaine, notez chaque situation où vous pensez les avoir observés, chez vous ou chez les autres. Repérez aussi les décisions que vous prenez lorsque vous êtes fatigué.
+
+**Semaine 2 : les estimations.** Pour toutes les estimations de la semaine, délais, budgets, chances de succès, appliquez la vue extérieure : cherchez des données sur des cas comparables avant de donner votre chiffre. En réunion, demandez à chacun d'écrire son estimation avant de discuter.
+
+**Semaine 3 : les évaluations.** Pour un recrutement, une évaluation de collaborateur ou un choix de fournisseur, définissez des critères à l'avance et notez-les séparément. Comparez votre conclusion avec votre première impression.
+
+**Semaine 4 : les décisions.** Organisez un pré-mortem avant une décision importante. Formulez les options en termes de gains, puis de pertes. Identifiez un projet en cours que vous poursuivez peut-être à cause des coûts déjà engagés, et posez la question : le lancerions-nous aujourd'hui ?
+
+À la fin du mois, faites le point : quelles pratiques ont changé vos décisions ? Lesquelles voulez-vous intégrer dans les procédures de votre équipe ? Kahneman rappelle que l'objectif n'est pas de supprimer l'intuition, mais de savoir quand s'en méfier.
+
+- Commencez par observer les biais chez les autres, c'est plus facile.
+- Intégrez les pratiques utiles dans les procédures de l'équipe.
+
+--- Cas pratique : le projet qui dérape
+kw: informatique · délais · pré-mortem
+Une entreprise de distribution lance un projet de nouveau logiciel de gestion des stocks. L'équipe projet estime qu'il faudra neuf mois et un budget de 800 000 euros. Le directeur général, enthousiaste, valide rapidement.
+
+**L'erreur de planification.** Après six mois, l'équipe n'a réalisé qu'un tiers du travail. La directrice financière, Sophie, qui a lu Kahneman, demande combien de temps ont pris des projets similaires dans d'autres entreprises. Un consultant indique que les projets comparables durent en moyenne vingt mois et dépassent leur budget d'environ 50 %. L'équipe n'avait pas fait cette recherche.
+
+**Les coûts irrécupérables.** Certains dirigeants veulent continuer coûte que coûte, en invoquant l'argent déjà dépensé. Sophie propose de poser la question autrement : si nous n'avions encore rien investi, lancerions-nous ce projet avec un délai de vingt mois et un budget de 1,2 million ? La réponse est oui, car le logiciel actuel ne sera bientôt plus maintenu. Le projet continue, mais avec des prévisions réalistes.
+
+**Les avis indépendants.** Pour réviser le planning, Sophie demande à chaque membre de l'équipe d'estimer seul la durée des étapes restantes. Les écarts sont importants. La discussion qui suit fait apparaître des difficultés que le chef de projet n'avait pas mentionnées.
+
+**Le pré-mortem.** Avant de valider le nouveau plan, l'équipe imagine que le projet a échoué dans un an. Les causes évoquées incluent le départ d'un développeur clé, la résistance des magasins à utiliser le nouvel outil et une mauvaise qualité des données. L'équipe décide de documenter le travail du développeur clé et d'associer deux responsables de magasin aux tests.
+
+**Le cadrage.** Pour présenter le projet aux magasins, l'équipe parle d'abord de ce que les équipes vont perdre, l'ancien outil familier, puis de ce qu'elles vont gagner.
+
+> Question de réflexion | Pour votre projet en cours le plus important, connaissez-vous la durée réelle des projets comparables ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: réplication · individu · rationalité
+*Système 1 / Système 2* est un livre majeur, mais il a lui aussi ses limites, que Kahneman a en partie reconnues.
+
+**La crise de la réplication.** Comme on l'a vu, plusieurs études citées dans le livre, en particulier sur l'amorçage, n'ont pas pu être reproduites. Kahneman a écrit en 2012 une lettre ouverte aux chercheurs du domaine pour les alerter sur ce problème, puis il a reconnu avoir accordé trop de confiance à des études fragiles. D'autres résultats du livre, comme l'ancrage, l'aversion à la perte ou l'erreur de planification, restent en revanche très solides et ont été reproduits de nombreuses fois.
+
+**Une métaphore à ne pas prendre au pied de la lettre.** Les deux systèmes sont une manière pratique de décrire deux modes de pensée, mais ils ne correspondent pas à deux zones du cerveau. Certains chercheurs critiquent cette séparation, qu'ils jugent trop simple. Kahneman le savait et le disait.
+
+**Une vision pessimiste de l'intuition ?** Certains psychologues, comme Gerd Gigerenzer, reprochent au livre de trop insister sur les erreurs de l'intuition. Ils soulignent que les heuristiques sont souvent très efficaces dans les environnements réels, où l'information est incomplète et le temps limité. Kahneman reconnaît cette efficacité, mais son livre se concentre sur les erreurs, ce qui peut donner une impression déséquilibrée.
+
+**Un livre centré sur l'individu.** Le livre décrit surtout les erreurs des individus. Il parle moins des erreurs des groupes et des organisations. Kahneman a d'ailleurs publié en 2021 un autre livre, *Noise*, avec Olivier Sibony et Cass Sunstein, consacré à un autre type d'erreur : la variabilité des jugements entre des personnes qui devraient juger de la même manière, comme des juges ou des assureurs.
+
+**Un livre long et exigeant.** Avec plus de cinq cents pages, le livre demande du temps. Il gagne à être lu par parties, en testant les expériences proposées.
+
+- Gardez les résultats solides, méfiez-vous des effets d'amorçage spectaculaires.
+- L'intuition se trompe parfois, mais elle est aussi souvent efficace.
+
+--- Liens avec les autres livres
+kw: Drucker · Collins · Christensen · Grove
+**Avec L'Efficacité du dirigeant (Drucker).** Drucker recommandait de commencer les décisions par des opinions plutôt que par des faits, et de rechercher le désaccord. Kahneman donne un fondement scientifique à ces conseils : la recherche de désaccord protège contre le biais de confirmation et l'illusion de validité.
+
+**Avec De la performance à l'excellence (Collins).** Kahneman cite les études comparatives d'entreprises pour illustrer l'illusion narrative et l'effet de halo. Lire les deux livres ensemble est un excellent exercice : les principes de Collins peuvent être utiles, mais il faut garder à l'esprit le rôle de la chance et le risque de reconstruction après coup.
+
+**Avec Le Dilemme de l'innovateur (Christensen).** L'aversion à la perte et l'effet de possession expliquent en partie pourquoi les entreprises établies ont tant de mal à abandonner leurs activités rentables pour investir dans des innovations de rupture. Ce qu'elles possèdent pèse plus lourd que ce qu'elles pourraient gagner.
+
+**Avec High Output Management (Grove).** Grove recommande de suivre les prévisions successives pour un même résultat, afin de mesurer la fiabilité des équipes. C'est une manière pratique de lutter contre l'erreur de planification et l'excès de confiance.
+
+**Avec Ce qui vous a mené jusqu'ici (Goldsmith).** L'illusion du succès décrite par Goldsmith est une forme d'excès de confiance et de biais rétrospectif : les personnes qui réussissent attribuent leur succès à leurs qualités et négligent le rôle de la chance.
+
+> Parcours conseillé | Après ce livre, relisez un livre de management qui vous a marqué en cherchant les biais qu'il contient : illusion narrative, effet de halo, biais du survivant.

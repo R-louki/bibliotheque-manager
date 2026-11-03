@@ -1,0 +1,402 @@
+id: mcchrystal
+t: Team of Teams
+o: Team of Teams
+a: Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell
+y: 2015
+cat: Équipes
+p: ≈ 300 p.
+c: --b1
+ol_author: McChrystal
+center: Une équipe d'équipes
+pitch: Comment une force militaire organisée pour l'efficacité a appris l'adaptabilité : conscience partagée et exécution décentralisée.
+
+=== Contexte et thèse
+--- Un adversaire plus agile
+kw: Irak · 2003 · réseau
+Stanley McChrystal est un général de l'armée américaine. De 2003 à 2008, il commande une force d'opérations spéciales interarmées chargée de lutter contre Al-Qaïda en Irak. Cette force réunit les unités les plus entraînées et les mieux équipées de l'armée américaine. Elle dispose de moyens technologiques considérables et de soldats parmi les plus compétents au monde.
+
+Pourtant, au début, elle perd. Son adversaire est une organisation beaucoup moins puissante, avec des moyens limités. Mais il est organisé en **réseau** : de petites cellules, reliées de manière souple, capables d'agir rapidement sans attendre d'ordres, de se reconstituer quand l'une est détruite, et de s'adapter sans cesse. Les attaques se multiplient, et la force de McChrystal n'arrive pas à suivre.
+
+McChrystal et ses officiers comprennent que le problème n'est pas un manque de compétence, ni un manque de moyens. Le problème est la **structure** de leur organisation. Elle a été conçue pour un autre type de guerre, dans un monde plus prévisible. Elle est efficace, mais pas assez rapide ni assez adaptable.
+
+Ils décident alors de transformer profondément leur manière de fonctionner. Le livre raconte cette transformation, et en tire des leçons pour toutes les organisations confrontées à un environnement complexe et changeant.
+
+*Team of Teams*, publié en 2015, a été écrit par McChrystal avec trois coauteurs : Tantum Collins, David Silverman et Chris Fussell, ce dernier ancien officier des forces spéciales qui a servi à ses côtés. Le livre mêle le récit militaire et de nombreux exemples tirés de l'histoire, de l'industrie, des sciences et du sport.
+
+> À retenir | Une force puissante et compétente perdait contre un réseau agile. Le problème n'était pas la compétence, mais la structure.
+
+--- Efficacité ou adaptabilité
+kw: Taylor · prévoir · réagir
+Les auteurs remontent aux origines de l'organisation moderne. Au début du XXe siècle, Frederick Taylor a révolutionné l'industrie avec le management scientifique. Il découpait le travail en tâches simples, mesurait chaque geste et cherchait la manière la plus efficace de les accomplir. Les ouvriers exécutaient, les ingénieurs et les managers concevaient et contrôlaient.
+
+Cette approche a produit des gains de productivité extraordinaires. Elle a façonné les usines, puis les bureaux, les administrations et les armées. La plupart des organisations actuelles en héritent : des structures hiérarchiques, des services spécialisés, des procédures précises, une séparation entre ceux qui pensent et ceux qui exécutent.
+
+McChrystal explique que ce modèle est conçu pour l'**efficacité** : faire les choses de la meilleure manière connue, avec le moins de ressources possible. Il fonctionne très bien quand l'environnement est stable et prévisible, quand on peut planifier à l'avance et quand les mêmes tâches se répètent.
+
+Mais il fonctionne mal quand l'environnement devient instable et imprévisible. Une organisation optimisée pour l'efficacité est rigide. Elle a du mal à réagir à des situations nouvelles, parce que ses procédures ne les ont pas prévues, et parce que l'information et les décisions doivent passer par de nombreux niveaux.
+
+Les auteurs proposent de remplacer l'objectif d'efficacité par celui d'**adaptabilité** : la capacité à réagir rapidement et intelligemment à des situations qu'on ne pouvait pas prévoir. L'efficacité reste utile, mais elle ne suffit plus.
+
+- Le modèle de Taylor vise l'efficacité dans un monde prévisible.
+- Il devient rigide quand le monde devient imprévisible.
+- L'objectif doit passer de l'efficacité à l'adaptabilité.
+
+--- Les limites de la planification
+kw: plans · prévision · réaction
+McChrystal décrit comment l'armée, comme beaucoup d'organisations, s'est construite autour de la **planification**. Les états-majors préparent des plans détaillés, qui décrivent les objectifs, les moyens, les étapes et les responsabilités. Ces plans passent par de nombreux niveaux de validation avant d'être exécutés.
+
+Ce modèle fonctionne quand l'adversaire est prévisible et que la situation évolue lentement. Il permet de coordonner de grandes quantités de personnes et de moyens. Mais face à un adversaire en réseau, qui change sans cesse de tactique, les plans sont dépassés avant même d'être validés.
+
+Les auteurs citent une idée souvent attribuée à un stratège militaire prussien du XIXe siècle : aucun plan ne survit au premier contact avec l'ennemi. Mais ils vont plus loin. Dans un environnement complexe, ce n'est pas seulement que les plans doivent être ajustés. C'est que la logique même de la planification détaillée devient inadaptée.
+
+Ils décrivent les effets pervers de la planification excessive. Les équipes consacrent beaucoup de temps à préparer des plans au lieu d'agir. Les décisions remontent pour être validées, ce qui prend du temps. Les personnes sur le terrain, qui voient la situation changer, n'ont pas l'autorité pour adapter le plan.
+
+McChrystal ne propose pas d'abandonner toute planification. Il faut toujours des objectifs, des priorités et une coordination. Mais la planification doit devenir plus légère, plus fréquente et plus décentralisée. L'essentiel n'est plus de prévoir, mais de pouvoir réagir rapidement à ce qui se passe.
+
+Il souligne que ce changement est difficile pour les officiers formés à la planification, qui y voient une marque de professionnalisme.
+
+- Dans un environnement complexe, les plans détaillés sont vite dépassés.
+- Planifier plus léger, plus souvent, plus près du terrain.
+- L'essentiel devient la capacité de réaction.
+
+--- Compliqué ou complexe
+kw: prévisible · interactions · imprévisible
+Pour expliquer pourquoi le monde a changé, les auteurs distinguent deux types de systèmes : les systèmes **compliqués** et les systèmes **complexes**.
+
+Un système **compliqué** comporte beaucoup d'éléments, mais leurs relations sont prévisibles. Un moteur de voiture, par exemple, a des centaines de pièces, mais un ingénieur peut comprendre comment elles fonctionnent ensemble et prévoir le comportement du moteur. On peut le démonter, l'analyser et le réparer.
+
+Un système **complexe** comporte des éléments qui interagissent de manière nombreuse et changeante, si bien que son comportement global devient imprévisible. La météo, un écosystème, un marché financier, une épidémie sont des systèmes complexes. De petites causes peuvent avoir de grands effets, et il est impossible de prévoir précisément leur évolution, même avec beaucoup d'information.
+
+McChrystal explique que le monde est devenu de plus en plus complexe, en particulier sous l'effet des technologies de l'information. L'information circule instantanément, les personnes et les organisations sont reliées en permanence, et les événements se propagent très vite. Un réseau terroriste peut coordonner des attaques grâce aux téléphones portables et à internet. Une rumeur peut faire chuter une entreprise en quelques heures.
+
+Dans un environnement complexe, la planification détaillée perd de sa valeur, parce que les prévisions sont souvent fausses. Ce qui compte, c'est la capacité à percevoir rapidement ce qui se passe et à réagir.
+
+Les auteurs soulignent une conséquence importante : les organisations conçues pour gérer la complication, avec des experts, des procédures et des plans, ne sont pas adaptées à la complexité.
+
+> Question clé | Votre environnement est-il compliqué, donc prévisible avec assez d'analyse, ou complexe, donc imprévisible quelle que soit l'analyse ?
+
+=== Des équipes, pas des machines
+--- Ce qui rend une équipe efficace
+kw: confiance · but commun · Navy SEAL
+Avant de décrire la transformation de leur organisation, les auteurs s'intéressent à ce qui rend une **équipe** efficace.
+
+Ils prennent l'exemple des unités de forces spéciales, comme les Navy SEAL. Ces petites équipes sont capables de s'adapter en temps réel à des situations imprévues, au cœur des combats. Pourquoi ? Ce n'est pas seulement parce que leurs membres sont très bien entraînés individuellement. C'est surtout parce qu'ils se **connaissent parfaitement** et se font **confiance**.
+
+Les auteurs décrivent la formation des SEAL. Elle est extrêmement exigeante physiquement, mais son but principal n'est pas de sélectionner les individus les plus forts. C'est de créer des liens de confiance entre les membres de l'équipe, à travers des épreuves partagées. Chaque candidat apprend que sa survie dépend des autres, et que celle des autres dépend de lui.
+
+Dans une équipe de ce type, chaque membre comprend la situation globale, pas seulement sa propre tâche. Il sait ce que font les autres, et peut anticiper leurs actions. Quand quelque chose d'imprévu se produit, l'équipe s'adapte sans attendre d'ordres, parce que chacun sait ce qu'il faut faire pour atteindre le **but commun**.
+
+McChrystal souligne la différence entre une équipe et un **commandement**. Dans un commandement, les rôles sont strictement définis, les instructions viennent d'en haut, et chacun fait ce qu'on lui demande. Dans une équipe, les rôles sont plus souples, l'information est partagée, et les membres coordonnent leurs actions entre eux.
+
+Il cite aussi d'autres exemples d'équipes efficaces, dans la médecine, l'aviation ou le sport, où la confiance et la compréhension partagée permettent de réagir rapidement.
+
+> À retenir | Une équipe s'adapte parce que ses membres se font confiance et comprennent tous le but et la situation, pas seulement leur tâche.
+
+--- Le problème des grandes organisations
+kw: silos · équipes isolées · coordination
+Le problème, expliquent les auteurs, est que la magie des petites équipes ne s'étend pas naturellement à une grande organisation.
+
+La force de McChrystal était composée d'excellentes équipes. Chacune, prise isolément, était très efficace et très adaptable. Mais elles fonctionnaient comme des **silos**. Les équipes de commandos, les analystes du renseignement, les spécialistes de l'interrogatoire, les unités aériennes, les agences civiles partenaires travaillaient chacun de leur côté, avec leurs propres méthodes, leur propre culture, et une méfiance mutuelle.
+
+L'information circulait mal entre elles. Par exemple, les commandos capturaient des documents et des téléphones lors d'un raid. Ces éléments étaient envoyés aux analystes, qui les traitaient selon leurs propres priorités, parfois des semaines plus tard. Quand l'information était enfin exploitée, elle était souvent périmée. Pendant ce temps, l'adversaire s'était adapté.
+
+Les auteurs observent que chaque équipe avait une forte cohésion interne, mais une faible confiance envers les autres équipes. Chacune pensait que les autres ne comprenaient pas sa mission, ne partageaient pas assez, ou travaillaient mal. Cette méfiance était renforcée par la structure, qui ne faisait se rencontrer les équipes qu'au sommet de la hiérarchie.
+
+Ils décrivent l'organisation comme une **chaîne de commandement d'équipes** : des équipes efficaces, reliées entre elles uniquement par la hiérarchie. Toute coordination devait remonter jusqu'au sommet, puis redescendre. Ce fonctionnement était beaucoup trop lent face à un adversaire en réseau.
+
+- Des équipes excellentes peuvent former une organisation lente.
+- La confiance s'arrête aux frontières de l'équipe.
+- La coordination par le haut est trop lente.
+
+--- Une équipe d'équipes
+kw: réseau · liens entre équipes · structure
+La solution proposée par McChrystal est de transformer l'organisation en une **équipe d'équipes**.
+
+L'idée n'est pas de transformer toute l'organisation en une seule grande équipe. C'est impossible : une équipe fonctionne grâce à la connaissance mutuelle et à la confiance entre ses membres, ce qui n'est possible qu'avec un nombre limité de personnes. Une organisation de plusieurs milliers de personnes ne peut pas être une équipe.
+
+En revanche, on peut faire en sorte que les **équipes** entretiennent entre elles des relations semblables à celles qui existent entre les membres d'une équipe. Chaque équipe connaît suffisamment les autres équipes, leur mission, leurs méthodes, leurs contraintes, pour leur faire confiance et coordonner ses actions avec elles directement, sans passer par le sommet.
+
+Pour y parvenir, il n'est pas nécessaire que chaque membre de chaque équipe connaisse tous les autres. Il suffit que chaque membre ait au moins une relation de confiance avec quelqu'un dans chacune des autres équipes avec lesquelles il travaille. Les liens entre équipes forment alors un réseau.
+
+Les auteurs comparent la structure traditionnelle à un arbre, où chaque branche ne communique avec les autres qu'en passant par le tronc, et la nouvelle structure à un réseau, où les branches sont reliées entre elles directement.
+
+Ils soulignent que cette transformation ne supprime pas la hiérarchie. Il y a toujours un commandant, des responsables, des niveaux. Mais la hiérarchie n'est plus le seul canal de coordination. Elle est complétée par un réseau de relations horizontales.
+
+> À retenir | Pas une seule grande équipe, mais des équipes reliées par des liens de confiance, comme les membres d'une équipe entre eux.
+
+--- La confiance entre équipes
+kw: méfiance · tribus · connaître l'autre
+Les auteurs consacrent une réflexion à la manière dont la confiance se construit, ou ne se construit pas, entre les équipes.
+
+Ils observent que les équipes très soudées développent souvent une forte identité, presque tribale. Leurs membres sont fiers de leur unité, de leurs compétences et de leur histoire. Cette fierté est une force : elle crée la cohésion et l'engagement. Mais elle a un revers : elle peut engendrer de la méfiance, voire du mépris, envers les autres équipes.
+
+Dans la force de McChrystal, ce phénomène était très visible. Chaque unité considérait que les autres étaient moins compétentes ou moins engagées. Les commandos se méfiaient des analystes, les analystes des commandos, les militaires des agences civiles, et réciproquement. Ces préjugés compliquaient la coopération.
+
+Les auteurs expliquent que la méfiance entre équipes vient souvent de l'**ignorance**. Les équipes ne connaissent pas le travail des autres, leurs contraintes, leurs difficultés. Elles jugent leurs résultats sans comprendre ce qui les produit.
+
+Ils soulignent que la confiance ne se décrète pas. Elle se construit par des **contacts répétés** et par l'expérience de la fiabilité de l'autre. C'est pourquoi les échanges de personnes, les réunions communes et le travail côte à côte sont essentiels.
+
+McChrystal note que le rôle du dirigeant est aussi de **valoriser la coopération**. Si seules les réussites des équipes individuelles sont reconnues et récompensées, chacune protégera ses propres intérêts. Il faut reconnaître publiquement les contributions des équipes qui aident les autres.
+
+> Question clé | Quelle équipe de votre organisation est jugée sévèrement par la vôtre, sans que vous connaissiez vraiment ses contraintes ?
+
+=== La conscience partagée
+--- Tout le monde voit tout
+kw: transparence · système · besoin de savoir
+Le premier pilier de la transformation est la **conscience partagée** (*shared consciousness*). Il s'agit de faire en sorte que chaque membre de l'organisation comprenne la situation globale, et pas seulement sa propre partie.
+
+Dans les organisations militaires traditionnelles, l'information circule selon le principe du **besoin d'en connaître** : chacun reçoit seulement les informations nécessaires à sa mission, pour des raisons de sécurité. Ce principe protège les secrets, mais il empêche les personnes de voir le tableau d'ensemble. Elles ne peuvent pas repérer les liens entre leur travail et celui des autres, ni anticiper les besoins des autres équipes.
+
+McChrystal décide d'inverser la logique. Il veut que l'information soit partagée aussi largement que possible, au-delà de ce qui semblait raisonnable. Il considère que le risque de fuite est réel, mais que le risque de ne pas partager est plus grand : celui de perdre la guerre faute de coordination.
+
+Il explique que l'objectif est que chaque équipe comprenne non seulement ce qu'elle doit faire, mais **comment son travail s'inscrit dans l'ensemble**. Un commando qui comprend comment les analystes exploitent les documents saisis fera plus attention à les collecter et à les transmettre rapidement. Un analyste qui comprend les contraintes des commandos produira des renseignements plus utiles.
+
+Les auteurs font le parallèle avec les **systèmes**. Dans un système complexe, chaque élément doit comprendre l'ensemble pour agir de manière cohérente. La conscience partagée est ce qui permet à une organisation décentralisée de rester coordonnée.
+
+> Question clé | Votre équipe comprend-elle comment son travail s'inscrit dans celui des autres équipes, ou seulement sa propre mission ?
+
+--- Le point quotidien
+kw: réunion · milliers · chaque jour
+L'outil le plus spectaculaire de la conscience partagée est une réunion quotidienne, que McChrystal appelle le point **opérations et renseignement** (*O&I*).
+
+Chaque jour, pendant environ une heure et demie, des milliers de personnes se connectent par visioconférence et par téléphone, depuis de nombreux pays : les commandos sur le terrain, les analystes du renseignement, les responsables des autres agences, les partenaires étrangers, les commandants. Le point est diffusé dans toute l'organisation.
+
+Au cours de cette réunion, les différentes équipes présentent brièvement ce qu'elles ont fait, ce qu'elles ont appris et ce dont elles ont besoin. Le commandant pose des questions, souligne les liens entre les informations, remercie, et partage sa propre compréhension de la situation.
+
+McChrystal explique que cette réunion a plusieurs effets. Elle diffuse l'information très rapidement à toute l'organisation. Elle permet à chacun de voir le tableau d'ensemble. Elle crée des relations entre des personnes qui ne se seraient jamais rencontrées. Elle montre l'exemple : quand le commandant partage ouvertement les informations et admet ce qu'il ne sait pas, les autres font de même.
+
+Il souligne l'importance du **comportement du commandant** pendant ces réunions. S'il critique durement une équipe qui présente un échec, plus personne n'osera partager ses difficultés. Il a donc appris à écouter, à poser des questions ouvertes, à remercier et à valoriser les contributions. Il raconte qu'il s'efforçait de montrer de l'intérêt et de la curiosité, même quand il était fatigué ou contrarié.
+
+Il précise que la réunion n'était pas un lieu de décision détaillée. Elle servait à créer une compréhension commune, à partir de laquelle les équipes prenaient leurs propres décisions.
+
+- Une réunion quotidienne ouverte à des milliers de personnes.
+- Chaque équipe partage ce qu'elle a fait, appris, et ce dont elle a besoin.
+- Le comportement du chef détermine ce que les autres osent dire.
+
+--- Les échanges d'officiers de liaison
+kw: embarquer · confiance · relations
+Un autre outil de la conscience partagée est l'**échange de personnes** entre les équipes et les organisations.
+
+McChrystal décrit deux pratiques. La première consiste à envoyer des membres d'une équipe passer plusieurs mois dans une autre équipe. Par exemple, un commando passe du temps avec une équipe d'analystes, ou un analyste accompagne une unité de terrain. Il découvre leur travail, leurs contraintes, leur culture. À son retour, il sert de lien entre les deux équipes.
+
+La seconde pratique consiste à placer des **officiers de liaison** dans les agences partenaires, comme les services de renseignement, la police fédérale ou les ambassades. McChrystal raconte qu'il a choisi pour ces postes certains de ses meilleurs officiers, plutôt que des personnes dont on voulait se débarrasser, comme c'était souvent le cas. Ce choix a montré l'importance accordée à ces relations, et a permis de construire une vraie confiance avec les partenaires.
+
+Les auteurs expliquent que ces échanges ont un effet profond sur la confiance. Les équipes ne se méfient plus d'abstractions, comme « les analystes » ou « l'autre agence », mais connaissent des personnes précises, dont elles ont partagé le travail. Elles comprennent mieux pourquoi les autres agissent comme ils le font.
+
+Ils soulignent que ces pratiques coûtent cher à court terme. Une équipe qui envoie l'un de ses meilleurs membres dans une autre équipe se prive de ses compétences pendant plusieurs mois. Mais à long terme, les gains en coordination et en rapidité sont bien supérieurs.
+
+> À retenir | Faire vivre des personnes dans d'autres équipes transforme la méfiance envers un groupe en confiance envers des personnes.
+
+=== L'exécution décentralisée
+--- Donner l'autorité au terrain
+kw: décider vite · temps perdu · autorité
+Le second pilier de la transformation est l'**exécution décentralisée** (*empowered execution*). Une fois que chacun comprend la situation globale grâce à la conscience partagée, il devient possible de confier les décisions aux personnes les plus proches de l'action.
+
+McChrystal raconte un constat qui l'a frappé. De nombreuses décisions opérationnelles, comme le lancement d'une opération, remontaient jusqu'à lui pour approbation. Le processus prenait du temps : il fallait préparer les dossiers, le joindre, lui expliquer la situation. Pendant ce temps, l'occasion disparaissait parfois. Et quand il donnait son accord, il le faisait souvent sans rien apporter de plus, parce que les équipes connaissaient la situation mieux que lui.
+
+Il décide alors de **déléguer** une grande partie de ces décisions aux commandants de niveau inférieur. Il leur demande de prendre les décisions eux-mêmes, en l'informant si nécessaire, mais sans attendre son approbation. Il leur fait confiance, parce qu'ils disposent de la même compréhension de la situation que lui, grâce à la conscience partagée.
+
+Il explique que cette délégation a considérablement accéléré l'organisation. Les opérations sont lancées plus vite, au moment où les informations sont encore valables. Le nombre d'opérations menées augmente fortement. Et la qualité des décisions ne diminue pas, au contraire.
+
+Il formule un principe : il faut **déléguer jusqu'à ce que cela devienne inconfortable**, puis encore un peu. Le dirigeant doit accepter de ne pas tout contrôler, et de voir des décisions prises différemment de ce qu'il aurait fait.
+
+> Question clé | Quelles décisions remontent jusqu'à vous sans que vous y apportiez réellement quelque chose ?
+
+--- Pas l'un sans l'autre
+kw: partager puis déléguer · cohérence
+Les auteurs insistent sur un point : la conscience partagée et l'exécution décentralisée ne fonctionnent qu'**ensemble**.
+
+Une organisation qui délègue les décisions sans partager l'information obtient le chaos. Chaque équipe décide selon sa vision partielle de la situation, et les décisions se contredisent. C'est le risque que redoutent les dirigeants qui hésitent à déléguer.
+
+À l'inverse, une organisation qui partage largement l'information mais garde les décisions au sommet ne gagne rien en rapidité. Elle produit des personnes bien informées, mais frustrées de ne pas pouvoir agir.
+
+C'est la combinaison des deux qui produit l'adaptabilité. Grâce à la conscience partagée, chaque équipe comprend la situation globale et les objectifs. Grâce à l'exécution décentralisée, elle peut agir immédiatement. Les décisions sont prises rapidement, au plus près du terrain, et restent cohérentes avec l'ensemble.
+
+Les auteurs comparent ce fonctionnement à celui d'un organisme vivant, ou à une équipe de sport collectif. Chaque joueur prend ses propres décisions en fonction de ce qu'il voit, mais il voit aussi l'ensemble du jeu et connaît le plan de l'équipe. Il n'attend pas les instructions de l'entraîneur pour chaque passe.
+
+Ils soulignent aussi que l'ordre compte. Il faut d'abord construire la conscience partagée, pour que les personnes aient la compréhension nécessaire. Ensuite seulement, on peut déléguer de manière large et sûre.
+
+- Déléguer sans partager produit le chaos.
+- Partager sans déléguer ne fait rien gagner.
+- D'abord la conscience partagée, puis la délégation.
+
+--- L'espace et les outils
+kw: quartier général · écrans · proximité
+McChrystal raconte comment l'aménagement physique de son quartier général a contribué à la transformation de l'organisation.
+
+À l'origine, les différentes équipes travaillaient dans des bureaux séparés, parfois dans des bâtiments différents. Chacune avait ses propres outils, ses propres systèmes d'information, ses propres réunions. Les échanges entre elles passaient par des procédures formelles.
+
+McChrystal décide de réorganiser l'espace. Les équipes sont rassemblées dans un grand espace ouvert, souvent comparé à une salle de rédaction de journal. Au centre, de grands écrans affichent les informations importantes : les opérations en cours, les dernières découvertes du renseignement, les cartes. Chacun peut voir ce que font les autres, et se déplacer facilement pour poser une question.
+
+Il explique que cette proximité physique a favorisé des échanges spontanés, impossibles dans l'organisation précédente. Un analyste qui découvre une information peut la signaler immédiatement à l'équipe d'opérations assise à quelques mètres. Les membres des différentes équipes apprennent à se connaître en partageant le même espace au quotidien.
+
+Les outils de communication jouent aussi un rôle important. La force investit massivement dans les liaisons vidéo, les réseaux informatiques sécurisés et les bases de données partagées, pour que les équipes dispersées dans plusieurs pays puissent partager l'information en temps réel.
+
+Les auteurs soulignent toutefois que les outils ne suffisent pas. Un espace ouvert où les équipes continuent à travailler chacune de son côté ne change rien. Les outils sont utiles seulement s'ils s'accompagnent d'une volonté de partager et d'une culture de coopération.
+
+- Rassembler les équipes dans un espace commun.
+- Afficher l'information importante pour tous.
+- Les outils servent la culture, ils ne la remplacent pas.
+
+=== Le leader jardinier
+--- Du joueur d'échecs au jardinier
+kw: créer les conditions · ne pas tout contrôler
+McChrystal décrit le changement de son propre rôle. Au début de sa carrière, il se voyait comme un **joueur d'échecs** : il analysait la situation, décidait de chaque mouvement, et ses subordonnés exécutaient. C'est l'image traditionnelle du chef militaire, et plus largement du dirigeant.
+
+Il comprend progressivement que ce modèle ne fonctionne plus dans un environnement complexe. Il ne peut pas connaître tous les détails, ni décider de tout assez vite. Il adopte alors une autre image : celle du **jardinier**.
+
+Un jardinier ne fait pas pousser les plantes lui-même. Il ne peut pas tirer sur une tige pour la faire grandir plus vite. Son rôle est de **créer les conditions** dans lesquelles les plantes peuvent pousser : préparer le sol, arroser, désherber, protéger contre les parasites, tailler quand c'est nécessaire. Ensuite, les plantes poussent d'elles-mêmes.
+
+Pour le dirigeant, cela signifie se concentrer sur l'**environnement** de l'organisation : sa structure, sa culture, la circulation de l'information, les relations entre les équipes. Il doit s'assurer que les personnes disposent de l'information, des ressources et de l'autorité nécessaires pour agir. Il doit entretenir la confiance et la conscience partagée.
+
+McChrystal reconnaît que ce changement a été difficile pour lui. Il avait été formé et récompensé pour décider. Abandonner le contrôle direct lui demandait un effort constant. Il devait résister à l'envie d'intervenir dans les décisions de ses subordonnés.
+
+Il souligne que le rôle de jardinier n'est pas passif. Il demande beaucoup de travail, d'attention et de présence. Mais ce travail porte sur les conditions, pas sur les décisions individuelles.
+
+> À retenir | Le dirigeant ne fait pas pousser les plantes : il crée les conditions pour qu'elles poussent seules.
+
+--- Montrer l'exemple
+kw: attention · comportement · symbole
+McChrystal explique que, dans le rôle de jardinier, le **comportement personnel** du dirigeant devient particulièrement important. Tout ce qu'il fait envoie un message à l'organisation.
+
+Il raconte comment il a pris conscience de l'effet de ses moindres réactions. Pendant les réunions quotidiennes, des milliers de personnes l'observaient. S'il paraissait distrait ou s'il regardait ses messages, les participants en concluaient que la réunion n'était pas importante. S'il réagissait durement à une mauvaise nouvelle, ils apprenaient à cacher les problèmes.
+
+Il a donc adopté plusieurs pratiques.
+
+**Être attentif.** Il écoutait chaque présentation avec attention, posait des questions précises, et montrait qu'il avait compris.
+
+**Remercier.** Il remerciait systématiquement les personnes qui partageaient des informations, en particulier quand il s'agissait de mauvaises nouvelles ou d'erreurs.
+
+**Admettre ce qu'il ne savait pas.** Il disait ouvertement quand il ne savait pas, ou quand il s'était trompé, pour que les autres osent faire de même.
+
+**Être accessible.** Il répondait personnellement à de nombreux messages, se déplaçait sur le terrain, rencontrait des personnes de tous niveaux.
+
+**Être cohérent.** Il appliquait lui-même les principes qu'il demandait aux autres, notamment le partage de l'information.
+
+Il souligne que ces comportements, répétés chaque jour, ont été plus efficaces que tous les discours. Une organisation apprend ce qui est valorisé en observant ce que fait le chef, pas en écoutant ce qu'il dit.
+
+- Chaque réaction du chef est observée et interprétée.
+- Remercier, admettre, écouter, être accessible.
+- Les comportements répétés valent plus que les discours.
+
+=== Au-delà de l'armée
+--- Exemples civils
+kw: hôpital · NASA · avion
+Les auteurs montrent que les leçons de leur expérience valent pour d'autres organisations. Ils s'appuient sur plusieurs exemples.
+
+**L'aviation.** Ils évoquent l'amerrissage d'urgence d'un avion de ligne sur le fleuve Hudson, à New York, en 2009, après que les deux moteurs ont été endommagés par des oiseaux. L'équipage a réagi en quelques minutes, sans procédure prévue pour cette situation exacte. Les auteurs y voient l'exemple d'une équipe très entraînée, qui partage une compréhension commune et coordonne ses actions sans hiérarchie lourde.
+
+**La NASA.** Ils décrivent les difficultés de coordination entre les nombreuses équipes et entreprises qui travaillaient sur les programmes spatiaux, et les solutions trouvées, à certaines époques, pour faire circuler l'information entre elles.
+
+**L'industrie automobile.** Ils évoquent les problèmes d'une grande entreprise automobile où des informations sur un défaut de sécurité étaient connues de certaines équipes, mais n'avaient pas circulé jusqu'aux personnes qui auraient pu agir. Ce type de défaillance, selon eux, est typique des organisations en silos.
+
+**Les hôpitaux.** Ils décrivent des équipes médicales, notamment aux urgences ou en chirurgie, où la confiance, la communication et la compréhension partagée de la situation sont essentielles pour réagir aux situations imprévues.
+
+Les auteurs soulignent que, dans tous ces cas, les échecs ne viennent généralement pas d'un manque de compétence individuelle, mais d'un manque de partage d'information et de coordination entre les équipes. Et les réussites viennent de la combinaison de la confiance, de la conscience partagée et de la capacité à décider au plus près de l'action.
+
+> Question clé | Dans votre organisation, quelle information connue d'une équipe aurait pu éviter un problème si elle avait atteint une autre ?
+
+--- Les résistances au changement
+kw: contrôle · sécurité · identité
+Les auteurs ne cachent pas que la transformation a rencontré de nombreuses résistances, et ils les décrivent pour aider d'autres organisations à les anticiper.
+
+**La peur de perdre le contrôle.** De nombreux officiers supérieurs étaient inquiets de voir les décisions descendre vers des niveaux inférieurs. Ils craignaient des erreurs graves, dont ils seraient tenus responsables.
+
+**Les préoccupations de sécurité.** Partager largement des informations sensibles allait à l'encontre de règles et d'habitudes profondément ancrées. Certains responsables craignaient des fuites qui pourraient mettre des vies en danger.
+
+**L'attachement à l'identité des équipes.** Les unités d'élite étaient fières de leur autonomie et de leur culture. Elles voyaient d'un mauvais œil les échanges de personnes et le partage de leurs informations avec d'autres.
+
+**Le coût en temps.** La réunion quotidienne, les échanges, la coordination demandaient beaucoup de temps à des personnes déjà très sollicitées.
+
+**Les structures extérieures.** La force travaillait avec d'autres organisations, ministères, agences, armées étrangères, qui fonctionnaient selon leurs propres règles et n'étaient pas toujours prêtes à changer.
+
+McChrystal explique comment ces résistances ont été surmontées progressivement. Il a montré l'exemple, en partageant lui-même largement. Il a choisi des personnes influentes pour porter le changement. Il a mis en avant les résultats concrets, comme l'augmentation du nombre d'opérations réussies. Et il a accepté que certains risques étaient le prix de l'adaptabilité.
+
+> À retenir | Peur de perdre le contrôle, craintes de sécurité, fierté des équipes, coût en temps : les résistances se surmontent par l'exemple et les résultats.
+
+--- Construire sa propre équipe d'équipes
+kw: liens · rituels · espaces
+Les auteurs proposent quelques pistes pour les organisations qui veulent adopter leur approche.
+
+**Partager l'information plus largement.** Remettre en question les règles de confidentialité et les circuits d'information. Se demander quelles informations pourraient être partagées avec toute l'organisation.
+
+**Créer des rituels de conscience partagée.** Une réunion régulière, ouverte largement, où les équipes présentent leurs activités, leurs découvertes et leurs besoins. Elle n'a pas besoin de réunir des milliers de personnes, mais elle doit dépasser les frontières habituelles des équipes.
+
+**Organiser des échanges de personnes.** Faire passer du temps à des membres d'une équipe dans une autre, ou placer des personnes de liaison dans les équipes partenaires.
+
+**Aménager les espaces.** McChrystal raconte avoir réorganisé son quartier général en un grand espace ouvert, où les différentes équipes travaillaient à proximité, avec des écrans partagés. Cette proximité physique facilitait les échanges spontanés.
+
+**Déléguer progressivement.** Une fois l'information partagée, confier davantage de décisions aux équipes, en commençant par celles qui remontent le plus souvent sans valeur ajoutée.
+
+**Adapter son propre comportement.** Le dirigeant doit montrer l'exemple : partager, écouter, remercier, admettre ses erreurs.
+
+Les auteurs soulignent que la transformation prend du temps et rencontre des résistances. Les équipes sont attachées à leur autonomie et à leurs informations. Les managers sont attachés à leur contrôle. Il faut persévérer, et montrer rapidement les bénéfices.
+
+- Partager plus, créer des rituels, échanger des personnes.
+- Rapprocher physiquement les équipes.
+- Déléguer une fois l'information partagée.
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · partager · déléguer
+**Semaine 1 : cartographier les silos.** Listez les équipes avec lesquelles la vôtre travaille. Pour chacune, notez ce que vous savez de sa mission, de ses contraintes et de ses priorités. Identifiez les informations qui circulent mal entre vous.
+
+**Semaine 2 : la conscience partagée.** Mettez en place un point régulier, court, ouvert aux équipes partenaires, où chacun partage ce qu'il fait, ce qu'il a appris et ce dont il a besoin. Partagez plus largement une information que vous gardiez jusqu'ici pour vous.
+
+**Semaine 3 : les liens.** Organisez un échange : un membre de votre équipe passe une journée dans une équipe partenaire, et inversement. Identifiez dans chaque équipe partenaire une personne de contact privilégiée.
+
+**Semaine 4 : déléguer.** Listez les décisions qui remontent jusqu'à vous. Choisissez-en deux ou trois que vous confiez désormais à l'équipe, en vous assurant qu'elle dispose de l'information nécessaire. Observez votre propre comportement lors des réunions : remerciez-vous les mauvaises nouvelles ?
+
+Les auteurs rappellent que l'objectif n'est pas de supprimer la hiérarchie, mais de la compléter par un réseau de relations et d'information.
+
+> À retenir | Voir les silos, partager l'information, créer des liens, puis déléguer. Le chef en jardinier.
+
+--- Cas pratique : l'hôpital
+kw: urgences · lits · coordination
+Dans un hôpital régional, les urgences sont régulièrement saturées. Les patients qui doivent être hospitalisés attendent des heures sur des brancards, faute de lit disponible dans les services. Chaque service fonctionne bien de son côté, mais la coordination est mauvaise. Le directeur des soins, Paul, décide de s'inspirer de *Team of Teams*.
+
+**Le constat.** Les urgences ne savent pas quels lits vont se libérer dans la journée. Les services ne savent pas combien de patients arrivent des urgences. Les informations remontent à la direction, qui arbitre en fin de matinée, souvent trop tard.
+
+**La conscience partagée.** Paul instaure un point quotidien de quinze minutes, à huit heures, ouvert aux cadres de tous les services, aux urgences, au bloc opératoire et au service social. Chacun annonce ses sorties prévues, ses entrées attendues et ses difficultés. Un tableau partagé affiche en temps réel l'occupation des lits.
+
+**Les liens.** Des infirmières des urgences passent quelques jours dans les services d'hospitalisation, et inversement, pour comprendre les contraintes de chacun.
+
+**L'exécution décentralisée.** Les cadres de service peuvent désormais accepter directement un patient des urgences, sans passer par la direction, selon des règles partagées.
+
+**Le leader.** Paul assiste au point quotidien, écoute, remercie, et intervient seulement pour lever les blocages.
+
+Six mois plus tard, le temps d'attente des patients sur brancard a nettement diminué.
+
+> Question de réflexion | Quel point quotidien de quinze minutes, ouvert aux équipes voisines, pourrait changer la coordination dans votre organisation ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: contexte militaire · coût · secret
+*Team of Teams* a eu une grande influence, mais il présente plusieurs limites.
+
+**Un contexte exceptionnel.** La force décrite disposait de moyens considérables, de personnels très sélectionnés et très motivés, et d'une mission claire et vitale. Peu d'organisations disposent de telles ressources et d'un tel engagement.
+
+**Un regard de l'intérieur.** Le livre est écrit par le commandant et ses proches collaborateurs. Il présente la transformation de manière très favorable. Les difficultés, les erreurs et les coûts humains de la guerre sont peu évoqués. Le livre ne discute pas non plus des questions politiques et éthiques liées à la guerre en Irak.
+
+**Le coût du partage.** Une réunion quotidienne d'une heure et demie avec des milliers de participants, des échanges de personnes, des officiers de liaison : ces pratiques demandent beaucoup de temps et de ressources. Toutes les organisations ne peuvent pas se les permettre.
+
+**Les risques de la transparence.** Partager largement l'information peut poser des problèmes de confidentialité, de surcharge d'information et de sécurité. Le livre reconnaît ces risques, mais les traite rapidement.
+
+**Une démonstration surtout narrative.** Les exemples civils sont intéressants, mais ils sont choisis pour illustrer la thèse. Le livre ne mesure pas systématiquement l'effet de l'approche dans d'autres organisations.
+
+- Des moyens et une motivation hors du commun.
+- Un récit de l'intérieur, qui laisse de côté les questions politiques.
+
+--- Liens avec les autres livres
+kw: Marquet · Lencioni · Christensen · Ohno
+**Avec Turn the Ship Around! (Marquet).** Les deux militaires arrivent à la même conclusion : déplacer l'autorité vers ceux qui ont l'information, à condition qu'ils comprennent la situation et les objectifs. Marquet l'applique à un équipage, McChrystal à une organisation de plusieurs milliers de personnes.
+
+**Avec Optimisez votre équipe (Lencioni).** Lencioni décrit les conditions de la confiance au sein d'une équipe. McChrystal montre comment étendre cette confiance entre les équipes.
+
+**Avec Le Dilemme de l'innovateur (Christensen).** Les deux livres montrent comment des organisations très bien gérées et efficaces peuvent être dépassées par des adversaires ou des concurrents plus agiles.
+
+**Avec L'Esprit Toyota (Ohno).** La critique du modèle de Taylor et l'importance de l'information partagée au plus près du travail rejoignent la pensée d'Ohno, pour qui les opérateurs doivent pouvoir signaler et traiter les problèmes immédiatement.
+
+**Avec Système 1 / Système 2 (Kahneman).** La distinction entre systèmes compliqués et complexes rappelle les limites de la prévision que Kahneman décrit.
+
+> Parcours conseillé | Lisez ensuite Turn the Ship Around! pour la même idée à l'échelle d'une équipe, puis Optimisez votre équipe pour les bases de la confiance.

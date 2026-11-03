@@ -1,0 +1,429 @@
+=== Context and thesis
+--- Liker and Toyota
+kw: researcher · 20 years of observation
+Jeffrey Liker is a professor of industrial engineering at the University of Michigan. He has devoted most of his career to studying Toyota and the Japanese production system. For some twenty years before the book came out, he visited the company's plants in Japan and the United States, interviewed its executives, engineers and suppliers, and supported Western companies in their lean efforts.
+
+*The Toyota Way*, published in 2004, starts from an observation. Since the 1980s, thousands of companies around the world have tried to copy Toyota. They adopted its most visible tools: kanban, value stream maps, small teams, just-in-time, 5S. Very few achieved comparable results. Liker asks why.
+
+His answer is that the tools are only the visible part of the system. Behind them lies a management philosophy, a culture and a way of developing people, built patiently over decades. Companies that copy the tools without that culture get one-off improvements, then watch the results erode. The book therefore sets out to describe what lies beneath the surface.
+
+Liker organizes his description into fourteen principles, grouped into four categories. He makes clear that these principles are not an official Toyota doctrine but a synthesis of his observations, validated through many exchanges with the company's leaders. Toyota itself published an internal document in 2001, *The Toyota Way 2001*, which sums up its values around two pillars: continuous improvement and respect for people.
+
+> À retenir | Copying Toyota's tools is not enough. The book describes the philosophy and culture that make them work.
+
+--- A singular company
+kw: quality · consistency · growth
+To understand why the book matters, it helps to recall Toyota's trajectory. The company grew out of a loom business founded by Sakichi Toyoda at the end of the nineteenth century. His son, Kiichiro Toyoda, launched car production in the 1930s. After the Second World War, the company was on the verge of bankruptcy, in a ruined Japan, with a tiny market and little capital.
+
+It was in these conditions of scarcity that Toyota developed its production system. Unable to afford the long runs and massive inventories of American carmakers, the company learned to produce small quantities of many models, with very little inventory and very little waste. This constraint became an advantage.
+
+By the time Liker was writing, Toyota had become one of the most profitable carmakers in the world. Its vehicles were known for their reliability. The company could develop new models faster than its competitors, open plants abroad while reproducing its culture, and weather crises without mass layoffs. Above all, Liker emphasizes how consistent these results were over several decades.
+
+He also stresses a point that is often forgotten: Toyota did not succeed thanks to a brilliant leader or a spectacular innovation. Its strength comes from an accumulation of small improvements, made every day by thousands of employees. This capacity for collective learning is what Liker wants to make understandable.
+
+He adds that Toyota is not perfect. The book was written before the massive vehicle recalls of 2009–2010, which showed that the company too could drift from its principles by growing too fast. Liker later analyzed that crisis in another book.
+
+- Born of scarcity, the Toyota system turned a constraint into an advantage.
+- Its strength comes from small daily improvements, not a stroke of genius.
+- Even Toyota can drift from its principles, as the 2009–2010 crisis showed.
+
+--- The four Ps
+kw: philosophy · process · people
+Liker groups the fourteen principles into four categories, often shown as a pyramid known as the “4P” model.
+
+- **Philosophy**: think long term. This is the base of the pyramid. A single principle, but one that shapes all the others.
+- **Process**: the right process will produce the right results. Seven principles that describe the core of the production system: flow, pull, leveling, stopping for problems, standardization, visual management, reliable technology.
+- **People and Partners**: add value to the organization by developing people and partners. Three principles: leaders who embody the philosophy, teams who bring it to life, suppliers who are respected and challenged.
+- **Problem Solving**: continuous improvement and learning. Three principles: go and see on the shop floor, decide slowly by consensus and implement quickly, become a learning organization.
+
+Liker observes that most Western companies that tried to copy Toyota focused on the second category, process. They set up flow, kanbans and visual management. But they neglected the base, the long-term philosophy, and the top, the ability to solve problems and learn. Yet it is precisely the top of the pyramid that makes Toyota a learning organization.
+
+He compares these companies to people who imitate a great athlete's technique without adopting their daily training, discipline and way of thinking. The movements look similar, but the results do not follow.
+
+> À retenir | Philosophy, process, people, problems. Most imitators copy the second level and forget the base and the top.
+
+=== Long-term philosophy
+--- Principle 1: think long term
+kw: mission · even at short-term expense
+The first principle is stated as follows: base your management decisions on a long-term philosophy, even at the expense of short-term financial goals.
+
+Liker asserts that this is the most important principle, and the one that most sets Toyota apart from Western companies. In many listed companies, decisions are driven by quarterly results and the share price. At Toyota, they are driven by a mission: to contribute to society, create value for customers and ensure the long-term survival of the company and its employees.
+
+This philosophy has concrete consequences. Toyota long avoided layoffs during downturns, preferring to use slack periods to train employees and improve processes. The company invested in technologies whose payoff would only appear years later, such as the hybrid powertrains launched in the late 1990s. It accepted losing money for years in certain markets in order to build a lasting presence there.
+
+Liker also tells how Toyota chooses to produce locally in the countries where it sells, patiently training local teams in its culture, rather than exporting cars from Japan. This choice is slower and more expensive in the short term, but it creates a lasting relationship with host countries.
+
+He stresses that this philosophy is not altruism. It rests on the conviction that creating lasting value for customers, employees and society is the best guarantee of long-term profitability. For long periods, Toyota was one of the most profitable carmakers precisely because it did not pursue immediate profitability.
+
+For a manager, this principle translates into a simple question to ask before any important decision: what would we do if we still had to be here, with the same customers and the same teams, twenty years from now?
+
+> Question clé | What recent decision by your team sacrificed the future for a short-term result? What would you do if you still had to be here in twenty years?
+
+--- Responsibility and self-reliance
+kw: self-reliance · self-reflection
+Liker stresses that the long-term philosophy goes hand in hand with a culture of responsibility. At Toyota, everyone is expected to feel responsible for their own destiny and the company's. The company cultivates self-reliance: rather than depending on consultants or purchased technologies, it prefers to develop its capabilities in-house.
+
+This culture was built over the company's history. Sakichi Toyoda developed innovative looms on his own. Kiichiro Toyoda founded the automotive branch by teaching himself how to build engines. After the war, the company learned to produce efficiently with very few resources. It drew a conviction from this: you learn best by doing things yourself, by trial and error, by correcting your mistakes.
+
+Liker also describes an attitude that often surprises Western visitors: at Toyota, people are never satisfied with success. Even when results are excellent, leaders look for what could be improved. Review meetings focus more on problems than on successes. This attitude is summed up by a frequently cited Japanese word: *hansei*, critical self-reflection. It is developed in the branch on the learning organization.
+
+For companies that want to learn from Toyota, Liker makes a clear recommendation: before launching a lean program, ask what the organization's long-term mission is, and whether leadership is ready to put that mission ahead of immediate results. Without this commitment, lean tools will be used to cut costs in the short term, often through job cuts, which destroys the trust needed for continuous improvement.
+
+- Everyone feels responsible for the company's destiny.
+- Never be satisfied with success: look for what can be improved.
+- A lean program without long-term commitment becomes a cost-cutting program.
+
+=== The right process: flow and rhythm
+--- Principle 2: continuous flow
+kw: surface problems · lead time
+The second principle is to create continuous process flow to bring problems to the surface. Liker explains that most traditional processes work in batches: a large quantity of parts is produced at one step, then stored, then moved to the next step, where it waits its turn. A part thus spends most of its time waiting.
+
+Liker cites studies showing that in many processes, the time during which value is actually added to the product is only a small fraction of the total lead time, often less than 5%. The rest is waiting, transport, inventory and rework. The same holds for administrative processes: a loan application or an order can take several weeks to go through a company for a few hours of actual work.
+
+Continuous flow means moving the product from one step to the next without interruption, ideally one piece at a time. To do this, workstations are brought close together, often in U-shaped cells, and the time of each step is balanced. The benefits are many: lead time drops sharply, inventory disappears, quality improves because a defect is caught immediately at the next step, and less space is needed.
+
+But Liker stresses the most important benefit: continuous flow brings problems to the surface. In a batch system, inventory hides malfunctions. If a machine breaks down, inventory allows work to continue, and nobody is forced to solve the problem. In continuous flow, a breakdown stops everything. It is uncomfortable, but it forces people to deal with causes. The Japanese use the image of a river: when the water level drops, the rocks appear.
+
+> À retenir | Inventory hides problems. Continuous flow reveals them, which forces you to solve them.
+
+--- Principles 3 and 4: pull and level
+kw: pull · heijunka · tortoise and hare
+The third principle is to use pull systems to avoid overproduction. In a push system, each step produces according to a plan, then pushes its output to the next step whether it needs it or not. In a pull system, each step produces only what the next step has consumed. Production is triggered by actual demand, working back from downstream to upstream.
+
+Liker recalls that Taiichi Ohno, the architect of the Toyota Production System, was inspired by American supermarkets. In a supermarket, the customer takes what they need, and the shelf is restocked according to what was taken. Toyota applied this principle to production, with signals called *kanban*, cards that indicate what has been consumed and must be replaced.
+
+The fourth principle is to level out the workload, what the Japanese call *heijunka*. Liker explains that pull does not work if demand varies sharply from one day to the next. If you produce a lot one day and little the next, you must size resources for the peaks, and they sit underused the rest of the time. Toyota therefore seeks to level production in volume and mix: instead of making all model A on Monday and all model B on Tuesday, models are alternated throughout the day.
+
+Liker uses the image of the fable of the tortoise and the hare. The hare runs very fast, then stops. The tortoise moves slowly but steadily, and ends up arriving first. Toyota prefers to be the tortoise: a steady, sustainable pace rather than stops and starts.
+
+He identifies three forms of waste, which he refers to by their Japanese names: *muda*, waste in the strict sense; *muri*, overburdening people or machines; and *mura*, unevenness. Many companies attack muda while forgetting mura, even though unevenness is often the cause of overburden and waste.
+
+- Produce according to what has been consumed, not according to a plan.
+- Level volume and mix to avoid stops and starts.
+- Waste, overburden and unevenness are linked.
+
+--- The eight wastes
+kw: muda · overproduction · unused talent
+Liker takes up the list of wastes identified by Toyota, that is, activities that consume resources without adding value for the customer. He adds an eighth to the traditional list of seven.
+
+- **Overproduction**: producing more, or earlier, than the customer needs. This is the worst waste, because it causes all the others: inventory, transport, handling.
+- **Waiting**: people waiting for a part, a machine, information or a decision.
+- **Unnecessary transport**: moving products over long distances between steps.
+- **Overprocessing or incorrect processing**: doing more than the customer asks for, such as unnecessary finishing, or using poorly designed processes.
+- **Excess inventory**: raw materials, work in process or finished goods that tie up money and hide problems.
+- **Unnecessary motion**: superfluous movements by operators, such as looking for a tool or bending over.
+- **Defects**: producing defective parts, repairing them, inspecting them.
+- **Unused employee creativity**: not listening to the ideas of the people who do the work. This is the eighth waste added by Liker.
+
+Liker stresses that these wastes exist in every kind of activity, not just manufacturing. In an office, overproduction takes the form of reports nobody reads. Waiting means approvals that drag on. Unnecessary motion means searching for files. Defects are data-entry errors that have to be corrected.
+
+He insists that the goal is not to make people work faster, but to eliminate what serves no purpose. An operator who spends half their time looking for parts does not lack motivation: the process is poorly designed.
+
+> Exercice | Follow a file, an order or a part from end to end in your department. Note the total time and the time when value is really being added. Classify the gaps according to the eight wastes.
+
+--- The Toyota house
+kw: just-in-time · jidoka · stability
+Before detailing the quality principles, Liker presents an image Toyota itself uses to explain its production system: a house. This image was popularized by Fujio Cho, a student of Taiichi Ohno and later president of the company, to help employees and suppliers understand how the different practices fit together.
+
+The **roof** represents the goals: the best quality, the lowest cost, the shortest lead time, safety and high team morale. These goals are achieved by constantly reducing waste in the production flow.
+
+Two **pillars** support the roof. The first is **just-in-time**: producing the right part, in the right quantity, at the right time. It includes continuous flow, takt time, pull and quick changeovers. The second pillar is **jidoka**: never let a defect pass to the next step, stop the process as soon as an abnormality appears, and separate the work of people from the work of machines.
+
+At the **center** of the house are people and teamwork, along with continuous improvement. Liker stresses that this is the heart of the system: without people who are trained, motivated and able to solve problems, the pillars collapse.
+
+The **foundations** are stability and leveling. A just-in-time system without inventory cannot work if machines keep breaking down, if methods change from one day to the next or if demand jumps around. Standardized work, maintenance, visual management and heijunka provide this stability.
+
+Liker insists on one point: the house is a system. Each element depends on the others. A company that builds a pillar without the foundations, for example just-in-time without stability, gets a fragile system that produces stockouts and emergencies. This is often what happens to lean efforts that pick a few tools from the house without understanding how they fit together.
+
+He adds that the two pillars complement each other in a subtle way. Just-in-time removes inventory, which makes problems visible. Jidoka provides the means to stop and deal with them. One without the other produces no learning.
+
+> À retenir | Two pillars, just-in-time and jidoka, rest on stability and surround people. Copying one element without the others makes the system fragile.
+
+=== The right process: quality and standards
+--- Principle 5: stop to fix problems
+kw: jidoka · andon · right first time
+The fifth principle is to build a culture of stopping to fix problems, to get quality right the first time. It corresponds to the second pillar of the Toyota Production System, *jidoka*, often translated as “autonomation”: automation with a human touch.
+
+The idea comes from Sakichi Toyoda. In the early twentieth century, he invented a loom that stopped automatically when a thread broke. Before that, a worker had to watch each loom constantly to avoid producing defective cloth. Thanks to this device, a single person could watch many looms, and no defects were produced. The principle was established: a machine must detect an abnormality on its own and stop.
+
+Toyota extended this principle to people. On assembly lines, each operator can pull a cord, called the *andon*, when they detect a problem. A light comes on, music plays, and a team leader comes immediately to help. If the problem cannot be solved within the cycle time, the line stops. Liker stresses that this act, unthinkable in many traditional plants, is encouraged at Toyota. The operator who pulled the cord is thanked.
+
+Why accept stopping a whole line? Because a defect corrected immediately costs very little, while a defect discovered later, at the customer's for example, costs a great deal. Above all, stopping forces people to understand the cause of the problem and eliminate it so that it does not happen again.
+
+Liker also describes error-proofing devices, called *poka-yoke*: simple systems that physically prevent a mistake, such as a part that can only be inserted the right way round, or a sensor that checks that a screw has been fitted.
+
+> À retenir | Better to stop right away than to pass on a defect. Whoever reports a problem should be thanked, not blamed.
+
+--- Principle 6: standards first
+kw: standardized work · starting point
+The sixth principle states that standardized tasks are the foundation of continuous improvement and employee empowerment.
+
+Liker acknowledges that the word “standard” has a bad reputation. It suggests rigidity, bureaucracy, the dehumanized assembly-line work inherited from Taylor. At Toyota, the standard has a different meaning. It is the description of the best known way, today, to carry out a task. It is written by the people who do the work, with help from their managers, and it is constantly improved.
+
+The standard plays several roles. It guarantees quality and safety, because everyone works in the same proven way. It makes it possible to train newcomers. It makes deviations visible: if you know how the work should be done, you see immediately when something is wrong. And above all, it serves as the starting point for improvement. Without a standard, you cannot know whether a change has improved things, since you do not know where you started from.
+
+Liker cites an idea often attributed to Taiichi Ohno: where there is no standard, there can be no improvement. Each successful improvement becomes the new standard, which will in turn be improved.
+
+He explains that standardized work at Toyota includes three elements: the takt time to be met, the exact sequence of operations and the minimum amount of work in process needed. These elements are posted at the workstation.
+
+Liker stresses that this approach reconciles standardization and autonomy. Employees are not subjected to standards imposed by distant engineering departments: they write and improve them themselves. This gives them real control over their work.
+
+- A standard is the best method known today, not a fixed rule.
+- Without a standard, it is impossible to measure an improvement.
+- Those who do the work write and improve the standards.
+
+--- Principles 7 and 8: visual and tools
+kw: 5S · visual management · technology
+The seventh principle is to use visual control so that no problem stays hidden. Liker describes a Toyota plant as a place where you can tell in a few seconds whether everything is going well. The locations of tools and parts are marked on the floor. Boards show planned and actual output hour by hour. Lights indicate the status of machines. A visitor unfamiliar with the plant can immediately see where the problems are.
+
+Visual management relies on a workplace organization method called **5S**, after five Japanese words: sort, set in order, shine, standardize and sustain. Liker warns against a common mistake: turning 5S into a tidying campaign, with before-and-after photos, then letting the mess come back. The goal of 5S is not cleanliness but making problems visible. A well-organized workstation makes a missing part, a misplaced tool or a leak immediately visible.
+
+Liker also stresses the importance of keeping information on a single sheet. At Toyota, reports and proposals are often written on an A3-sized sheet, which forces people to synthesize and structure their thinking.
+
+The eighth principle is to use only reliable, thoroughly tested technology that serves people and processes. Liker explains that Toyota is often cautious with new technologies. Before adopting new software or a new machine, the company checks that it fits into its system, supports flow and is reliable. It often prefers to improve the process manually first, then automate what works.
+
+He cites examples of costly automation projects in other companies, which automated poorly designed processes and thus made waste faster. Toyota seeks first to simplify, then to automate.
+
+> Question clé | If a visitor walked into your department, could they see in a few seconds what is going well and what is not?
+
+=== Developing people
+--- Principle 9: leaders who teach
+kw: knowing the work · teaching others
+The ninth principle is to grow leaders who thoroughly understand the work, live the philosophy and teach it to others.
+
+Liker observes that Toyota hires few executives from outside. Most of its leaders have spent their whole careers at the company. They started in operational roles, often in the plants, and moved up by learning the work in detail. When they become leaders, they know their teams' work because they have done it themselves.
+
+This approach contrasts with that of many Western companies, where managers are often hired for their general management skills and frequently change jobs or companies. Liker believes this model produces managers who do not really understand the work they lead, and who make decisions based on numbers rather than on the reality of the shop floor.
+
+At Toyota, the leader's main role is to teach. They develop their people by confronting them with real problems, asking them questions rather than giving them answers, and letting them make mistakes within acceptable limits. Liker describes the relationship between a mentor, often called *sensei*, and their student: the mentor assigns a difficult problem, observes, asks questions and lets the student find the solution on their own.
+
+Liker tells several stories of young engineers whose manager asked them to spend hours watching a production line, doing nothing else, in order to learn to see. These exercises seem odd, but they form leaders able to understand problems in depth.
+
+Finally, he stresses that Toyota's leaders are often discreet and humble, which recalls the Level 5 leadership described by Jim Collins. Their authority comes from their knowledge of the work and the example they set, not from their position.
+
+> À retenir | At Toyota, the leader knows the work because they have done it, and their main role is to teach.
+
+--- Principle 10: exceptional teams
+kw: teams · team leader · motivation
+The tenth principle is to develop exceptional people and teams who follow the company's philosophy.
+
+Liker describes the basic organization of Toyota plants. Operators work in small teams, usually of four to eight people, led by a team leader. The team leader is not a foreman who watches over people: they are an experienced operator who helps the others, steps in when an andon is pulled, replaces an absent operator and leads improvement. Several teams are then grouped under a group leader.
+
+Liker stresses that Toyota invests heavily in training. A new operator goes through long, detailed training in standardized work, safety and quality. They also learn problem-solving methods. Employees are trained to work several stations, which gives the team flexibility and enriches their work.
+
+He also explains Toyota's view of motivation. It combines several elements: job security, which allows people to propose improvements without fearing they will eliminate their own job; recognition, notably through suggestion systems; regular challenges, which give meaning to the work; and belonging to a team. Liker notes that Toyota receives a considerable number of improvement suggestions from its employees every year, the vast majority of which are implemented.
+
+Liker acknowledges that assembly-line work remains repetitive and demanding. Toyota does not claim to make it exciting. But the company seeks to give operators an active role in improving their work, which profoundly changes their relationship to it.
+
+- Small teams led by a team leader who helps rather than supervises.
+- Long training and multi-skilling.
+- Job security makes it possible to propose improvements.
+
+--- Training on the job
+kw: instruction · demonstration · checking
+Liker attaches great importance to how Toyota trains its employees. He explains that from the 1950s the company relied on a method of American origin: the *Training Within Industry* (TWI) program, designed in the United States during the Second World War to train millions of new workers very quickly in defense plants. The program was largely forgotten in the United States after the war, but it was introduced in Japan during the occupation, and Toyota adopted and adapted it.
+
+The best-known part of TWI is **job instruction**. It starts from a simple observation: most errors come from poor training. A newcomer is often placed next to an experienced worker and has to learn by watching, without anyone explaining what really matters. The method proposes four steps.
+
+- **Prepare the learner**: put them at ease, tell them what they will learn and why it matters.
+- **Present the operation**: show the task step by step, emphasizing the key points and explaining the reason for each.
+- **Try out performance**: the learner carries out the operation and explains what they are doing, and the trainer corrects immediately.
+- **Follow up**: the learner works alone, but the trainer comes back often to check, then spaces out the visits.
+
+Liker emphasizes breaking the work down into **major steps**, **key points** and **reasons**. The key point is what makes the difference between a job done well and a job botched: a hand movement, a precise order, a check. The reason helps the learner understand and remember.
+
+Toyota draws a principle from this: if the learner hasn't learned, the instructor hasn't taught. Responsibility for training lies with management.
+
+Liker observes that this demanding method partly explains the consistent quality achieved in Toyota plants, including abroad. It also allows team leaders to become real trainers. In Western companies, on-the-job training is often improvised, which produces large variations from one person to another.
+
+> Exercice | Choose an important task in your team. Write down its major steps, then for each one the key point and its reason. Test this document with the next person you train.
+
+--- Principle 11: partners
+kw: suppliers · challenge · mutual help
+The eleventh principle is to respect your extended network of partners and suppliers by challenging them and helping them improve.
+
+Liker explains that Toyota buys a large share of its vehicles' components from suppliers. The quality of its cars therefore depends largely on theirs. Rather than constantly pitting them against one another on price, as many American carmakers did, Toyota builds long-term relationships with them.
+
+This relationship is demanding. Toyota sets ambitious targets for quality, cost and delivery. But it does not just make demands: it helps its suppliers reach those targets. Its engineers spend time in suppliers' plants training them in the Toyota Production System. It shares the gains from improvements instead of keeping them all.
+
+Liker cites surveys of automotive suppliers in the United States. Suppliers regularly ranked Toyota among their favorite customers, despite its high standards, because it was fair, reliable and helped them improve. Relationships with some other carmakers were described as adversarial and mistrustful.
+
+He also recounts a famous episode: the 1997 fire at the plant of a sole supplier of brake parts. All of Toyota's production in Japan was at risk of stopping. Within days, dozens of suppliers and partners spontaneously mobilized to reproduce the manufacture of these parts with improvised means. Production resumed very quickly. Liker sees it as proof of the strength of the network Toyota had built.
+
+> Question clé | Do your suppliers or partner departments see you as a demanding but fair customer, or as a customer to avoid?
+
+=== Problem solving and learning
+--- Principle 12: go and see for yourself
+kw: genchi genbutsu · gemba · observe
+The twelfth principle is to go and see for yourself in order to thoroughly understand the situation. The Japanese express this with the phrase *genchi genbutsu*, which can be translated as “the actual place, the actual thing.” People also speak of the *gemba*, the place where value is created.
+
+Liker explains that at Toyota, people do not settle for reports, numbers or secondhand accounts. To understand a problem, you have to go and see it on the ground, observe, touch, ask questions of the people who work there. Leaders themselves spend a significant part of their time on the shop floor.
+
+He tells the story of an engineer tasked with developing a new version of a minivan for the North American market. To understand customer needs, he drove across all of the United States, Canada and Mexico, observing how families used their vehicles. He thus discovered needs that market studies had not revealed, such as the importance of cup holders and of space for everyday items on long trips.
+
+Liker also describes the chalk circle exercise attributed to Taiichi Ohno. Ohno would draw a circle on the plant floor and ask a young engineer to stand in it for hours, observing. At the end of the day, he would ask what the engineer had seen. If the answer was superficial, the engineer had to start again. The exercise taught people to see waste and problems that go unnoticed at first glance.
+
+Liker stresses that this principle applies to every profession. A customer service manager should listen to calls. An IT manager should watch users. A leader should spend time with customers and teams, not just in the office.
+
+> Exercice | This week, spend an hour observing the actual work in your area without stepping in. Note everything that surprises you.
+
+--- Principle 13: slowly, then fast
+kw: nemawashi · consensus · options
+The thirteenth principle is to make decisions slowly by consensus, thoroughly considering all options, then implement them rapidly.
+
+Liker explains that Western companies often admire fast decision-making. A leader who decides quickly seems effective. But fast decisions are often poorly prepared, poorly understood and poorly accepted. Their implementation is then slow and conflict-ridden, and requires many corrections.
+
+Toyota does the opposite. Preparing a decision takes time. The problem is studied in depth, several possible solutions are examined, and everyone concerned is consulted. This prior consultation has a name: *nemawashi*, a term from gardening that refers to preparing a tree's roots before transplanting it. It means going to see each person concerned, gathering their views, adjusting the proposal and securing their support before the decision meeting.
+
+When the decision is finally made, everyone understands and accepts it, because everyone has been consulted. Implementation is then very fast. Liker gives the example of the launch of the Prius, the first mass-produced hybrid vehicle: the phase of thinking through technological options was long, but once the choices were made, development was completed in record time.
+
+Liker also describes the A3 report mentioned earlier. This one-page document structures thinking: background, current situation, cause analysis, goals, proposed countermeasures, implementation plan and follow-up. It circulates among the people concerned and improves through the exchanges.
+
+- Prepare at length, consult everyone, examine several options.
+- Once decided, implement fast and without backtracking.
+- An A3 sheet to structure and share thinking.
+
+--- Principle 14: keep learning
+kw: hansei · kaizen · five whys
+The fourteenth principle is to become a learning organization through relentless reflection and continuous improvement.
+
+Liker describes two complementary practices. The first is *hansei*, self-reflection. At the end of every project, even a successful one, the team meets to identify what did not work and what it would do differently. Liker recounts that American managers invited to a hansei meeting after a very successful project were surprised to see their Japanese colleagues spend most of the time on problems. For Toyota, finding no problem is a problem in itself: it means you have not looked hard enough.
+
+The second practice is *kaizen*, continuous improvement in small steps. Every standard is a starting point for the next improvement. Kaizen is not reserved for experts: it involves all employees, every day.
+
+To analyze problems, Toyota uses the **five whys** method: faced with a problem, you ask why it happened, then why that cause occurred, and so on, until you reach the root cause. Liker gives the example of a puddle of oil on the floor. Why? Because the machine is leaking. Why? Because the gasket is worn. Why? Because poor-quality gaskets were bought. Why? Because they were cheaper. Why? Because buyers are evaluated on short-term savings. The solution is not to clean up the puddle, nor even to change the gasket, but to revise the purchasing policy.
+
+Liker also stresses the importance of preserving and sharing knowledge: documenting lessons learned, building them into standards and passing them on to new projects.
+
+> À retenir | After every project, even a successful one, look for what could have been done better. And follow the “whys” back to the root cause.
+
+--- Solving a problem step by step
+kw: clarify · cause · countermeasure · standard
+Liker describes the problem-solving approach Toyota teaches its employees. It is more structured than the simple five whys method and can be applied to problems of any size.
+
+**Perceive the initial problem.** The problem often appears vaguely: “deliveries are late,” “customers are complaining.” At this stage, you do not yet really know what it is about.
+
+**Clarify.** You need to go to the shop floor, gather facts and data, and describe precisely the gap between the current situation and the expected situation. A big problem is broken down into smaller ones, and you choose which to act on first.
+
+**Locate the point of cause.** Before looking for why the problem occurs, you look for where and when it occurs: at which step, on which machine, with which product. Liker stresses that this step is often neglected, even though it avoids many false leads.
+
+**Get to the root cause.** You then apply the five whys at the point of cause, checking each answer against facts. Liker warns against the temptation to answer the “whys” from memory, sitting at a desk.
+
+**Choose a countermeasure.** Toyota speaks of a countermeasure rather than a solution, because no answer is final: it addresses the problem as it is understood today and can be improved.
+
+**Evaluate.** You check with data that the countermeasure has the expected effect.
+
+**Standardize.** If the countermeasure works, it becomes the new standard, and the learning is shared with other teams that might encounter the same problem.
+
+Liker notes that this approach resembles the “plan, do, check, act” cycle proposed by W. Edwards Deming, which the Japanese widely adopted in the 1950s. What sets Toyota apart is less the method than the discipline with which it is applied, at every level, every day.
+
+- Clarify and locate before explaining.
+- Check every “why” against facts.
+- A countermeasure is never final.
+
+=== Put it into practice
+--- Transforming an organization
+kw: start small · model line · patience
+Liker devotes the last part of the book to how to apply the Toyota Way in other organizations. He is realistic: he observes that most lean transformations fail or run out of steam, and draws several recommendations from this.
+
+**Start with action, on a limited scope.** Rather than launching a big company-wide transformation program with theoretical training for everyone, he recommends choosing one production line, process or department and setting up exemplary flow there. This model area then serves as a place for learning and demonstration.
+
+**Rely on an experienced expert.** Liker believes that learning lean requires the guidance of a *sensei*, someone who has practiced the system for years and can teach by example.
+
+**Aim for flow first.** In his view, creating continuous flow is the most effective starting point, because it quickly reveals problems and forces people to solve them.
+
+**Commit leadership for the long term.** Without lasting commitment from leaders, the transformation stops at the first change of leadership or the first financial crisis.
+
+**Do not use lean to lay people off.** If productivity gains turn into job cuts, employees will stop proposing improvements. Liker recommends reassigning freed-up people to other activities, to continuous improvement or to growth.
+
+**Be patient.** Toyota took decades to build its culture. An organization cannot hope to reproduce it in a few months.
+
+- A model area rather than a big theoretical program.
+- Flow first: it reveals problems.
+- Never any layoffs tied to productivity gains.
+
+--- The most common mistakes
+kw: toolbox · consultants · metrics
+Liker has supported many companies in their lean efforts. He describes the mistakes he has seen repeated.
+
+**Treating lean as a toolbox.** The company trains its employees in 5S, kanban and value stream mapping, then launches implementation projects. The tools are installed, but nobody changes how they think. After a few months, the boards are no longer updated and the standards are no longer followed.
+
+**Handing lean to a specialist department.** Many companies create a team of lean experts to run improvement events. Line managers rely on it and never make the approach their own. Liker believes lean must be driven by line management, with experts mainly training and supporting.
+
+**Chasing quick, spectacular gains.** Intensive events lasting a few days produce impressive results, but they are often short-lived if nobody maintains and improves the new situation afterward.
+
+**Measuring the wrong things.** Metrics such as machine utilization or the unit cost of each step push people to produce in large batches and build inventory, the opposite of flow.
+
+**Not involving employees.** A transformation imposed by consultants or leadership, without the people concerned taking part, provokes resistance and mistrust.
+
+**Giving up at the first change of leadership.** A new leader arrives with their own priorities, and the effort stops.
+
+Liker draws a conclusion: the difficulty is not technical but managerial. The tools can be learned in a few weeks. The culture that brings them to life takes years of daily practice, and above all the example set by managers.
+
+> Question clé | In your organization, who drives continuous improvement: managers day to day, or a specialist department?
+
+--- 30-day action plan
+kw: week by week · on the floor
+**Week 1: go and see.** Choose a process in your team, physical or administrative. Spend time on the ground observing it from end to end. Measure the total lead time and the time that actually adds value. List the wastes using the eight categories.
+
+**Week 2: make it visible.** Set up a simple board that shows, each day, what was planned, what was done and the problems encountered. Organize the workspace, physical or digital, using the 5S method, asking at each step whether it makes problems more visible.
+
+**Week 3: standardize and improve.** With the team, write the standard for the most important task in the process: the best known way to do it today. Choose a recurring problem and analyze it with the five whys. Test a countermeasure.
+
+**Week 4: learn.** Hold a hansei meeting: what did not work this month? Update the standard with what was learned. Choose the next problem to tackle. Set up a simple way for anyone to flag a problem immediately, in the manner of the andon.
+
+Liker reminds us that the goal is not to apply tools but to develop a habit: seeing problems, solving them at the root and learning. This plan is only a beginning.
+
+> À retenir | Observe, make visible, standardize, improve, reflect. Then start again, every day.
+
+--- Case study: the rail workshop
+kw: railway · lead times · flow
+A maintenance workshop for regional trainsets is supposed to overhaul each trainset within four weeks. In practice, overhauls often take seven to eight weeks, which means more trainsets have to be kept in reserve. The new manager, Julien, decides to apply the principles of the Toyota Way.
+
+**Go and see.** For several days, Julien follows a trainset through its overhaul. He finds that technicians spend much of their time waiting for parts, looking for tools and waiting for approvals from the engineering office. Spare parts are ordered as problems are discovered, which creates long waits.
+
+**Flow.** With the teams, he reorganizes the overhaul into successive steps, each carried out by a dedicated team at a specific location, with a target duration. The parts usually needed are prepared in advance as kits.
+
+**Visual.** A large board shows the progress of each trainset, step by step, with delays in red. Each morning, a short meeting in front of the board deals with the day's problems.
+
+**Andon.** Technicians can immediately flag a blocking problem. A manager must respond within the hour.
+
+**Five whys.** The waits for approval stem from the engineering office handling requests in batches, once a week. It switches to daily processing.
+
+**People.** Technicians write the standards for their own steps and propose improvements. No job cuts are planned: the time saved goes to preventive maintenance.
+
+A year later, the average overhaul time has dropped below five weeks.
+
+> Question de réflexion | In your work, what is the equivalent of parts ordered as problems are discovered: the wait that drags everything else out?
+
+=== Critical view and links
+--- Limits of the book
+kw: idealization · transfer · crisis
+*The Toyota Way* has become a reference, but it has several limits.
+
+**An idealized image.** The book presents Toyota in a very favorable light. Critics point to demanding working conditions on assembly lines, pressure on suppliers and the use of temporary workers, who are less protected than permanent employees. The 2009–2010 recall crisis also showed that Toyota could drift from its own principles by growing too fast.
+
+**Transfer to other cultures and sectors.** Toyota was built in a particular Japanese context, with lifetime employment, strong loyalty to the company and long-term relationships with suppliers. Liker shows that Toyota managed to export its culture to its plants abroad, but transferring it to other companies, and especially to other sectors such as services, healthcare or government, remains difficult.
+
+**Fourteen principles, one more list.** Paradoxically, the book risks being used as yet another list of tools or principles to apply, when its message is precisely that lean is not a list. Liker is aware of this, and his later books put more emphasis on developing people and leadership.
+
+**Little quantitative data.** The book rests mainly on observations, interviews and case studies. It is rich in examples, but it demonstrates little, in the statistical sense, about the effectiveness of the principles in other organizations.
+
+**The role of middle managers.** The book emphasizes the role of executives and operators, but some readers find it less precise about how to change the role of middle managers in practice, who are often the most threatened by the transformation.
+
+- Toyota is not perfect: keep a critical eye.
+- The Japanese context makes some practices easier that are hard to reproduce elsewhere.
+
+--- Links with other books
+kw: Ohno · Womack · Rother · Collins · Drucker
+**With Toyota Production System (Ohno).** Liker describes what Ohno built. Ohno's book is shorter and more personal, and shows the way of thinking of the system's architect. The two complement each other: Ohno for the original spirit, Liker for the organized synthesis.
+
+**With Lean Thinking (Womack and Jones).** Womack and Jones popularized the word “lean” and proposed five simple principles for applying it. Liker criticizes lean efforts inspired by these principles for often neglecting the human and cultural dimension.
+
+**With Toyota Kata (Rother).** Mike Rother goes further than Liker in analyzing the daily routines that make continuous improvement possible at Toyota. He shows how coaching passes on the way of thinking described by principles 9, 12 and 14.
+
+**With Good to Great (Collins).** Toyota's humble, persistent leaders closely resemble Level 5 leaders. Collins's image of the flywheel echoes the idea of slow, cumulative improvement.
+
+**With The Effective Executive (Drucker).** Drucker and Toyota share the same conviction: the people who do the work are best placed to improve it, and the leader's role is to develop their strengths.
+
+> Parcours conseillé | Next, read Toyota Production System for the original thinking, then Toyota Kata for daily improvement routines.

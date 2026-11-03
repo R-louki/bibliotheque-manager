@@ -1,0 +1,427 @@
+id: doerr
+t: Measure What Matters
+o: Measure What Matters
+a: John Doerr
+y: 2018
+cat: Stratégie
+p: ≈ 300 p.
+c: --b3
+ol_author: Doerr
+center: Les OKR : objectifs et résultats clés
+pitch: Comment fixer quelques objectifs ambitieux, les mesurer par des résultats clés et aligner toute une organisation, d'Intel à Google.
+
+=== Contexte et thèse
+--- De Intel à Google
+kw: Grove · 1975 · investisseur
+John Doerr est l'un des investisseurs en capital-risque les plus connus de la Silicon Valley. Au sein du fonds Kleiner Perkins, il a financé et accompagné de nombreuses entreprises technologiques, dont Google et Amazon à leurs débuts.
+
+Mais son histoire avec la méthode qu'il décrit commence plus tôt. En 1975, jeune ingénieur, il rejoint Intel comme stagiaire puis comme commercial. Il y suit un cours interne donné par Andy Grove, alors l'un des dirigeants de l'entreprise. Grove y présente une méthode de gestion par objectifs qu'il a mise au point chez Intel, inspirée des idées de Peter Drucker sur la direction par objectifs. Grove l'appelle iMBO, puis elle sera connue sous le nom d'**OKR**, pour *Objectives and Key Results* : objectifs et résultats clés.
+
+Doerr est frappé par la simplicité et l'efficacité de la méthode. Des années plus tard, en 1999, il investit dans une jeune entreprise fondée par deux étudiants de Stanford, Larry Page et Sergey Brin : Google. Peu après, il leur présente les OKR. Les fondateurs adoptent la méthode, qui est encore utilisée chez Google aujourd'hui, à tous les niveaux.
+
+*Measure What Matters*, publié en 2018, raconte cette histoire et décrit la méthode. Le livre alterne les explications de Doerr et des témoignages de dirigeants d'entreprises et d'organisations qui ont adopté les OKR : des entreprises technologiques, mais aussi une fondation, une organisation humanitaire et un fabricant de produits pour enfants.
+
+La thèse du livre est simple : les idées sont faciles, l'exécution est tout. Les OKR sont un outil pour transformer les ambitions en résultats, en concentrant l'énergie sur ce qui compte vraiment.
+
+> À retenir | Une méthode née chez Intel avec Andy Grove, transmise à Google par John Doerr, et adoptée par de nombreuses organisations.
+
+--- Qu'est-ce qu'un OKR ?
+kw: objectif · résultats clés · quoi et comment
+Un OKR se compose de deux éléments.
+
+**L'objectif** décrit **ce que l'on veut accomplir**. Il est qualitatif, ambitieux, concret et orienté vers l'action. Il doit être inspirant, compréhensible par tous et important. Par exemple : « Devenir la référence du service client dans notre secteur. »
+
+**Les résultats clés** décrivent **comment on saura que l'objectif est atteint**. Ils sont quantitatifs, précis, mesurables et limités dans le temps. Il y en a généralement trois à cinq par objectif. Par exemple : « Réduire le délai moyen de réponse à moins de deux heures », « Atteindre un taux de satisfaction de 90 % », « Résoudre 80 % des demandes au premier contact ».
+
+Doerr insiste sur la nature des résultats clés. Ils doivent être **vérifiables** : à la fin de la période, on doit pouvoir dire sans ambiguïté s'ils ont été atteints ou non. Une formulation vague, comme « améliorer la satisfaction des clients », n'est pas un résultat clé. Il cite une phrase attribuée à Marissa Mayer, ancienne dirigeante de Google : si ce n'est pas chiffré, ce n'est pas un résultat clé.
+
+Il souligne aussi qu'un résultat clé décrit un **résultat**, pas une activité. « Lancer une campagne de communication » est une activité. « Obtenir 10 000 nouveaux inscrits » est un résultat. Les activités sont les moyens d'atteindre les résultats clés, et elles peuvent changer en cours de route.
+
+Les OKR sont fixés pour une période courte, souvent un trimestre, avec parfois des objectifs annuels plus larges. Ils sont **peu nombreux** : trois à cinq objectifs au maximum par équipe ou par personne.
+
+- L'objectif dit où l'on va.
+- Les résultats clés disent comment on saura qu'on y est.
+- Des résultats mesurables, pas des activités.
+
+--- D'où viennent les OKR
+kw: Drucker · gestion par objectifs · Grove
+Doerr replace les OKR dans une histoire plus longue, celle de la gestion par objectifs.
+
+Dans les années 1950, Peter Drucker propose une idée qui marquera durablement le management : la **direction par objectifs**. Plutôt que de diriger les personnes en leur disant exactement quoi faire, il propose de se mettre d'accord avec elles sur les objectifs à atteindre, puis de les laisser choisir les moyens. Drucker insiste sur l'autocontrôle : chacun doit pouvoir mesurer lui-même ses progrès vers ses objectifs.
+
+Dans beaucoup d'entreprises, cette idée a ensuite été déformée. La direction par objectifs est devenue un exercice annuel, lourd et descendant. Les objectifs étaient fixés une fois par an, souvent imposés par la hiérarchie, gardés confidentiels et directement liés aux primes. Ils devenaient vite obsolètes, et les salariés avaient intérêt à les fixer bas.
+
+Andy Grove, chez Intel, reprend l'idée de Drucker en la transformant. Il en fait une pratique plus rapide, avec des cycles trimestriels ou même mensuels. Il ajoute les résultats clés, mesurables, pour que chacun sache précisément si l'objectif est atteint. Il insiste sur le petit nombre d'objectifs, sur la transparence et sur la séparation avec la rémunération.
+
+Doerr souligne que ce sont ces différences qui font l'efficacité des OKR par rapport à l'ancienne direction par objectifs : la fréquence, la mesure, la transparence, la participation des équipes et l'ambition.
+
+Il raconte aussi comment Grove présentait la méthode à ses jeunes recrues : avec une rigueur d'ingénieur, mais aussi avec la conviction que des objectifs clairs libèrent l'initiative au lieu de la brider.
+
+- Drucker : s'accorder sur les objectifs, laisser choisir les moyens.
+- Grove : des cycles courts, des résultats clés mesurables, la transparence.
+- L'ancienne gestion par objectifs était annuelle, secrète et liée aux primes.
+
+--- Les quatre superpouvoirs
+kw: focaliser · aligner · suivre · viser haut
+Doerr présente les bénéfices des OKR sous la forme de quatre « superpouvoirs », qui structurent le livre.
+
+**1. Se concentrer et s'engager sur les priorités.** Les OKR obligent à choisir un petit nombre d'objectifs vraiment importants, et à renoncer au reste. Ils transforment une liste infinie de bonnes idées en quelques engagements clairs.
+
+**2. S'aligner et se connecter pour travailler en équipe.** Les OKR sont publics, à tous les niveaux de l'organisation. Chacun peut voir les objectifs de la direction, de son équipe et de ses collègues. Cette transparence aide à relier les efforts de chacun aux priorités globales, et à repérer les doublons et les dépendances.
+
+**3. Suivre pour rendre des comptes.** Les OKR sont suivis régulièrement, pendant la période, et évalués à la fin. Ce suivi permet de repérer tôt les difficultés et d'ajuster.
+
+**4. Viser haut pour obtenir l'exceptionnel.** Les OKR encouragent à fixer des objectifs ambitieux, au-delà de ce qui semble facilement atteignable. Cette ambition pousse les équipes à trouver des manières nouvelles de travailler.
+
+Doerr ajoute une dimension qu'il juge indispensable pour que les OKR fonctionnent : les **CFR**, pour conversations, feedback et reconnaissance. Ce sont les échanges réguliers entre managers et collaborateurs qui donnent vie aux objectifs.
+
+Chaque superpouvoir est illustré dans le livre par une ou plusieurs histoires d'organisations.
+
+> À retenir | Concentrer, aligner, suivre, viser haut. Et les faire vivre par des conversations régulières.
+
+=== Superpouvoir 1 : se concentrer
+--- Choisir peu
+kw: trois à cinq · renoncer · priorités
+Doerr considère que le premier bénéfice des OKR est de forcer les organisations à **choisir**. La plupart des entreprises ont trop de priorités. Chaque service, chaque dirigeant ajoute ses propres projets. Les équipes se dispersent, et aucun projet ne reçoit l'attention nécessaire.
+
+Les OKR imposent une discipline : pas plus de trois à cinq objectifs par période. Pour fixer ces objectifs, les dirigeants doivent se demander ce qui est vraiment le plus important pour les mois à venir. Ce choix implique de renoncer à des projets intéressants, ce qui est difficile mais nécessaire.
+
+Doerr rappelle une idée d'Andy Grove : en essayant de se concentrer sur tout, on ne se concentre sur rien. Il cite aussi Steve Jobs, qui affirmait être aussi fier de ce qu'Apple n'avait pas fait que de ce qu'elle avait fait.
+
+Il souligne que les objectifs doivent venir en partie du **haut** et en partie du **bas**. La direction fixe les grandes priorités de l'entreprise. Mais les équipes et les personnes proposent aussi leurs propres OKR, en lien avec ces priorités. Doerr recommande qu'une part importante des OKR, souvent présentée comme environ la moitié, vienne des équipes elles-mêmes. Les personnes s'engagent davantage pour des objectifs qu'elles ont contribué à définir.
+
+Il insiste aussi sur la **clarté**. Un objectif mal formulé crée de la confusion. Les dirigeants doivent prendre le temps de bien formuler leurs objectifs, et de vérifier qu'ils sont compris de la même manière par tous.
+
+> Question clé | Si votre équipe ne pouvait atteindre que trois objectifs ce trimestre, lesquels choisiriez-vous ? À quoi renonceriez-vous ?
+
+--- L'opération Crush
+kw: Intel · Motorola · 1980
+Doerr raconte une histoire qu'il a vécue chez Intel : l'**opération Crush**.
+
+À la fin de 1979, Intel se trouve en difficulté. Son microprocesseur, le 8086, est concurrencé par celui de Motorola, jugé plus facile à programmer et plus performant par de nombreux clients. Les commerciaux d'Intel perdent des contrats. Un responsable commercial écrit un message d'alarme à la direction : Intel est en train de perdre la bataille des microprocesseurs.
+
+La direction réagit très vite. En quelques semaines, elle lance une campagne pour reconquérir le marché, avec un objectif clair : faire du 8086 le microprocesseur de référence de l'industrie. Cet objectif est traduit en résultats clés précis, notamment un nombre très élevé de nouveaux contrats de conception chez les clients, ce qu'on appelle des *design wins*.
+
+Les OKR sont déclinés dans toute l'entreprise. Le service marketing doit produire de nouveaux supports et organiser des séminaires pour les clients. Les ingénieurs doivent améliorer les outils de développement. Les commerciaux doivent rencontrer les clients et leur montrer les avantages de toute la gamme d'Intel, au-delà du seul processeur. Chaque équipe sait ce qu'elle doit faire et comment sa contribution s'inscrit dans l'objectif global.
+
+En quelques mois, Intel dépasse largement son objectif de nouveaux contrats. Parmi les clients gagnés pendant cette période se trouve IBM, qui choisit un processeur de la famille Intel pour son premier ordinateur personnel. Cette décision fera d'Intel le fournisseur dominant de microprocesseurs pendant des décennies.
+
+Doerr retient de cette histoire la puissance d'un objectif unique, clair et partagé, et la vitesse à laquelle une organisation peut se mobiliser quand chacun comprend comment contribuer.
+
+- Un objectif clair, décliné en quelques semaines dans toute l'entreprise.
+- Chaque équipe sait comment elle contribue.
+
+--- Google adopte les OKR
+kw: 1999 · fondateurs · toute l'entreprise
+Doerr raconte sa présentation des OKR aux fondateurs de Google, en 1999, peu après avoir investi dans l'entreprise. Google ne compte alors qu'une trentaine de salariés. Les fondateurs, Larry Page et Sergey Brin, n'ont pas d'expérience du management. Ils ont une ambition immense, mais pas de méthode pour organiser le travail d'une entreprise qui va grandir très vite.
+
+Doerr leur explique la méthode, avec des exemples tirés d'Intel. Les fondateurs l'adoptent rapidement. Les OKR deviennent l'un des outils de base de l'entreprise, utilisés à tous les niveaux, du sommet de la direction aux équipes d'ingénieurs.
+
+Dans le livre, Larry Page explique que les OKR ont aidé Google à rester concentré malgré sa croissance. Chaque trimestre, la direction fixe les objectifs de l'entreprise, et chaque équipe fixe les siens. Les OKR de tous sont visibles par tous, ce qui permet à chacun de savoir sur quoi travaillent les autres équipes.
+
+Doerr souligne quelques pratiques propres à Google. Les objectifs ambitieux y sont nombreux, et une note de 1 sur tous les OKR est vue comme le signe d'un manque d'ambition. Les OKR sont notés publiquement à la fin de chaque trimestre, et les équipes discutent ouvertement de ce qui n'a pas fonctionné. Les OKR de l'entreprise sont présentés à tous les salariés lors de réunions générales.
+
+Il raconte aussi l'histoire de Chrome, le navigateur de Google. L'équipe s'était fixé des objectifs très ambitieux en nombre d'utilisateurs, qu'elle n'a pas atteints les premières années. Mais ces objectifs l'ont poussée à améliorer sans cesse la vitesse et la qualité du produit, jusqu'à ce qu'il devienne l'un des navigateurs les plus utilisés au monde.
+
+> À retenir | Chez Google, les OKR sont publics, notés ouvertement et volontairement ambitieux, du sommet jusqu'aux équipes.
+
+=== Superpouvoir 2 : aligner
+--- Transparence et alignement
+kw: OKR publics · dépendances
+Le deuxième superpouvoir des OKR est l'**alignement**. Doerr explique que, dans beaucoup d'organisations, les équipes ne savent pas sur quoi travaillent les autres équipes, ni comment leur travail s'inscrit dans les priorités globales. Elles travaillent en silo, avec des objectifs parfois contradictoires.
+
+Les OKR répondent à ce problème par la **transparence**. Dans les organisations qui les utilisent, les OKR de chacun sont visibles par tous, du directeur général au plus jeune salarié. Chacun peut voir les objectifs de l'entreprise, ceux de son équipe et ceux de ses collègues.
+
+Cette transparence a plusieurs effets. Elle permet à chacun de **relier son travail** aux priorités de l'entreprise. Elle permet de **repérer les doublons**, quand deux équipes travaillent sur le même sujet sans le savoir. Elle permet d'identifier les **dépendances** : une équipe qui a besoin d'une autre pour atteindre ses objectifs peut le voir et en discuter. Elle crée aussi une forme de **responsabilité publique** : on s'engage plus fortement sur un objectif que tout le monde peut voir.
+
+Doerr met en garde contre une erreur : l'alignement ne signifie pas que tous les OKR doivent être découlés mécaniquement du haut vers le bas, chaque niveau reprenant les résultats clés du niveau supérieur comme objectifs. Un système trop rigide ralentit l'organisation et décourage l'initiative. Il recommande un équilibre entre les OKR proposés par la direction et ceux proposés par les équipes.
+
+Il souligne aussi l'importance de l'**alignement horizontal** : les équipes doivent coordonner leurs OKR entre elles, et pas seulement avec leur hiérarchie.
+
+> À retenir | Des OKR visibles par tous permettent de relier son travail aux priorités, de voir les doublons et de coordonner les dépendances.
+
+--- La fondation et l'humanitaire
+kw: Gates · ONE · associations
+Doerr montre que les OKR ne sont pas réservés aux entreprises. Il présente plusieurs organisations à but non lucratif qui les ont adoptés.
+
+La **Fondation Bill-et-Melinda-Gates**, l'une des plus grandes fondations philanthropiques au monde, utilise des objectifs et des résultats mesurables pour piloter ses programmes de santé mondiale, comme la lutte contre le paludisme ou la vaccination. Bill Gates souligne dans le livre l'importance de mesurer les progrès : sans mesure, il est impossible de savoir si les ressources sont bien utilisées, et d'ajuster les programmes.
+
+L'**organisation ONE**, cofondée par le chanteur Bono pour lutter contre l'extrême pauvreté et les maladies évitables, notamment en Afrique, a aussi utilisé les OKR. Bono raconte comment la méthode a aidé l'organisation à clarifier ses priorités dans ses campagnes de plaidoyer, et à mesurer ses progrès dans un domaine où les résultats sont difficiles à quantifier.
+
+Doerr souligne que les organisations à but non lucratif ont souvent encore plus besoin de concentration que les entreprises. Leurs ressources sont limitées, leurs causes sont vastes, et la tentation de tout faire est forte. Les OKR les aident à choisir où concentrer leurs efforts, et à démontrer à leurs donateurs l'impact de leur action.
+
+Il note aussi que, dans ces organisations, l'alignement est essentiel. Elles travaillent souvent avec de nombreux partenaires, gouvernements, associations locales, entreprises, et doivent coordonner leurs efforts.
+
+- Les OKR servent aussi les fondations et les ONG.
+- Mesurer les progrès pour mieux utiliser des ressources limitées.
+
+=== Superpouvoir 3 : suivre
+--- Suivre et ajuster
+kw: points réguliers · ajouter · abandonner
+Le troisième superpouvoir est le **suivi**. Doerr explique qu'un objectif fixé en début de trimestre et oublié jusqu'à la fin ne sert à rien. Les OKR doivent être suivis régulièrement pendant toute la période.
+
+Il recommande des **points réguliers**, souvent hebdomadaires, entre le manager et chaque collaborateur, et au sein de l'équipe. Lors de ces points, on regarde l'avancement de chaque résultat clé, on identifie les difficultés et on décide des actions à mener.
+
+Ce suivi permet d'**ajuster les OKR** en cours de période. Doerr décrit plusieurs ajustements possibles :
+
+- **Continuer** : le résultat clé avance comme prévu.
+- **Mettre à jour** : le résultat clé reste pertinent, mais il faut modifier les moyens ou le niveau visé en raison d'un changement de situation.
+- **Ajouter** : un nouvel OKR devient nécessaire en cours de période.
+- **Abandonner** : un OKR n'a plus de sens, parce que la situation a changé. Doerr précise qu'il faut le dire explicitement, et en tirer les leçons, plutôt que de le laisser mourir silencieusement.
+
+Il recommande aussi d'utiliser des **outils partagés** qui permettent à chacun de voir l'avancement des OKR en temps réel.
+
+À la fin de la période, les OKR sont **évalués**. Chez Google, chaque résultat clé reçoit une note entre 0 et 1. Doerr explique qu'une note autour de 0,6 à 0,7 est souvent considérée comme bonne pour un objectif ambitieux. Une note systématiquement proche de 1 signifie que les objectifs étaient trop faciles. Une note très basse invite à comprendre ce qui n'a pas fonctionné.
+
+Il insiste sur l'importance de la **réflexion** en fin de période : qu'a-t-on appris ? Qu'aurait-on pu faire différemment ? Ces leçons alimentent les OKR suivants.
+
+> À retenir | Suivre chaque semaine, ajuster sans honte, évaluer à la fin, et tirer les leçons. Toujours 1 sur 1, c'est viser trop bas.
+
+--- La santé et les petites structures
+kw: start-up · discipline · croissance
+Pour illustrer le suivi, Doerr présente plusieurs entreprises de taille plus modeste qui ont adopté les OKR, souvent à un moment critique de leur développement.
+
+Il raconte notamment l'histoire d'une **jeune entreprise** qui fabrique des sièges auto pour enfants, et de sa fondatrice. Venue d'une grande entreprise structurée, elle a découvert qu'une start-up en croissance manque souvent de discipline. Les OKR lui ont permis de clarifier les priorités dans une période où l'entreprise devait passer du prototype à la production, et de suivre précisément l'avancement des projets critiques, comme les certifications de sécurité.
+
+Il présente aussi une **application de suivi de la nutrition et de l'activité physique**, dont les dirigeants racontent comment les OKR les ont aidés à se concentrer sur un petit nombre de priorités, alors que la croissance rapide de l'entreprise multipliait les opportunités.
+
+Doerr souligne une leçon commune à ces histoires : les OKR sont particulièrement utiles dans les **périodes de transition**, quand une organisation grandit vite, change de stratégie ou traverse une crise. Dans ces moments, les priorités changent souvent, et le risque de dispersion est élevé.
+
+Il note aussi que l'adoption des OKR prend du temps. Les premières périodes sont souvent difficiles : les objectifs sont trop nombreux, les résultats clés mal formulés, le suivi irrégulier. Il faut plusieurs cycles pour que la méthode devienne naturelle. Il recommande de commencer par l'équipe de direction, avant d'étendre la méthode à toute l'organisation.
+
+- Les OKR aident surtout dans les périodes de transition.
+- Il faut plusieurs trimestres pour bien les maîtriser.
+- Commencer par l'équipe de direction.
+
+--- Les pièges du suivi
+kw: oubli · trop d'OKR · tableau de bord
+Doerr et les témoins du livre décrivent plusieurs pièges dans lesquels tombent les organisations qui commencent avec les OKR.
+
+**L'oubli.** Les OKR sont fixés avec soin en début de trimestre, puis personne ne les regarde jusqu'à la fin. Les équipes reviennent à leurs urgences quotidiennes, et les objectifs perdent leur sens. Le remède est un suivi régulier et court, intégré aux réunions existantes.
+
+**Trop d'OKR.** Pour ne froisser personne, chaque service ajoute ses objectifs, et l'entreprise se retrouve avec des dizaines d'OKR. La concentration disparaît. Il faut accepter de choisir.
+
+**Des résultats clés qui sont des tâches.** « Organiser trois réunions » ou « rédiger un document » sont des activités, pas des résultats. Une équipe peut les cocher sans avoir progressé vers l'objectif.
+
+**Des OKR figés.** Certaines équipes refusent de modifier leurs OKR quand la situation change, par peur de paraître inconstantes. Elles poursuivent alors des objectifs devenus inutiles.
+
+**Des OKR qui ne descendent qu'en cascade.** Si chaque niveau se contente de reprendre les résultats clés du niveau supérieur, les équipes ne s'approprient pas les objectifs, et le processus devient lent.
+
+**Le tableau de bord sans conversation.** Suivre des chiffres dans un logiciel ne suffit pas. Ce sont les échanges sur les chiffres qui permettent de comprendre les difficultés et de trouver des solutions.
+
+Doerr souligne que ces pièges sont normaux lors des premiers cycles. L'important est de les repérer et de corriger lors de la réflexion de fin de trimestre.
+
+- Suivre chaque semaine, sinon les OKR meurent.
+- Des résultats, pas des tâches.
+- Des chiffres, mais surtout des conversations.
+
+=== Superpouvoir 4 : viser haut
+--- Objectifs engagés et ambitieux
+kw: engagés · aspirationnels · 70 %
+Le quatrième superpouvoir est l'**ambition**. Doerr distingue deux types d'OKR.
+
+**Les OKR engagés** (*committed*) correspondent à des résultats que l'organisation s'engage à atteindre complètement. Ils concernent souvent des activités essentielles : atteindre un chiffre de ventes, livrer un produit à une date précise, respecter une norme. Pour ces OKR, une note inférieure à 1 est un problème, qui doit être expliqué.
+
+**Les OKR ambitieux** (*aspirational* ou *stretch*) correspondent à des objectifs volontairement très élevés, que l'on n'est pas sûr d'atteindre. Ils servent à pousser l'organisation au-delà de ce qu'elle croit possible. Pour ces OKR, atteindre environ 70 % de l'objectif est considéré comme un succès.
+
+Doerr explique l'intérêt des objectifs ambitieux. Un objectif modeste incite à améliorer marginalement ce que l'on fait déjà. Un objectif très ambitieux oblige à repenser complètement la manière de faire. Il cite une idée chère aux fondateurs de Google : il est souvent plus facile de faire un progrès dix fois plus grand que de faire un progrès de 10 %, parce qu'un objectif de dix fois oblige à changer d'approche plutôt qu'à optimiser l'existant.
+
+Il met cependant en garde contre deux excès. Des objectifs ambitieux impossibles à atteindre découragent les équipes. Et si les objectifs ambitieux sont utilisés pour évaluer les personnes et fixer leur rémunération, elles chercheront à les fixer bas. C'est pourquoi il recommande de bien distinguer les deux types d'OKR, et de ne pas lier directement les OKR à la rémunération.
+
+> Question clé | Parmi vos objectifs actuels, lesquels sont des engagements à tenir, et lesquels des ambitions pour changer d'échelle ?
+
+--- YouTube et le milliard d'heures
+kw: temps de visionnage · ambition
+L'une des histoires les plus détaillées du livre est celle de **YouTube**. Elle est racontée en partie par un ingénieur de l'entreprise, Cristos Goodrow, et par sa dirigeante de l'époque, Susan Wojcicki.
+
+Vers 2012, l'équipe de YouTube décide de changer d'indicateur principal. Jusque-là, elle mesurait surtout le nombre de vues des vidéos. Mais ce chiffre encourageait des vidéos aux titres accrocheurs, que les utilisateurs quittaient rapidement. L'équipe considère qu'un meilleur indicateur de la valeur pour l'utilisateur est le **temps de visionnage** : le temps que les gens passent réellement à regarder des vidéos.
+
+Elle se fixe alors un objectif ambitieux : atteindre **un milliard d'heures de visionnage par jour** en quelques années. À l'époque, ce chiffre représente une multiplication considérable du niveau existant. Beaucoup dans l'entreprise le jugent irréaliste.
+
+L'objectif est décliné en OKR trimestriels pour les différentes équipes : l'algorithme de recommandation, la vitesse de chargement, l'expérience sur mobile, les outils pour les créateurs. Chaque trimestre, les équipes mesurent leur contribution et ajustent leurs priorités.
+
+L'objectif est atteint, selon le récit du livre, à la fin de 2016, peu de temps avant l'échéance fixée.
+
+Doerr retient de cette histoire la puissance d'un objectif ambitieux, clair et mesurable sur plusieurs années, décliné en OKR trimestriels. Il souligne aussi l'importance du choix de l'indicateur. Le livre a été écrit avant les débats sur les effets des algorithmes de recommandation, qui montrent qu'un indicateur peut aussi avoir des conséquences imprévues : maximiser le temps passé n'est pas toujours aligné avec le bien-être des utilisateurs.
+
+- Un objectif ambitieux sur plusieurs années, décliné chaque trimestre.
+- Le choix de l'indicateur est décisif, et peut avoir des effets imprévus.
+
+--- L'ambition qui change l'échelle
+kw: dix fois · repenser · risque accepté
+Doerr développe l'idée qu'un objectif très ambitieux ne produit pas seulement plus d'effort, mais un **changement de méthode**.
+
+Il explique que, face à un objectif d'amélioration de 10 %, une équipe cherche à optimiser ce qu'elle fait déjà : travailler un peu plus, supprimer quelques inefficacités, améliorer les outils existants. Face à un objectif de multiplication par dix, ces moyens sont manifestement insuffisants. L'équipe est obligée de remettre en question ses hypothèses, de chercher des approches entièrement nouvelles et de collaborer avec d'autres équipes.
+
+Il cite plusieurs projets de Google qui illustrent cette logique, et qui sont nés d'objectifs jugés irréalistes au départ. Il souligne que tous n'ont pas réussi, mais que même les projets qui n'ont pas atteint leur objectif ont souvent produit des avancées importantes.
+
+Doerr précise les conditions pour que les objectifs ambitieux fonctionnent.
+
+**La direction doit les assumer.** Elle doit accepter publiquement qu'ils ne seront probablement pas atteints entièrement, et ne pas sanctionner les équipes qui obtiennent 0,6 ou 0,7.
+
+**Ils doivent être compris.** Les équipes doivent savoir pourquoi l'objectif est important, et pourquoi il a été fixé si haut.
+
+**Ils doivent rester rares.** Une équipe ne peut pas avoir que des objectifs ambitieux. Les activités essentielles doivent être couvertes par des OKR engagés.
+
+**Il faut des ressources.** Un objectif ambitieux sans moyens supplémentaires ni priorité claire est seulement une source de frustration.
+
+Il note enfin que les objectifs ambitieux attirent souvent les personnes les plus talentueuses, qui cherchent des défis à la hauteur de leurs capacités.
+
+> Question clé | Quel objectif de votre équipe, s'il était multiplié par dix, vous obligerait à changer complètement de méthode ?
+
+=== Conversations, feedback, reconnaissance
+--- Les CFR
+kw: conversations · feedback · reconnaissance
+Doerr consacre une partie importante du livre aux **CFR** : conversations, feedback et reconnaissance. Il les considère comme le complément indispensable des OKR.
+
+Il part d'une critique des **évaluations annuelles** traditionnelles. Une fois par an, le manager évalue le collaborateur, souvent en lien avec sa rémunération. Cette pratique a de nombreux défauts : elle arrive trop tard pour corriger quoi que ce soit, elle se concentre sur le passé, elle crée de l'anxiété, et elle ne reflète souvent que les derniers mois de l'année.
+
+À la place, Doerr propose une **gestion continue de la performance**, fondée sur les CFR.
+
+**Les conversations** sont des échanges réguliers entre le manager et le collaborateur, sur les objectifs, l'avancement, les difficultés, le développement et la carrière. Elles sont centrées sur l'avenir plutôt que sur le jugement du passé.
+
+**Le feedback** circule dans toutes les directions : du manager vers le collaborateur, mais aussi du collaborateur vers le manager, et entre collègues. Il est donné souvent, au fil des projets.
+
+**La reconnaissance** consiste à exprimer régulièrement son appréciation pour les contributions des personnes. Elle peut venir du manager, mais aussi des collègues. Elle renforce l'engagement et montre les comportements valorisés par l'organisation.
+
+Doerr cite l'exemple d'une grande entreprise de logiciels qui a supprimé ses évaluations annuelles pour les remplacer par des points réguliers. Selon le récit, l'entreprise a constaté une baisse des départs volontaires et une amélioration de l'engagement.
+
+> À retenir | Les OKR fixent le cap, les CFR le font vivre : conversations régulières, feedback dans tous les sens, reconnaissance fréquente.
+
+--- Séparer objectifs et rémunération
+kw: prudence · ambition · évaluation
+Doerr aborde une question délicate : faut-il lier les OKR à la rémunération et aux primes ?
+
+Sa réponse est prudente. Il recommande de **ne pas lier directement** l'atteinte des OKR à la rémunération. Si les primes dépendent de la note obtenue sur les OKR, les personnes auront intérêt à fixer des objectifs faciles à atteindre. L'ambition disparaîtra. Elles pourraient aussi être tentées de cacher les difficultés ou de manipuler les mesures.
+
+Cela ne signifie pas que la performance ne doit pas compter dans la rémunération. Mais l'évaluation de la performance doit prendre en compte plusieurs éléments : les résultats obtenus, mais aussi la difficulté des objectifs, les circonstances, la manière dont la personne a travaillé avec les autres, et sa contribution à l'organisation. Les OKR sont un élément d'information parmi d'autres.
+
+Doerr souligne que les OKR sont avant tout un **outil de pilotage et d'apprentissage**, pas un outil d'évaluation individuelle. Ils servent à concentrer l'énergie, à coordonner les équipes et à mesurer les progrès. Utilisés comme instrument de contrôle et de sanction, ils perdent leur valeur.
+
+Il note aussi l'importance de la **sécurité psychologique**. Pour que les équipes fixent des objectifs ambitieux et signalent honnêtement leurs difficultés, elles doivent être sûres qu'un objectif ambitieux non atteint ne sera pas sanctionné.
+
+- Ne pas lier mécaniquement OKR et primes.
+- Évaluer la performance sur plusieurs critères.
+- Les OKR sont un outil de pilotage, pas de sanction.
+
+--- La culture avant la méthode
+kw: valeurs · transparence · confiance
+Dans les derniers chapitres, Doerr souligne que les OKR ne fonctionnent pas dans n'importe quelle culture.
+
+Il explique que la méthode suppose plusieurs conditions culturelles. La **transparence** : les dirigeants doivent accepter que leurs propres objectifs et leurs propres échecs soient visibles par tous. La **confiance** : les salariés doivent croire qu'un objectif ambitieux non atteint ne sera pas retenu contre eux. La **responsabilité** : chacun doit se sentir engagé envers les objectifs qu'il a fixés, sans attendre qu'on le surveille.
+
+Dans une organisation où règnent la méfiance, la peur de l'erreur ou la politique, les OKR deviennent un outil de contrôle supplémentaire. Les personnes fixent des objectifs faciles, cachent les difficultés et manipulent les mesures. La méthode produit alors l'inverse de ce qu'elle promet.
+
+Doerr présente le témoignage d'une dirigeante d'une entreprise technologique, qui raconte comment les OKR ont aidé à transformer la culture de son organisation : en rendant les priorités visibles, ils ont réduit les jeux politiques et permis aux équipes de dire ouvertement quand un objectif n'avait plus de sens.
+
+Il souligne aussi l'importance des **valeurs**. Les OKR disent ce que l'organisation veut accomplir, mais pas comment elle veut se comporter pour y parvenir. Une entreprise peut atteindre ses objectifs en trichant, en épuisant ses salariés ou en trompant ses clients. Les valeurs fixent les limites.
+
+Il conclut que la méthode et la culture se renforcent mutuellement. Les OKR peuvent aider à construire une culture de transparence et de responsabilité, mais ils ne peuvent pas la créer seuls.
+
+- Les OKR exigent transparence, confiance et responsabilité.
+- Dans une culture de peur, ils deviennent un outil de contrôle.
+- Les valeurs fixent les limites de la poursuite des objectifs.
+
+=== Mettre en pratique
+--- Rédiger de bons OKR
+kw: verbe d'action · mesurable · peu nombreux
+Doerr et les praticiens dont il recueille les témoignages donnent de nombreux conseils pour rédiger de bons OKR.
+
+**Pour les objectifs :**
+- Les formuler de manière **concrète et orientée vers l'action**, souvent avec un verbe.
+- Les rendre **importants** : un objectif doit compter vraiment pour l'équipe ou l'organisation.
+- Les rendre **inspirants** : il doit donner envie de s'engager.
+- Les limiter à **trois à cinq** par équipe et par période.
+
+**Pour les résultats clés :**
+- Les rendre **mesurables** : un chiffre, un pourcentage, une date.
+- Décrire des **résultats**, pas des tâches.
+- En prévoir **trois à cinq** par objectif, pas davantage.
+- Les rendre **difficiles mais réalistes**, selon qu'il s'agit d'OKR engagés ou ambitieux.
+- Veiller à l'**équilibre** : si un résultat clé porte sur la quantité, en ajouter un sur la qualité, pour éviter qu'on sacrifie l'une à l'autre.
+
+Doerr insiste sur ce dernier point. Un indicateur unique peut être atteint de manière nuisible. Si une équipe commerciale doit augmenter le nombre de contrats, elle pourrait accorder des remises excessives. Ajouter un résultat clé sur la marge ou la satisfaction client équilibre l'ensemble.
+
+Il donne aussi un conseil sur le **processus** : les OKR doivent être fixés rapidement, en quelques jours, au début de la période. Un processus trop long et trop bureaucratique décourage les équipes.
+
+> Exercice | Écrivez un OKR pour votre équipe ce trimestre : un objectif inspirant, et trois résultats clés mesurables, dont un qui équilibre les autres.
+
+--- Des OKR pour soi-même
+kw: personnel · carrière · apprentissage
+Doerr note que les OKR peuvent aussi s'appliquer à la vie personnelle et au développement individuel. Plusieurs témoins du livre racontent les utiliser pour leurs propres projets.
+
+Le principe reste le même. On choisit un petit nombre d'objectifs importants pour les mois à venir : apprendre une compétence, améliorer sa santé, faire progresser sa carrière, consacrer plus de temps à sa famille. Pour chacun, on définit quelques résultats mesurables.
+
+Par exemple, l'objectif « Devenir à l'aise pour présenter en public » peut se traduire par des résultats clés comme : faire quatre présentations devant mon équipe ce trimestre ; obtenir une note moyenne de 4 sur 5 dans les retours des participants ; présenter une fois devant la direction.
+
+Les avantages sont les mêmes que pour une organisation. Les objectifs personnels deviennent plus concrets. On sait si l'on progresse. On peut ajuster en cours de route. Et on se concentre sur peu de choses plutôt que de vouloir tout améliorer en même temps.
+
+Doerr recommande aussi de **partager** ses OKR personnels avec une personne de confiance, un manager, un mentor ou un proche. Le simple fait de les rendre visibles renforce l'engagement, et cette personne peut aider à suivre les progrès.
+
+Il met en garde contre un excès : transformer toute sa vie en indicateurs. Certaines dimensions importantes, comme la qualité des relations ou le sens que l'on donne à son travail, ne se réduisent pas à des chiffres. Les OKR personnels doivent rester un outil au service de ce qui compte, et non l'inverse.
+
+> Exercice | Écrivez un OKR personnel pour les trois prochains mois : un objectif qui compte pour vous, et trois résultats mesurables. Partagez-le avec une personne de confiance.
+
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · un OKR · suivi
+**Semaine 1 : choisir.** Avec votre équipe, listez tout ce sur quoi vous travaillez. Choisissez les trois priorités les plus importantes pour le trimestre. Notez ce à quoi vous renoncez ou que vous repoussez.
+
+**Semaine 2 : rédiger.** Pour chaque priorité, écrivez un objectif et trois à cinq résultats clés mesurables. Indiquez s'il s'agit d'un OKR engagé ou ambitieux. Vérifiez qu'au moins un résultat clé équilibre les autres. Rendez les OKR visibles pour toute l'équipe, et si possible pour les équipes voisines.
+
+**Semaine 3 : aligner et suivre.** Comparez vos OKR avec ceux des équipes avec lesquelles vous travaillez. Identifiez les dépendances et discutez-en. Mettez en place un point hebdomadaire court pour suivre l'avancement.
+
+**Semaine 4 : converser.** Organisez avec chaque collaborateur une conversation sur ses objectifs, ses difficultés et son développement. Exprimez une reconnaissance précise à au moins trois personnes. Ajustez les OKR si la situation a changé.
+
+Doerr rappelle que la méthode demande plusieurs trimestres avant de devenir naturelle. Le premier cycle sert surtout à apprendre.
+
+> À retenir | Choisir, rédiger, rendre visible, suivre chaque semaine, converser. Puis noter et apprendre en fin de trimestre.
+
+--- Cas pratique : l'association
+kw: bénévoles · dispersion · trois priorités
+Une association d'aide aux devoirs pour collégiens fonctionne avec une petite équipe salariée et une centaine de bénévoles. Ses projets se multiplient : nouveaux quartiers, ateliers numériques, sorties culturelles, partenariats avec des entreprises. La directrice, Nora, constate que l'équipe est épuisée et que plusieurs projets n'avancent pas.
+
+**Choisir.** Avec le conseil d'administration, elle fixe trois objectifs pour le semestre. Le premier : « Que chaque collégien inscrit progresse réellement. » Les deux autres portent sur la fidélisation des bénévoles et la stabilité financière.
+
+**Les résultats clés.** Pour le premier objectif : 80 % des collégiens suivis au moins une fois par semaine ; une amélioration moyenne des résultats en mathématiques mesurée par un test en début et en fin de semestre ; un taux de satisfaction des familles de 90 %. Ce dernier équilibre les deux autres.
+
+**Renoncer.** Les ateliers numériques sont repoussés à l'année suivante. L'ouverture d'un nouveau quartier aussi.
+
+**Suivre.** Un tableau affiché dans le local montre l'avancement. Chaque lundi, l'équipe salariée fait un point de vingt minutes.
+
+**Les CFR.** Nora organise des rencontres régulières avec les responsables de bénévoles et instaure un moment de reconnaissance mensuel.
+
+À la fin du semestre, le premier objectif est atteint aux deux tiers selon les notes, et le nombre de bénévoles qui quittent l'association a diminué.
+
+> Question de réflexion | À quels projets votre équipe devrait-elle renoncer pour réussir les trois plus importants ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: success stories · indicateurs · bureaucratie
+*Measure What Matters* a largement contribué à la diffusion des OKR, mais il présente plusieurs limites.
+
+**Des histoires choisies.** Le livre présente surtout des réussites, souvent racontées par les dirigeants eux-mêmes. On sait peu de choses des organisations où les OKR n'ont pas fonctionné, ni des raisons de ces échecs.
+
+**Un auteur impliqué.** John Doerr a investi dans plusieurs des entreprises qu'il présente. Son enthousiasme est sincère, mais il n'est pas un observateur neutre.
+
+**Le risque de la tyrannie des indicateurs.** Mesurer ce qui compte est utile, mais tout ce qui compte ne se mesure pas facilement. Une organisation trop centrée sur ses résultats clés peut négliger des dimensions importantes mais difficiles à chiffrer, comme la qualité des relations, l'éthique ou la créativité. L'exemple de YouTube montre aussi qu'un indicateur bien choisi peut produire des effets indésirables.
+
+**Le risque de bureaucratie.** Dans de nombreuses entreprises, les OKR sont devenus un exercice administratif lourd : des dizaines d'objectifs, des logiciels complexes, des réunions de validation interminables. Ce n'est pas ce que le livre recommande, mais il dit peu de choses sur la manière d'éviter cette dérive.
+
+**Une méthode adaptée à certains contextes.** Les OKR fonctionnent bien dans des organisations où les objectifs peuvent être mesurés à court terme. Dans des activités de long terme, comme la recherche fondamentale, ils sont plus difficiles à appliquer.
+
+- Des réussites racontées par des acteurs engagés.
+- Tout ce qui compte ne se mesure pas.
+
+--- Liens avec les autres livres
+kw: Grove · Drucker · Rother · Collins
+**Avec High Output Management (Grove).** Les OKR viennent directement d'Andy Grove, qui les décrit dans son livre sous le nom de gestion par objectifs. Doerr en est le principal diffuseur.
+
+**Avec Management (Drucker).** Drucker a formulé dès les années 1950 l'idée de la direction par objectifs et par autocontrôle. Les OKR en sont une version simplifiée et plus rapide.
+
+**Avec Toyota Kata (Rother).** Le défi et les états cibles du kata d'amélioration ressemblent aux objectifs ambitieux et aux résultats clés. Le kata insiste davantage sur l'apprentissage par l'expérimentation.
+
+**Avec De la performance à l'excellence (Collins).** L'idée de se concentrer sur peu de priorités rejoint le concept du hérisson de Collins : se concentrer sur ce que l'on fait de mieux.
+
+**Avec Système 1 / Système 2 (Kahneman).** Les biais d'optimisme décrits par Kahneman expliquent pourquoi les équipes surestiment souvent ce qu'elles peuvent accomplir, et pourquoi le suivi régulier est nécessaire.
+
+> Parcours conseillé | Lisez ensuite High Output Management pour la source de la méthode, puis Toyota Kata pour une approche par l'expérimentation.

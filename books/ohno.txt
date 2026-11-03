@@ -1,0 +1,421 @@
+id: ohno
+t: L'Esprit Toyota
+o: Toyota Production System
+a: Taiichi Ohno
+y: 1978
+cat: Lean manufacturing
+p: ≈ 150 p.
+c: --b1
+ol_title: Toyota Production System: Beyond Large-Scale Production
+ol_author: Ohno
+center: Juste-à-temps et autonomation
+pitch: Le récit de l'architecte du système de production Toyota : supprimer le gaspillage par le juste-à-temps et l'autonomation.
+
+=== Contexte et thèse
+--- L'homme et le livre
+kw: ingénieur · atelier · 1978
+Taiichi Ohno est né en 1912 en Mandchourie, alors sous influence japonaise. Ingénieur de formation, il entre en 1932 chez Toyoda Spinning and Weaving, l'entreprise textile de la famille Toyoda. Il rejoint la branche automobile, Toyota Motor, en 1943. Il y fait l'essentiel de sa carrière dans les ateliers, d'abord comme chef d'atelier, puis comme responsable de la production, jusqu'à devenir vice-président de l'entreprise.
+
+Pendant près de trente ans, de la fin des années 1940 aux années 1970, Ohno a construit pas à pas ce qu'on appelle aujourd'hui le système de production Toyota. Il n'a pas suivi un plan préétabli. Il a expérimenté dans ses propres ateliers, corrigé, étendu ce qui fonctionnait, en rencontrant souvent de fortes résistances à l'intérieur même de Toyota.
+
+Le livre, publié au Japon en 1978 et traduit en anglais dix ans plus tard, est court. Il ne ressemble pas à un manuel. Ohno y mêle ses souvenirs, ses principes, des anecdotes d'atelier, des comparaisons avec le sport ou la nature, et des réflexions sur l'économie. Le ton est direct, parfois provocateur.
+
+Ohno l'a écrit à un moment particulier. En 1973, le premier choc pétrolier a plongé l'économie japonaise dans la récession. La plupart des entreprises ont vu leurs profits s'effondrer. Toyota, elle, a mieux résisté que les autres, et s'est redressée plus vite. Beaucoup d'observateurs ont alors voulu comprendre ce qui faisait la différence. Le livre est la réponse de celui qui avait construit le système.
+
+> À retenir | Un livre court et personnel, écrit par celui qui a construit le système dans ses propres ateliers, par essais et erreurs.
+
+--- Le choc pétrolier, révélateur
+kw: 1973 · récession · résistance
+Ohno explique que, pendant longtemps, le système de production Toyota a suscité peu d'intérêt, même au Japon. Dans les années 1950 et 1960, l'économie japonaise connaît une croissance très rapide. La demande augmente sans cesse, et les entreprises qui produisent en grandes quantités vendent tout ce qu'elles fabriquent. Les méthodes de Toyota, qui cherchent à produire juste ce qu'il faut, paraissent alors inutilement compliquées.
+
+Ohno raconte même qu'il ne souhaitait pas que son système soit trop connu. Il le considérait comme un avantage pour Toyota, et il craignait que ses concurrents le copient. Il était aussi conscient que ce système, encore en construction, pouvait être mal compris.
+
+Tout change en 1973. Le premier choc pétrolier provoque une hausse brutale du prix du pétrole et une récession mondiale. Au Japon, la croissance s'arrête net. De nombreuses entreprises se retrouvent avec des stocks énormes, des usines surdimensionnées et des pertes importantes.
+
+Toyota résiste mieux. Ses profits diminuent, mais beaucoup moins que ceux des autres entreprises, et elle retrouve rapidement sa rentabilité. Ce contraste attire l'attention. Les entreprises japonaises veulent comprendre comment Toyota y est parvenue, et le système de production commence à être étudié et copié.
+
+Ohno en tire une leçon. Selon lui, le système de production de masse est adapté à une économie de forte croissance, où l'on peut vendre tout ce que l'on produit. Mais dans une économie de croissance lente, où la demande est incertaine et diversifiée, seul un système capable de produire de petites quantités sans gaspillage reste rentable. Le choc pétrolier a révélé cette différence.
+
+Il avertit aussi les entreprises tentées de copier rapidement son système. Il lui a fallu une vingtaine d'années pour le mettre en place chez Toyota. Il ne peut pas être appliqué du jour au lendemain.
+
+> À retenir | Le système Toyota est passé presque inaperçu pendant la croissance. C'est la crise de 1973 qui a révélé sa force.
+
+--- Rattraper l'Amérique
+kw: après-guerre · productivité · pénurie
+Ohno raconte le point de départ de son travail. Après la défaite de 1945, Kiichiro Toyoda, le président de l'entreprise, fixe un objectif qui paraît irréaliste : rattraper l'industrie automobile américaine en trois ans. Sinon, dit-il, l'industrie automobile japonaise ne survivra pas.
+
+À cette époque, Ohno estime que la productivité d'un ouvrier américain est plusieurs fois supérieure à celle d'un ouvrier japonais. Il en tire une conclusion : ce n'est pas parce que les Américains travaillent plus dur. C'est donc que les Japonais gaspillent énormément. Si l'on pouvait éliminer ce gaspillage, la productivité pourrait être multipliée.
+
+Mais Toyota ne peut pas copier les méthodes américaines. Les constructeurs américains produisent en très grandes séries quelques modèles, avec d'énormes machines spécialisées, des stocks importants et une main-d'œuvre abondante. Le marché japonais de l'après-guerre est minuscule. Il demande de nombreux modèles différents en petites quantités : voitures, camions, véhicules utilitaires. Toyota manque de capitaux, d'espace et de matières premières. Elle ne peut pas se permettre de stocks.
+
+Ohno en fait le point de départ de sa réflexion : comment produire de nombreux modèles en petites quantités, avec peu de moyens, à un coût compétitif ? Le système de production Toyota est la réponse à cette question. Il ne cherche pas à produire beaucoup, mais à produire juste ce qu'il faut, sans gaspillage.
+
+Ohno insiste sur un point : la pénurie a été une chance. Si Toyota avait eu les moyens des Américains, elle aurait sans doute copié leurs méthodes. C'est la contrainte qui l'a obligée à inventer.
+
+- Le marché japonais exigeait de nombreux modèles en petites quantités.
+- La pénurie de moyens a obligé Toyota à inventer plutôt qu'à copier.
+
+--- Deux piliers
+kw: juste-à-temps · autonomation · fondation
+Ohno résume son système par deux piliers.
+
+Le premier est le **juste-à-temps**. Dans un flux de production, les bonnes pièces doivent arriver sur la ligne d'assemblage au moment où elles sont nécessaires, et seulement dans la quantité nécessaire. Une entreprise qui y parvient parfaitement n'a plus besoin de stocks. L'expression, en anglais *just in time*, viendrait de Kiichiro Toyoda lui-même, qui l'utilisait dès les années 1930.
+
+Le second est l'**autonomation**, en japonais *jidoka*. Ohno précise qu'il ne s'agit pas d'une simple automatisation, mais d'une automatisation avec une touche humaine. Une machine autonome est équipée d'un dispositif qui la fait s'arrêter dès qu'une anomalie se produit. L'idée vient de Sakichi Toyoda, le fondateur du groupe, et de son métier à tisser qui s'arrêtait automatiquement quand un fil cassait.
+
+Ohno compare ces deux piliers au fonctionnement d'une équipe de baseball ou d'un corps humain. Le juste-à-temps correspond au jeu collectif, à la coordination de tous. L'autonomation correspond à l'habileté individuelle de chaque joueur, ou aux réflexes du corps qui réagit seul à une douleur.
+
+Il explique que ces deux piliers reposent sur une base commune : l'élimination complète du gaspillage. Tout le système vise un seul objectif, réduire les coûts en supprimant tout ce qui n'ajoute pas de valeur.
+
+Ohno insiste sur le fait que le système est un tout. Le juste-à-temps sans l'autonomation produirait des défauts en série. L'autonomation sans le juste-à-temps laisserait les stocks cacher les problèmes. C'est leur combinaison qui fait la force du système.
+
+> À retenir | Juste-à-temps et autonomation, sur une base commune : l'élimination du gaspillage.
+
+=== Le juste-à-temps
+--- Penser à rebours
+kw: aval vers amont · supermarché · inversion
+Ohno raconte comment il a eu l'idée centrale du juste-à-temps. Traditionnellement, la production est organisée de l'amont vers l'aval. Chaque étape produit selon un plan, puis envoie ses pièces à l'étape suivante. Le résultat, observe Ohno, est que chaque étape produit sans savoir si l'étape suivante en a besoin. Les pièces s'accumulent, ou au contraire manquent, et il faut sans cesse modifier les plans.
+
+Ohno propose d'inverser le raisonnement. Au lieu que chaque étape pousse ses pièces vers la suivante, c'est l'étape suivante qui va chercher, chez l'étape précédente, les pièces dont elle a besoin, au moment où elle en a besoin, et dans la quantité nécessaire. L'étape précédente ne produit alors que pour remplacer ce qui a été pris.
+
+Il explique avoir trouvé l'inspiration dans les supermarchés américains, dont il avait entendu parler dans les années 1950 avant de les voir lors d'un voyage aux États-Unis. Dans un supermarché, le client prend ce dont il a besoin, quand il en a besoin. Le magasin réapprovisionne seulement ce qui a été vendu. Il n'y a pas de plan qui pousse les produits vers les clients.
+
+Dans l'usine, l'étape suivante joue le rôle du client, et l'étape précédente celui du supermarché. En partant de la ligne d'assemblage final, qui suit les commandes, et en remontant étape par étape, toute l'usine peut fonctionner au rythme de la demande réelle.
+
+Ohno souligne que cette inversion paraît simple, mais qu'elle a demandé des années pour être mise en place. Elle bouleversait les habitudes, les systèmes de planification et l'organisation des ateliers. Il fallait aussi convaincre les responsables de chaque atelier de ne plus produire au maximum de leur capacité.
+
+> À retenir | Inverser le flux : c'est l'étape suivante qui vient chercher ce dont elle a besoin, comme un client au supermarché.
+
+--- Le kanban et ses règles
+kw: étiquette · règles · pas de surplus
+Pour faire fonctionner ce système, Ohno a introduit le **kanban**, un mot japonais qui signifie « étiquette » ou « enseigne ». Il s'agit d'une fiche, souvent placée dans une pochette plastique, qui accompagne les pièces. Elle indique quelle pièce, quelle quantité, d'où elle vient et où elle va.
+
+Ohno décrit deux types principaux de kanban. Le **kanban de prélèvement** autorise l'étape suivante à venir prendre des pièces chez l'étape précédente. Le **kanban de production** autorise l'étape précédente à produire de quoi remplacer ce qui a été pris.
+
+Il énonce des règles strictes pour l'usage du kanban, dont l'esprit est le suivant :
+
+- L'étape suivante vient prélever chez l'étape précédente uniquement ce qu'indique le kanban.
+- L'étape précédente produit uniquement la quantité et l'ordre indiqués par les kanbans reçus.
+- Aucune pièce n'est produite ni transportée sans kanban.
+- Un kanban accompagne toujours les pièces.
+- Aucune pièce défectueuse n'est envoyée à l'étape suivante.
+- On cherche sans cesse à réduire le nombre de kanbans en circulation, pour réduire les stocks et faire apparaître les problèmes.
+
+Ohno insiste sur la dernière règle. Le kanban n'est pas seulement un outil de gestion des stocks. C'est un outil d'amélioration. En retirant progressivement des kanbans, on réduit le stock entre les étapes, et les problèmes cachés apparaissent : une machine qui tombe souvent en panne, un réglage trop long, un défaut récurrent. Il faut alors les résoudre.
+
+Il met aussi en garde contre une erreur : le kanban ne fonctionne que si la production est lissée et les processus stabilisés. Appliqué dans une usine où la production varie fortement, il provoquerait des ruptures et de la confusion.
+
+> À retenir | Pas de kanban, pas de production. Et réduire sans cesse le nombre de kanbans pour faire apparaître les problèmes.
+
+--- Lisser la production
+kw: heijunka · petites séries · SMED
+Ohno explique que le juste-à-temps exige une production lissée. Si la ligne d'assemblage final produit tous les modèles A le matin et tous les modèles B l'après-midi, les étapes en amont doivent produire d'énormes quantités de pièces A le matin, puis rien. Elles doivent donc avoir des capacités, des personnes et des stocks dimensionnés pour les pics.
+
+Pour éviter cela, la ligne d'assemblage final alterne les modèles tout au long de la journée : un modèle A, puis un B, puis un A, puis un C. La demande transmise aux étapes en amont devient régulière. Les Japonais appellent ce lissage *heijunka*.
+
+Mais le lissage pose un problème technique : il oblige à produire en petites séries, et donc à changer souvent les outils des machines. Dans les années 1950, le changement des matrices d'une grande presse d'emboutissage, qui forme les pièces de carrosserie, prenait plusieurs heures. Les constructeurs produisaient donc de très grandes séries entre deux changements.
+
+Ohno raconte comment ses équipes ont travaillé pendant des années à réduire ce temps de changement. Ils ont préparé les outils à l'avance, pendant que la machine tournait encore, standardisé les fixations, supprimé les réglages par tâtonnement. Le temps de changement est passé de plusieurs heures à quelques minutes. Ce travail a ensuite été formalisé par Shigeo Shingo, un consultant qui travaillait avec Toyota, sous le nom de méthode SMED (changement d'outil en moins de dix minutes).
+
+Ohno souligne que ces changements rapides ont été une condition essentielle du système. Sans eux, la production en petites séries aurait été trop coûteuse.
+
+- Alterner les modèles pour que la demande en amont soit régulière.
+- Réduire les temps de changement pour rendre les petites séries rentables.
+
+--- Les fournisseurs dans le flux
+kw: petits lots · proximité · formation
+Ohno explique que le juste-à-temps ne peut pas s'arrêter aux portes de l'usine. Une voiture compte des milliers de pièces, dont une grande partie est produite par des fournisseurs. Si ces fournisseurs livrent par grands lots, une fois par semaine, l'usine Toyota doit stocker leurs pièces, et le juste-à-temps perd son sens.
+
+Toyota a donc progressivement étendu le système à ses fournisseurs. Les kanbans circulent entre l'usine et les fournisseurs, qui livrent seulement ce qui a été consommé. Les livraisons deviennent plus fréquentes et plus petites, parfois plusieurs fois par jour. Pour que cela soit possible, de nombreux fournisseurs se sont installés à proximité des usines Toyota.
+
+Ohno reconnaît que cette extension a été difficile. Les fournisseurs, habitués à produire en grandes séries, ont d'abord vu dans le juste-à-temps une manière pour Toyota de leur transférer ses stocks. Si un fournisseur continue à produire par grands lots, puis stocke ses pièces pour les livrer petit à petit, le gaspillage n'a pas disparu, il a simplement changé de place.
+
+Pour éviter cela, Toyota a formé ses fournisseurs à son système. Ses ingénieurs se rendaient dans leurs usines pour les aider à mettre en place le flux, à réduire leurs temps de changement et à lisser leur production. Ohno souligne que le juste-à-temps ne fonctionne que si toute la chaîne l'adopte.
+
+Il insiste aussi sur l'importance de la stabilité de la demande transmise aux fournisseurs. Si Toyota changeait brutalement ses volumes, les fournisseurs seraient obligés de constituer des stocks pour se protéger. Le lissage de la production chez Toyota est donc aussi une forme de respect envers les fournisseurs.
+
+- Le juste-à-temps doit s'étendre à toute la chaîne.
+- Un stock déplacé chez le fournisseur n'est pas un stock supprimé.
+- Former les fournisseurs plutôt que leur imposer les contraintes.
+
+=== L'autonomation
+--- La machine qui s'arrête
+kw: Sakichi Toyoda · métier à tisser · anomalie
+Ohno raconte l'origine du second pilier. Sakichi Toyoda, fondateur du groupe, avait inventé au début du XXe siècle un métier à tisser automatique qui s'arrêtait dès qu'un fil cassait ou venait à manquer. Avant cette invention, un ouvrier devait surveiller chaque métier en permanence. Si un fil cassait sans qu'il le remarque, le métier continuait à tisser un tissu défectueux.
+
+Grâce au dispositif d'arrêt automatique, la machine n'avait plus besoin d'être surveillée en continu. Un ouvrier pouvait s'occuper de plusieurs métiers et n'intervenir que lorsque l'un d'eux s'arrêtait. Et aucun tissu défectueux n'était produit.
+
+Ohno a appliqué ce principe aux machines de l'usine automobile. Il les a fait équiper de dispositifs qui les arrêtent en cas d'anomalie : une pièce mal positionnée, un outil cassé, une quantité atteinte. Il explique qu'une machine ordinaire, en cas de problème, continue à produire des pièces défectueuses, parfois en grande quantité, et peut s'abîmer elle-même. Une machine autonome s'arrête et signale le problème.
+
+Le principe a deux conséquences. D'abord, la qualité est garantie à la source : on ne produit pas de défauts en série. Ensuite, la machine n'a plus besoin d'un opérateur qui la surveille. L'opérateur est libéré pour faire autre chose.
+
+Ohno distingue ici le travail de l'homme et celui de la machine. Dans beaucoup d'usines, un opérateur reste à côté de sa machine, à la regarder travailler. Ohno considère cela comme un gaspillage. La machine doit travailler seule, et l'homme doit intervenir seulement quand c'est nécessaire.
+
+> À retenir | Une machine qui s'arrête d'elle-même en cas d'anomalie ne produit pas de défauts et n'a pas besoin d'être surveillée.
+
+--- Plusieurs machines par opérateur
+kw: polyvalence · ateliers · résistances
+De l'autonomation découle une pratique qu'Ohno a introduite dans ses ateliers dès la fin des années 1940 : confier plusieurs machines à un même opérateur.
+
+À l'époque, dans les usines japonaises comme ailleurs, chaque ouvrier était spécialisé sur un type de machine. Un tourneur s'occupait de son tour, un fraiseur de sa fraiseuse. Les machines étaient regroupées par type, dans des ateliers séparés. Chaque ouvrier restait devant sa machine pendant qu'elle travaillait.
+
+Ohno a réorganisé ses ateliers pour que les machines soient placées dans l'ordre des opérations. Un opérateur prend une pièce, la place sur la première machine, lance le cycle, passe à la deuxième machine pendant que la première travaille, et ainsi de suite. Grâce à l'autonomation, chaque machine s'arrête seule à la fin de son cycle ou en cas de problème. Un seul opérateur peut ainsi faire fonctionner plusieurs machines différentes.
+
+Ohno raconte que cette réorganisation a suscité de fortes résistances. Les ouvriers qualifiés, fiers de leur métier, refusaient de devenir polyvalents. Les syndicats y voyaient une intensification du travail. Ohno reconnaît que les débuts ont été difficiles et qu'il a dû convaincre, insister, parfois imposer.
+
+Il défend néanmoins cette pratique. Selon lui, elle permet de produire davantage avec le même nombre de personnes, et donc de ne pas embaucher dans les périodes de croissance, ce qui protège l'emploi dans les périodes difficiles. Elle rend aussi le travail moins monotone, puisque l'opérateur réalise plusieurs opérations.
+
+Ohno souligne enfin que la polyvalence suppose une formation importante. Les opérateurs doivent connaître plusieurs machines, comprendre la qualité de chaque opération et savoir réagir aux problèmes.
+
+- Placer les machines dans l'ordre des opérations.
+- Un opérateur, plusieurs machines autonomes.
+- Une transition difficile, qui demande formation et conviction.
+
+--- Arrêter la ligne
+kw: andon · gestion visuelle · fierté
+Ohno étend l'autonomation aux lignes d'assemblage, où le travail est réalisé par des personnes plutôt que par des machines. Il donne à chaque opérateur le droit, et même le devoir, d'arrêter la ligne lorsqu'il détecte un problème qu'il ne peut pas résoudre.
+
+Pour cela, Toyota installe des panneaux lumineux au-dessus des lignes, appelés *andon*. Quand un opérateur rencontre un problème, il le signale. Une lumière s'allume, indiquant à quel poste se trouve le problème. Le chef d'équipe vient immédiatement l'aider. Si le problème ne peut pas être résolu rapidement, la ligne s'arrête.
+
+Ohno reconnaît que cette pratique paraît absurde à beaucoup de responsables. Arrêter une ligne d'assemblage coûte cher. Les dirigeants de l'époque considéraient qu'une ligne qui s'arrête est une ligne mal gérée. Ohno soutient l'inverse : une ligne qui ne s'arrête jamais est soit une ligne parfaite, ce qui n'existe pas, soit une ligne où les problèmes sont cachés. Chaque arrêt est l'occasion de comprendre un problème et de le supprimer définitivement.
+
+Il explique que, au début, les arrêts sont nombreux. Puis, à mesure que les causes sont éliminées, ils deviennent plus rares. Une ligne qui s'arrête souvent au début devient ensuite une ligne très fiable.
+
+Ohno souligne aussi la dimension humaine de cette pratique. Donner aux opérateurs le pouvoir d'arrêter la ligne, c'est leur faire confiance et les rendre responsables de la qualité. Il parle du respect de l'humanité : ne pas traiter les personnes comme de simples rouages, mais utiliser leur intelligence.
+
+> Question clé | Dans votre équipe, quelqu'un qui découvre un problème peut-il tout arrêter pour le traiter, ou doit-il continuer pour ne pas ralentir ?
+
+=== Le gaspillage
+--- Les sept gaspillages
+kw: surproduction · attente · défauts
+Ohno classe le gaspillage en sept catégories, qui sont devenues un classique du management.
+
+- **La surproduction** : produire plus que nécessaire, ou plus tôt que nécessaire.
+- **L'attente** : des opérateurs qui attendent qu'une machine termine son cycle, qu'une pièce arrive ou qu'une décision soit prise.
+- **Le transport** : déplacer des pièces plus que nécessaire.
+- **Le traitement lui-même** : des opérations inutiles ou mal conçues, qui ne contribuent pas à la valeur du produit.
+- **Les stocks** : des pièces qui attendent, à toutes les étapes.
+- **Les mouvements** : des gestes inutiles des opérateurs, comme chercher, se pencher ou marcher.
+- **Les défauts** : la production de pièces défectueuses et leur correction.
+
+Ohno insiste sur le premier : **la surproduction est le pire des gaspillages**. Elle est plus grave que les autres parce qu'elle les cache et les entraîne. Produire trop exige plus de matières, plus de stocks, plus de manutention, plus d'espace, plus de personnes pour gérer ces stocks. Et elle masque les autres problèmes : si une machine tombe en panne, le stock permet de continuer, et personne ne s'occupe de la panne.
+
+Il explique aussi que la surproduction est la plus difficile à voir. Une usine où tout le monde travaille et où les machines tournent en permanence donne une impression d'efficacité. Pourtant, si ce travail produit des pièces dont personne n'a besoin tout de suite, il ne crée aucune valeur.
+
+Ohno souligne qu'éliminer le gaspillage ne signifie pas faire travailler les personnes plus dur. Il distingue le **travail qui ajoute de la valeur** et les **mouvements qui n'en ajoutent pas**. Le but est de transformer les mouvements inutiles en travail utile, pas d'accélérer les gestes.
+
+> À retenir | La surproduction est le pire gaspillage : elle entraîne tous les autres et les cache.
+
+--- Vraie et fausse efficience
+kw: capacité · emplois · efficience apparente
+Ohno consacre plusieurs passages à une distinction essentielle : l'efficience apparente et la vraie efficience.
+
+Il donne un exemple. Une ligne de dix personnes produit cent pièces par jour. Si l'on améliore les méthodes et que la même ligne produit cent vingt pièces par jour, l'efficience a augmenté de vingt pour cent. Mais si le marché ne demande que cent pièces, les vingt pièces supplémentaires ne servent à rien. Elles s'accumulent en stock. C'est une efficience apparente.
+
+La vraie efficience consisterait à produire les cent pièces demandées avec huit personnes, et à affecter les deux autres à une autre activité. Ohno insiste : l'amélioration de l'efficience doit toujours être liée à la réduction des coûts, et donc à la demande réelle.
+
+Il critique les indicateurs qui mesurent l'efficience d'une machine ou d'un atelier isolément. Ces indicateurs poussent chaque responsable à produire au maximum, ce qui crée de la surproduction. Ohno préfère regarder l'efficience de l'ensemble du flux.
+
+Il aborde aussi la question sensible de la réduction des effectifs. Ohno parle volontiers de « réduction de main-d'œuvre », mais il précise qu'il ne s'agit pas de licencier. Il s'agit d'utiliser moins de personnes sur une ligne donnée, pour que les personnes libérées soient affectées ailleurs, notamment aux nouvelles lignes créées par la croissance. Il explique que, dans les périodes de croissance, cela permet d'éviter d'embaucher massivement, ce qui protège l'entreprise dans les périodes de ralentissement.
+
+Ohno met aussi en garde contre une erreur fréquente : investir dans des machines coûteuses pour gagner quelques secondes, alors que le problème est ailleurs. Il préfère améliorer d'abord les méthodes de travail, puis seulement ensuite les machines.
+
+- Produire plus que la demande n'est pas une amélioration.
+- La vraie efficience produit la même chose avec moins de ressources.
+- Améliorer les méthodes avant d'acheter des machines.
+
+--- Le travail standardisé
+kw: takt · séquence · en-cours standard
+Ohno décrit un autre élément essentiel de son système : le travail standardisé. Dans chaque atelier, une feuille affichée au poste de travail décrit la manière dont le travail doit être réalisé. Elle comprend trois éléments.
+
+**Le temps de cycle.** Ohno parle du temps nécessaire pour produire une pièce, calculé à partir de la demande. Si la demande est de quatre cent quatre-vingts pièces par jour et que l'usine travaille quatre cent quatre-vingts minutes, il faut produire une pièce par minute. Ce rythme, que l'on appelle aujourd'hui le temps takt, est la référence de toute l'organisation du poste.
+
+**La séquence des opérations.** C'est l'ordre dans lequel l'opérateur réalise ses gestes : prendre la pièce, la placer sur la machine, lancer le cycle, passer à la machine suivante. Cet ordre est fixé pour que le travail soit fait de la manière la plus efficace et la plus sûre.
+
+**Le stock standard d'en-cours.** C'est la quantité minimale de pièces nécessaire pour que le travail puisse se dérouler, par exemple une pièce dans chaque machine. Plus de pièces seraient un gaspillage, moins de pièces bloqueraient le flux.
+
+Ohno insiste sur le fait que ces feuilles ne doivent pas être rédigées par des bureaux d'études éloignés. Elles sont établies par les chefs d'atelier, qui connaissent le travail, et elles doivent être compréhensibles par tous.
+
+Il souligne aussi que le standard n'est pas figé. Il représente la meilleure méthode connue à un moment donné. Dès qu'une amélioration est trouvée, le standard est modifié. Sans standard, explique-t-il, il est impossible de savoir si une modification a amélioré les choses.
+
+Enfin, le travail standardisé rend les anomalies visibles. Si un opérateur prend du retard sur le temps de cycle, ou si le stock d'en-cours augmente, quelque chose ne va pas, et il faut chercher la cause.
+
+> À retenir | Temps de cycle, séquence, en-cours minimal : une feuille au poste, écrite par ceux qui connaissent le travail, et modifiée à chaque amélioration.
+
+=== Penser et voir
+--- Les cinq pourquoi
+kw: cause réelle · faits · répétition
+Ohno est l'une des sources de la méthode des **cinq pourquoi**. Face à un problème, il recommande de demander pourquoi il s'est produit, puis pourquoi cette cause s'est produite, et ainsi de suite, en général cinq fois, jusqu'à trouver la cause réelle.
+
+Il donne l'exemple d'une machine qui s'arrête. Pourquoi s'est-elle arrêtée ? Parce qu'un fusible a sauté à cause d'une surcharge. Pourquoi y a-t-il eu une surcharge ? Parce que le palier n'était pas assez lubrifié. Pourquoi ? Parce que la pompe de lubrification ne fonctionnait pas correctement. Pourquoi ? Parce que son axe était usé. Pourquoi ? Parce qu'aucun filtre n'empêchait les copeaux de métal d'y pénétrer. La solution est donc d'installer un filtre. Si l'on s'était arrêté au premier pourquoi, on aurait simplement changé le fusible, et le problème serait revenu.
+
+Ohno souligne que le nombre cinq n'est pas une règle magique. L'important est de ne pas s'arrêter aux causes apparentes. Il explique que beaucoup de personnes se contentent de traiter les symptômes, parce qu'il est plus rapide de remplacer un fusible que de comprendre pourquoi il a sauté.
+
+Il insiste aussi sur l'importance des faits. Les « pourquoi » doivent être posés sur le terrain, en observant la machine, en examinant les pièces, en interrogeant les opérateurs. Il se méfie des données et des rapports, qui ne disent pas toujours la vérité.
+
+Ohno voit dans cette pratique la base scientifique du système Toyota. Chaque problème est une occasion d'apprendre quelque chose sur le processus, et de l'améliorer durablement.
+
+> Exercice | Choisissez un problème qui revient régulièrement dans votre équipe. Posez la question « pourquoi » cinq fois, en vérifiant chaque réponse par des faits.
+
+--- Aller dans l'atelier
+kw: observation · cercle à la craie · réalité
+Ohno est connu pour son insistance sur l'observation directe. Il passait une grande partie de son temps dans les ateliers, et il exigeait la même chose de ses ingénieurs et de ses cadres.
+
+Il explique que les données sont importantes, mais que les faits le sont davantage. Les rapports, les statistiques et les plans décrivent ce qui est censé se passer. Pour savoir ce qui se passe réellement, il faut aller voir. Il recommande d'observer l'atelier sans idée préconçue, avec un regard neuf, comme un enfant qui découvre le monde.
+
+L'anecdote du cercle tracé à la craie sur le sol de l'atelier, rapportée par plusieurs de ses anciens collaborateurs, illustre cette exigence. Ohno demandait à un jeune ingénieur de se tenir dans ce cercle et d'observer le travail pendant des heures. Quand il revenait, il lui demandait ce qu'il avait vu. Si l'ingénieur n'avait pas remarqué assez de gaspillages, il devait continuer à observer.
+
+Ohno a aussi développé une forme de management visuel. Il voulait que l'état de l'atelier soit visible en un coup d'œil : les stocks limités par des emplacements délimités, les kanbans qui circulent, les panneaux andon, les tableaux d'avancement. Un responsable devait pouvoir comprendre la situation en traversant l'atelier, sans consulter de rapport.
+
+Ohno était aussi connu pour son exigence, parfois dure, envers ses collaborateurs. Il les poussait à trouver eux-mêmes les solutions, à expérimenter, à se tromper et à recommencer. Il considérait que la connaissance acquise par l'expérience directe était plus solide que celle des livres.
+
+- Les faits de l'atelier avant les données des rapports.
+- Observer longtemps, avec un regard neuf.
+- Rendre la situation visible en un coup d'œil.
+
+--- Les images d'Ohno
+kw: sport · corps humain · relais
+Le livre d'Ohno est riche en images et en comparaisons, qui aident à comprendre sa manière de penser.
+
+**Le relais.** Ohno compare le travail sur une ligne de production à une course de relais. Dans une course de relais, le passage du témoin se fait dans une zone où les deux coureurs courent ensemble. Un coureur rapide peut aider un coureur plus lent en prenant le témoin plus tôt dans la zone. Ohno voulait que les opérateurs d'une ligne s'entraident de la même manière, en aidant leur voisin quand il prend du retard, plutôt que de rester rigidement à leur poste.
+
+**Le corps humain.** Il compare l'autonomation aux réflexes du corps. Quand on touche quelque chose de brûlant, la main se retire avant même que le cerveau ait pris une décision. De même, les problèmes doivent être traités au niveau où ils surviennent, sans attendre une décision venue d'en haut. Il compare aussi l'organisation de l'entreprise à un système nerveux, qui doit transmettre rapidement l'information de la périphérie vers le centre.
+
+**Le sport d'équipe.** Il évoque le baseball, où chaque joueur doit être compétent individuellement, mais où l'équipe ne gagne que si les joueurs coordonnent leurs actions.
+
+**La nature.** Ohno observe que la nature ne produit pas de surplus inutile. Il voit dans l'agriculture traditionnelle, où l'on récolte ce qu'il faut au bon moment, une forme de juste-à-temps.
+
+**L'eau et les rochers.** Une image souvent associée à Ohno : les stocks sont comme l'eau d'une rivière, qui cache les rochers. Quand on fait baisser le niveau de l'eau, les rochers, c'est-à-dire les problèmes, apparaissent. Il faut alors les retirer.
+
+> À retenir | Le relais, les réflexes, l'équipe, la rivière : des images simples pour une idée exigeante. L'entraide et la réaction immédiate valent mieux que les stocks.
+
+--- Le respect de l'humanité
+kw: intelligence · sécurité · confiance
+Au fil du livre, Ohno revient souvent sur une idée qui équilibre l'exigence de son système : le respect de l'humanité. Il entend par là le respect des capacités humaines, et en particulier de l'intelligence des personnes qui travaillent.
+
+Selon lui, un système qui traite les ouvriers comme de simples exécutants gaspille la ressource la plus précieuse de l'entreprise. Les opérateurs voient les problèmes avant tout le monde. Ils savent où se trouvent les difficultés, les gestes inutiles, les risques. Le système de production doit donc leur donner les moyens d'agir : arrêter la ligne, proposer des améliorations, participer à l'écriture des standards.
+
+Ohno relie aussi ce respect à la sécurité. Il refuse que l'amélioration de la productivité se fasse au détriment de la sécurité des personnes. Les gestes dangereux et les postes pénibles doivent être les premiers à être améliorés.
+
+Il évoque enfin l'emploi. Ohno considère que licencier les personnes dont le poste a été supprimé par les améliorations détruirait la confiance nécessaire au système. Personne ne proposerait plus d'amélioration s'il risquait d'en perdre son emploi. Toyota cherche donc à réaffecter les personnes libérées, notamment vers les nouvelles activités.
+
+Ohno reconnaît que son système est exigeant. Il demande de la discipline, de la rigueur et un effort constant. Mais il pense que cette exigence est une forme de respect : elle suppose que chacun est capable de réfléchir, d'apprendre et de progresser.
+
+Cette idée a ensuite été formalisée par Toyota dans les deux piliers de sa philosophie : l'amélioration continue et le respect des personnes. Plusieurs auteurs, comme Liker et Rother, ont souligné que les entreprises qui copient le système Toyota oublient souvent ce second pilier.
+
+- Utiliser l'intelligence des personnes, pas seulement leurs bras.
+- La sécurité avant la productivité.
+- Sans sécurité de l'emploi, pas de propositions d'amélioration.
+
+=== Ford et Toyota
+--- Ce qu'Ohno doit à Ford
+kw: flux · admiration · Henry Ford
+Ohno consacre une partie de son livre à Henry Ford, pour lequel il exprime une grande admiration. On l'oppose souvent à Ford, mais Ohno se présente plutôt comme un continuateur.
+
+Il rappelle que Ford, au début du XXe siècle, avait créé le premier véritable flux de production avec la chaîne de montage mobile. Les voitures avançaient d'un poste à l'autre, sans attendre. Ford avait drastiquement réduit le temps de fabrication et le prix de ses voitures, rendant l'automobile accessible à un large public.
+
+Ohno cite plusieurs idées de Ford qu'il juge visionnaires. Ford refusait le gaspillage sous toutes ses formes. Il voulait standardiser le travail, non pour le figer, mais pour pouvoir l'améliorer. Il cherchait à réduire le temps entre l'achat des matières et la vente de la voiture. Il pensait que l'amélioration ne devait jamais s'arrêter.
+
+Selon Ohno, le problème n'est pas Ford lui-même, mais ce que ses successeurs ont fait de son système. Les constructeurs américains ont gardé la production de masse, avec de très grandes séries, mais ils ont oublié l'obsession du flux et la lutte contre le gaspillage. Ils ont construit d'énormes usines, organisées par types de machines, avec des stocks massifs entre les étapes.
+
+Ohno pense que si Ford avait vécu plus longtemps, il aurait peut-être développé lui-même un système proche de celui de Toyota. Il estime que Toyota a repris l'esprit de Ford, le flux et la lutte contre le gaspillage, en l'adaptant à un contexte de petites séries et de grande variété.
+
+- Ford a inventé le flux ; ses successeurs l'ont transformé en production de masse.
+- Toyota a repris l'esprit de Ford en l'adaptant aux petites séries.
+
+--- Production de masse ou flux
+kw: grandes séries · croissance lente · coûts
+Ohno compare le système de production de masse américain et le système Toyota.
+
+La production de masse fonctionne bien dans une économie en forte croissance, où la demande augmente régulièrement. Produire de très grandes quantités d'un même modèle permet de réduire le coût unitaire, et tout ce qui est produit finit par être vendu. Les stocks ne posent pas de problème, puisqu'ils seront écoulés.
+
+Mais quand la croissance ralentit, comme après le choc pétrolier de 1973, le système devient coûteux. Les stocks s'accumulent, les ventes ne suivent pas, et les entreprises doivent réduire leur production brutalement, avec des licenciements. Les grandes machines spécialisées, conçues pour des volumes élevés, deviennent sous-utilisées.
+
+Le système Toyota, explique Ohno, a été conçu dès le départ pour une demande limitée et variée. Il est donc mieux adapté à une économie de croissance lente. Il permet de produire peu de chaque modèle à un coût compétitif, et de s'adapter rapidement aux variations de la demande.
+
+Ohno souligne une différence importante : la production de masse cherche à réduire les coûts en augmentant les volumes. Le système Toyota cherche à réduire les coûts en éliminant le gaspillage, quel que soit le volume. Il affirme que, dans une économie de croissance lente, seule la deuxième approche permet de rester rentable.
+
+Il explique aussi que la recherche de grandes séries crée une illusion. Le coût unitaire diminue, mais le coût total, en comptant les stocks, l'espace, les transports et les invendus, peut augmenter. Ohno invite les dirigeants à regarder le coût total plutôt que le coût unitaire.
+
+> Question clé | Dans votre activité, cherchez-vous à réduire les coûts en faisant plus de volume, ou en supprimant ce qui ne sert à rien ?
+
+=== Mettre en pratique
+--- Les erreurs des imitateurs
+kw: copie d'outils · kanban · patience
+Ohno met en garde à plusieurs reprises contre la manière dont son système est copié. Il a vu de nombreuses entreprises, au Japon et ailleurs, adopter les outils de Toyota sans en comprendre la logique. Il décrit plusieurs erreurs fréquentes.
+
+**Introduire le kanban sans préparation.** Le kanban ne fonctionne que si la production est lissée, les temps de changement réduits et les processus stabilisés. Une entreprise qui installe des kanbans dans une usine où la production varie fortement et où les machines tombent souvent en panne crée le chaos. Ohno compare le kanban à un outil délicat : utilisé sans les conditions nécessaires, il fait plus de mal que de bien.
+
+**Imposer le juste-à-temps aux fournisseurs sans le pratiquer soi-même.** Certaines entreprises ont exigé des livraisons fréquentes de leurs fournisseurs, tout en continuant à produire par grands lots. Elles ont simplement transféré leurs stocks chez leurs fournisseurs.
+
+**Chercher des résultats immédiats.** Le système demande du temps. Ohno rappelle qu'il lui a fallu des décennies pour le construire. Les entreprises qui attendent des gains rapides abandonnent souvent avant d'avoir obtenu les résultats.
+
+**Oublier l'objectif.** Le but du système est de réduire les coûts en éliminant le gaspillage. Les outils ne sont que des moyens. Une entreprise qui applique les outils sans se demander s'ils réduisent réellement le gaspillage passe à côté de l'essentiel.
+
+**Ne pas impliquer les ateliers.** Ohno a construit son système dans les ateliers, avec les chefs d'équipe et les opérateurs. Un système conçu dans des bureaux et imposé aux ateliers a peu de chances de réussir.
+
+> Question clé | Utilisez-vous des outils lean pour eux-mêmes, ou parce qu'ils suppriment un gaspillage précis que vous avez observé ?
+
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · surproduction · arrêt
+**Semaine 1 : voir le gaspillage.** Passez au moins deux heures à observer, sans intervenir, le travail réel de votre équipe. Notez tous les gaspillages, en les classant selon les sept catégories d'Ohno. Cherchez en particulier la surproduction : ce qui est fait trop tôt ou en trop grande quantité.
+
+**Semaine 2 : faire tirer.** Choisissez une activité qui est aujourd'hui poussée selon un plan, et transformez-la en activité tirée par la demande de l'étape suivante. Limitez la quantité de travail qui peut s'accumuler entre deux étapes, par exemple avec un nombre maximal de dossiers en attente.
+
+**Semaine 3 : s'arrêter sur les problèmes.** Mettez en place un moyen simple pour que chacun puisse signaler immédiatement un problème. Engagez-vous à réagir rapidement. Pour chaque problème signalé, appliquez les cinq pourquoi sur le terrain.
+
+**Semaine 4 : réduire les stocks.** Réduisez la limite de travail en attente fixée la deuxième semaine. Observez les problèmes qui apparaissent, et traitez-les. Faites un bilan : quels gaspillages ont été supprimés, lesquels restent ?
+
+Ohno rappelle qu'il a mis plusieurs décennies à construire son système. Ce plan n'est qu'une première expérience. L'essentiel est d'apprendre à voir le gaspillage et à résoudre les problèmes à leur source.
+
+> À retenir | Voir le gaspillage, faire tirer, s'arrêter sur les problèmes, réduire les stocks. Puis recommencer.
+
+--- Cas pratique : le centre d'appels
+kw: tickets · files · stock caché
+Un centre de support informatique traite les demandes des employés d'une grande entreprise. Les demandes arrivent par téléphone et par courriel. Le délai moyen de résolution dépasse cinq jours, et les employés sont mécontents. La responsable, Nadia, décide d'appliquer les idées d'Ohno.
+
+**Voir le gaspillage.** En observant le travail, elle découvre que les techniciens passent beaucoup de temps à rechercher des informations, à relancer les demandeurs, et à traiter des demandes déjà résolues mais mal clôturées. Une partie importante des demandes concerne toujours les mêmes problèmes : mots de passe, imprimantes, accès réseau.
+
+**La surproduction.** Les techniciens ouvrent beaucoup de tickets en parallèle, pour paraître productifs. Chacun avance lentement. Le nombre de tickets ouverts par technicien est devenu un stock caché.
+
+**Faire tirer.** Nadia limite le nombre de tickets ouverts par technicien. Un technicien ne prend une nouvelle demande que lorsqu'il en a terminé une.
+
+**S'arrêter sur les problèmes.** Quand une même cause revient plusieurs fois dans la journée, l'équipe s'arrête quelques minutes pour l'analyser avec les cinq pourquoi. Elle découvre qu'une mise à jour mal déployée provoque de nombreuses demandes. La correction de la mise à jour supprime ces demandes.
+
+**L'autonomation.** Une réinitialisation automatique des mots de passe est mise en place, qui permet aux employés de régler eux-mêmes ce problème fréquent.
+
+Après trois mois, le délai moyen est passé sous deux jours, et le nombre total de demandes a diminué.
+
+> Question de réflexion | Quel est, dans votre activité, le « stock caché » : le travail commencé mais pas terminé ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: style · contexte · conditions de travail
+*L'Esprit Toyota* est une source essentielle, mais il présente plusieurs limites.
+
+**Un livre peu structuré.** Ohno écrit comme il parle, avec des anecdotes, des digressions et des répétitions. Le lecteur qui cherche une méthode pas à pas sera déçu. Le livre transmet plutôt une manière de penser qu'un mode d'emploi.
+
+**Un contexte particulier.** Le système a été construit dans le Japon de l'après-guerre, avec des relations sociales particulières, l'emploi à vie dans les grandes entreprises et une forte dépendance des fournisseurs. Ohno ne s'interroge guère sur la transposition de son système à d'autres contextes.
+
+**Les conditions de travail peu discutées.** Ohno présente la polyvalence et la réduction de main-d'œuvre de manière positive. D'autres observateurs ont souligné l'intensité du travail sur les lignes Toyota, la pression exercée sur les opérateurs et sur les fournisseurs, qui doivent livrer juste à temps et absorbent une partie des variations.
+
+**Le rôle des fournisseurs.** Le juste-à-temps de Toyota repose en partie sur des fournisseurs proches, qui livrent plusieurs fois par jour. Les critiques ont noté que les stocks ne disparaissent pas toujours : ils sont parfois déplacés chez les fournisseurs.
+
+**Une vision personnelle.** Ohno raconte son propre rôle. D'autres personnes ont contribué au système, comme Eiji Toyoda, Shigeo Shingo ou les équipes des ateliers, et leur rôle est moins visible dans le livre.
+
+- Une manière de penser plus qu'une méthode.
+- Le contexte japonais de l'après-guerre a facilité certaines pratiques.
+
+--- Liens avec les autres livres
+kw: Liker · Womack · Goldratt · Rother
+**Avec Le Modèle Toyota (Liker).** Liker organise en quatorze principes ce qu'Ohno décrit de manière libre. Il ajoute une analyse de la culture et du développement des personnes, que le livre d'Ohno évoque plus brièvement.
+
+**Avec Système Lean (Womack et Jones).** Womack et Jones ont traduit la pensée d'Ohno en cinq principes applicables à toute entreprise. Ils reprennent le muda, le flux et le flux tiré, et les étendent à la chaîne de valeur complète.
+
+**Avec Le But (Goldratt).** Goldratt et Ohno partagent la critique de la surproduction et de l'efficience locale. Goldratt concentre l'effort sur le goulot, Ohno sur l'élimination du gaspillage partout.
+
+**Avec Toyota Kata (Rother).** Mike Rother étudie la manière dont la pensée d'Ohno, fondée sur l'expérimentation et l'observation, est transmise au quotidien dans l'entreprise.
+
+**Avec High Output Management (Grove).** Grove, comme Ohno, voit le management comme la gestion d'un flux de production, et insiste sur l'importance de détecter les problèmes au plus tôt dans le processus.
+
+> Parcours conseillé | Lisez ensuite Le Modèle Toyota pour une présentation structurée, puis Toyota Kata pour la transmission de cette pensée au quotidien.

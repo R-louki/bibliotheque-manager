@@ -1,0 +1,434 @@
+id: rother-shook
+t: Learning to See
+o: Learning to See
+a: Mike Rother, John Shook
+y: 1998
+cat: Lean manufacturing
+p: ≈ 100 p.
+c: --b1
+ol_author: Rother
+center: Cartographier la chaîne de valeur
+pitch: Le guide pratique pour dessiner la chaîne de valeur actuelle, imaginer l'état futur et tracer le chemin pour y parvenir.
+
+=== Contexte et thèse
+--- Un manuel de terrain
+kw: cahier · Lean Enterprise Institute · 1998
+*Learning to See* est un livre très différent des autres ouvrages sur le lean. Ce n'est ni un essai ni un récit, mais un cahier pratique, au format large, rempli de schémas. Il a été publié en 1998 par le Lean Enterprise Institute, l'organisme fondé par James Womack après la publication de *Lean Thinking*.
+
+Ses deux auteurs ont des profils complémentaires. **Mike Rother** est ingénieur et chercheur. Il a étudié pendant des années les pratiques de Toyota et a accompagné de nombreuses entreprises. **John Shook** a été l'un des premiers Américains à travailler comme manager chez Toyota au Japon, dans les années 1980. Il a ensuite participé à l'implantation de Toyota aux États-Unis, avant de devenir consultant et enseignant.
+
+Le livre part d'un constat. Après *Lean Thinking*, beaucoup d'entreprises voulaient identifier leurs chaînes de valeur, mais ne savaient pas comment s'y prendre. Elles lançaient des chantiers d'amélioration isolés, poste par poste, qui donnaient des résultats locaux mais ne transformaient pas le flux global. Rother et Shook proposent un outil pour voir le flux dans son ensemble : la **cartographie de la chaîne de valeur**, en anglais *value stream mapping*.
+
+Cet outil s'inspire d'une pratique de Toyota, où l'on dessine les flux de matières et d'informations pour comprendre et améliorer la production. Les auteurs l'ont rendu plus systématique, avec un ensemble de symboles simples et une démarche en étapes.
+
+Le titre résume le propos. Le but n'est pas de produire de jolis schémas, mais d'**apprendre à voir** : à voir le flux, le gaspillage et les sources de ce gaspillage, que l'on ne remarque plus quand on travaille chaque jour au même endroit.
+
+> À retenir | Un cahier pratique pour apprendre à voir le flux dans son ensemble, au-delà des améliorations poste par poste.
+
+--- Pourquoi cartographier
+kw: vue d'ensemble · langage commun · plan
+Rother et Shook expliquent que la carte de la chaîne de valeur présente plusieurs avantages par rapport aux outils habituels.
+
+**Elle montre tout le flux, pas un seul poste.** La plupart des outils d'amélioration se concentrent sur un poste de travail ou une machine. La carte, elle, montre le parcours complet d'un produit, de la réception des matières à l'expédition chez le client. On voit alors comment les étapes s'enchaînent, où le produit attend, et pourquoi.
+
+**Elle montre les sources du gaspillage.** Une carte ne montre pas seulement qu'il y a des stocks entre deux étapes. Elle aide à comprendre pourquoi : une étape qui produit trop vite, un planning qui envoie des instructions contradictoires, une machine qui doit produire par grands lots.
+
+**Elle relie flux de matières et flux d'informations.** C'est l'un des apports principaux du livre. Les cartes de processus traditionnelles montrent souvent les mouvements de matières. Rother et Shook insistent sur le fait que, dans une usine lean, c'est l'information qui dit à chaque étape quoi produire et quand. Une carte complète doit donc représenter les deux.
+
+**Elle donne un langage commun.** Les symboles sont simples et compris de tous. Ils permettent aux opérateurs, aux ingénieurs, aux planificateurs et aux dirigeants de discuter du même sujet avec le même vocabulaire.
+
+**Elle sert de base à un plan.** La carte de l'état actuel conduit à une carte de l'état futur, puis à un plan d'actions. On évite ainsi de lancer des améliorations au hasard.
+
+**Elle montre les liens entre les outils lean.** Le flux continu, le kanban, le supermarché, le lissage : la carte montre où et pourquoi utiliser chacun d'eux.
+
+- Voir le flux complet, pas seulement des postes.
+- Relier les matières et les informations.
+- Partir de la carte pour bâtir un plan, pas des actions au hasard.
+
+--- Qui dessine la carte
+kw: responsable de flux · terrain · crayon
+Avant même de commencer à dessiner, Rother et Shook posent une question d'organisation : qui est responsable de la chaîne de valeur ?
+
+Ils observent que, dans la plupart des entreprises, personne ne l'est. Chaque service gère sa partie : la production gère ses ateliers, la logistique gère les stocks et les transports, le service commercial gère les commandes. Personne n'a la responsabilité du parcours complet du produit, de la commande à la livraison. C'est pourquoi les améliorations restent locales.
+
+Les auteurs recommandent de désigner un **responsable de la chaîne de valeur** (*value stream manager*) pour chaque famille de produits. Cette personne doit avoir l'autorité nécessaire pour faire changer les choses à travers les services. Elle doit aussi passer beaucoup de temps sur le terrain. Elle rend compte directement à la direction du site.
+
+C'est ce responsable qui dirige la cartographie. Il peut s'entourer d'une petite équipe, mais Rother et Shook insistent pour que la carte soit dessinée par des personnes qui ont l'autorité de mettre en œuvre les changements, et non par des consultants ou un service spécialisé qui remettraient ensuite un rapport.
+
+Les auteurs donnent aussi des conseils pratiques. Il faut recueillir les informations en marchant le long du flux réel, et non dans un bureau à partir des données du système informatique. Il est préférable de commencer par l'expédition, au plus près du client, et de remonter vers l'amont. Il faut mesurer soi-même les temps avec un chronomètre, sans se fier aux temps standards théoriques. Et il faut dessiner à la main, au crayon, sur une grande feuille, plutôt que sur un ordinateur : le dessin à la main oblige à se concentrer sur le flux plutôt que sur la mise en forme.
+
+> Question clé | Dans votre organisation, qui est responsable du parcours complet d'une commande, de la demande du client à la livraison ?
+
+=== Préparer la carte
+--- Choisir une famille de produits
+kw: matrice · étapes communes · une à la fois
+La première étape consiste à choisir sur quoi porter la carte. Rother et Shook insistent sur un point : on ne cartographie pas toute l'usine, mais une **famille de produits**.
+
+Une famille de produits est un groupe de produits qui passent par des étapes de fabrication similaires et utilisent des équipements communs, surtout dans les dernières étapes, au plus près du client. Les clients ne s'intéressent qu'à leurs produits. Les cartes doivent donc suivre le parcours d'un produit, pas l'organisation des ateliers.
+
+Pour identifier les familles, les auteurs proposent un outil simple : un tableau qui croise, en lignes, les différents produits et, en colonnes, les étapes de fabrication et les équipements. On coche les étapes par lesquelles passe chaque produit. Les produits qui ont des profils similaires forment une famille.
+
+Une fois la famille choisie, on rassemble quelques informations de base : la demande des clients pour cette famille, en volume et en variété, les rythmes de commande et de livraison, et les exigences de délai.
+
+Rother et Shook recommandent de commencer par une seule famille, souvent la plus importante ou celle où les problèmes sont les plus visibles. Une usine contient plusieurs chaînes de valeur, mais vouloir les cartographier toutes en même temps disperse l'effort. Les leçons apprises sur la première famille serviront ensuite pour les autres.
+
+Ils précisent aussi le périmètre initial. La carte commence au niveau de l'usine, « de porte à porte » : de la réception des matières à l'expédition des produits finis. Plus tard, on pourra l'étendre aux fournisseurs et aux clients, pour cartographier la chaîne de valeur complète entre plusieurs entreprises.
+
+> À retenir | Une famille de produits, un site, de porte à porte. Les autres familles et les autres entreprises viendront ensuite.
+
+--- Les données à relever
+kw: chronomètre · disponibilité · jours de stock
+Rother et Shook détaillent les informations à recueillir sur le terrain. Ils insistent sur l'importance de les mesurer soi-même, en observant le travail réel, plutôt que de les reprendre dans les systèmes informatiques ou les documents de l'entreprise, qui décrivent souvent ce qui devrait se passer plutôt que ce qui se passe.
+
+**Le temps de cycle.** C'est l'intervalle entre deux pièces qui sortent d'une étape. On le mesure en chronométrant plusieurs cycles. Il ne faut pas le confondre avec le temps de traitement d'une pièce, qui peut être plus long si plusieurs pièces sont travaillées en même temps.
+
+**Le temps de changement de série.** C'est le temps nécessaire pour passer de la dernière bonne pièce d'une référence à la première bonne pièce de la référence suivante. Les auteurs insistent sur cette définition, qui inclut les réglages et les essais, souvent oubliés dans les temps officiels.
+
+**La disponibilité.** C'est la part du temps prévu pendant laquelle la machine fonctionne réellement, en tenant compte des pannes, des attentes et des arrêts. Une machine peu disponible ne peut pas être intégrée dans un flux continu sans être d'abord fiabilisée.
+
+**Le nombre d'opérateurs** et le **temps de travail disponible** par équipe, en retirant les pauses et les réunions.
+
+**La fréquence de production de chaque référence**, qui indique la taille réelle des lots.
+
+**Les stocks.** On compte les pièces présentes entre les étapes, puis on les convertit en jours de consommation du client. Rother et Shook recommandent de compter réellement, et de noter la date et l'heure du relevé, car les stocks varient.
+
+**Le taux de rebut** et les retouches, quand ils sont significatifs.
+
+Les auteurs rappellent qu'il ne faut pas chercher une précision excessive. Un ordre de grandeur suffit pour comprendre le flux. Ce qui compte, c'est que les données soient observées et non supposées.
+
+- Mesurer soi-même, sur le terrain.
+- Le changement de série va de la dernière bonne pièce à la première bonne pièce suivante.
+- Convertir les stocks en jours de consommation.
+
+--- Le vocabulaire des symboles
+kw: icônes · boîtes de données · flèches
+Rother et Shook proposent un ensemble de symboles simples, qui forment le vocabulaire de la carte. Ils sont devenus un standard, utilisé dans le monde entier. Sans les reproduire ici, on peut en décrire les principales familles.
+
+**Les processus.** Chaque étape de fabrication où le produit circule de manière continue est représentée par une case. Une case correspond à une zone de flux : dès que le flux s'arrête et que le produit est stocké, on passe à une autre case.
+
+**Les boîtes de données.** Sous chaque case, on note les informations clés de l'étape. Les principales sont le **temps de cycle**, c'est-à-dire la fréquence à laquelle une pièce sort de l'étape ; le **temps de changement de série**, pour passer d'un produit à un autre ; la **disponibilité** de la machine, c'est-à-dire le pourcentage du temps où elle fonctionne réellement ; le nombre d'opérateurs ; et la fréquence à laquelle l'étape peut produire chaque référence.
+
+**Les stocks.** Un triangle indique un stock entre deux étapes, avec la quantité observée.
+
+**Les flux de matières.** Les auteurs distinguent les flux poussés, représentés par une flèche particulière, des flux tirés, des supermarchés et des transferts en flux continu.
+
+**Les flux d'informations.** Des lignes représentent les informations : les commandes, les prévisions, les plannings. Une ligne droite indique un échange manuel, une ligne en éclair un échange électronique.
+
+**Les acteurs extérieurs.** Des symboles en forme d'usine représentent les clients et les fournisseurs.
+
+**La ligne du temps.** En bas de la carte, une ligne en créneaux compare le temps d'attente et le temps de transformation.
+
+Les auteurs insistent : le vocabulaire est un moyen, pas une fin. L'important est que l'équipe comprenne et partage la même lecture du flux.
+
+- Une case par zone de flux continu.
+- Des données mesurées sur le terrain sous chaque case.
+- Des symboles distincts pour les matières et pour les informations.
+
+=== La carte de l'état actuel
+--- Dessiner l'existant
+kw: client d'abord · stocks · planning
+Rother et Shook guident le lecteur pas à pas dans le dessin de la carte de l'état actuel, à partir d'un exemple : une usine d'emboutissage fictive qui fabrique des supports en acier pour un client automobile. On en suit le parcours de l'expédition à la réception des bobines d'acier.
+
+**Commencer par le client.** On dessine le client en haut à droite, avec sa demande : quantités mensuelles, nombre de références, fréquence des livraisons, taille des conditionnements.
+
+**Dessiner les étapes de production.** On ajoute, de gauche à droite, les grandes étapes du flux : dans l'exemple, emboutissage, soudage, assemblage et expédition. Pour chaque étape, on remplit la boîte de données avec les mesures prises sur le terrain.
+
+**Noter les stocks.** Entre chaque étape, on indique les stocks observés et on les convertit en jours de consommation. Cette conversion est importante, car elle permet de comparer les stocks entre eux et de calculer le temps d'attente total.
+
+**Ajouter les fournisseurs.** On dessine le fournisseur de matières en haut à gauche, avec la fréquence et la taille des livraisons.
+
+**Dessiner les flux d'informations.** On place le service de planification au centre, en haut. On représente comment il reçoit les commandes et les prévisions du client, comment il passe ses commandes au fournisseur, et comment il transmet les plannings à chaque étape de production. Dans l'exemple, chaque étape reçoit un planning hebdomadaire séparé, et produit en poussant ses pièces vers l'étape suivante.
+
+**Ajouter les ajustements.** Les auteurs notent que, dans la réalité, les plannings sont constamment corrigés par des responsables qui passent dans l'atelier pour réorganiser les priorités. Il faut aussi les représenter.
+
+> Exercice | Prenez un processus de votre équipe et dessinez-le à la main : le client en haut à droite, les étapes de gauche à droite, les stocks entre elles, les informations en haut.
+
+--- La ligne du temps
+kw: délai total · transformation · écart
+La dernière étape de la carte de l'état actuel est la ligne du temps, dessinée en bas de la feuille. Elle compare deux grandeurs.
+
+Le **délai de production** (*lead time*) est le temps qu'il faut à une pièce pour traverser toute l'usine, de l'arrivée de la matière à l'expédition. On le calcule en additionnant les jours de stock à chaque étape. Dans l'exemple du livre, il est de l'ordre de plusieurs semaines.
+
+Le **temps de transformation** (*processing time*) est la somme des temps pendant lesquels on travaille réellement sur la pièce à chaque étape. Dans l'exemple, il ne représente que quelques minutes.
+
+L'écart entre les deux est saisissant. La pièce passe l'essentiel de son temps à attendre. Rother et Shook soulignent que cet écart se retrouve dans presque toutes les chaînes de valeur cartographiées : le temps de transformation représente une fraction minuscule du délai total.
+
+Cette comparaison a plusieurs effets. Elle frappe les esprits, et aide à convaincre de la nécessité de changer. Elle oriente l'effort : réduire le temps de transformation, en accélérant les machines par exemple, ne changera presque rien au délai total. C'est le temps d'attente qu'il faut réduire, en supprimant les stocks entre les étapes et en améliorant le flux.
+
+Les auteurs mettent aussi en garde contre une erreur fréquente : vouloir mesurer chaque détail avec une grande précision. La carte de l'état actuel doit être faite rapidement, en quelques heures ou quelques jours. Son but est de comprendre la situation dans ses grandes lignes, pas de produire un relevé exhaustif. Les mesures plus fines viendront au moment de mettre en œuvre les changements.
+
+- Délai total : la somme des attentes.
+- Temps de transformation : quelques minutes au milieu des semaines.
+- Réduire les attentes, pas accélérer les machines.
+
+--- Lire la carte
+kw: surproduction · îlots · instructions
+Une fois la carte de l'état actuel dessinée, il faut la lire. Rother et Shook aident le lecteur à reconnaître les signes du gaspillage.
+
+**La surproduction.** C'est le problème principal qui ressort de la plupart des cartes. Chaque étape produit selon son propre planning, à son propre rythme, sans savoir ce dont l'étape suivante a besoin. Elle pousse ses pièces vers l'aval. Les stocks qui s'accumulent entre les étapes en sont la conséquence visible.
+
+**Les îlots isolés.** Chaque étape fonctionne comme une île, séparée des autres par des stocks. Ces stocks permettent à chaque étape de fonctionner indépendamment, mais ils empêchent le flux et cachent les problèmes.
+
+**Les instructions multiples.** Le service de planification envoie un planning à chaque étape. Comme ces plannings sont fondés sur des prévisions qui changent, ils sont rarement cohérents entre eux. Les responsables doivent alors corriger en permanence, en se déplaçant dans l'atelier pour relancer les commandes urgentes.
+
+**Les grands lots.** Les longs temps de changement de série poussent à produire de grandes quantités de chaque référence, ce qui augmente les stocks et allonge les délais.
+
+**Le décalage avec le client.** La fréquence de production et de livraison ne correspond pas au rythme de consommation du client.
+
+Les auteurs soulignent que ces problèmes ne viennent pas d'une mauvaise volonté des personnes. Ils viennent du système. Chaque responsable fait de son mieux avec les informations et les règles dont il dispose. C'est pourquoi améliorer chaque étape isolément ne suffit pas : il faut changer la manière dont les étapes sont reliées.
+
+> À retenir | Les stocks entre les étapes sont le symptôme. La cause est un système où chaque étape produit selon son propre planning, sans lien avec l'étape suivante.
+
+=== L'état futur : le flux
+--- Produire au rythme du takt
+kw: demande · temps disponible · référence
+Après avoir dessiné l'état actuel, Rother et Shook proposent de dessiner l'**état futur** : une chaîne de valeur lean, que l'on peut atteindre en quelques mois avec les équipements existants, ou presque. Pour cela, ils formulent une série de principes directeurs. Le premier est de produire au rythme du takt.
+
+Le **temps takt** est le rythme auquel le client achète. On le calcule en divisant le temps de travail disponible par période par la demande du client sur cette période. Par exemple, si une usine travaille l'équivalent de vingt-huit mille secondes par jour et que le client demande quatre cent soixante pièces, le takt est d'environ une minute : il faut produire une pièce par minute en moyenne.
+
+Le takt sert de référence pour toute la chaîne. Il indique à quelle vitesse chaque étape doit produire pour suivre la demande, ni plus vite, ce qui créerait de la surproduction, ni moins vite, ce qui créerait des retards.
+
+Les auteurs soulignent que produire au takt suppose plusieurs conditions. Il faut que les problèmes soient traités très rapidement quand ils surviennent, car il n'y a plus de stock pour compenser. Il faut supprimer les causes des arrêts imprévus. Et il faut réduire les temps de changement de série dans les étapes en aval, pour pouvoir produire de petites quantités de chaque référence.
+
+Ils mettent en garde contre la tentation d'accélérer certaines étapes au-delà du takt. Une étape capable de produire beaucoup plus vite que le takt n'est pas un atout : elle risque de surproduire. Mieux vaut l'organiser pour qu'elle produise au rythme demandé, et utiliser le temps libéré autrement.
+
+> À retenir | Le takt est le métronome du client. Ni plus vite, ni moins vite.
+
+--- Le flux continu là où c'est possible
+kw: une pièce à la fois · cellules · regrouper
+Le deuxième principe est de **créer un flux continu partout où c'est possible**. Le flux continu signifie produire une pièce à la fois, chaque pièce passant immédiatement d'une étape à la suivante, sans stock entre elles.
+
+Rother et Shook expliquent que le flux continu est la manière la plus efficace de produire. Il supprime les stocks entre les étapes, réduit fortement le délai et rend les problèmes immédiatement visibles : si une étape produit une pièce défectueuse, l'étape suivante le voit tout de suite.
+
+Dans l'exemple de l'usine d'emboutissage, les étapes de soudage et d'assemblage peuvent être regroupées dans une même cellule, où les pièces circulent une à une. Les auteurs montrent comment calculer le nombre d'opérateurs nécessaires : on divise le temps de travail total pour une pièce par le temps takt. Ils montrent aussi comment répartir le travail entre les opérateurs pour que chacun ait une charge proche du takt.
+
+Mais les auteurs sont réalistes. Le flux continu n'est pas toujours possible. Certaines étapes fonctionnent à des rythmes très différents des autres. Une grande presse d'emboutissage, par exemple, produit des pièces très rapidement et sert plusieurs familles de produits. Il n'est pas raisonnable de la dédier à une seule cellule. D'autres étapes sont éloignées, chez un sous-traitant par exemple, ou trop peu fiables pour être reliées directement aux autres.
+
+Dans ces cas, il ne faut pas forcer le flux continu, mais utiliser d'autres moyens pour relier les étapes, notamment les supermarchés et le flux tiré.
+
+Les auteurs mettent aussi en garde contre un piège : le flux continu ne consiste pas à rapprocher physiquement les machines tout en gardant des stocks entre elles. Il faut vraiment produire une pièce à la fois.
+
+- Une pièce à la fois, sans stock entre les étapes.
+- Regrouper les étapes en cellules quand leurs rythmes sont compatibles.
+- Ne pas forcer le flux continu là où il n'est pas réaliste.
+
+--- Supermarchés et flux tiré
+kw: kanban · stock contrôlé · relier
+Le troisième principe est d'**utiliser des supermarchés pour contrôler la production là où le flux continu ne s'étend pas en amont**.
+
+Un supermarché est un petit stock contrôlé, placé entre deux étapes qui ne peuvent pas être reliées en flux continu. L'étape en aval vient y prendre les pièces dont elle a besoin, au moment où elle en a besoin. L'étape en amont produit seulement pour remplacer ce qui a été pris. Le signal de réapprovisionnement est généralement un kanban.
+
+Rother et Shook expliquent que le supermarché remplace le planning. Au lieu que l'étape en amont reçoive un planning fondé sur des prévisions, elle produit en fonction de ce qui a été réellement consommé. La surproduction disparaît, puisque l'étape en amont ne peut pas produire plus que ce que le supermarché peut contenir.
+
+Les auteurs décrivent plusieurs types de kanbans : le kanban de prélèvement, qui autorise à prendre des pièces dans le supermarché ; le kanban de production, qui déclenche la fabrication ; et le kanban de signal, utilisé pour les étapes qui produisent par lots, comme les presses, et qui déclenche la production d'un lot quand le stock descend sous un certain niveau.
+
+Ils mentionnent aussi d'autres moyens de relier deux étapes, comme une file d'attente limitée en quantité et traitée dans l'ordre d'arrivée. Le principe est le même : limiter la quantité de travail entre les étapes et faire en sorte que l'étape en amont réponde à la consommation réelle.
+
+Les auteurs insistent sur le fait que le supermarché est une solution de compromis. Il reste du stock. Mais ce stock est limité, contrôlé, et il peut être réduit progressivement à mesure que les étapes deviennent plus fiables.
+
+> À retenir | Là où le flux continu est impossible, un supermarché contrôlé remplace le planning : on ne produit que ce qui a été consommé.
+
+=== L'état futur : le pilotage
+--- Un seul point de planification
+kw: régulateur · aval · une instruction
+Le quatrième principe est d'**envoyer le planning du client à un seul processus de production**. Rother et Shook appellent ce processus le **processus régulateur** (*pacemaker process*).
+
+Dans l'état actuel, chaque étape reçoit son propre planning. Dans l'état futur, seule une étape reçoit les instructions de production. Toutes les autres sont reliées à elle par des flux continus ou par des supermarchés, et elles produisent en fonction de ce que cette étape consomme.
+
+Le processus régulateur est généralement situé en aval, près du client. Les étapes situées après lui doivent fonctionner en flux continu, car il ne doit pas y avoir de supermarché entre le régulateur et le client. Les étapes situées avant lui sont tirées par sa consommation.
+
+Les auteurs montrent les effets de ce changement. Le service de planification n'a plus à établir et corriger sans cesse des plannings pour chaque étape. Les incohérences entre plannings disparaissent. Le rythme du processus régulateur se transmet naturellement à toute la chaîne, par les kanbans et les supermarchés.
+
+Ils expliquent aussi que le choix du point de planification détermine la longueur de la chaîne qui fonctionne sur commande. Plus le processus régulateur est en amont, plus la partie de la chaîne qui produit à la demande est grande. Dans certains cas, on peut placer le régulateur très en amont et produire entièrement à la commande. Dans d'autres, on garde un supermarché de produits finis, et le régulateur est le dernier processus.
+
+Rother et Shook soulignent que ce principe simplifie énormément la gestion. Au lieu de piloter chaque étape, on ne pilote qu'un seul point, et le reste suit.
+
+- Un seul processus reçoit le planning.
+- Les autres sont reliés par du flux continu ou des supermarchés.
+- Moins de plannings, moins de corrections, moins de confusion.
+
+--- Lisser la variété et le volume
+kw: heijunka · pitch · boîte de lissage
+Les cinquième et sixième principes concernent le lissage.
+
+Le cinquième principe est de **répartir la production de différents produits de manière régulière dans le temps** au processus régulateur. Plutôt que de produire toutes les pièces A le matin et toutes les pièces B l'après-midi, on alterne les références tout au long de la journée. Cela réduit les stocks nécessaires dans le supermarché de produits finis, et transmet une demande régulière aux étapes en amont. En contrepartie, cela exige des changements de série plus fréquents au processus régulateur.
+
+Le sixième principe est de **lancer et prélever un petit incrément de travail régulier** au processus régulateur. Les auteurs introduisent ici la notion de **pitch** : une quantité de travail correspondant à un multiple du takt, souvent la quantité d'un conteneur. Par exemple, si un conteneur contient vingt pièces et que le takt est d'une minute, le pitch est de vingt minutes. Toutes les vingt minutes, on donne au processus régulateur l'instruction de produire un conteneur, et on retire le conteneur précédent.
+
+Cette pratique a un avantage important : elle permet de savoir très vite si l'on est en avance ou en retard. Avec un planning hebdomadaire, on découvre un retard à la fin de la semaine. Avec un pitch de vingt minutes, on le découvre au bout de vingt minutes, et l'on peut réagir immédiatement.
+
+Les auteurs décrivent un outil pour organiser ce lissage : une **boîte de lissage**, un tableau à cases où les kanbans sont placés selon l'ordre et l'heure de production. Une personne chargée de la manutention prend, à chaque pitch, le kanban suivant, le livre au processus régulateur et retire les produits terminés.
+
+> À retenir | Alterner les références et donner le travail par petits incréments réguliers. Un retard se voit en minutes, pas en jours.
+
+--- Chaque pièce chaque jour
+kw: changements rapides · petits lots
+Le septième principe est de **développer la capacité de produire chaque référence chaque jour**, puis chaque équipe, puis chaque heure, en amont du processus régulateur.
+
+Rother et Shook expliquent que la taille des lots dans les étapes en amont détermine la quantité de stock nécessaire dans les supermarchés. Si une presse ne produit chaque référence qu'une fois par semaine, il faut un stock d'une semaine de chaque référence dans le supermarché. Si elle peut produire chaque référence chaque jour, le stock nécessaire est d'un jour.
+
+Pour y parvenir, il faut réduire les temps de changement de série. Les auteurs utilisent un indicateur simple, souvent noté par les praticiens « chaque pièce tous les… » (*every part every*), qui mesure la fréquence à laquelle une étape peut produire chacune de ses références. Dans la carte de l'état actuel, cet indicateur est noté dans la boîte de données. Dans l'état futur, on se fixe un objectif plus ambitieux.
+
+Les auteurs montrent comment calculer le temps disponible pour les changements de série. On part du temps de travail disponible, on retire le temps nécessaire à la production et le temps d'arrêt prévu, et on regarde combien de changements de série peuvent être faits dans le temps restant. Si ce temps ne permet pas de produire chaque référence chaque jour, il faut réduire les temps de changement.
+
+Ils précisent que cette capacité apporte une grande flexibilité. L'usine peut répondre aux variations de la demande, réduire ses stocks et raccourcir ses délais. C'est souvent l'un des efforts les plus importants de la transformation, car il demande un travail technique approfondi sur les machines.
+
+- La taille des lots en amont fixe le stock nécessaire.
+- Réduire les temps de changement pour produire chaque référence plus souvent.
+- Calculer le temps disponible pour les changements.
+
+--- Les questions de l'état futur
+kw: takt · flux · supermarché · régulateur
+Pour aider le lecteur à dessiner l'état futur, Rother et Shook proposent une série de questions à se poser dans l'ordre. Elles reprennent les sept principes directeurs, mais sous une forme pratique.
+
+**Quel est le temps takt ?** On le calcule à partir de la demande du client et du temps disponible.
+
+**Produira-t-on dans un supermarché de produits finis, ou directement pour l'expédition ?** Selon les délais acceptés par le client et la variété des produits, on choisit de garder un petit stock de produits finis, ou de produire à la commande.
+
+**Où peut-on utiliser le flux continu ?** On cherche les étapes qui peuvent être regroupées et reliées pièce par pièce.
+
+**Où faudra-t-il des supermarchés pour contrôler la production en amont ?** Là où le flux continu n'est pas possible, on place des supermarchés reliés par des kanbans.
+
+**Quel sera le point de planification unique ?** On choisit le processus régulateur, qui recevra seul les instructions de production.
+
+**Comment lissera-t-on la variété au processus régulateur ?** On décide de la manière d'alterner les références.
+
+**Quel incrément de travail régulier lancera-t-on ?** On fixe le pitch et le mode de prélèvement.
+
+**Quelles améliorations de processus seront nécessaires ?** Pour que l'état futur fonctionne, certaines étapes devront être améliorées : réduction des temps de changement, fiabilisation des machines, amélioration de la qualité. Les auteurs les représentent sur la carte par des symboles en forme d'éclair, appelés éclairs de kaizen, qui signalent les améliorations à réaliser.
+
+Ces questions donnent une structure à la réflexion. Elles évitent de partir dans toutes les directions et garantissent que l'état futur est cohérent. Les auteurs recommandent d'y répondre en équipe, en dessinant au fur et à mesure.
+
+> À retenir | Huit questions dans l'ordre, du takt aux améliorations nécessaires. Les éclairs de kaizen sur la carte montrent ce qu'il faudra changer.
+
+=== De la carte à l'action
+--- Le plan de mise en œuvre
+kw: boucles · ordre · objectifs
+Une fois l'état futur dessiné, il faut le réaliser. Rother et Shook proposent une démarche structurée.
+
+**Découper l'état futur en boucles.** La carte de l'état futur est divisée en segments, appelés boucles. La **boucle du régulateur** comprend le processus régulateur et tout ce qui se trouve en aval jusqu'au client. Les **boucles supplémentaires** correspondent à chaque segment situé en amont, entre deux supermarchés. Chaque boucle peut être traitée comme un projet distinct.
+
+**Commencer par la boucle du régulateur.** Les auteurs recommandent généralement de commencer par la boucle la plus proche du client, car c'est elle qui donne le rythme à toute la chaîne. Une fois qu'elle fonctionne au takt et en flux continu, les boucles en amont peuvent être reliées à elle. Mais ils reconnaissent que, dans certains cas, il vaut mieux commencer ailleurs, par exemple là où les problèmes sont les plus visibles ou les gains les plus faciles.
+
+**Fixer des objectifs mesurables.** Pour chaque boucle, on définit des objectifs précis : réduction du stock, réduction du délai, temps de changement visé, nombre d'opérateurs.
+
+**Établir un plan annuel.** Le plan de la chaîne de valeur indique, pour l'année, quelles boucles seront traitées, dans quel ordre, avec quels objectifs, quelles mesures et quels responsables. Il est suivi régulièrement, par exemple chaque mois, par le responsable de la chaîne de valeur.
+
+**Relier les actions aux objectifs.** Les chantiers d'amélioration ne sont plus lancés au hasard. Chacun contribue à une étape précise du plan.
+
+Les auteurs insistent sur la discipline de ce suivi. Une carte de l'état futur qui reste affichée sur un mur sans plan de mise en œuvre ne sert à rien.
+
+> À retenir | Découper en boucles, commencer près du client, fixer des objectifs mesurables, et suivre chaque mois.
+
+--- Un cycle sans fin
+kw: nouvel état actuel · répétition
+Rother et Shook expliquent que la cartographie n'est pas un exercice ponctuel. Une fois l'état futur atteint, il devient le nouvel état actuel. On le cartographie à nouveau, on identifie les gaspillages qui restent, et on dessine un nouvel état futur plus ambitieux.
+
+Ils notent que chaque cycle fait apparaître de nouveaux problèmes. En réduisant les stocks, on découvre des machines peu fiables, des temps de changement trop longs, des problèmes de qualité qui étaient cachés. Ces découvertes alimentent le cycle suivant.
+
+Les auteurs comparent la carte à un outil de communication et d'apprentissage. Elle permet à l'équipe de discuter, de comprendre et de décider ensemble. Avec la pratique, les personnes apprennent à voir le flux sans avoir besoin de dessiner. Elles repèrent spontanément la surproduction, les stocks inutiles et les instructions contradictoires.
+
+Ils mettent aussi en garde contre plusieurs dérives. La première est de passer trop de temps sur la carte de l'état actuel, en cherchant une précision inutile. La deuxième est de dessiner un état futur sans le mettre en œuvre. La troisième est de confier la cartographie à des experts qui ne sont pas responsables des résultats. La quatrième est de faire de la carte une fin en soi, en multipliant les cartes pour toutes les familles sans jamais améliorer le flux.
+
+Rother et Shook rappellent que le but n'est pas d'avoir une belle carte, mais un flux qui crée de la valeur pour le client. La carte n'est utile que si elle conduit à l'action.
+
+- L'état futur atteint devient le nouvel état actuel.
+- Chaque cycle révèle de nouveaux problèmes.
+- La carte est un outil d'apprentissage, pas une fin.
+
+--- Les erreurs fréquentes
+kw: bureau · trop de détails · pas de suite
+À partir de leur expérience, Rother et Shook et les praticiens qui ont suivi ont identifié des erreurs fréquentes dans l'usage de la cartographie.
+
+**Cartographier depuis un bureau.** L'équipe dessine la carte à partir des données du système informatique, des procédures écrites et des souvenirs des participants. La carte décrit alors le processus tel qu'on l'imagine, pas tel qu'il est. Les attentes, les contournements et les ajustements informels n'apparaissent pas.
+
+**Vouloir tout cartographier.** L'équipe essaie de représenter toutes les références, toutes les exceptions, toutes les variantes. La carte devient illisible et perd son intérêt, qui est de donner une vue d'ensemble.
+
+**Confondre carte et processus détaillé.** La carte de la chaîne de valeur montre le flux à un niveau assez élevé. Pour améliorer une étape précise, on utilise d'autres outils plus détaillés. Mélanger les deux niveaux crée de la confusion.
+
+**Dessiner un état futur idéal mais irréaliste.** L'état futur doit pouvoir être atteint dans un délai raisonnable, souvent six mois à un an, avec les moyens existants ou presque. Un état futur trop ambitieux décourage l'équipe. Un état futur trop timide ne change rien.
+
+**Ne pas désigner de responsable.** Sans responsable de la chaîne de valeur, le plan n'est pas suivi, et les services reviennent à leurs priorités habituelles.
+
+**Ne pas impliquer ceux qui font le travail.** Les opérateurs et les chefs d'équipe connaissent des détails essentiels. Les exclure de la cartographie produit des cartes incomplètes et des plans mal acceptés.
+
+**Arrêter après la carte.** C'est l'erreur la plus fréquente : la carte de l'état futur est présentée, approuvée, affichée, puis rien ne se passe.
+
+> Question clé | Vos cartes de processus ont-elles été dessinées sur le terrain, et ont-elles conduit à des changements réels ?
+
+=== Au-delà de l'usine
+--- Cartographier les services
+kw: dossiers · informations · délais
+*Learning to See* a été écrit pour l'industrie, mais la cartographie de la chaîne de valeur s'est rapidement étendue à d'autres activités. D'autres ouvrages, publiés ensuite par le Lean Enterprise Institute ou par d'autres auteurs, l'ont adaptée aux bureaux, aux services, à la santé ou au développement de logiciels.
+
+Dans un service, le produit qui circule est souvent un dossier, une demande ou une information. Les étapes sont des tâches réalisées par différentes personnes ou différents services : saisie, vérification, validation, traitement, envoi. Les stocks sont les dossiers en attente, dans les boîtes de réception, les files de tickets ou les piles sur les bureaux.
+
+Les mêmes problèmes apparaissent. Chaque service travaille selon ses propres priorités. Les dossiers attendent entre les étapes. Les délais totaux se comptent en jours ou en semaines, alors que le temps de travail réel ne représente que quelques heures, voire quelques minutes.
+
+La cartographie aide à voir ces problèmes. Elle permet notamment de repérer les **retours en arrière** : un dossier incomplet renvoyé au demandeur, une erreur qui oblige à recommencer une étape. Dans les services, ces retours sont souvent plus fréquents que dans l'industrie, et ils allongent fortement les délais. Une mesure utile est le pourcentage de dossiers qui arrivent complets et exacts à chaque étape.
+
+Les principes de l'état futur s'appliquent aussi, avec des adaptations. On peut regrouper les étapes pour qu'une même équipe traite le dossier de bout en bout. On peut limiter le nombre de dossiers en attente. On peut traiter les demandes à un rythme régulier, plutôt que par lots.
+
+> Exercice | Cartographiez le parcours d'un dossier dans votre service. Comptez les retours en arrière, et le pourcentage de dossiers qui arrivent complets à chaque étape.
+
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · une famille
+**Semaine 1 : choisir et marcher.** Choisissez une famille de produits ou de dossiers. Désignez un responsable du flux. Avec une petite équipe, marchez le long du flux réel, du client vers l'amont, et relevez les données de chaque étape.
+
+**Semaine 2 : dessiner l'état actuel.** Dessinez à la main la carte de l'état actuel, avec les flux de matières et d'informations. Ajoutez la ligne du temps. Comparez le délai total et le temps de travail réel. Identifiez les zones de surproduction et les instructions contradictoires.
+
+**Semaine 3 : dessiner l'état futur.** Calculez le takt. Repérez les étapes qui peuvent être reliées en flux continu. Placez des supermarchés ou des files limitées là où ce n'est pas possible. Choisissez un seul point de planification. Réfléchissez au lissage.
+
+**Semaine 4 : planifier.** Découpez l'état futur en boucles. Choisissez la première boucle à traiter. Fixez des objectifs mesurables et un calendrier. Présentez le plan à l'équipe et à la direction, et lancez la première action.
+
+Rother et Shook rappellent qu'il vaut mieux une carte imparfaite qui conduit à l'action qu'une carte parfaite qui reste sur un mur.
+
+> À retenir | Marcher, dessiner, imaginer, planifier. Puis agir sur la première boucle.
+
+--- Cas pratique : la clinique
+kw: rendez-vous · examens · parcours patient
+Une clinique de consultations externes reçoit des plaintes sur la longueur des parcours. Un patient qui consulte pour un problème de genou doit souvent revenir plusieurs fois, sur plusieurs semaines, avant d'obtenir un diagnostic. Le directeur, Antoine, confie à une infirmière coordinatrice, Léa, la responsabilité de ce parcours.
+
+**Marcher le long du flux.** Léa suit une dizaine de patients, de la prise de rendez-vous au diagnostic. Elle relève chaque étape : appel, attente du rendez-vous, consultation, prescription d'examens, attente de l'imagerie, attente des résultats, deuxième consultation.
+
+**L'état actuel.** La ligne du temps montre un délai total de plusieurs semaines, pour moins de deux heures de soins réels. Chaque service, consultation, imagerie, secrétariat, a son propre planning. Les examens sont souvent prescrits mais pas programmés, et le patient doit rappeler. Un dossier sur trois arrive incomplet en consultation.
+
+**L'état futur.** Léa propose de programmer l'imagerie le jour même de la consultation, en réservant chaque jour des créneaux dédiés, une forme de supermarché. Le secrétariat vérifie que les dossiers sont complets avant le rendez-vous. La deuxième consultation est fixée dès la première, selon un planning unique.
+
+**Le plan.** La première boucle porte sur l'imagerie. Les objectifs sont fixés et suivis chaque mois.
+
+Six mois plus tard, la majorité des patients obtiennent leur diagnostic en une ou deux visites, sur un délai bien plus court.
+
+> Question de réflexion | Dans votre activité, combien de « plannings » différents un client ou un dossier doit-il traverser ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: outil · environnements stables · fétichisme
+*Learning to See* est devenu un classique, mais il présente plusieurs limites, dont certaines ont été reconnues par ses auteurs eux-mêmes.
+
+**Un outil, pas une démarche complète.** La carte aide à voir et à planifier, mais elle ne dit pas comment développer les compétences nécessaires pour améliorer le flux au quotidien. Mike Rother a reconnu par la suite que beaucoup d'entreprises dessinaient de belles cartes d'état futur sans parvenir à les atteindre, faute de savoir-faire en résolution de problèmes. C'est l'une des raisons qui l'ont conduit à écrire *Toyota Kata*.
+
+**Un contexte industriel répétitif.** L'exemple du livre est une usine qui produit des pièces en grandes quantités pour un client stable. Les principes s'appliquent moins directement aux productions très variées, à faible volume, ou aux activités créatives. Des adaptations sont nécessaires.
+
+**Le risque du fétichisme de la carte.** Dans certaines entreprises, la cartographie est devenue une fin en soi. On multiplie les cartes, on organise des formations, on affiche des schémas, mais le flux ne change pas.
+
+**La dimension humaine peu traitée.** Le livre se concentre sur les flux de matières et d'informations. Il dit peu de choses sur la manière d'impliquer les opérateurs, de gérer les résistances ou de faire évoluer le rôle des managers.
+
+**Une vision centrée sur l'usine.** Le périmètre « de porte à porte » est un bon point de départ, mais les gaspillages les plus importants se trouvent souvent entre les entreprises, chez les fournisseurs et les distributeurs. D'autres ouvrages ont ensuite étendu la cartographie à la chaîne de valeur complète.
+
+- La carte montre où aller, pas comment développer les compétences pour y parvenir.
+- Une belle carte sans action ne change rien.
+
+--- Liens avec les autres livres
+kw: Womack · Ohno · Rother · Goldratt
+**Avec Système Lean (Womack et Jones).** *Learning to See* est l'outil pratique du deuxième principe de Womack et Jones : identifier la chaîne de valeur. Les deux livres se lisent ensemble.
+
+**Avec L'Esprit Toyota (Ohno).** Les principes de l'état futur, takt, flux continu, supermarchés, kanban, lissage, sont ceux qu'Ohno a développés chez Toyota. La carte permet de les appliquer de manière systématique.
+
+**Avec Toyota Kata (Rother).** Rother a écrit *Toyota Kata* pour répondre à la limite principale de *Learning to See* : savoir où l'on veut aller ne suffit pas, il faut apprendre à progresser vers l'état futur, par petites expérimentations.
+
+**Avec Le But (Goldratt).** La notion de processus régulateur rappelle le « tambour » de Goldratt : un seul point donne le rythme à toute la chaîne. Les deux approches partagent la critique des plannings multiples et de l'optimisation locale.
+
+**Avec Le Modèle Toyota (Liker).** Liker rappelle que les outils comme la carte ne fonctionnent que dans une culture d'amélioration et de développement des personnes.
+
+> Parcours conseillé | Lisez ensuite Toyota Kata pour apprendre à avancer vers l'état futur, étape par étape.

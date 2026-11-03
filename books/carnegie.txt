@@ -1,0 +1,295 @@
+id: carnegie
+t: Comment se faire des amis
+o: How to Win Friends and Influence People
+a: Dale Carnegie
+y: 1936
+cat: Compétences
+p: ≈ 290 p.
+c: --b3
+ol_author: Carnegie
+center: Les relations humaines au quotidien
+pitch: Le grand classique des relations humaines : ne pas critiquer, s'intéresser sincèrement aux autres, convaincre sans affronter, diriger sans blesser.
+
+=== Contexte et thèse
+--- Un formateur et ses élèves
+kw: cours du soir · New York · 1936
+Dale Carnegie est né en 1888 dans une famille d'agriculteurs pauvres du Missouri. Après des débuts difficiles comme vendeur et comme acteur, il commence en 1912 à donner des cours du soir de prise de parole en public à New York, pour des employés, des vendeurs et des cadres.
+
+Il constate rapidement que ses élèves n'ont pas seulement besoin d'apprendre à parler. Ils ont surtout besoin d'apprendre à s'entendre avec les autres : leurs clients, leurs collègues, leurs patrons, leurs proches. Il cherche un manuel pratique sur ce sujet et n'en trouve pas. Il décide donc d'en écrire un.
+
+Pendant des années, il rassemble des histoires, lit des biographies de personnalités célèbres, interroge des personnes qui réussissent dans leurs relations, et surtout fait tester ses principes par ses élèves. Chaque semaine, ceux-ci doivent appliquer un principe dans leur vie et raconter le résultat devant le groupe. Le livre est le produit de ce laboratoire vivant.
+
+*How to Win Friends and Influence People*, publié en 1936, connaît un succès immédiat et durable. Il s'est vendu à des dizaines de millions d'exemplaires et reste l'un des livres pratiques les plus lus au monde. Le titre anglais peut sembler manipulateur aujourd'hui, mais le contenu insiste avant tout sur la sincérité et le respect des autres.
+
+Le livre est organisé en quatre parties : les techniques fondamentales pour traiter avec les autres, les manières de se faire apprécier, les manières de convaincre, et les manières de diriger sans provoquer de ressentiment.
+
+> À retenir | Un manuel né de cours du soir : chaque principe a été testé par des élèves dans leur vie réelle.
+
+--- La thèse : les relations comptent
+kw: compétence humaine · ingénieurs · réussite
+Carnegie part d'une observation. Dans la plupart des métiers, les connaissances techniques ne suffisent pas à réussir. Un ingénieur, un comptable ou un vendeur passe une grande partie de son temps à travailler avec d'autres personnes : convaincre, coopérer, négocier, régler des conflits. Sa réussite dépend largement de sa capacité à le faire.
+
+Il cite des études et des témoignages de l'époque selon lesquels une part importante du succès professionnel dépendrait de la personnalité et de la capacité à diriger les autres, plus que des compétences techniques. Ces chiffres sont difficiles à vérifier, mais l'idée générale a été confirmée par de nombreux travaux ultérieurs sur l'importance des compétences relationnelles.
+
+Carnegie affirme que ces compétences peuvent **s'apprendre**. On ne naît pas charmant ou persuasif. On le devient en pratiquant des comportements simples, jusqu'à ce qu'ils deviennent des habitudes.
+
+Il insiste cependant sur un point : les techniques du livre ne fonctionnent que si elles sont **sincères**. Un compliment hypocrite, un intérêt feint, un sourire forcé sont vite repérés et produisent l'effet inverse. Le livre ne propose pas de manipuler les autres, mais de changer sa propre attitude envers eux.
+
+Il recommande enfin une manière de lire : lentement, en relisant chaque chapitre, en notant les principes, en les appliquant et en faisant régulièrement le point sur ses progrès.
+
+- Les compétences relationnelles pèsent autant que les compétences techniques.
+- Elles s'apprennent par la pratique.
+- Elles ne fonctionnent que si elles sont sincères.
+
+=== Les techniques fondamentales
+--- Ne pas critiquer
+kw: défense · ressentiment · comprendre
+Le premier principe de Carnegie est de **ne pas critiquer, condamner ou se plaindre**.
+
+Il explique que la critique est presque toujours inutile. Quand on critique quelqu'un, il se met sur la défensive et cherche à se justifier. Il ne change pas son comportement : il en veut à celui qui l'a critiqué. Carnegie remarque que même les criminels les plus endurcis trouvent souvent des justifications à leurs actes et se considèrent comme incompris. Si ceux-là ne se reconnaissent pas coupables, il est peu probable qu'un collègue ou un proche accepte facilement une critique.
+
+Il raconte une anecdote sur Abraham Lincoln. Pendant la guerre de Sécession, un général n'avait pas profité d'une occasion décisive de mettre fin aux combats. Lincoln, furieux, lui écrivit une lettre de reproches très dure. Mais il ne l'envoya jamais. La lettre fut retrouvée après sa mort. Carnegie y voit la sagesse d'un homme qui avait appris, par l'expérience, que les reproches blessent sans rien améliorer.
+
+À la place de la critique, Carnegie propose de **chercher à comprendre**. Pourquoi la personne a-t-elle agi ainsi ? Quelles étaient ses contraintes, ses raisons, ses intentions ? Comprendre ne signifie pas tout accepter, mais cela change la manière de réagir, et rend possible une conversation constructive.
+
+Il souligne que ce principe demande de la maîtrise de soi. Critiquer est facile et procure une satisfaction immédiate. Comprendre et pardonner demande davantage d'effort.
+
+> Question clé | Quelle critique récente avez-vous formulée ? A-t-elle changé le comportement de la personne, ou seulement abîmé la relation ?
+
+--- L'appréciation sincère
+kw: importance · reconnaissance · flatterie
+Le deuxième principe est d'**exprimer une appréciation honnête et sincère**.
+
+Carnegie s'appuie sur une idée qu'il attribue à des penseurs comme le philosophe John Dewey ou le psychologue William James : l'un des désirs les plus profonds de l'être humain est de se sentir important, reconnu, apprécié. Ce désir est presque aussi fort que les besoins de base. Il explique de nombreux comportements, des plus admirables aux plus absurdes.
+
+Satisfaire ce désir chez les autres est l'un des moyens les plus puissants de construire de bonnes relations. Pourtant, la plupart des gens expriment rarement leur appréciation. Ils remarquent les erreurs, mais considèrent le bon travail comme normal.
+
+Carnegie raconte l'histoire de Charles Schwab, un dirigeant de l'industrie de l'acier du début du XXe siècle, connu pour sa capacité à motiver les ouvriers. Schwab expliquait que son principal talent consistait à encourager et à reconnaître les efforts des autres, et qu'il était avare de critiques.
+
+Carnegie distingue soigneusement l'**appréciation** de la **flatterie**. La flatterie est fausse et intéressée : elle dit aux gens ce qu'ils veulent entendre, pour obtenir quelque chose. L'appréciation est sincère : elle reconnaît quelque chose de réel et de précis. La flatterie est vite démasquée. L'appréciation sincère, elle, est rare et précieuse.
+
+Il conseille de chercher activement les qualités et les réussites des autres, de les remarquer et de le leur dire. Cet exercice change aussi la manière dont on les voit.
+
+- Chacun veut se sentir important et reconnu.
+- L'appréciation sincère est rare, la flatterie est vite repérée.
+- Chercher activement ce qui mérite d'être reconnu.
+
+--- Partir des désirs de l'autre
+kw: point de vue · intérêt · donner envie
+Le troisième principe fondamental est de **susciter chez l'autre un désir ardent**, c'est-à-dire de partir de ce que l'autre veut, et non de ce que l'on veut soi-même.
+
+Carnegie utilise une image : quand on va à la pêche, on n'accroche pas à l'hameçon ce qu'on aime manger, mais ce que le poisson aime. Pourtant, quand on veut convaincre quelqu'un, on parle presque toujours de ce que l'on veut, de ses propres besoins, de ses propres raisons.
+
+Il explique que la seule manière durable d'amener quelqu'un à faire quelque chose est de lui en donner envie, en montrant comment cela répond à ses propres désirs. Cela suppose de se mettre à sa place et de comprendre ce qui compte pour lui.
+
+Il raconte de nombreux exemples. Un parent qui veut que son enfant mange mieux obtient plus de résultats en lui expliquant que cela l'aidera à devenir plus fort au jeu qu'en lui faisant la morale. Un vendeur qui parle des problèmes de son client vend davantage que celui qui vante son produit. Un employé qui demande une augmentation en montrant ce qu'il apporte à l'entreprise est plus convaincant que celui qui parle de ses propres besoins.
+
+Carnegie cite une idée attribuée à Henry Ford : le secret de la réussite, s'il existe, réside dans la capacité à comprendre le point de vue de l'autre et à voir les choses sous son angle autant que sous le sien.
+
+> Exercice | Avant votre prochaine demande, écrivez ce que la personne veut, elle. Formulez votre demande en partant de ses intérêts.
+
+=== Se faire apprécier
+--- S'intéresser sincèrement aux autres
+kw: curiosité · attention · se souvenir
+La deuxième partie du livre propose six manières de se faire apprécier. La première est de **s'intéresser sincèrement aux autres**.
+
+Carnegie remarque que la plupart des gens cherchent à intéresser les autres à eux-mêmes : ils parlent de leurs réussites, de leurs problèmes, de leurs opinions. Or chacun est avant tout intéressé par lui-même. Il est donc beaucoup plus efficace de s'intéresser aux autres que de chercher à les impressionner. Il note que l'on peut se faire davantage d'amis en quelques mois en s'intéressant aux autres qu'en quelques années en essayant de les intéresser à soi.
+
+Il donne plusieurs exemples de personnes célèbres connues pour leur attention aux autres. L'une d'elles connaissait les noms et les histoires des employés les plus modestes de son entourage et prenait le temps de leur parler.
+
+S'intéresser aux autres se traduit par des gestes simples : poser des questions sur leur vie, se souvenir de ce qu'ils ont raconté, leur souhaiter leur anniversaire, prendre de leurs nouvelles quand ils traversent une difficulté. Ces gestes demandent du temps et de l'attention, mais ils créent des relations solides.
+
+Carnegie insiste encore sur la sincérité. Un intérêt feint, uniquement destiné à obtenir quelque chose, sera perçu. Il s'agit de développer une véritable curiosité pour les autres, en considérant que chaque personne a quelque chose d'intéressant à apprendre.
+
+> À retenir | On se fait plus d'amis en s'intéressant aux autres qu'en essayant de les intéresser à soi.
+
+--- Le sourire et le prénom
+kw: accueil · nom · respect
+Deux autres principes de cette partie sont très simples, mais Carnegie leur accorde une grande importance.
+
+**Sourire.** Un sourire sincère dit à l'autre qu'on est content de le voir. Il crée immédiatement un climat favorable. Carnegie raconte que des élèves de son cours, invités à sourire davantage pendant une semaine, ont constaté des changements dans leurs relations au travail et à la maison. Il précise qu'il ne s'agit pas d'un sourire mécanique, mais d'une attitude intérieure de bienveillance. Il ajoute qu'on peut sourire même au téléphone : cela s'entend dans la voix.
+
+**Se souvenir du nom des personnes.** Pour chacun, son propre nom est l'un des mots les plus agréables à entendre. L'oublier ou le déformer est une petite blessure. S'en souvenir et l'utiliser est une marque de respect et d'attention.
+
+Carnegie raconte l'histoire d'un industriel célèbre de son époque qui, pour obtenir un contrat important d'une compagnie de chemin de fer, avait donné à sa nouvelle aciérie le nom du président de cette compagnie. Il cite aussi un homme politique connu pour sa capacité à retenir les noms de milliers de personnes, ce qui avait contribué à sa popularité.
+
+Il propose des techniques simples pour retenir les noms : demander à la personne de répéter si on n'a pas bien entendu, utiliser le nom plusieurs fois dans la conversation, l'associer à une image ou à un détail, le noter après la rencontre.
+
+- Un sourire sincère ouvre la relation.
+- Le nom d'une personne compte beaucoup pour elle.
+- Retenir un nom demande un petit effort volontaire.
+
+--- Écouter et parler de l'autre
+kw: écoute active · ses intérêts · importance
+Les derniers principes de cette partie concernent la conversation.
+
+**Être un bon auditeur et encourager les autres à parler d'eux.** Carnegie raconte une soirée où il avait passé des heures à écouter un botaniste parler de plantes. À la fin, cet homme avait dit à leur hôte que Carnegie était un brillant causeur. Or Carnegie n'avait presque rien dit : il avait simplement écouté avec attention et posé des questions. Il en tire une leçon : les gens apprécient surtout ceux qui les écoutent.
+
+Écouter vraiment est rare. La plupart des gens attendent seulement leur tour de parler. Écouter, c'est être attentif, ne pas interrompre, poser des questions qui permettent à l'autre d'aller plus loin, et montrer qu'on a compris.
+
+**Parler de ce qui intéresse l'autre.** Carnegie cite l'exemple de personnes qui, avant de rencontrer quelqu'un, se renseignaient sur ses centres d'intérêt pour pouvoir en parler. Ce n'est pas de la manipulation, explique-t-il, si l'intérêt est sincère : c'est une manière de respecter l'autre.
+
+**Faire sentir à l'autre qu'il est important, sincèrement.** Il propose de chercher en chacun quelque chose à admirer, et de le dire. Il raconte comment, au bureau de poste, il avait décidé de trouver quelque chose d'agréable à dire à un employé qui semblait s'ennuyer. Il avait remarqué ses beaux cheveux et le lui avait dit. L'employé avait souri, et l'échange avait changé de ton.
+
+> Exercice | Dans votre prochaine conversation, parlez deux fois moins que d'habitude. Posez des questions et écoutez les réponses jusqu'au bout.
+
+=== Convaincre sans affronter
+--- Éviter les disputes
+kw: gagner une dispute · perdre l'autre
+La troisième partie du livre propose des manières d'amener les autres à son point de vue. Le premier principe est surprenant : **la seule façon de gagner une dispute, c'est de l'éviter**.
+
+Carnegie raconte qu'il a appris cette leçon à ses dépens. Lors d'un dîner, il avait corrigé un convive qui attribuait une citation à la Bible, alors qu'elle venait de Shakespeare. Un ami commun, spécialiste de Shakespeare, lui avait alors donné tort devant tout le monde. Sur le chemin du retour, cet ami lui avait expliqué qu'il avait sciemment donné raison à l'autre convive : à quoi bon humilier un invité pour un détail ?
+
+Carnegie explique qu'on ne gagne jamais vraiment une dispute. Si on la perd, on a perdu. Si on la gagne, l'autre se sent humilié, et il ne change pas d'avis : il en veut à celui qui l'a contredit. Il reste convaincu de ce qu'il pensait.
+
+Il propose plusieurs conseils pour éviter les disputes : accueillir le désaccord comme une occasion de découvrir quelque chose, contrôler sa première réaction défensive, écouter d'abord, chercher les points d'accord, être honnête sur ses propres erreurs, promettre de réfléchir aux idées de l'autre, et le remercier de son intérêt.
+
+Il ne s'agit pas de renoncer à ses idées, mais de comprendre qu'une confrontation directe rend l'autre moins réceptif.
+
+> À retenir | Gagner une dispute, c'est perdre la bonne volonté de l'autre. Mieux vaut écouter et chercher l'accord.
+
+--- Respecter l'opinion de l'autre
+kw: « vous avez tort » · reconnaître ses erreurs
+Carnegie propose ensuite deux principes complémentaires.
+
+**Respecter les opinions des autres, et ne jamais leur dire qu'ils ont tort.** Dire à quelqu'un qu'il a tort, que ce soit par des mots, un regard ou une intonation, revient à attaquer son intelligence et son jugement. Il se défend, et devient incapable d'écouter. Carnegie recommande plutôt des formulations prudentes : je pense peut-être autrement, je peux me tromper, examinons les faits ensemble. Il cite Benjamin Franklin, qui raconte dans son autobiographie avoir appris à bannir les affirmations catégoriques de son vocabulaire, et en avoir constaté les bénéfices dans ses discussions.
+
+**Si l'on a tort, le reconnaître rapidement et franchement.** Carnegie raconte qu'il promenait son chien sans laisse dans un parc, ce qui était interdit. Un jour, un policier l'arrête. Avant que le policier ne parle, Carnegie reconnaît sa faute, en se reprochant lui-même. Le policier, désarmé, devient indulgent. Carnegie explique que reconnaître ses erreurs avant que l'autre ne les reproche enlève à l'autre le besoin d'attaquer, et suscite souvent de la générosité.
+
+Il souligne que reconnaître ses torts demande du courage, mais procure aussi une forme de soulagement. Et cela renforce la confiance : on croit davantage quelqu'un qui sait admettre ses erreurs.
+
+- Ne jamais dire « vous avez tort ».
+- Parler avec prudence plutôt qu'avec certitude.
+- Reconnaître vite ses propres erreurs.
+
+--- Amener l'autre à dire oui
+kw: ton amical · oui · laisser parler · son idée
+Carnegie propose une série de principes pour faciliter l'accord.
+
+**Commencer de manière amicale.** Une discussion qui commence par l'hostilité a peu de chances d'aboutir. Une discussion qui commence par de la bienveillance ouvre les esprits. Carnegie raconte l'histoire d'un industriel confronté à une grève, qui avait choisi de s'adresser aux grévistes avec respect et amitié, et qui avait obtenu une sortie de conflit rapide.
+
+**Obtenir des « oui » dès le début.** Carnegie s'inspire de la méthode attribuée à Socrate, qui posait des questions auxquelles son interlocuteur ne pouvait que répondre oui, jusqu'à l'amener à une conclusion qu'il aurait refusée au départ. Commencer par les points d'accord crée une dynamique positive.
+
+**Laisser l'autre parler.** La plupart des gens essaient de convaincre en parlant beaucoup. Il vaut mieux laisser l'autre exprimer ses idées, ses objections et ses besoins. Il se sent écouté, et il révèle souvent lui-même les arguments qui le convaincront.
+
+**Laisser l'autre penser que l'idée vient de lui.** Les personnes tiennent davantage aux idées qu'elles pensent avoir trouvées elles-mêmes. Plutôt que d'imposer une solution, on peut suggérer des pistes et laisser l'autre construire sa conclusion.
+
+**Voir les choses du point de vue de l'autre**, et **montrer de la compréhension pour ses idées et ses désirs**.
+
+> Question clé | Dans votre dernière discussion difficile, combien de temps avez-vous parlé, et combien de temps l'autre a-t-il parlé ?
+
+--- Faire appel aux motifs nobles
+kw: générosité · mise en scène · défi
+Carnegie termine cette partie par trois principes.
+
+**Faire appel aux motifs les plus nobles.** Carnegie remarque que les gens agissent souvent pour deux raisons : une raison qui sonne bien, et la raison réelle. Mais chacun aime se voir comme une personne honnête, juste et généreuse. En faisant appel à ces qualités, on encourage les autres à agir conformément à cette image. Il raconte l'histoire d'un propriétaire qui, face à un locataire voulant partir avant la fin de son bail, lui avait dit qu'il le considérait comme un homme de parole. Le locataire était resté.
+
+**Mettre en scène ses idées.** Une idée présentée de manière vivante et concrète convainc davantage qu'un exposé abstrait. Carnegie cite des exemples de vendeurs et de publicitaires qui démontraient leurs produits de manière spectaculaire.
+
+**Lancer un défi.** Le désir de se surpasser et de réussir est un puissant moteur. Carnegie raconte l'histoire de Charles Schwab, qui, dans une aciérie où les équipes produisaient peu, avait simplement écrit au sol à la craie le nombre de coulées réalisées par l'équipe de jour. L'équipe de nuit, piquée au vif, avait cherché à faire mieux, et la production avait rapidement augmenté.
+
+Carnegie précise que ces principes ne fonctionnent pas avec tout le monde ni dans toutes les situations. Mais ils sont plus efficaces que les arguments et les pressions.
+
+- Supposer chez l'autre des intentions honnêtes.
+- Rendre ses idées concrètes et vivantes.
+- Le défi stimule le désir de se dépasser.
+
+=== Diriger sans blesser
+--- Corriger sans humilier
+kw: éloges d'abord · indirect · ses erreurs
+La quatrième partie du livre s'adresse à ceux qui doivent diriger, corriger ou faire changer les autres. Carnegie propose plusieurs principes pour le faire sans provoquer de ressentiment.
+
+**Commencer par des éloges sincères.** Il est plus facile d'entendre une remarque désagréable après avoir entendu une reconnaissance sincère de ses qualités. Carnegie compare cela au barbier qui fait mousser le savon avant de raser.
+
+**Signaler les erreurs indirectement.** Carnegie met en garde contre l'usage du mot « mais » après un compliment, qui annule le compliment. Il propose plutôt de relier les deux idées par « et », ou de signaler l'erreur de manière indirecte, par un exemple ou une suggestion.
+
+**Parler de ses propres erreurs avant de critiquer celles des autres.** Carnegie raconte qu'il avait été agacé par les erreurs de sa jeune secrétaire. Puis il s'était rappelé ses propres maladresses au même âge. Il avait alors commencé par les évoquer, avant de suggérer des améliorations. La secrétaire avait accepté la remarque sans se sentir humiliée.
+
+**Poser des questions plutôt que donner des ordres.** Une question comme « Pensez-vous que cela pourrait marcher ? » laisse à l'autre la possibilité de réfléchir et de proposer. Elle est plus facilement acceptée qu'un ordre.
+
+**Permettre à l'autre de sauver la face.** Même quand on a raison, humilier l'autre est une faute. Il faut lui laisser une porte de sortie honorable.
+
+> À retenir | Commencer par reconnaître, signaler indirectement, évoquer ses propres erreurs, questionner plutôt qu'ordonner, laisser sauver la face.
+
+--- Encourager le progrès
+kw: chaque progrès · réputation · facile
+Carnegie poursuit avec des principes pour encourager le changement.
+
+**Louer le moindre progrès.** Les dresseurs d'animaux récompensent chaque petit progrès. Carnegie suggère de faire de même avec les personnes : remarquer et reconnaître chaque amélioration, même modeste. Cela encourage à continuer. Il cite des exemples d'enfants et d'adultes dont la trajectoire a changé grâce à quelqu'un qui avait remarqué et encouragé leurs premiers efforts.
+
+**Donner à l'autre une bonne réputation à défendre.** Si l'on dit à quelqu'un qu'on le sait capable, consciencieux ou honnête, il a tendance à agir pour mériter cette image. Carnegie raconte l'histoire d'un employé négligent dont le responsable avait souligné publiquement la compétence passée. L'employé avait retrouvé son niveau.
+
+**Encourager, et rendre la faute facile à corriger.** Si l'on présente un problème comme insurmontable, la personne se décourage. Si on le présente comme facile à corriger, elle prend confiance. Carnegie raconte comment un professeur de danse l'avait encouragé en lui disant qu'il avait un sens naturel du rythme, alors qu'un autre l'avait découragé en lui listant tous ses défauts.
+
+**Faire en sorte que l'autre soit heureux de faire ce qu'on lui suggère.** Présenter une demande de manière à ce que l'autre y voie un avantage, une reconnaissance ou une responsabilité valorisante.
+
+Carnegie souligne que ces principes ne sont pas des recettes infaillibles, mais qu'ils augmentent fortement les chances d'obtenir un changement durable.
+
+- Reconnaître chaque petit progrès.
+- Donner une réputation à défendre.
+- Présenter la correction comme facile.
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · un principe
+**Semaine 1 : ne plus critiquer.** Pendant une semaine, évitez toute critique, plainte ou reproche. Quand l'envie vous prend, cherchez à comprendre les raisons de l'autre. Notez chaque soir les situations où vous avez réussi ou échoué.
+
+**Semaine 2 : apprécier et écouter.** Exprimez chaque jour au moins une appréciation sincère et précise. Dans vos conversations, posez davantage de questions et parlez moins de vous. Efforcez-vous de retenir et d'utiliser les prénoms.
+
+**Semaine 3 : convaincre sans affronter.** Lors d'un désaccord, commencez par les points d'accord. Remplacez « vous avez tort » par des formulations prudentes. Si vous vous êtes trompé, reconnaissez-le rapidement.
+
+**Semaine 4 : diriger sans blesser.** Si vous devez corriger quelqu'un, commencez par une reconnaissance sincère, évoquez vos propres erreurs, posez des questions plutôt que donner des ordres. Remarquez et saluez chaque progrès.
+
+Carnegie recommande de relire régulièrement les principes et de faire le point chaque semaine sur leur application.
+
+> À retenir | Un principe à la fois, appliqué dans la vie réelle, avec un bilan chaque semaine.
+
+--- Cas pratique : le chef de chantier
+kw: tensions · sous-traitants · délais
+Mathieu est chef de chantier dans une entreprise de construction. Ses relations avec les équipes de sous-traitants sont tendues : il les critique souvent devant tout le monde, les délais glissent, et plusieurs artisans refusent de retravailler avec lui. Son directeur lui conseille de lire Carnegie.
+
+**Ne plus critiquer.** Mathieu décide de ne plus faire de reproches publics. Quand un travail est mal fait, il prend la personne à part et commence par lui demander ce qui s'est passé. Il découvre que plusieurs retards viennent de livraisons de matériaux mal organisées par sa propre entreprise.
+
+**S'intéresser aux autres.** Il apprend les prénoms des artisans, s'intéresse à leurs contraintes, et prend le temps de discuter avec eux le matin.
+
+**Reconnaître ses erreurs.** Il reconnaît devant les équipes les problèmes de livraison, et s'engage à les corriger.
+
+**Encourager.** Quand une équipe termine une étape à temps, il le souligne en réunion de chantier.
+
+**Lancer un défi.** Il affiche chaque semaine l'avancement des différentes zones, ce qui crée une saine émulation.
+
+Trois mois plus tard, le chantier a rattrapé une partie de son retard, et plusieurs artisans demandent à travailler à nouveau avec lui.
+
+> Question de réflexion | Quelle relation de travail tendue pourrait changer si vous cessiez de critiquer pendant un mois ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: époque · manipulation · anecdotes
+*Comment se faire des amis* est un classique, mais il présente plusieurs limites.
+
+**Un livre de son époque.** Les exemples viennent surtout du monde des affaires et de la politique américaine des années 1920 et 1930. Certains passages reflètent les rôles sociaux de cette époque.
+
+**Le risque de la manipulation.** Bien que Carnegie insiste sur la sincérité, ses principes peuvent être utilisés de manière calculée, pour obtenir quelque chose des autres. Le titre lui-même, avec le mot « influencer », a nourri cette lecture.
+
+**Des preuves anecdotiques.** Le livre repose sur des histoires et des témoignages, pas sur des études rigoureuses. Plusieurs de ses intuitions ont été confirmées par la psychologie sociale, comme l'importance de l'écoute, de la reconnaissance ou de la réciprocité, mais d'autres restent invérifiées.
+
+**Une vision qui évite le conflit.** Carnegie privilégie l'harmonie et le tact. Mais certaines situations exigent une franchise directe, un désaccord ouvert ou une confrontation. Des auteurs plus récents, comme Kim Scott, insistent sur l'importance de dire les choses clairement.
+
+**Une approche individuelle.** Le livre traite des relations entre personnes, pas des problèmes d'organisation, de pouvoir ou d'injustice qui expliquent aussi de nombreux conflits.
+
+- Des intuitions solides, mais des preuves anecdotiques.
+- Le tact ne doit pas empêcher la franchise.
+
+--- Liens avec les autres livres
+kw: Cialdini · Covey · Scott · Voss
+**Avec Influence (Cialdini).** Plusieurs principes de Carnegie, comme l'appréciation, la sympathie et l'engagement progressif, correspondent à des mécanismes étudiés scientifiquement par Cialdini.
+
+**Avec Les 7 habitudes (Covey).** L'habitude « chercher d'abord à comprendre, ensuite à être compris » prolonge directement l'importance de l'écoute chez Carnegie. Covey critique cependant les approches centrées sur les techniques plutôt que sur le caractère.
+
+**Avec Radical Candor (Scott).** Kim Scott complète Carnegie : il faut se soucier sincèrement des autres, mais aussi oser leur dire clairement ce qui ne va pas.
+
+**Avec Ne coupez jamais la poire en deux (Voss).** L'empathie tactique de Voss, qui consiste à comprendre et nommer les émotions de l'autre, rejoint l'idée de Carnegie : voir les choses du point de vue de l'autre.
+
+**Avec Conversations cruciales.** Ce livre propose une méthode plus structurée pour les discussions à fort enjeu, là où Carnegie donne surtout des principes d'attitude.
+
+> Parcours conseillé | Lisez ensuite Conversations cruciales pour les discussions difficiles, puis Influence pour comprendre les mécanismes de la persuasion.

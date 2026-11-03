@@ -1,0 +1,466 @@
+=== Context and thesis
+--- Andy Grove and Intel
+kw: Budapest · Intel · engineer turned CEO
+Andy Grove was born in Budapest in 1936. As a teenager he survived the Nazi occupation, then fled Hungary after the crushing of the 1956 uprising. He arrived in the United States with almost no money, learned English, studied chemical engineering and then earned a doctorate at Berkeley. In 1968 he joined Robert Noyce and Gordon Moore in founding Intel, becoming one of its first employees and later its chief executive, from 1987 to 1998.
+
+Under his leadership, Intel abandoned memory chips, its historical business under attack from Japanese competition, to focus on microprocessors. That very difficult decision turned the company into a world leader. Grove told this story in another book, *Only the Paranoid Survive*. But it is *High Output Management*, published in 1983, that remains his most widely read book among managers.
+
+The book grew out of a simple observation. Grove ran training courses for new managers at Intel and could find no book that explained the job concretely. The books of the time talked about grand principles or psychology, but not about what a manager does on a Tuesday morning. So he wrote the manual he would have wanted to read, with an engineer's logic: measure, understand the process, identify the leverage points.
+
+The book had a second life in the 2010s. It became a cult book in Silicon Valley, recommended by many founders and investors. Part of that popularity comes from the fact that Grove describes objectives and key results in it, the method known today as OKRs, later adopted by Google and many other companies.
+
+> À retenir | Grove writes as an engineer: management is a production process like any other, one that can be observed, measured and improved.
+
+--- The breakfast factory
+kw: production · limiting step · inventory
+To explain the production principles that apply to management, Grove starts from a deliberately ordinary example: a waiter who has to prepare breakfasts made up of a soft-boiled egg, toast and coffee. The example runs through the whole book, because it makes production concepts understandable without industrial jargon.
+
+The first problem is serving all three hot items at the same time. But each item takes a different amount of time: the egg three minutes, the toast a little less, the coffee almost nothing. Production must therefore be organized around the longest step, which Grove calls **the limiting step**. You start the egg first, then synchronize everything else on it. Every organization has a limiting step, and it sets the pace for the whole.
+
+The second problem is demand. If ten customers arrive at once, the waiter does not have enough pans or toasters. He can expand his capacity, or keep a stock of items prepared in advance. But inventory has a cost: coffee that goes cold, eggs that go to waste. The balance must be found between the risk of running short and the cost of the stock.
+
+The third problem is quality. A cracked egg detected before cooking costs a few cents. The same egg discovered on the customer's plate costs an entire breakfast, or even an unhappy customer. Hence an essential principle: **detect and fix problems at the lowest-value stage possible**.
+
+Grove applies these ideas to knowledge work. In a legal department, the limiting step may be sign-off by a partner. In a software team, it may be code review. In a recruiting department, it is the managers' calendars for interviews. Identifying that step is the first move of a manager who wants to increase output.
+
+> À retenir | All work has a limiting step that sets the pace. Find it, organize everything else around it, and catch defects as early as possible.
+
+--- The manager's output
+kw: key equation · team · influence
+The central idea of the book fits in one equation. Grove writes that a manager's output equals the output of his organization plus the output of the neighbouring organizations under his influence. In other words, a manager is judged not on what he does himself, but on what the teams he leads or influences produce.
+
+This definition has considerable practical consequences. First, it means that a manager's personal work has value only if it increases other people's output. A manager who spends the day doing his team members' work himself, even very well, has low output in Grove's sense. He replaces one person, instead of multiplying the effect of the whole team.
+
+Second, it means that influence counts as much as authority. In a modern organization, many results depend on people who do not report to the manager: other departments, partners, customers. The effective manager influences them through information, advice and example. Grove counts that influence as part of the manager's output.
+
+It also means that experts without a team are managers in Grove's sense. A senior engineer who advises several teams, a lawyer who trains colleagues, an analyst whose studies shape decisions: all of them increase other people's output. Grove calls them "know-how" managers and applies the same principles to them.
+
+Finally, this equation forces a permanent question: of all the activities I could do today, which one most increases my team's output? That is the question of leverage, which structures the rest of the book.
+
+- Your output is that of your team and of the teams you influence.
+- Doing other people's work for them often reduces total output.
+- Experts without direct reports are managers too, through their influence.
+
+=== Production principles
+--- Indicators and the black box
+kw: leading indicators · pairs · forecasts
+Grove suggests treating every unit of work as a black box: inputs go in, outputs come out. The manager cannot see everything that happens inside, but he can choose a few well-designed indicators that give him a window onto the process. Choosing those indicators is one of the most important acts of management.
+
+He first recommends **leading indicators**, which signal a problem before it shows up in the final results. For a sales team, the number of qualified meetings this week foreshadows next quarter's revenue. For a customer service team, the number of pending requests foreshadows future satisfaction. Waiting for final results is like driving while looking in the rear-view mirror.
+
+He then recommends using **paired indicators**. Any indicator, when you focus on it, produces an undesirable side effect. If you measure only how fast files are processed, quality drops. If you measure only inventory levels, you risk stock-outs. So each indicator must be paired with a counter-indicator: speed and error rate, inventory and stock-outs, new customers and churn rate.
+
+Grove also presents a tool he used at Intel: a chart on which you plot, month after month, the successive forecasts for the same future result. It shows whether forecasts are reliable, whether they always drift in the same direction, and therefore whether the team tends to be too optimistic or too cautious. This simple tool gradually improves forecast quality.
+
+Finally, he warns against too many indicators. Too many measures drown attention and are expensive to produce. A useful dashboard fits on one page, and each indicator must answer a question the manager actually asks.
+
+> Exercice | For your team, choose one result indicator, one leading indicator that foreshadows it and one counter-indicator. Three numbers are enough to start.
+
+--- Catch early, control wisely
+kw: inspection · trust · variability
+The cracked-egg principle applies to all work. The later a defect is discovered in the process, the more it costs. An error in a specification found at the first review costs an hour. Found after development, it costs weeks. Found by the customer, it costs reputation.
+
+Grove describes several ways of controlling quality. **Receiving inspection** checks what enters the process: data, requests, briefs. **In-process inspection** checks at key stages. **Final inspection** checks the finished product. The earlier you inspect, the less it costs, but you cannot inspect everything everywhere.
+
+He offers two solutions to this dilemma. The first is **variable inspection**, comparable to a customs officer's: you check new processes, or those that have already caused problems, more often, and those that have worked well for a long time less often. The frequency of checking depends on the trust that has been earned. The second is the idea that control should be designed as a way of learning, not as a sanction.
+
+These principles apply directly to delegation. When you hand over a task, you must check, but not in the same way for every person and every task. With someone new to a subject, you check early and often. With an experienced team member, you check from time to time, by sampling. Grove insists: delegating without monitoring is not delegating, it is abdicating.
+
+He adds an important point: you must check at the stage where you can still act. Reviewing a document the day before it goes to the executive committee leaves no room for correction. It is better to see a detailed plan halfway through than a final version too late.
+
+- The later a defect is found, the more it costs.
+- Match how often you check to the trust that has been earned.
+- Delegating without follow-up amounts to abandoning the task.
+
+--- Productivity gains
+kw: simplify · batch · standardize
+Grove defines productivity as output per unit of labour time. To increase it, there are two routes: working faster, which has limits, or changing the nature of the work. He strongly favours the second. The manager must look for what in the process can be removed, simplified or combined.
+
+He gives the example of an analysis he led of how requests were handled inside Intel. By describing each step, they discovered that many of them added no value: redundant signatures, re-copying, hand-offs between departments. Simplifying the process sharply reduced processing time without anyone having to work faster. Today this is called value-chain analysis.
+
+Grove also applies production logic to his own day. He recommends **batching similar tasks**: making all calls in a row, signing all documents at once, grouping interviews together. Every change of task costs set-up time, like changing tools on a machine. Batching reduces those losses.
+
+He also recommends **building in slack**. A calendar that is 100% full leaves no room for the unexpected, and the unexpected always happens. A manager with no slack goes from emergency to emergency and can no longer plan anything. Grove advises leaving free slots in the calendar, just as a factory keeps spare capacity to absorb demand peaks.
+
+Finally, he insists on **the calendar itself as a tool**: it is a production tool. He recommends distinguishing imposed activities from chosen ones, and organizing each week by starting with high-leverage activities. A manager who does not control his calendar lets others decide his output.
+
+> À retenir | Productivity comes less from speed than from how work is designed. Remove useless steps, batch tasks and keep some slack.
+
+=== Managerial leverage
+--- High-leverage activities
+kw: multiplier effect · timing · reach
+Leverage is the book's best-known concept. Grove defines the leverage of an activity as the output generated by that activity. A high-leverage activity produces a lot for little time invested. A low-leverage activity produces little, even if it takes a lot of time. The manager's job is to keep choosing the activities with the highest leverage.
+
+Grove identifies three sources of high leverage:
+
+- **When an action affects many people.** A fifteen-minute presentation on the quarter's priorities, given to a hundred people, steers the work of a hundred people for three months. A well-designed process improves the work of everyone who uses it.
+- **When an action has a lasting effect.** Training a team member, setting a decision rule or hiring the right person produces effects for years. A good hire is probably the highest-leverage activity there is.
+- **When an action supplies a unique skill or piece of information.** A manager who shares rare expertise at the right moment saves the team weeks of work or a costly mistake.
+
+Timing is also crucial. A comment on a product's design at the start of the project can transform the result. The same comment at the end can no longer change anything, or costs a great deal. Grove compares this to a child who discovers at the last minute that homework is due: the parents can no longer help effectively.
+
+Leverage can also be **negative**. A delayed decision blocks an entire team. A poorly prepared meeting wastes an hour for ten people. Unnecessary interference in the work of a competent team member demotivates them. Grove calls this last situation managerial meddling: the manager intrudes into work the team member has mastered, because he has mastered it too or likes doing it. It reduces output and prevents the team member from growing.
+
+> Question clé | Of your activities last week, which had the most leverage? Which had the least? How can you do more of the first this week?
+
+--- Gathering and sharing information
+kw: reports · visits · conversations
+Grove describes the manager's basic activities. The first is **gathering information**. Without information, a manager can neither decide, nor advise, nor influence. He details several sources, each with its advantages.
+
+**Written reports** are useful, but Grove observes that their value often lies more in writing them than in reading them. Whoever writes a report is forced to put their ideas in order and think about what matters. The report is therefore a means of self-discipline as much as a means of information.
+
+**Quick, informal conversations** are often more valuable. A few minutes of exchange in a corridor, after a meeting or in the cafeteria yield information no report contains: worries, emerging difficulties, rumours. Grove notes that the most useful information is often the fastest, and the least formal.
+
+**Visits to the front line** complete the picture. Grove recommends going regularly to the teams, for no particular reason, to observe and listen. He insists: these must be visits that are not inspections. If the manager shows up only when there is a problem, his arrival becomes an alarm signal and people close up.
+
+The second activity is **passing on information**: objectives, priorities, the manager's preferences on how to approach problems. Grove notes that team members need to know those preferences to make consistent decisions on their own. Without them, they have to ask the manager's opinion on everything, which slows the team down.
+
+These two activities prepare the next ones: deciding, influencing, setting an example. A manager who gathers and shares information well makes fewer decisions himself, because his team members have the reference points to decide in his place.
+
+- Writing a report mainly helps the writer clarify their thinking.
+- Informal conversations reveal weak signals.
+- Sharing your preferences lets others decide without you.
+
+--- Deciding, nudging, setting an example
+kw: nudge · role model · calendar
+Beyond information, Grove describes three activities that form the heart of managerial work.
+
+**Making decisions.** Some decisions are made in advance, such as plans and budgets. Others are made in reaction to a problem. In both cases, Grove stresses that most of a manager's decisions concern choosing what the team does and how resources are allocated. A manager who delays decisions creates negative leverage.
+
+**Influencing through nudges.** Grove describes an activity he considers underrated: steering a discussion or a person in a desired direction without giving an order. A well-put question in a meeting, a suggestion at the right moment, a remark on a document. These light interventions are far more frequent than formal decisions, and they often have more effect. They also preserve team members' autonomy and motivation.
+
+**Being a role model.** An organization's values and behaviours are passed on more through example than through speeches. A manager who arrives late to meetings cannot demand punctuality. A manager who admits mistakes allows others to do so. Grove stresses that this role-model function is permanent: every action of the manager is watched and interpreted.
+
+Grove then offers practical advice for organizing time around these activities:
+
+- **Plan your week** around high-leverage activities, not around requests.
+- **Use your calendar as a production tool**, including background tasks in it.
+- **Say no** early rather than late. Turning down a request at the outset costs much less than abandoning it halfway.
+- **Keep background tasks** in reserve, to be done in unexpected free moments.
+
+This last piece of advice is original. Grove recommends always having on hand an "inventory" of useful but non-urgent tasks, such as reading a substantial document or preparing an interview. Lost moments thus become productive.
+
+> À retenir | A question at the right moment often influences more than an order. Your example is your strongest message.
+
+--- Planning and managing by objectives
+kw: needs · current state · OKR
+Grove devotes a chapter to planning, which he reduces to three simple questions: what will the environment's need, or demand, be? What are we producing now, and what will we produce if we carry on like this? What must we do to close the gap? The third question is the only one that really matters, because it leads to actions to launch today.
+
+He insists on one point: the output of a plan is the decisions made today to change tomorrow. A plan that does not change what you do this week is not a plan, it is a forecast. Planning, then, means first identifying the actions to take now so that future results will be different.
+
+Grove then describes the management-by-objectives system he practised at Intel. It rests on two questions: where do I want to go? That is the objective. How will I know whether I am getting there? Those are the key results, which must be measurable and tracked during the period. The method was later popularized as OKRs by John Doerr, who learned it at Intel and then had it adopted at Google.
+
+He gives a few rules for making the system work:
+
+- **Few objectives.** Too many objectives scatter attention. Better three that are well tracked than ten that are forgotten.
+- **Measurable key results**, with a clear deadline. You must be able to say without argument whether they have been achieved.
+- **A short period**, often a quarter, so that you can adjust quickly.
+- **A steering tool, not an evaluation tool.** Grove insists: objectives must not be used to judge people mechanically. They serve to focus effort and to see where the work stands.
+
+This last point is often forgotten. When objectives are tied directly to bonuses, teams choose easy objectives. Grove preferred ambitious objectives, even if it meant not achieving them all.
+
+> Exercice | Write one objective for your team this quarter, with three measurable key results. Check that it really changes what you will do next week.
+
+=== Meetings
+--- Two kinds of meetings
+kw: process · mission · preparation
+Grove defends meetings, against common opinion. He argues that they are the medium through which a manager does most of his work: gathering information, passing it on, deciding, influencing. The problem is not that meetings exist, but that they are badly designed. He sorts them into two broad categories.
+
+**Process-oriented meetings** are regular and predictable. They serve to share information and knowledge in an organized way. They include the one-on-one, the staff meeting and the operations review. Their strength is their regularity: because they take place at fixed intervals, topics can be batched in them instead of interrupting people as things come up. A good process meeting reduces interruptions.
+
+**Mission-oriented meetings** are held ad hoc, to produce a specific result, often a decision. Their success depends almost entirely on whoever calls them. That person must know exactly what they want to achieve, invite only the people needed and prepare the ground. Grove advises not exceeding six or seven participants if the meeting must reach a decision.
+
+He gives practical rules for mission meetings:
+
+- **A clear objective**, which the organizer can state in one sentence.
+- **The right people**, meaning those who have the necessary information and those who will decide.
+- **Minutes** sent out quickly, with decisions, actions and owners.
+- **Start and end on time.**
+
+Grove points out a common drift: calling a mission meeting for a topic that should have been handled in a process meeting. If ad hoc meetings multiply, it is often a sign that regular meetings are poorly designed or too rare.
+
+> À retenir | Regular meetings reduce interruptions; ad hoc meetings must produce a decision. If the latter multiply, improve the former.
+
+--- The one-on-one
+kw: one-on-one · the report's agenda
+The one-on-one is the tool Grove describes in the most detail, and the one many readers remember first. It is a regular meeting between a manager and each of his direct reports. Its main purpose is mutual learning and the exchange of information.
+
+Grove lays down a key principle: **the one-on-one belongs to the team member**. They set the agenda and prepare the meeting. The manager listens, asks questions and brings his experience. It is not a reporting session where the manager checks task progress. It is a moment when the team member can raise what is on their mind: a technical problem, a difficulty with a colleague, a career question, an idea.
+
+He gives several practical recommendations:
+
+- **Frequency**: it depends on the team member's maturity in their tasks. The newer they are to a subject, the more frequent the one-on-ones should be, for example weekly. With an experienced team member, once every two or three weeks may be enough.
+- **Length**: at least an hour, so that the team member has time to raise delicate subjects. Important topics often come up at the end.
+- **Location**: preferably in the team member's office, which lets the manager see their working environment.
+- **Preparation**: the team member prepares a list of topics and can bring data on their results.
+
+Grove makes a calculation that shows the tool's leverage: an hour and a half of one-on-one every two weeks can improve the quality of a team member's work for eighty hours. It is one of the manager's highest-leverage activities.
+
+Finally, he recommends that the manager ask one question at every one-on-one: is there anything bothering you? This simple question often brings up topics the team member would not have raised spontaneously.
+
+> Exercice | Offer each team member a regular one-hour one-on-one whose agenda they prepare. Hold it three times in a row before judging its usefulness.
+
+--- Staff meetings and reviews
+kw: team · facilitation · presenting
+The second process meeting is the **staff meeting**, which brings together a manager and his direct reports. Grove sees it as a place for exchange among peers. Its value is that it lets people working on different subjects share their problems, see the links between their activities and make decisions that affect them all.
+
+Grove insists on one point: the manager must facilitate, not monologue. He must set an agenda in advance but let the debate develop among the participants. A staff meeting where only the manager speaks is an information meeting that could be replaced by a memo. He recommends handling in this meeting the topics that concern at least two participants, and keeping the others for one-on-ones.
+
+The third process meeting is the **operations review**. It allows people who do not work directly together to learn from one another. Typically, a manager presents results and problems to peers and to more senior managers. Grove sees several benefits: the presenter learns to synthesize, senior managers discover the reality on the ground, and peers compare practices.
+
+He spells out the roles:
+
+- **The organizer** makes sure the meeting is well prepared and the presentations are relevant.
+- **The presenter** sets out results, problems and needs clearly, without trying to hide difficulties.
+- **The senior manager** asks questions, comments and gives direction, but avoids turning the review into a tribunal.
+- **Peers** ask questions and share their experience.
+
+This last point matters. If the review becomes a place of punishment, presenters hide problems and the meeting loses all usefulness. Grove wants reviews where people learn, not where they defend themselves.
+
+- The staff meeting handles topics that concern several people.
+- The operations review spreads experience across teams.
+- A meeting that punishes makes problems disappear from the discussion.
+
+--- Deciding as a group
+kw: free discussion · clear decision · full support
+Grove devotes an entire chapter to collective decision-making in knowledge organizations. He starts from an observation: in a company like Intel, those with hierarchical power are not always those with the technical expertise. So a process is needed that combines the two.
+
+He proposes an ideal model in three stages:
+
+- **Free discussion.** All points of view are voiced and examined. Everyone must be able to speak, whatever their rank. The manager must encourage dissenting opinions, especially those of junior people.
+- **A clear decision.** Once the debate is over, a decision is made and stated unambiguously. If the group cannot reach consensus, it is up to the designated person to decide.
+- **Full support.** Once the decision is made, all participants support it, even those who disagreed. The debate is not reopened in the corridors.
+
+Grove warns against two pitfalls. The first is **the peer-group syndrome**: people at the same level hesitate to make a difficult decision, each waiting for the other to do it. A more senior person must then step in to decide, or a decision-maker role must be assigned from the outset. The second is the fear of looking stupid, which keeps some people from speaking up. The manager must set the example by asking naive questions himself.
+
+He also suggests six questions to ask before any important decision:
+
+- What decision needs to be made?
+- When does it need to be made?
+- Who will decide?
+- Who will need to be consulted before deciding?
+- Who will approve or be able to veto the decision?
+- Who will need to be informed once the decision is made?
+
+These six questions avoid many misunderstandings, especially when several departments are involved.
+
+> À retenir | Debate freely, decide clearly, support fully. And name the decision-maker before the debate, not after.
+
+=== Organization
+--- Hybrid organizations
+kw: missions · functions · centralization
+Grove then turns to the structure of organizations. He explains that there are two main ways of grouping people. **Mission-oriented organizations** are structured by product, customer or market: each unit has all the resources needed to reach its objective. **Functional organizations** are structured by trade: engineers together, salespeople together, accountants together.
+
+Each form has its advantages. The mission-oriented organization makes units more responsive and more accountable for their results. The functional organization allows economies of scale, deeper expertise and more flexibility in allocating resources. Grove notes that no large company can choose purely one or the other. They are all **hybrid organizations**, in which some activities are decentralized into mission units and others centralized into shared functions.
+
+The difficulty is choosing what to centralize and what to decentralize. Grove proposes a simple criterion: centralize what benefits from economies of scale or rare expertise, and decentralize what demands responsiveness and detailed knowledge of customers. For example, payroll or purchasing are often centralized, while sales and customer service are decentralized.
+
+He stresses that the hybrid organization inevitably creates tension. Mission units find central functions slow and bureaucratic. Central functions find mission units undisciplined. These tensions are not a sign of failure: they are inherent in the model. Management's role is to handle them through clear processes, not to make them disappear.
+
+Finally, Grove recommends not reorganizing too often. Each reorganization disrupts relationships and takes months to settle. It is better to improve processes within the existing structure than to look for the perfect structure.
+
+- Every large organization combines missions and functions.
+- Centralize expertise and economies of scale, decentralize responsiveness.
+- Tensions between units and functions are normal and must be managed.
+
+--- Dual reporting
+kw: two bosses · committees · peers
+A direct consequence of the hybrid organization is **dual reporting**. Many people report both to a mission manager and to a functional manager. For example, a financial controller assigned to a division reports to the division head for day-to-day work and to the chief financial officer for methods and career.
+
+Grove acknowledges that this system is uncomfortable, but argues that it is inevitable and can work well. He sets several conditions. First, the two managers must have clearly distinct roles: one sets the what, the other the how. Next, they must talk regularly to avoid giving contradictory instructions. Finally, the team member must be able to escalate conflicts to a level that can resolve them.
+
+He also describes a particular form of dual reporting that he considers very effective: **peer groups**. At Intel, for example, committees brought together the quality managers of all the divisions. Together they set common standards and shared their practices. Each remained attached to their division but also took part in a professional community. This model combines the responsiveness of decentralization with the consistency of centralization.
+
+For these peer groups to work, Grove recommends that they have a designated leader, a clear mandate and a senior manager ready to decide in case of deadlock. Without that, they fall into the peer-group syndrome, with each person defending their own division's interests.
+
+Here Grove anticipates forms of organization that are very common today: matrix structures, communities of practice, the "chapters" and "tribes" of some tech companies. His analysis remains one of the clearest for understanding their benefits and pitfalls.
+
+> À retenir | Dual reporting works if roles are clear, if the two managers talk to each other and if someone can settle conflicts.
+
+--- Modes of control
+kw: market · contract · values
+Grove offers an original framework for understanding how people's behaviour is guided in an organization. He distinguishes three modes of control.
+
+**Free-market forces.** Behaviour is guided by price. This is the mode that governs exchanges between companies, or between a customer and a supplier. It works well when what is exchanged is simple, clear and measurable, and when each party pursues its own interest.
+
+**Contractual obligations.** Behaviour is guided by rules and agreements, written or not. This is the mode that governs the classic employment relationship: an employee agrees to follow their manager's instructions in exchange for a salary. It works well when tasks can be defined in advance.
+
+**Cultural values.** Behaviour is guided by shared values, trust and a sense of belonging. This is the mode that governs a close-knit team or a family. It works when the situation is complex, uncertain and ambiguous, and when the group's interest matters more than individual interest.
+
+Grove proposes a criterion for choosing the right mode. He crosses two dimensions: the complexity, uncertainty and ambiguity of the situation on the one hand, and people's orientation towards self-interest or group interest on the other. The more complex the situation and the more group-oriented the people, the more effective cultural values are. The simpler the situation and the more self-interested the people, the better the market works.
+
+This framework sheds light on many management debates. For example, introducing internal billing between departments means switching to market mode, which can create rigidities on complex subjects. Introducing very large individual bonuses can weaken cooperation in a team that runs on values. The manager must understand which mode best suits each situation.
+
+- Price, rules or values: three ways of guiding behaviour.
+- The more complex the situation, the more effective shared values are.
+- Changing the mode of control has side effects on cooperation.
+
+=== People's performance
+--- Motivation and task-relevant maturity
+kw: competence · achievement · adapted style
+Grove argues that a team member's performance depends on two things: ability and motivation. The manager can act only on these two levers, through training and motivation. He devotes a large part of the book to both subjects.
+
+For motivation, he draws on Maslow's hierarchy. Basic needs, such as security and recognition, must be met, but they are not enough to create high performance. What truly motivates knowledge workers are the higher needs: competence, that is, the pleasure of mastering one's craft, and achievement, that is, the pleasure of surpassing oneself and reaching ambitious goals. Grove compares the manager to a sports coach who pushes athletes to give their best.
+
+The most useful concept in this part is **task-relevant maturity**. Grove suggests adapting management style not to the person in general, but to their maturity on a given task. The same person can be very experienced on one subject and a beginner on another.
+
+- **Low maturity**: the manager adopts a highly structured style. He says what to do, how and when. He follows closely.
+- **Medium maturity**: the manager adopts a people-oriented style. He explains, discusses, listens, builds the relationship.
+- **High maturity**: the manager intervenes little. He agrees on objectives and follows results from a distance.
+
+Grove insists that the most common mistake is applying a single style to everyone. A "delegating" manager leaves beginners lost. A "directive" manager smothers experts. You must also return to a more directive style when an experienced team member changes subject. An excellent engineer promoted to manager has low maturity in their new role.
+
+> Exercice | For each team member, list their two main tasks and their maturity on each: low, medium or high. Is your follow-up style suited to each case?
+
+--- Performance reviews
+kw: assess · deliver · three L's
+Grove considers the performance review one of the manager's most important and most difficult tasks. He distinguishes two stages: assessing performance, then delivering the assessment to the team member.
+
+To **assess**, he recommends distinguishing output from activity. A team member can be very busy without producing results, or the reverse. Context must also be taken into account: an average result obtained in a very difficult situation may reflect very good performance. Grove warns against a trap: judging only on the last few months, or on one memorable incident. Hence the importance of taking notes throughout the year.
+
+To **deliver** the review, he proposes an approach he sums up in three words beginning with L. First, level with the team member: speak frankly and directly. Next, listen: check that the message has been understood and accepted. Finally, leave yourself out: think about the team member's interest, not your own comfort.
+
+Grove describes the stages a person goes through on receiving criticism: they start by denying the problem, then blame others for it, then acknowledge the problem, and finally accept responsibility for it. The manager must accompany them to this last stage, otherwise no change will follow.
+
+He also offers a few concrete rules:
+
+- **Don't overload the review**: stick to a few essential messages.
+- **Hand over the written review before the meeting**, so that the team member has time to read it and think.
+- **Don't neglect your best people**: top performers also need advice to progress. Grove notes that managers spend too much time on the weakest performers.
+
+> À retenir | Assess over the whole year, speak frankly, check that the message is understood. And give time to your best people, not just to problems.
+
+--- Hiring, retaining, training
+kw: interview · resignation · in-house training
+Grove ends the section on people with three practical topics.
+
+**Hiring.** He acknowledges that a job interview is an imperfect exercise: there is little time to judge a person. He recommends preparing the interview by defining in advance what you want to learn, and letting the candidate talk most of the time. He advises asking about what the candidate has actually done, their successes and failures, and what they learned from them. He also recommends checking references with former colleagues.
+
+**Retaining.** Grove describes a situation every manager knows: a valued team member announces they are resigning. His recommendation is very concrete. Stop everything immediately and listen. The way the manager reacts in the first few minutes is decisive. Then you must understand the real reasons for leaving, and look, with the help of other managers if possible, for a solution that addresses them. Grove stresses that most people who leave made their decision gradually, without talking about it, and that a resignation often reveals a deeper problem.
+
+**Training.** Grove asserts that training is one of the highest-leverage activities, and that it is the manager's responsibility. It must not be handed over entirely to a training department. Managers know better than anyone the skills needed and the company's practices. At Intel, senior executives taught in the internal programmes themselves. Grove calculates that a dozen hours of preparation and teaching can lastingly improve the work of dozens of people.
+
+He distinguishes two kinds of training: training that passes on technical know-how and training that passes on the company's values and methods. Both are necessary, and the second can only be passed on by those who embody those values.
+
+- Prepare your hiring interviews and get candidates to talk about concrete facts.
+- When someone resigns, stop everything and listen.
+- Training your teams yourself is an act of management, not a side task.
+
+--- Recognition and pay
+kw: merit · promotion · recognition
+Grove also tackles pay and promotion, subjects many management books avoid. His principle is clear: in a knowledge organization, pay must reflect performance, not just seniority or rank. Otherwise the best people eventually leave, and those who stay learn that effort changes nothing.
+
+He nevertheless acknowledges that merit pay is hard to implement. A knowledge worker's performance is often hard to measure, and part of it depends on external factors. He therefore recommends combining measurable elements with the manager's judgement, and making sure that judgement is discussed among several managers to limit personal bias. At Intel, reviews were compared in committee.
+
+Grove insists on a common trap: promoting an excellent technician to a management position as the only way to reward them. This practice, often called the Peter principle today, loses a good expert and gains a novice manager, sometimes unhappy in the new role. Grove argues for valued expert career tracks that allow people to grow in responsibility and pay without becoming managers.
+
+Finally, he distinguishes pay from recognition. Pay is necessary, but it is not enough to motivate in the long run. Knowledge workers also expect recognition of their competence and achievements: being consulted, being given important subjects, being mentioned in front of their peers. These forms of recognition cost little and have high leverage.
+
+A few practices inspired by these principles:
+
+- Explain clearly to each team member the criteria that determine their progression.
+- Compare reviews across managers before setting raises.
+- Offer an expert track valued as highly as the management track.
+- Recognize outstanding contributions publicly and specifically.
+
+> À retenir | Pay for performance, not seniority, and don't make promotion into management the only possible reward.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · concrete tools
+Grove's book is a manual. The best way to use it is to apply its tools gradually. Here is a four-week plan.
+
+**Week 1: output and leverage.** Write the equation of your output: which teams do you lead or influence? Keep a list of your activities for the week and rank them by leverage: high, medium, low, negative. Identify one low-leverage activity to reduce and one high-leverage activity to expand.
+
+**Week 2: indicators.** Identify the limiting step in your team's work. Choose three indicators: a result indicator, a leading indicator and a counter-indicator. Put them on one page and share them with the team.
+
+**Week 3: meetings.** Launch or reorganize one-on-ones, with an agenda prepared by the team member. Review your staff meetings: are they exchanges or monologues? For your next mission meetings, apply the six decision questions.
+
+**Week 4: people.** Assess each team member's maturity on their main tasks and adjust your style. For each, note two successes of the year and one area for development. Identify a subject on which you could train your team yourself.
+
+After a month, take stock with the team: which changes were useful? Which need adjusting? Grove insists on continuous improvement: a management system is built through successive adjustments, like a production process.
+
+> À retenir | One tool a week, tried three times before being judged. Management improves like a process: through iterations.
+
+--- Self-assessment grid
+kw: ten questions · leverage · meetings
+Score each statement from 1 (not at all true) to 5 (completely true).
+
+**Output and leverage**
+
+- I can describe my team's output in a few clear numbers.
+- I spend most of my time on high-leverage activities.
+- I don't do work myself that my team members have mastered.
+
+**Indicators**
+
+- I know the limiting step in my team's work.
+- I track at least one leading indicator and one counter-indicator.
+
+**Meetings and decisions**
+
+- Each of my team members has a regular one-on-one whose agenda they set.
+- For important decisions, I know in advance who decides, who is consulted and who is informed.
+- Once a decision is made, the team supports it even if it initially disagreed.
+
+**People**
+
+- I adapt my style to each team member's maturity on each task.
+- I spend time training my team myself.
+
+**Interpretation.** Above 40: your management system is solid; now look to pass it on to other managers. Between 25 and 40: choose the weakest category and apply one of the book's tools to it for a month. Below 25: start with one-on-ones, which are the simplest and most powerful tool in the book.
+
+This grid can also be used with the team. Ask your team members to fill in the questions that concern them, for example on meetings and decisions. The gap between their perception and yours is valuable information.
+
+- Compare your perception with your team's.
+- Start with one-on-ones if you don't know where to begin.
+
+--- Case study: the growing start-up
+kw: growth · first managers · rituals
+Karim founded a software company three years ago. It had five people; today it has forty. Karim is exhausted. He takes part in every decision, answers dozens of messages an hour and often discovers problems too late. Two of his best engineers have just left.
+
+**Output.** Applying Grove's equation, Karim realizes that his output is no longer his own code, but that of forty people. Yet he still spends a third of his time programming, an activity he enjoys but which now has low leverage.
+
+**Negative leverage.** He discovers that teams often wait for his opinion before moving forward. His delays in deciding block the work. He decides to appoint three team leads and hand them decisions he used to make alone, explaining his preferences and criteria to them.
+
+**Indicators.** Quality problems are discovered by customers. The limiting step is the testing phase, done too late. Karim introduces systematic code reviews and tracks a leading indicator: the number of defects found before release, paired with delivery time.
+
+**Meetings.** He sets up one-on-ones with the three new leads and asks them to do the same with their teams. A weekly staff meeting replaces the constant back-and-forth on the chat tool.
+
+**Maturity.** The three new leads are excellent engineers but beginner managers. Karim adopts a structured style with them at first: he explains how to run a one-on-one, how to set objectives. He plans to gradually loosen his follow-up.
+
+**Departures.** Meeting the remaining engineers, he understands that the two departures stemmed from a lack of prospects and recognition. He creates expert career tracks and starts running a monthly in-house training session himself.
+
+> Question de réflexion | Which activity do you enjoy doing but now has low leverage in your current role?
+
+=== Critical view and connections
+--- The book's limits
+kw: industry · 1980s · human side secondary
+*High Output Management* is a very practical book, but it bears the mark of its time and its author.
+
+**An industrial vision.** The factory metaphor is powerful, but it has limits. Part of knowledge work, notably creation and innovation, does not lend itself well to production logic. You cannot always identify a limiting step or measure the output of a research team. Mechanically applying industrial principles to these activities can kill creativity.
+
+**A particular context.** Intel was a company of engineers, highly technical, very demanding and marked by a culture of direct confrontation. Some recommendations, such as very frank debate in meetings, assume a culture where that kind of exchange is accepted. In other cultural contexts, the form must be adapted, even if the principle remains valid.
+
+**Dated examples.** The book was written before mass email, remote work and teams spread across several continents. The principles still apply, but they must be transposed. For example, the visit to the front line can today take the form of a regular presence in teams' chat channels or informal video calls.
+
+**The human dimension as secondary.** Grove speaks of people with respect and attention, but always from the angle of output. Well-being, mental load, diversity and work-life balance are barely addressed. This reading should be complemented by books more focused on relationships, such as *Radical Candor*.
+
+**The risk of metric obsession.** Grove himself warns against too much measurement, but his readers sometimes forget. The OKR movement has at times led to bloated dashboards and a race for numbers that betrays the spirit of the book.
+
+- Keep the rigour, adapt the industrial metaphor to creative work.
+- Complement it with reading focused more on relationships and well-being.
+
+--- Connections with other books
+kw: Drucker · Scott · Lencioni · Kahneman
+**With The Effective Executive (Drucker).** Grove cites Drucker and shares several of his ideas: contribution, concentration, the value of strengths. But where Drucker talks about personal effectiveness, Grove talks about the team's production system. The two readings form a coherent whole: individual discipline first, the collective system next.
+
+**With Radical Candor (Kim Scott).** Kim Scott, who worked with Grove's disciples in Silicon Valley, picks up and deepens the one-on-one and feedback. She adds a relational dimension Grove barely touches: personal attention to each team member. The notion of task-relevant maturity reappears in her distinction between rapid-growth and steady-growth team members.
+
+**With The Five Dysfunctions of a Team (Lencioni).** Grove's three-stage decision model corresponds to the levels of Lencioni's pyramid: free debate assumes trust and acceptance of conflict, full support corresponds to commitment. Lencioni explains why teams fail to apply Grove's model.
+
+**With Thinking, Fast and Slow (Kahneman).** The successive forecasts Grove plots to measure his teams' reliability illustrate the planning fallacy described by Kahneman. Paired indicators are a protection against the human tendency to focus on a single variable.
+
+**With The Innovator's Dilemma (Christensen).** Grove read Christensen in the 1990s and used his ideas to launch a line of low-cost processors at Intel, at a time when management first saw the risk of competing with its high-end products. It is a famous example of a leader applying a theory to avoid disruption.
+
+> Parcours conseillé | After this book, read Radical Candor to deepen the relationship with each team member, then The Five Dysfunctions of a Team for collective dynamics.

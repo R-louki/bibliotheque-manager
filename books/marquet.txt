@@ -1,0 +1,414 @@
+id: marquet
+t: Turn the Ship Around!
+o: Turn the Ship Around!
+a: L. David Marquet
+y: 2012
+cat: Leadership
+p: ≈ 270 p.
+c: --b2
+ol_author: Marquet
+center: Du chef-suiveur au chef-chef
+pitch: Comment un commandant de sous-marin a transformé l'équipage le moins performant de la flotte en donnant le contrôle à ceux qui font le travail.
+
+=== Contexte et thèse
+--- Un commandant mal préparé
+kw: sous-marin · Santa Fe · 1999
+David Marquet est officier de la marine américaine, spécialiste des sous-marins nucléaires. À la fin des années 1990, il se prépare pendant un an à prendre le commandement d'un sous-marin d'attaque précis. Il étudie chaque système, chaque procédure, chaque détail technique de ce bâtiment. Quelques semaines avant sa prise de fonction, on lui annonce un changement : il commandera finalement un autre sous-marin, l'USS Santa Fe.
+
+Le Santa Fe est alors l'un des sous-marins les moins bien notés de sa flotte. Ses résultats aux inspections sont mauvais, son moral est bas, et beaucoup de marins ne souhaitent pas se réengager. Le précédent commandant était un homme compétent mais très directif, qui prenait lui-même toutes les décisions.
+
+Marquet découvre un problème supplémentaire : il ne connaît pas ce sous-marin. Il s'agit d'un modèle différent de celui pour lequel il s'était préparé, avec des équipements qu'il maîtrise mal. Dans la marine, un commandant est censé tout savoir sur son bâtiment, et donner des ordres précis. Marquet n'en est pas capable.
+
+Il raconte un incident survenu dès les premiers jours. Lors d'un exercice, il donne un ordre qui ne peut pas être exécuté sur ce sous-marin. L'officier de quart le relaie pourtant sans discuter. Marquet demande ensuite pourquoi personne n'a rien dit. On lui répond, en substance, que le commandant l'avait ordonné. Il comprend alors le danger : un équipage habitué à obéir sans réfléchir suivra le commandant même quand il se trompe.
+
+Cet épisode est le point de départ du livre. Marquet décide de changer complètement la manière de diriger le sous-marin.
+
+> À retenir | Un commandant qui ne connaît pas son navire, et un équipage qui suit les ordres même faux : le point de départ d'une autre manière de diriger.
+
+--- Le chef et les suiveurs
+kw: leader-suiveur · dépendance · fragilité
+Marquet décrit le modèle de commandement qu'il veut abandonner. Il l'appelle le modèle **chef-suiveur** (*leader-follower*). Dans ce modèle, quelques personnes au sommet réfléchissent et décident, et toutes les autres exécutent. Ce modèle est profondément ancré dans la marine, mais aussi dans la plupart des organisations.
+
+Il reconnaît que ce modèle a des avantages apparents. Il est simple, rapide quand le chef sait ce qu'il faut faire, et il clarifie les responsabilités. Mais il présente des faiblesses graves.
+
+**Il ne mobilise qu'une petite partie de l'intelligence disponible.** Sur un sous-marin de plus d'une centaine de marins, seul le commandant et quelques officiers réfléchissent vraiment. Les autres attendent les ordres.
+
+**Il rend l'organisation dépendante du chef.** Quand le chef est absent, se trompe ou part, l'organisation s'effondre. Marquet observe que de nombreux équipages brillants sous un commandant sont devenus médiocres sous son successeur.
+
+**Il crée de la passivité.** Les personnes qui n'ont jamais à décider perdent l'habitude de réfléchir et de prendre des initiatives. Elles se contentent de faire ce qu'on leur demande, et pas davantage.
+
+**Il démotive.** Les personnes ont peu de contrôle sur leur travail, et peu de raisons de s'y engager.
+
+Marquet souligne que ce modèle est tellement habituel qu'on ne le remarque plus. Même les programmes de leadership le renforcent souvent, en apprenant aux chefs à mieux motiver leurs suiveurs, plutôt qu'en remettant en cause la distinction elle-même.
+
+- Quelques-uns pensent, les autres exécutent.
+- L'organisation dépend de la qualité et de la présence du chef.
+- Les suiveurs deviennent passifs.
+
+--- Le modèle chef-chef
+kw: leader-leader · chacun décide · durée
+À la place, Marquet propose un modèle qu'il appelle **chef-chef** (*leader-leader*). L'idée est que chaque personne de l'organisation, à son niveau, se comporte en leader : elle réfléchit, prend des initiatives, décide dans son domaine et assume ses décisions.
+
+Le rôle du commandant change alors complètement. Il ne s'agit plus de donner des ordres, mais de **créer un environnement** dans lequel chacun peut prendre de bonnes décisions. Cela suppose que les personnes aient l'autorité de décider, mais aussi les compétences techniques et la compréhension des objectifs nécessaires.
+
+Marquet souligne une différence importante avec les approches habituelles de délégation ou d'« empowerment ». Dans ces approches, le chef reste au centre : c'est lui qui accorde du pouvoir aux autres, et il peut le reprendre. Les personnes restent fondamentalement des suiveurs, auxquels on accorde temporairement une marge de manœuvre. Dans le modèle chef-chef, la capacité de décider est intégrée dans la structure même de l'organisation et dans ses pratiques quotidiennes.
+
+Il insiste aussi sur la **durée**. Le succès d'un leader ne se mesure pas seulement aux résultats obtenus pendant son mandat, mais à ce qui reste après son départ. Une organisation construite selon le modèle chef-chef continue à bien fonctionner quand le leader part, parce que les capacités sont réparties.
+
+Marquet donne les résultats du Santa Fe. En quelques années, le sous-marin passe des derniers rangs aux premiers dans les inspections. Le taux de réengagement des marins augmente fortement. Et, surtout, un nombre inhabituel d'officiers de l'équipage deviennent plus tard commandants de sous-marins à leur tour.
+
+> À retenir | Dans le modèle chef-chef, chacun est leader à son niveau. Le vrai test est ce qui reste quand le chef s'en va.
+
+--- Les débuts difficiles
+kw: résistance · habitudes · inspection
+Marquet raconte que la transformation du Santa Fe ne s'est pas faite sans difficultés. Les premières semaines ont été marquées par le scepticisme et la confusion.
+
+L'équipage avait été formé pendant des années à attendre les ordres. Quand le commandant a commencé à demander aux officiers de proposer leurs propres décisions, beaucoup se sont sentis mal à l'aise. Certains pensaient que c'était un piège, ou que le commandant cherchait à se décharger de ses responsabilités. D'autres continuaient à demander la permission par habitude.
+
+Les officiers mariniers, en particulier, étaient méfiants. Ils avaient vu passer de nombreux commandants avec de nouvelles idées, qui avaient été abandonnées dès les premières difficultés. Ils attendaient de voir si celui-ci tiendrait.
+
+Marquet décrit aussi la pression extérieure. Le Santa Fe devait passer des inspections importantes dans les mois suivants, et son déploiement approchait. Changer de modèle dans ces conditions semblait risqué. Ses supérieurs ne comprenaient pas toujours pourquoi il prenait le temps de réunir ses officiers pour discuter de la manière de prendre les décisions, au lieu de les former intensivement aux procédures.
+
+Il raconte qu'il a lui-même douté plusieurs fois. Quand une décision prise par un officier se révélait moins bonne que celle qu'il aurait prise, il était tenté de reprendre le contrôle. Il a dû se rappeler que le but était de former des personnes capables de décider, et que cela passait par des erreurs.
+
+Le tournant est venu lorsque l'équipage a obtenu de très bons résultats lors d'une inspection importante. Ces résultats ont convaincu les sceptiques, à bord et à terre, que le nouveau modèle pouvait fonctionner.
+
+> À retenir | Le changement de modèle suscite d'abord méfiance et confusion. Il faut tenir assez longtemps pour que les premiers résultats convainquent.
+
+=== Donner le contrôle
+--- Déplacer l'autorité vers l'information
+kw: ceux qui savent · niveau de décision
+Le premier pilier du modèle de Marquet est le **contrôle**. Il s'agit de donner aux personnes le pouvoir de décider sur ce qui relève de leur travail.
+
+Marquet formule un principe : au lieu de faire remonter l'information jusqu'à ceux qui ont l'autorité, il faut **faire descendre l'autorité jusqu'à ceux qui ont l'information**. Dans une organisation traditionnelle, les personnes qui sont au contact de la réalité, les marins de quart, les techniciens, les opérateurs, collectent des informations et les transmettent vers le haut. Les décisions sont prises par des chefs qui disposent d'une information de seconde main, souvent incomplète ou déformée, et avec retard.
+
+Marquet propose l'inverse : identifier les décisions qui peuvent être prises par les personnes les plus proches de la situation, et leur en confier l'autorité. Elles disposent de l'information la plus complète et la plus récente. Elles peuvent décider plus vite et mieux.
+
+Il raconte comment, sur le Santa Fe, il a réuni ses officiers et ses officiers mariniers pour passer en revue les décisions qui remontaient systématiquement au commandant, et se demander lesquelles pouvaient être prises plus bas. Beaucoup l'étaient en réalité depuis longtemps par habitude ou par crainte, sans nécessité.
+
+Marquet souligne que ce principe ne signifie pas que le chef abandonne toute responsabilité. Il reste responsable des résultats. Mais sa responsabilité consiste désormais à s'assurer que les personnes qui décident ont les compétences et la compréhension nécessaires.
+
+> Question clé | Quelles décisions remontent jusqu'à vous alors que la personne qui a la meilleure information est sur le terrain ?
+
+--- « J'ai l'intention de… »
+kw: langage · proposer · approuver
+L'une des pratiques les plus célèbres du livre est un changement de langage. Marquet observe que, sur le Santa Fe, les officiers venaient sans cesse lui demander la permission : « Commandant, je demande l'autorisation de faire telle chose. » Ce langage plaçait toute la responsabilité de la réflexion sur le commandant.
+
+Il demande alors à ses officiers de changer de formulation. Au lieu de demander la permission, ils doivent annoncer ce qu'ils ont l'intention de faire : « Commandant, j'ai l'intention de faire telle chose. » Le commandant peut alors répondre simplement : « Très bien. »
+
+Ce petit changement a des effets profonds. Pour annoncer une intention, l'officier doit avoir réfléchi à la situation, envisagé les options et choisi une action. Il ne peut plus se contenter de transmettre le problème au commandant. Il devient l'auteur de la décision.
+
+Marquet va plus loin. Quand un officier annonce une intention, le commandant lui pose parfois une question : « À quoi penses-tu que je réfléchis en ce moment ? » ou « Qu'est-ce qui te fait penser que c'est la bonne décision ? » L'officier apprend ainsi à anticiper les préoccupations du commandant : la sécurité, la mission, les règles. Peu à peu, il présente spontanément ses intentions en expliquant pourquoi elles sont sûres et appropriées. Le commandant n'a plus qu'à approuver.
+
+Marquet souligne que, avec le temps, ces annonces deviennent si complètes que le commandant n'a presque plus besoin d'intervenir. Les officiers pensent comme des commandants.
+
+- Remplacer « je demande l'autorisation » par « j'ai l'intention de ».
+- L'officier devient l'auteur de la décision.
+- Il apprend à anticiper les préoccupations de son chef.
+
+--- Supprimer les contrôles inutiles
+kw: double vérification · procédures · confiance
+Marquet observe que les organisations traditionnelles multiplient les mécanismes de contrôle : signatures, validations, vérifications par plusieurs niveaux hiérarchiques. Ces mécanismes sont censés réduire les erreurs. Mais il constate qu'ils ont souvent l'effet inverse.
+
+Quand un document doit être vérifié par plusieurs personnes, chacune compte sur les autres pour repérer les erreurs. Personne ne se sent pleinement responsable. Les erreurs passent à travers tous les filtres. De plus, ces mécanismes ralentissent fortement l'organisation, et ils envoient un message de défiance aux personnes.
+
+Sur le Santa Fe, Marquet décide de **réduire le nombre de signatures** nécessaires pour certains documents. Il raconte, par exemple, comment la procédure pour les permissions des marins exigeait de nombreuses signatures et prenait du temps. Il confie cette responsabilité aux officiers mariniers responsables des marins concernés. La décision est prise plus vite, par des personnes qui connaissent mieux la situation.
+
+Il décide aussi de **supprimer certains systèmes de surveillance descendants**, où les chefs vérifiaient en permanence le travail de leurs subordonnés. À la place, il demande aux responsables de chaque domaine de s'auto-évaluer et de signaler eux-mêmes leurs difficultés.
+
+Il donne un rôle plus important aux **officiers mariniers** (*chiefs*), qui encadrent directement les marins. Il leur confie la responsabilité de l'organisation et de la formation de leurs équipes, ce qui les rend responsables des résultats, plutôt que d'attendre les instructions des officiers.
+
+Marquet précise que ces changements ne signifient pas l'absence de contrôle. Ils déplacent le contrôle vers ceux qui font le travail, et le rendent plus efficace.
+
+> À retenir | Plus on ajoute de vérifications, moins chacun se sent responsable. Confier le contrôle à ceux qui font le travail.
+
+--- Les officiers mariniers aux commandes
+kw: chiefs · encadrement · responsabilité
+Marquet consacre une attention particulière au rôle des **officiers mariniers supérieurs**, appelés *chiefs* dans la marine américaine. Ce sont des marins expérimentés, issus du rang, qui encadrent directement les équipes de marins. Ils forment le lien entre les officiers et l'équipage.
+
+Sur le Santa Fe, comme sur beaucoup de bâtiments, leur rôle s'était réduit. Les officiers prenaient la plupart des décisions, et les chiefs se contentaient de transmettre les ordres et de surveiller l'exécution. Ils se sentaient peu responsables des résultats.
+
+Marquet décide de leur confier une responsabilité réelle. Ils deviennent responsables de l'organisation du travail de leurs équipes, de la planification des tâches, de la formation des marins et de la gestion des permissions. Les officiers, de leur côté, doivent s'appuyer sur eux plutôt que de diriger directement les marins.
+
+Il raconte un exemple concret. La planification des permissions des marins était une source de mécontentement : elle passait par de nombreuses signatures et décisions d'officiers, et les marins n'obtenaient souvent leur réponse qu'à la dernière minute. En confiant cette responsabilité aux chiefs, qui connaissaient mieux la situation de chaque marin et les besoins du service, le processus est devenu plus rapide et plus juste.
+
+Marquet explique que ce changement a eu un effet important sur l'engagement des chiefs. Ils sont devenus les principaux défenseurs du nouveau modèle, parce qu'il leur rendait un rôle et une fierté.
+
+Il en tire une leçon générale : dans beaucoup d'organisations, les cadres intermédiaires expérimentés sont sous-utilisés. Leur rendre une responsabilité réelle peut transformer l'ensemble.
+
+- Rendre une vraie responsabilité aux encadrants de proximité.
+- Ils connaissent mieux la situation de chacun.
+- Ils deviennent les meilleurs défenseurs du changement.
+
+=== La compétence
+--- Pas de contrôle sans compétence
+kw: connaissance technique · décider bien
+Marquet souligne que donner le contrôle ne suffit pas. Si les personnes qui décident n'ont pas les compétences nécessaires, elles prendront de mauvaises décisions, ce qui est particulièrement dangereux sur un sous-marin nucléaire. Le deuxième pilier de son modèle est donc la **compétence technique**.
+
+Il explique que, dans le modèle chef-suiveur, la compétence est concentrée au sommet. Le commandant et quelques officiers connaissent bien le bâtiment, les autres exécutent des procédures. Dans le modèle chef-chef, chacun doit comprendre ce qu'il fait et pourquoi, pour pouvoir décider.
+
+Marquet raconte comment il a fait de la formation une priorité. Il ne s'agit pas seulement d'apprendre des procédures, mais de comprendre le fonctionnement des systèmes, les raisons des règles et les conséquences des actions. Un marin qui comprend pourquoi une procédure existe sera capable de réagir correctement dans une situation que la procédure n'avait pas prévue.
+
+Il insiste aussi sur un point : la compétence est une condition de la sécurité. On pourrait craindre que donner du pouvoir aux marins augmente les risques. Marquet montre que c'est l'inverse, à condition que les marins soient compétents. Des personnes qui comprennent ce qu'elles font et qui se sentent responsables commettent moins d'erreurs que des personnes qui exécutent mécaniquement des ordres.
+
+Il note enfin que contrôle et compétence se renforcent mutuellement. Quand les personnes ont le pouvoir de décider, elles ont davantage envie d'apprendre, parce que leurs connaissances ont un effet direct sur leurs décisions.
+
+- Donner le contrôle sans la compétence est dangereux.
+- Comprendre le pourquoi, pas seulement le comment.
+- Contrôle et compétence se renforcent l'un l'autre.
+
+--- Agir délibérément
+kw: pause · dire · pointer · erreurs
+Marquet décrit une pratique introduite sur le Santa Fe pour réduire les erreurs : l'**action délibérée**.
+
+Il observe que beaucoup d'erreurs sur un sous-marin ne viennent pas d'un manque de connaissances, mais d'actions faites machinalement, par habitude : un marin tourne la mauvaise vanne, actionne le mauvais interrupteur, parce qu'il agit sans y penser. Les sanctions et les formations supplémentaires ne changent rien à ce type d'erreur.
+
+L'action délibérée consiste à **marquer une pause avant chaque action importante**. Le marin s'arrête, annonce à voix haute ce qu'il va faire, montre du doigt l'équipement concerné, puis agit. Ce geste, qui peut paraître théâtral, oblige le cerveau à passer du mode automatique au mode conscient. Il permet aussi aux autres membres de l'équipe d'entendre et de voir l'action, et de corriger une erreur avant qu'elle soit commise.
+
+Marquet raconte que, au début, les marins trouvaient la pratique ridicule. Mais ils en ont rapidement vu l'intérêt : de nombreuses erreurs ont été évitées, parce qu'un marin, en annonçant son action, s'est rendu compte qu'il se trompait, ou parce qu'un collègue l'a arrêté.
+
+Il souligne que l'action délibérée n'est pas destinée aux inspecteurs ou aux chefs. Elle est destinée à la personne qui agit, pour l'aider à ne pas se tromper. Il note que des pratiques similaires existent dans d'autres domaines où la sécurité est critique, comme les chemins de fer japonais, où les conducteurs pointent les signaux du doigt en les annonçant.
+
+> Exercice | Repérez une action importante de votre travail souvent faite machinalement. Avant de l'exécuter, arrêtez-vous et dites à voix haute ce que vous allez faire.
+
+--- Apprendre partout, tout le temps
+kw: briefings · certifications · questions
+Marquet décrit d'autres pratiques mises en place pour développer la compétence.
+
+**Remplacer les briefings par des certifications.** Avant une opération, il était habituel que l'officier responsable fasse un exposé à l'équipe, qui écoutait passivement. Marquet remplace ces exposés par des certifications : c'est au responsable de l'opération de poser des questions aux membres de l'équipe pour vérifier qu'ils sont prêts. Les marins doivent démontrer leur compréhension, plutôt que simplement écouter. Si l'équipe n'est pas prête, l'opération est reportée.
+
+**Répéter une même information de multiples façons.** Marquet considère qu'il faut transmettre les connaissances par de nombreux canaux : formations, discussions, exercices, explications pendant le travail.
+
+**Faire de chaque rencontre une occasion d'apprendre.** Il encourage les officiers à profiter de chaque moment pour enseigner : une question posée en passant, une explication pendant une manœuvre.
+
+**Spécifier les objectifs, pas les méthodes.** Plutôt que de dire comment faire, le commandant dit ce qu'il faut obtenir, et laisse les responsables trouver la manière. Cela les oblige à réfléchir et à apprendre.
+
+**Former pour l'autonomie.** L'objectif de la formation n'est pas seulement que les marins sachent appliquer les procédures, mais qu'ils puissent prendre des décisions dans des situations nouvelles.
+
+Marquet souligne que ces pratiques transforment la formation, perçue au départ comme une contrainte, en une partie naturelle du quotidien. Elles ont contribué à faire du Santa Fe un sous-marin très bien noté lors des inspections techniques.
+
+- Des certifications actives plutôt que des briefings passifs.
+- Spécifier l'objectif, pas la méthode.
+- Faire de chaque échange une occasion d'apprendre.
+
+--- Former pour comprendre, pas pour obéir
+kw: pourquoi · procédures · jugement
+Marquet revient sur la différence entre deux manières de former : former pour **obéir** et former pour **comprendre**.
+
+Dans la marine, comme dans beaucoup d'organisations où la sécurité est critique, la formation repose largement sur les procédures. Les marins apprennent à exécuter des séquences précises, dans un ordre précis. Cette formation est indispensable : sur un sous-marin nucléaire, une erreur de procédure peut avoir des conséquences graves.
+
+Mais Marquet observe ses limites. Un marin formé uniquement à appliquer des procédures est démuni face à une situation que les procédures n'ont pas prévue. Il ne sait pas pourquoi la procédure demande telle action, et ne peut donc pas juger si elle s'applique à la situation.
+
+Sur le Santa Fe, il demande que chaque formation explique le **pourquoi** : le fonctionnement physique des systèmes, les raisons de chaque étape, les risques évités. Les marins doivent pouvoir expliquer, et pas seulement réciter.
+
+Il décrit aussi l'usage d'**exercices** fréquents, conçus pour mettre l'équipage face à des situations imprévues. Lors de ces exercices, les marins doivent réfléchir et décider, puis l'équipe analyse ensemble ce qui s'est passé.
+
+Marquet souligne que ce type de formation prend plus de temps au début, mais qu'il rend l'équipage beaucoup plus solide. Les marins qui comprennent les systèmes font moins d'erreurs, repèrent plus vite les anomalies et peuvent prendre de bonnes décisions dans l'urgence.
+
+Il ajoute que cette formation a un autre effet : elle augmente la fierté et l'engagement des marins, qui se sentent reconnus comme des professionnels capables de juger, et pas comme de simples exécutants.
+
+> Question clé | Les personnes de votre équipe connaissent-elles le pourquoi de vos procédures les plus importantes, ou seulement le comment ?
+
+=== La clarté
+--- Comprendre l'objectif
+kw: but · intention · valeurs
+Le troisième pilier du modèle de Marquet est la **clarté** : la compréhension, par chacun, de ce que l'organisation cherche à accomplir. Pour que les personnes prennent de bonnes décisions, il ne suffit pas qu'elles en aient le pouvoir et les compétences. Elles doivent aussi savoir ce qui compte.
+
+Marquet explique que, dans le modèle chef-suiveur, seule la hiérarchie a besoin de comprendre les objectifs. Les autres n'ont qu'à exécuter. Dans le modèle chef-chef, chaque personne doit comprendre le but de l'organisation pour pouvoir prendre, à son niveau, des décisions qui y contribuent.
+
+Sur le Santa Fe, il travaille avec ses officiers pour clarifier le but du sous-marin et les principes qui doivent guider les décisions. Ils formulent ensemble un ensemble de principes, comme l'initiative, l'intégrité, l'ouverture, la courtoisie, l'amélioration continue. L'important n'est pas la liste elle-même, mais le fait qu'elle ait été construite collectivement, et qu'elle soit utilisée concrètement pour juger les décisions.
+
+Il insiste sur l'importance d'expliquer le **pourquoi** des choses. Quand une personne comprend pourquoi une règle existe ou pourquoi une mission est importante, elle peut adapter ses actions à des situations imprévues. Elle peut aussi repérer quand une règle ne sert plus son but.
+
+Marquet souligne enfin que la clarté protège contre une dérive du modèle chef-chef. Si chacun décide selon sa propre idée de ce qui est bien, l'organisation part dans toutes les directions. La clarté sur le but commun permet à des décisions décentralisées de rester cohérentes.
+
+> Question clé | Si l'on demandait à chaque membre de votre équipe quel est le but de votre travail, donneraient-ils tous la même réponse ?
+
+--- Construire la confiance et l'héritage
+kw: prendre soin · long terme · successeurs
+Marquet aborde plusieurs pratiques qui renforcent la clarté et la confiance au sein de l'équipage.
+
+**Agir pour l'avenir.** Il encourage ses officiers à penser au-delà de leur propre affectation. Leur réussite ne doit pas seulement se mesurer aux résultats pendant leur présence à bord, mais à l'état dans lequel ils laissent le sous-marin et l'équipage à leurs successeurs.
+
+**Prendre soin des personnes.** Il raconte comment il s'est attaché à résoudre des problèmes concrets des marins, comme les retards de promotion ou les difficultés de permissions, qui affectaient leur moral. Il considère que prendre soin des personnes n'est pas de la gentillesse, mais une condition de l'engagement.
+
+**Reconnaître immédiatement.** Plutôt que d'attendre les cérémonies officielles, il récompense rapidement les bons comportements, par exemple en accordant une distinction sur le moment, devant l'équipage.
+
+**Utiliser le but comme critère de décision.** Quand une décision doit être prise, le commandant et ses officiers se demandent si elle sert le but du sous-marin. Cette question simple permet de trancher de nombreux débats.
+
+**Encourager la remise en question.** Marquet invite ses marins à questionner les ordres et les procédures, de manière respectueuse. Une organisation où personne n'ose contredire est une organisation qui ne voit pas ses propres erreurs.
+
+**Accepter l'imperfection.** Il reconnaît avoir commis des erreurs et l'avoir dit à son équipage. Il considère que cette honnêteté renforce la confiance.
+
+- Juger son succès à ce que l'on laisse derrière soi.
+- Prendre soin des personnes et reconnaître vite.
+- Le but comme critère pour trancher.
+
+--- Regarder vers l'avenir
+kw: long terme · évaluation · héritage
+Marquet décrit une pratique qui a contribué à la clarté sur le Santa Fe : l'écriture d'**objectifs à long terme** pour le sous-marin, et l'évaluation régulière par rapport à ces objectifs.
+
+Il explique que la plupart des commandants se concentrent sur les échéances immédiates : la prochaine inspection, le prochain exercice, le prochain déploiement. C'est compréhensible, car leur évaluation dépend de ces résultats. Mais cela pousse à des décisions de court terme, qui peuvent nuire à l'avenir du bâtiment et de l'équipage.
+
+Avec ses officiers, il rédige un document qui décrit ce que le Santa Fe doit être dans plusieurs années : ses résultats opérationnels, mais aussi le niveau de formation de son équipage, le nombre de marins qui se réengagent, le nombre d'officiers qui deviendront commandants. Ces objectifs sont exprimés de manière mesurable.
+
+Ce document sert ensuite à évaluer les décisions. Face à un choix, l'équipe se demande s'il rapproche le sous-marin de ces objectifs de long terme. Il sert aussi à évaluer les progrès, lors de points réguliers.
+
+Marquet souligne que cette pratique change la manière dont les personnes voient leur rôle. Elles ne se contentent plus de réussir la prochaine épreuve, elles construisent quelque chose qui durera après elles.
+
+Il rappelle aussi que la mesure ultime de son propre succès n'était pas le classement du Santa Fe pendant son commandement, mais ce qui s'est passé après son départ. Le sous-marin a continué à obtenir d'excellents résultats sous ses successeurs, et de nombreux membres de l'équipage ont été promus à des postes de commandement.
+
+- Écrire ce que l'équipe doit devenir dans plusieurs années.
+- Juger les décisions à l'aune du long terme.
+- Le succès se mesure après le départ du leader.
+
+=== Le rôle du leader
+--- Résister à l'envie de décider
+kw: se taire · laisser faire · patience
+Marquet raconte que le plus difficile, pour lui, n'a pas été de convaincre l'équipage, mais de se changer lui-même. Toute sa formation l'avait préparé à décider vite et à donner des ordres. Le nouveau modèle lui demandait souvent de se taire.
+
+Il décrit des situations où il voyait une meilleure solution que celle proposée par un officier. La tentation était forte d'intervenir. Mais s'il intervenait, l'officier apprenait que ses propositions n'étaient que des brouillons, et que le commandant déciderait de toute façon. Marquet a donc appris à laisser faire, sauf quand la sécurité était en jeu.
+
+Il explique qu'il devait aussi accepter que les choses prennent plus de temps au début. Laisser les personnes réfléchir et décider est plus lent que de donner un ordre. Mais avec le temps, l'équipage devient plus rapide que dans le modèle traditionnel, parce que les décisions sont prises au bon niveau sans remonter la hiérarchie.
+
+Marquet décrit aussi l'importance de **penser à voix haute**. Il encourage les officiers, et le commandant lui-même, à exprimer leur raisonnement, leurs doutes et leurs inquiétudes. Cela permet aux autres de comprendre la situation, de compléter les informations et de corriger les erreurs de raisonnement. Le chef qui pense à voix haute montre aussi qu'il n'a pas toutes les réponses.
+
+Il souligne une idée importante : **le leader doit contrôler sa propre envie de contrôler**. C'est une discipline personnelle, qui demande de la patience et de l'humilité.
+
+> À retenir | Le plus dur pour le chef est de se taire. Laisser décider, penser à voix haute, et n'intervenir que pour la sécurité.
+
+--- Des mécanismes, pas des discours
+kw: pratiques · structure · durable
+Marquet insiste sur un point qui distingue son approche : il ne suffit pas de changer d'état d'esprit ou de faire de beaux discours sur l'autonomie. Il faut changer les **mécanismes** concrets de l'organisation, c'est-à-dire les pratiques, les règles, les procédures et le langage quotidien.
+
+Il observe que beaucoup de leaders affirment vouloir que leurs collaborateurs prennent des initiatives, mais conservent toutes les procédures qui les en empêchent : les validations multiples, les réunions où le chef décide, les tableaux de suivi descendants. Le message envoyé par les pratiques contredit celui des discours, et ce sont les pratiques qui l'emportent.
+
+Les mécanismes décrits dans le livre ont un point commun : ils sont simples, concrets et inscrits dans le quotidien. La formule « j'ai l'intention de », l'action délibérée, les certifications à la place des briefings, la réduction des signatures, le rôle renforcé des officiers mariniers. Chacun modifie un comportement précis.
+
+Marquet souligne aussi que ces mécanismes rendent le changement **durable**. Un leader charismatique peut motiver une équipe pendant un temps, mais son influence disparaît avec lui. Des mécanismes intégrés dans le fonctionnement quotidien survivent au départ du leader.
+
+Il note enfin que le changement a commencé par les mots. Changer le langage utilisé à bord a été l'un des leviers les plus puissants. Les mots façonnent la manière de penser.
+
+- Les pratiques contredisent souvent les discours, et ce sont elles qui gagnent.
+- Changer des mécanismes concrets, simples, quotidiens.
+- Commencer par le langage.
+
+=== Au-delà du sous-marin
+--- Appliquer le modèle ailleurs
+kw: entreprises · services · équipes
+Après avoir quitté la marine, David Marquet a accompagné des entreprises et des organisations dans l'application de son modèle. Il souligne que les principes s'appliquent bien au-delà du monde militaire.
+
+Dans une **entreprise**, les décisions remontent souvent jusqu'à des niveaux hiérarchiques éloignés du terrain : validation de dépenses, réponses aux clients, choix techniques. En confiant ces décisions aux personnes qui ont l'information, on gagne en rapidité et en qualité.
+
+Dans les **services** au contact des clients, la formule « j'ai l'intention de » permet aux employés de proposer des solutions aux problèmes des clients, plutôt que de transmettre la demande à un supérieur.
+
+Dans les **équipes techniques**, l'action délibérée et les certifications peuvent réduire les erreurs dans les opérations critiques, comme les mises en production ou les manipulations de données.
+
+Marquet propose une démarche pour commencer. Identifier une décision qui remonte habituellement au manager et pourrait être prise plus bas. Vérifier que les personnes concernées ont la compétence et la clarté nécessaires, et les développer si besoin. Leur confier la décision, avec la formule « j'ai l'intention de » au début, pour que le manager puisse vérifier le raisonnement. Puis élargir progressivement.
+
+Il met en garde contre un excès : donner trop d'autorité trop vite, sans les compétences et la clarté nécessaires, peut conduire à des erreurs et à un retour brutal au modèle chef-suiveur. La progression doit être graduelle.
+
+> Exercice | Choisissez une décision que l'on vous demande habituellement de valider. Demandez à la personne concernée de vous l'annoncer désormais sous la forme « j'ai l'intention de… », avec son raisonnement.
+
+--- Les échelons de l'intention
+kw: dites-moi quoi faire · je l'ai fait
+Dans ses travaux ultérieurs, Marquet a précisé l'idée de « j'ai l'intention de » sous la forme d'une échelle de langage, qui décrit le degré d'autonomie d'une personne. On peut la résumer ainsi, du moins autonome au plus autonome.
+
+- La personne demande ce qu'elle doit faire.
+- Elle décrit ce qu'elle voit, sans proposer d'action.
+- Elle dit ce qu'elle pense de la situation.
+- Elle propose une action, et demande l'accord.
+- Elle annonce qu'elle a l'intention d'agir.
+- Elle agit, puis informe.
+- Elle agit, sans même avoir besoin d'informer.
+
+Marquet explique que le rôle du leader est d'aider chaque personne à **monter d'un échelon**. Si un collaborateur demande quoi faire, le leader peut lui demander ce qu'il voit et ce qu'il en pense. S'il propose une action, le leader peut lui suggérer de l'annoncer comme une intention la prochaine fois.
+
+Cette échelle aide aussi le leader à mesurer le niveau d'autonomie de ses collaborateurs, domaine par domaine. Une même personne peut être très autonome dans son domaine d'expertise et beaucoup moins dans un domaine nouveau.
+
+Marquet souligne que l'objectif n'est pas que tout le monde atteigne le dernier échelon pour toutes les décisions. Certaines décisions, très risquées ou très importantes, doivent rester à un niveau où le leader est informé avant l'action. Mais dans la plupart des organisations, les personnes restent bien en dessous du niveau dont elles seraient capables.
+
+> À retenir | De « dites-moi quoi faire » à « je l'ai fait » : aider chacun à monter d'un échelon à la fois.
+
+=== Mettre en pratique
+--- Les erreurs à éviter
+kw: trop vite · sans compétence · recul
+Marquet, à partir de son expérience et de celle des organisations qu'il a accompagnées, décrit plusieurs erreurs fréquentes dans l'application de son modèle.
+
+**Déléguer sans préparer.** Confier brusquement des décisions importantes à des personnes qui n'ont ni les compétences ni la compréhension nécessaires conduit à des erreurs, qui servent ensuite à justifier le retour au contrôle.
+
+**Annoncer sans changer les mécanismes.** Un dirigeant qui proclame que chacun est désormais responsable, mais garde toutes les validations et toutes les réunions où il décide, n'obtient que du cynisme.
+
+**Reprendre le contrôle à la première erreur.** Les erreurs sont inévitables pendant l'apprentissage. Si le leader reprend toutes les décisions dès qu'une erreur se produit, les personnes comprennent que l'autonomie n'était qu'une façade.
+
+**Confondre autonomie et absence de cadre.** Le modèle chef-chef ne signifie pas que chacun fait ce qu'il veut. Il suppose une compréhension commune des objectifs et des principes, et des compétences solides.
+
+**Oublier les cadres intermédiaires.** Si le dirigeant délègue directement aux équipes en contournant les managers intermédiaires, ceux-ci se sentent menacés et peuvent bloquer le changement.
+
+**Vouloir tout changer en même temps.** Mieux vaut commencer par quelques décisions et quelques mécanismes, puis élargir.
+
+Marquet rappelle que le passage au modèle chef-chef est un processus progressif, qui demande de la patience et de la constance de la part du leader.
+
+> À retenir | Préparer avant de déléguer, changer les mécanismes, tolérer les erreurs, garder un cadre clair, impliquer les managers.
+
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · contrôle · clarté
+**Semaine 1 : observer.** Notez toutes les décisions que l'on vous demande de prendre ou de valider. Pour chacune, demandez-vous qui a la meilleure information. Observez votre propre langage et celui de votre équipe : combien de demandes de permission, combien d'intentions ?
+
+**Semaine 2 : la clarté.** Réunissez votre équipe pour clarifier le but de votre travail et quelques principes de décision. Expliquez le pourquoi des règles les plus importantes.
+
+**Semaine 3 : le contrôle.** Choisissez deux ou trois décisions à confier à l'équipe. Introduisez la formule « j'ai l'intention de ». Supprimez une validation ou une signature inutile.
+
+**Semaine 4 : la compétence.** Remplacez un briefing par une certification : posez des questions pour vérifier que l'équipe est prête. Introduisez l'action délibérée pour une opération critique. Faites le bilan : quelles décisions ont été prises plus vite, quelles erreurs ont été évitées ?
+
+Marquet rappelle que le changement le plus difficile concerne le leader lui-même : résister à l'envie de décider.
+
+> À retenir | Clarté, contrôle, compétence : un pilier à la fois, et une décision déléguée à la fois.
+
+--- Cas pratique : le service client
+kw: remboursements · intention · rapidité
+Dans une entreprise de vente en ligne, les conseillers du service client doivent demander l'accord de leur responsable pour toute geste commercial au-delà d'un petit montant. Les clients attendent souvent plusieurs jours, et les responsables passent leur temps à valider des demandes. Le directeur du service, Karim, décide d'appliquer le modèle de Marquet.
+
+**La clarté.** Karim réunit les conseillers et leurs responsables. Ensemble, ils formulent le but du service : résoudre le problème du client en un seul contact, de manière juste pour le client et pour l'entreprise. Ils définissent quelques principes pour guider les gestes commerciaux.
+
+**La compétence.** Les conseillers reçoivent une formation sur les coûts des différentes solutions et sur les cas les plus fréquents.
+
+**Le contrôle.** Pour les gestes commerciaux jusqu'à un certain montant, les conseillers décident seuls. Au-delà, ils annoncent leur intention au responsable, avec leur raisonnement : « J'ai l'intention de rembourser les frais de port, parce que… » Le responsable répond en quelques secondes.
+
+**Les mécanismes.** Les validations écrites sont supprimées pour les petits montants. Un contrôle par échantillonnage, chaque mois, permet de vérifier la cohérence des décisions.
+
+Trois mois plus tard, la plupart des demandes sont résolues en un seul contact, la satisfaction des clients a augmenté, et le coût total des gestes commerciaux n'a pas progressé.
+
+> Question de réflexion | Dans votre équipe, quelle validation fait attendre un client sans réelle valeur ajoutée ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: contexte militaire · témoignage · risques
+*Turn the Ship Around!* est un livre inspirant, mais il présente plusieurs limites.
+
+**Un témoignage personnel.** Le livre raconte l'expérience de l'auteur, de son point de vue. Les résultats du Santa Fe sont réels et reconnus, mais il est difficile de savoir quelle part revient au modèle de leadership, à la personnalité du commandant, à la qualité de l'équipage ou à d'autres facteurs.
+
+**Un contexte particulier.** Un sous-marin est un environnement très particulier : un équipage fermé, très formé, soumis à des procédures strictes, avec des objectifs clairs. Les entreprises ont souvent des objectifs plus flous, des équipes plus instables et des personnes moins formées.
+
+**Le risque de la délégation trop rapide.** Le livre insiste sur la nécessité de la compétence et de la clarté, mais des lecteurs pressés peuvent retenir surtout l'idée de donner le contrôle, et l'appliquer sans les conditions nécessaires.
+
+**La difficulté pour le leader.** Le modèle exige du leader une grande maîtrise de soi et une forte confiance en ses équipes. Tous les managers n'en sont pas capables, et le livre dit peu de choses sur la manière de développer ces qualités.
+
+**Le rôle de la hiérarchie supérieure.** Marquet a bénéficié du soutien de ses propres supérieurs, qui l'ont laissé expérimenter. Dans beaucoup d'organisations, un manager qui veut changer de modèle se heurte à une hiérarchie attachée au contrôle.
+
+- Un témoignage fort, mais un contexte très particulier.
+- Le contrôle sans compétence ni clarté est dangereux.
+
+--- Liens avec les autres livres
+kw: McChrystal · Rother · Sinek · Collins
+**Avec Team of Teams (McChrystal).** McChrystal et Marquet, tous deux militaires, arrivent à la même conclusion : dans un environnement complexe, il faut décentraliser les décisions vers ceux qui ont l'information, à condition de partager largement la compréhension de la situation.
+
+**Avec Toyota Kata (Rother).** Le leader qui pose des questions plutôt que de donner des réponses, et qui développe la capacité de décision de ses collaborateurs, se retrouve dans les deux livres.
+
+**Avec Commencer par pourquoi (Sinek).** Le pilier de la clarté rejoint l'idée de Sinek : les personnes s'engagent quand elles comprennent le pourquoi de leur action. Simon Sinek a d'ailleurs préfacé certaines éditions du livre de Marquet.
+
+**Avec De la performance à l'excellence (Collins).** Le leader de niveau 5 décrit par Collins prépare sa succession et construit une organisation qui réussit sans lui, comme le propose Marquet.
+
+**Avec Le Modèle Toyota (Liker).** La délégation de l'autorité vers ceux qui font le travail, et l'arrêt sur problème par l'opérateur, rejoignent le principe de Marquet.
+
+> Parcours conseillé | Lisez ensuite Team of Teams pour la même idée à l'échelle d'une grande organisation.

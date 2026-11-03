@@ -1,0 +1,440 @@
+id: ocean
+t: Stratégie Océan Bleu
+o: Blue Ocean Strategy
+a: W. Chan Kim & Renée Mauborgne
+y: 2005
+cat: Stratégie
+p: ≈ 320 p.
+c: --b3
+center: Rendre la concurrence hors sujet
+pitch: Sortir de la guerre des prix en créant un espace de marché nouveau, avec des outils concrets pour y parvenir.
+
+=== Contexte et idée centrale
+--- Deux chercheurs et une étude
+kw: INSEAD · 150 mouvements · un siècle
+W. Chan Kim et Renée Mauborgne sont professeurs de stratégie à l'INSEAD, l'école de commerce internationale installée à Fontainebleau. Ils travaillent ensemble depuis les années 1980. *Blue Ocean Strategy*, publié en 2005, est le résultat de plus de dix ans de recherche. Le livre est devenu un succès mondial, traduit dans des dizaines de langues, et ses outils sont enseignés dans de nombreuses écoles et utilisés par des entreprises et des administrations.
+
+Leur recherche part d'une question : comment certaines entreprises parviennent-elles à créer une croissance forte et rentable, alors que la plupart se battent dans des marchés saturés pour quelques points de part de marché ? Pour y répondre, les auteurs ont étudié environ 150 mouvements stratégiques dans une trentaine de secteurs, sur une période allant de la fin du XIXe siècle à la fin du XXe siècle.
+
+Ils ont fait un choix méthodologique important : leur unité d'analyse n'est ni l'entreprise, ni le secteur, mais le **mouvement stratégique**. Ils expliquent que les entreprises excellentes ne le restent pas longtemps : une entreprise peut être remarquable à un moment et médiocre quelques années plus tard. De même, les secteurs évoluent. Ce qui explique les réussites durables, ce sont des décisions stratégiques précises, comme le lancement d'une offre nouvelle qui crée un marché.
+
+Les auteurs ont aussi étudié les lancements de produits d'un ensemble d'entreprises. Ils ont constaté que la grande majorité de ces lancements étaient des extensions de gamme, des améliorations progressives dans des marchés existants. Ces lancements représentaient la majorité du chiffre d'affaires, mais une part plus faible des profits. Les lancements qui créaient de nouveaux espaces de marché étaient beaucoup moins nombreux, mais ils généraient une part du profit total bien supérieure à leur poids. Cette observation a donné naissance à la thèse du livre.
+
+> À retenir | Les réussites durables s'expliquent moins par les entreprises ou les secteurs que par des mouvements stratégiques précis qui créent de nouveaux marchés.
+
+--- Océans rouges, océans bleus
+kw: concurrence sanglante · espace vierge
+Les auteurs utilisent une métaphore devenue célèbre. Le monde des affaires est composé de deux types d'océans.
+
+**Les océans rouges** représentent tous les secteurs qui existent aujourd'hui, c'est-à-dire l'espace de marché connu. Les frontières des secteurs sont définies et acceptées, et les règles de la concurrence sont connues de tous. Les entreprises cherchent à surpasser leurs concurrents pour gagner une plus grande part d'une demande existante. À mesure que l'espace se remplit, les perspectives de profit et de croissance diminuent. Les produits deviennent des commodités, et la concurrence acharnée teinte l'océan de rouge.
+
+**Les océans bleus** représentent tous les secteurs qui n'existent pas encore, c'est-à-dire l'espace de marché inconnu. La demande y est créée, et non disputée. Il existe de nombreuses opportunités de croissance rentable et rapide. Dans les océans bleus, la concurrence n'a pas d'importance, car les règles du jeu n'ont pas encore été établies.
+
+Les auteurs rappellent que les océans bleus ne sont pas une nouveauté. L'histoire économique en est pleine. Il y a un siècle, beaucoup de secteurs importants d'aujourd'hui n'existaient pas : l'automobile, l'aviation, la musique enregistrée, la pétrochimie. Plus récemment, les fonds d'investissement, la téléphonie mobile, la livraison express ou les cafés de spécialité ont créé de nouveaux marchés. Et beaucoup des secteurs de demain n'existent pas encore.
+
+Ils observent pourtant que la plupart des stratégies se concentrent sur les océans rouges. Les écoles de commerce enseignent surtout à analyser la concurrence, à se positionner par rapport aux concurrents, à se différencier ou à réduire ses coûts. Le vocabulaire même de la stratégie est emprunté au domaine militaire : attaquer, défendre, conquérir, prendre des parts de marché. Ce vocabulaire suppose un terrain limité, où le gain de l'un est la perte de l'autre.
+
+Les auteurs ne disent pas que les océans rouges vont disparaître ou qu'ils sont sans intérêt. Les entreprises doivent continuer à y être performantes. Mais avec l'augmentation de l'offre, la mondialisation et la baisse des barrières à l'entrée, les océans rouges deviennent de plus en plus difficiles. Créer des océans bleus devient une nécessité.
+
+- Les océans rouges se disputent une demande existante.
+- Les océans bleus créent une demande nouvelle.
+- Il faut savoir naviguer dans les deux.
+
+--- L'innovation-valeur
+kw: valeur et coûts en même temps
+Le concept central du livre est l'**innovation-valeur**. Les auteurs affirment que les entreprises qui ont créé des océans bleus ne se sont pas concentrées sur la concurrence. Elles ont cherché à rendre la concurrence hors sujet, en créant un saut de valeur pour les acheteurs et pour elles-mêmes.
+
+L'innovation-valeur ne se confond ni avec l'innovation technologique, ni avec la simple création de valeur. Une innovation technologique sans valeur pour l'acheteur ne crée pas de marché. Une création de valeur sans innovation se contente d'améliorer l'offre existante à la marge. L'innovation-valeur combine les deux : une offre nouvelle, qui apporte une valeur nettement supérieure aux acheteurs.
+
+Les auteurs soulignent un point essentiel : l'innovation-valeur remet en cause l'un des principes les plus admis de la stratégie, l'arbitrage entre valeur et coût. Selon ce principe, une entreprise doit choisir entre deux stratégies : offrir plus de valeur aux clients à un coût plus élevé, c'est la différenciation, ou offrir une valeur raisonnable à un coût plus faible, c'est la domination par les coûts. Les auteurs affirment que les entreprises qui créent des océans bleus poursuivent les deux en même temps.
+
+Comment est-ce possible ? En éliminant et en réduisant les éléments sur lesquels le secteur se fait habituellement concurrence, l'entreprise réduit ses coûts. En renforçant et en créant des éléments que le secteur n'avait jamais offerts, elle augmente la valeur pour l'acheteur. Avec le temps, les coûts baissent encore, grâce aux économies d'échelle liées au volume élevé de ventes que génère la valeur supérieure.
+
+Les auteurs précisent que l'innovation-valeur n'est pas seulement une question de stratégie commerciale. C'est un système qui engage toute l'entreprise : son offre, ses prix, ses coûts et ses partenariats. Une entreprise qui a créé un océan bleu a aligné tous ces éléments.
+
+Ils ajoutent que l'innovation-valeur ne dépend pas de la taille ni de l'ancienneté de l'entreprise. Des entreprises établies comme des nouveaux entrants ont créé des océans bleus, dans des secteurs très différents.
+
+> À retenir | L'innovation-valeur poursuit à la fois une valeur supérieure pour l'acheteur et des coûts plus bas, en éliminant ce que le secteur tient pour acquis.
+
+=== Les outils d'analyse
+--- Le canevas stratégique
+kw: courbe de valeur · critères · lecture
+Le premier outil du livre est le **canevas stratégique**. C'est un graphique simple qui permet à la fois de comprendre la situation actuelle d'un secteur et de dessiner une nouvelle stratégie.
+
+L'axe horizontal présente les critères sur lesquels les entreprises d'un secteur se font concurrence et investissent. Par exemple, pour le transport aérien : le prix, la qualité des repas, les salons d'attente, le choix des sièges, la fréquence des vols, la ponctualité. L'axe vertical représente le niveau d'offre sur chacun de ces critères, du plus faible au plus élevé.
+
+En reliant les points d'une entreprise, on obtient sa **courbe de valeur** : une représentation graphique de sa stratégie. On peut tracer sur le même graphique les courbes de plusieurs concurrents. Dans un océan rouge, les courbes se ressemblent beaucoup : les entreprises investissent sur les mêmes critères, à des niveaux proches. Elles se battent sur les mêmes terrains.
+
+Les auteurs illustrent cet outil par l'exemple d'un vin australien lancé aux États-Unis au début des années 2000. Le marché américain du vin était dominé par deux types d'offres : les vins haut de gamme, qui mettaient en avant la complexité, le prestige du vignoble, le vieillissement et un vocabulaire technique d'œnologue, et les vins bon marché, qui offraient la même chose à un niveau inférieur. Les courbes de valeur se ressemblaient.
+
+La nouvelle marque a dessiné une courbe très différente. Elle a abandonné le vocabulaire technique, le vieillissement et les grandes campagnes publicitaires. Elle a réduit la complexité du vin et le nombre de références. En revanche, elle a créé des critères nouveaux : un vin facile à boire, un choix simple, et une image amusante et décontractée. Elle visait des personnes qui buvaient de la bière ou des cocktails et trouvaient le monde du vin intimidant. En quelques années, elle est devenue l'une des marques de vin importé les plus vendues aux États-Unis.
+
+Le canevas stratégique permet de répondre à une question simple : sur quels critères notre secteur se fait-il concurrence, et sur quels critères pourrions-nous nous distinguer ?
+
+> Exercice | Dessinez le canevas stratégique de votre secteur avec six à dix critères. Tracez votre courbe et celle de deux concurrents. Se ressemblent-elles ?
+
+--- Les quatre actions
+kw: éliminer · réduire · renforcer · créer
+Le deuxième outil est le **cadre des quatre actions**. Il permet de reconstruire les éléments de valeur pour l'acheteur et de dessiner une nouvelle courbe de valeur. Il repose sur quatre questions.
+
+- **Éliminer** : quels critères, considérés comme acquis dans le secteur, faut-il supprimer ? Cette question oblige à remettre en cause des éléments sur lesquels les entreprises se font concurrence depuis longtemps, mais qui n'apportent plus de valeur, ou qui en enlèvent.
+- **Réduire** : quels critères faut-il réduire bien en dessous de la norme du secteur ? Cette question oblige à examiner si l'on n'en fait pas trop sur certains critères, pour imiter ou dépasser les concurrents.
+- **Renforcer** : quels critères faut-il renforcer bien au-dessus de la norme du secteur ? Cette question oblige à repérer les compromis que le secteur impose aux acheteurs.
+- **Créer** : quels critères, que le secteur n'a jamais offerts, faut-il créer ? Cette question oblige à découvrir des sources de valeur entièrement nouvelles.
+
+Les deux premières questions agissent sur les coûts : elles permettent de réduire la structure de coûts par rapport aux concurrents. Les deux dernières agissent sur la valeur : elles permettent d'augmenter la valeur pour l'acheteur et de créer une demande nouvelle.
+
+Les auteurs complètent ce cadre par une **grille** simple à quatre cases, où l'on note les réponses aux quatre questions. Cette grille a plusieurs avantages. Elle oblige à agir sur les quatre dimensions, et pas seulement sur la valeur ou sur les coûts. Elle met en évidence les entreprises qui cherchent à tout renforcer et à tout créer, ce qui fait exploser les coûts. Elle est facile à comprendre par tous les niveaux de l'organisation. Et elle oblige à examiner sérieusement chaque critère du secteur.
+
+Les auteurs soulignent que la question « éliminer » est souvent la plus difficile et la plus importante. Les entreprises ont tendance à ajouter des fonctions et des services, mais rarement à en supprimer. Pourtant, c'est souvent en éliminant des éléments considérés comme indispensables qu'on libère les ressources pour créer de la valeur nouvelle.
+
+> À retenir | Éliminer et réduire pour baisser les coûts, renforcer et créer pour augmenter la valeur. La question « que supprimer ? » est souvent la plus féconde.
+
+--- L'exemple du cirque
+kw: sans animaux · théâtre · nouveaux publics
+L'exemple le plus développé du livre est celui d'une compagnie de cirque canadienne, fondée au début des années 1980 par un groupe d'artistes de rue. À l'époque, le secteur du cirque était en déclin. Les spectateurs étaient de moins en moins nombreux, les enfants préféraient les jeux vidéo, les groupes de défense des animaux critiquaient l'utilisation d'animaux, et les coûts des grands cirques étaient élevés, notamment pour les vedettes et les animaux.
+
+La compagnie a appliqué, de manière intuitive, le cadre des quatre actions.
+
+- **Elle a éliminé** les numéros d'animaux, les vedettes, les pistes multiples et la vente de friandises dans les allées. Les animaux et les vedettes étaient parmi les coûts les plus élevés des cirques traditionnels.
+- **Elle a réduit** l'humour et le danger, qui étaient au cœur du cirque traditionnel, sans les supprimer complètement.
+- **Elle a renforcé** l'originalité du lieu, en installant un chapiteau soigné et unique.
+- **Elle a créé** des éléments empruntés au théâtre : un thème pour chaque spectacle, une ambiance raffinée, une musique et une danse artistiques, et plusieurs productions différentes, qui donnaient au public une raison de revenir.
+
+Le résultat a été une offre entièrement nouvelle, à mi-chemin entre le cirque et le théâtre. Elle s'adressait non plus aux enfants, mais aux adultes et aux entreprises, qui étaient prêts à payer des prix comparables à ceux d'un spectacle de théâtre, bien plus élevés que ceux d'un cirque traditionnel. En une vingtaine d'années, la compagnie a atteint un chiffre d'affaires que les grands cirques traditionnels avaient mis beaucoup plus longtemps à atteindre.
+
+Les auteurs soulignent que la compagnie ne s'est pas battue contre les cirques existants. Elle a créé un espace nouveau, où ces cirques n'étaient plus des concurrents directs. Elle a aussi attiré des non-clients du cirque : des adultes qui allaient au théâtre ou à l'opéra.
+
+- La compagnie a supprimé les coûts les plus lourds du secteur.
+- Elle a emprunté au théâtre des éléments que le cirque n'offrait pas.
+- Elle a attiré un public nouveau, prêt à payer plus.
+
+--- Trois qualités d'une stratégie
+kw: focalisation · divergence · slogan
+Les auteurs observent que les stratégies d'océan bleu réussies présentent trois caractéristiques, visibles sur leur courbe de valeur.
+
+**La focalisation.** Une bonne stratégie ne disperse pas ses efforts sur tous les critères de la concurrence. Sa courbe de valeur montre quelques critères très élevés, et d'autres très bas ou absents. Les entreprises qui essaient d'exceller sur tous les critères ont des coûts élevés et une offre peu lisible.
+
+**La divergence.** Une bonne stratégie a une courbe de valeur qui se distingue nettement de celles des concurrents. Elle ne cherche pas à faire un peu mieux sur les mêmes critères, elle choisit d'autres critères. Les entreprises qui se contentent de réagir aux concurrents ont des courbes de valeur qui leur ressemblent.
+
+**Un slogan convaincant.** Une bonne stratégie peut se résumer en une phrase simple et vraie, qui exprime clairement ce qu'elle offre. Les auteurs citent l'exemple d'une compagnie aérienne qui promettait la vitesse de l'avion au prix de la voiture. Un bon slogan est compréhensible par les clients, mais aussi par les salariés, qui savent ainsi ce qui compte.
+
+Ces trois caractéristiques permettent de tester une stratégie. Si la courbe de valeur ne montre pas de focalisation, la structure de coûts est probablement trop lourde. Si elle ne montre pas de divergence, la stratégie est une simple imitation. Si on ne parvient pas à la résumer en une phrase, elle est probablement trop compliquée ou mal définie.
+
+Les auteurs proposent aussi d'utiliser le canevas stratégique pour lire les courbes de valeur de son propre portefeuille d'activités. Une entreprise peut ainsi repérer ses activités qui se trouvent dans des océans rouges, celles qui sont en train de créer des océans bleus, et celles qui pourraient le faire. Ils recommandent de garder un équilibre : les activités d'océan rouge apportent les revenus d'aujourd'hui, celles d'océan bleu préparent la croissance de demain.
+
+> Question clé | Pouvez-vous résumer l'offre de votre équipe ou de votre entreprise en une phrase simple qui la distingue clairement ?
+
+=== Les six pistes
+--- Regarder les alternatives
+kw: secteurs alternatifs · groupes stratégiques
+Pour aider les entreprises à trouver des océans bleus, les auteurs proposent six pistes de réflexion. Chacune invite à regarder au-delà des frontières habituelles de son secteur. Les deux premières portent sur les alternatives que considèrent les acheteurs.
+
+**Regarder les secteurs alternatifs.** Une entreprise ne se fait pas seulement concurrence avec les entreprises de son secteur, mais aussi avec des secteurs qui proposent des produits ou services différents, mais qui remplissent la même fonction ou le même objectif. Par exemple, pour passer une soirée, on peut aller au cinéma ou au restaurant. Les deux n'ont rien à voir sur le plan technique, mais ils répondent au même besoin. Les auteurs recommandent de se demander pourquoi les acheteurs choisissent un secteur alternatif plutôt que le nôtre, et d'emprunter à ce secteur ce qui les attire.
+
+Ils citent l'exemple d'une chaîne de clubs de remise en forme pour femmes, créée aux États-Unis. Les femmes qui voulaient faire de l'exercice avaient deux options : les clubs de sport classiques, bien équipés mais chers, intimidants et souvent éloignés, ou l'exercice à domicile, peu coûteux mais solitaire et difficile à maintenir. La nouvelle chaîne a combiné les avantages des deux : des salles simples, proches du domicile, sans miroirs ni hommes, avec un circuit de trente minutes, à un prix modéré.
+
+**Regarder les groupes stratégiques.** Dans chaque secteur, il existe des groupes d'entreprises qui suivent des stratégies similaires, par exemple les offres haut de gamme et les offres économiques. Ces groupes se regardent rarement entre eux. Les auteurs recommandent de se demander pourquoi les clients passent d'un groupe à l'autre, et de combiner ce qui les attire dans chacun.
+
+Ils donnent l'exemple d'une entreprise qui a proposé la propriété partagée d'avions d'affaires. Les grandes entreprises avaient le choix entre les vols commerciaux en première classe, peu flexibles, et l'achat d'un avion privé, très coûteux. La propriété partagée permettait de disposer d'un avion privé pour un nombre limité d'heures par an, à une fraction du coût d'un avion entier.
+
+- Vos vrais concurrents incluent ceux qui répondent au même besoin autrement.
+- Combinez ce qui attire les clients dans plusieurs groupes stratégiques.
+
+--- Acheteurs et compléments
+kw: chaîne d'acheteurs · avant et après
+Les pistes suivantes portent sur les personnes qui achètent et sur ce qui entoure l'achat.
+
+**Regarder la chaîne des acheteurs.** Dans beaucoup de secteurs, l'acheteur n'est pas une seule personne, mais une chaîne : celui qui paie, celui qui utilise et celui qui influence. Par exemple, dans le secteur de la santé, le patient utilise le médicament, le médecin le prescrit et l'assurance ou l'État le rembourse. Les entreprises d'un secteur se concentrent généralement sur un seul maillon de cette chaîne. Les auteurs recommandent de se demander ce qui se passerait si l'on visait un autre maillon.
+
+Ils citent l'exemple d'un laboratoire pharmaceutique qui fabriquait de l'insuline. Les concurrents concentraient leurs efforts sur les médecins, en améliorant la pureté du produit. Le laboratoire s'est intéressé aux patients, qui devaient s'injecter eux-mêmes l'insuline plusieurs fois par jour, avec des seringues peu pratiques. Il a créé un stylo injecteur, beaucoup plus simple à utiliser, qui a transformé le quotidien des patients.
+
+**Regarder les produits et services complémentaires.** La valeur d'un produit dépend souvent de ce qui se passe avant, pendant et après son utilisation. Les auteurs recommandent d'examiner l'ensemble de la solution que recherche l'acheteur, et de se demander ce qui l'empêche de tirer pleinement parti du produit.
+
+Ils donnent l'exemple d'un exploitant de salles de cinéma en Europe. Les spectateurs étaient freinés par des facteurs extérieurs au film lui-même : la difficulté de se garer, la recherche d'une baby-sitter, la qualité médiocre des salles. L'entreprise a créé des complexes très grands, avec un parking facile, de nombreuses salles, des sièges confortables et une excellente qualité d'image et de son. Elle a attiré un public beaucoup plus large.
+
+Ces deux pistes ont un point commun : elles obligent à regarder l'expérience complète de l'acheteur, et pas seulement le produit. Souvent, les principales sources de valeur nouvelle se trouvent dans des éléments que le secteur considère comme extérieurs à son métier.
+
+> Exercice | Dessinez la chaîne de vos acheteurs : qui paie, qui utilise, qui influence ? Sur quel maillon votre secteur se concentre-t-il ? Que se passerait-il si vous visiez un autre maillon ?
+
+--- Émotion, fonction et tendances
+kw: rationnel ou émotionnel · temps
+Les deux dernières pistes portent sur la nature de l'attrait et sur l'évolution dans le temps.
+
+**Regarder l'attrait fonctionnel ou émotionnel.** Certains secteurs se font concurrence principalement sur le prix et la fonction : ce sont des secteurs à orientation fonctionnelle. D'autres se font concurrence principalement sur les émotions : ce sont des secteurs à orientation émotionnelle. Les auteurs recommandent d'inverser l'orientation de son secteur.
+
+Dans un secteur émotionnel, on peut créer un océan bleu en supprimant les éléments émotionnels coûteux et en proposant une offre plus fonctionnelle. Les auteurs citent l'exemple d'une chaîne de salons de coiffure japonaise qui proposait une coupe rapide, sans shampoing ni soins, en dix minutes, pour un prix très bas, avec une hygiène irréprochable. Elle visait les hommes pressés qui trouvaient les salons traditionnels trop longs et trop chers.
+
+Dans un secteur fonctionnel, on peut créer un océan bleu en ajoutant une dimension émotionnelle. Les auteurs citent une marque de montres qui avait transformé un produit fonctionnel en accessoire de mode, avec des designs variés et changeant à chaque saison, à prix accessible.
+
+**Regarder les tendances dans le temps.** Toutes les entreprises sont soumises à des tendances extérieures : évolution des technologies, changements réglementaires, transformations des modes de vie. La plupart réagissent à ces tendances au fur et à mesure. Les auteurs recommandent d'anticiper leurs effets sur la valeur pour l'acheteur, en se posant trois questions : la tendance est-elle décisive pour notre activité ? Est-elle irréversible ? A-t-elle une trajectoire claire ?
+
+Ils citent l'exemple d'une grande entreprise informatique qui avait compris, au début des années 2000, que le téléchargement illégal de musique allait transformer le secteur. Elle a créé une boutique de musique en ligne légale, simple, avec des titres à l'unité à bas prix, en négociant avec les maisons de disques. Elle a ainsi créé un nouveau marché au lieu de subir la tendance.
+
+Les auteurs soulignent que les six pistes ne sont pas des recettes. Ce sont des manières de regarder le marché différemment, en remettant en cause les frontières que le secteur considère comme naturelles.
+
+- Inversez l'orientation de votre secteur : plus fonctionnel, ou plus émotionnel.
+- Anticipez les tendances décisives, irréversibles et claires.
+- Les six pistes remettent en cause les frontières que le secteur tient pour naturelles.
+
+=== Vue d'ensemble et non-clients
+--- Se concentrer sur la vue d'ensemble
+kw: tableaux · terrain · foire aux stratégies
+Les auteurs observent que la planification stratégique classique se perd souvent dans les chiffres. Les plans stratégiques sont de longs documents, remplis de tableaux et de données, mais ils proposent rarement une vision claire. Les dirigeants passent des mois à les préparer, et ils produisent généralement des améliorations progressives de la situation existante.
+
+Ils proposent une autre méthode, fondée sur le canevas stratégique, qui se déroule en quatre étapes.
+
+**L'éveil visuel.** L'équipe de direction dessine la courbe de valeur actuelle de l'entreprise et la compare à celles des concurrents. Cette étape fait souvent prendre conscience de la ressemblance entre l'entreprise et ses concurrents, et de la nécessité de changer.
+
+**L'exploration visuelle.** Les membres de l'équipe vont sur le terrain pour observer directement les clients, les non-clients et les produits alternatifs. Les auteurs insistent sur l'importance de cette étape : les dirigeants doivent voir par eux-mêmes, et non se contenter d'études de marché. Ils utilisent les six pistes pour explorer les possibilités. Ils dessinent ensuite de nouvelles courbes de valeur possibles.
+
+**La foire aux stratégies.** Plusieurs équipes présentent leurs propositions de courbes de valeur, chacune en quelques minutes, devant un public de clients, de non-clients, de partenaires et de dirigeants. Le public vote pour les propositions les plus convaincantes et explique ses choix. Les équipes améliorent leurs propositions à partir de ces retours.
+
+**La communication visuelle.** La stratégie finale est présentée sur une seule page, avec la courbe de valeur actuelle et la nouvelle courbe. Cette page est diffusée dans toute l'organisation. Chaque salarié peut ainsi comprendre la stratégie et voir ce qui change.
+
+Les auteurs soulignent que cette méthode a plusieurs avantages. Elle est plus rapide que la planification classique. Elle implique des personnes qui ne participent généralement pas à la stratégie. Elle produit une stratégie facile à comprendre et à communiquer. Et elle oblige les dirigeants à se confronter à la réalité du terrain.
+
+> À retenir | Une stratégie tient sur une page : la courbe actuelle et la nouvelle. Elle se construit en allant voir clients et non-clients, pas seulement en lisant des chiffres.
+
+--- Les trois niveaux de non-clients
+kw: au bord · refusants · inexplorés
+L'une des idées les plus importantes du livre concerne les **non-clients**. Les entreprises consacrent la plupart de leurs efforts à leurs clients actuels. Elles cherchent à mieux les connaître, à mieux les satisfaire et à les segmenter de plus en plus finement. Les auteurs affirment que cette approche conduit à des marchés de plus en plus petits. Pour créer un océan bleu, il faut au contraire regarder au-delà des clients actuels, vers les non-clients.
+
+Ils distinguent trois niveaux de non-clients, plus ou moins éloignés du marché.
+
+**Le premier niveau : les non-clients au bord du marché.** Ce sont des personnes qui achètent le produit du secteur par nécessité, mais qui sont prêtes à partir dès qu'elles trouveront mieux. Elles sont au bord du marché. Les auteurs citent l'exemple d'une chaîne de restauration rapide londonienne, qui proposait des sandwichs frais et sains, préparés le jour même, avec un service rapide. Elle visait les employés de bureau qui déjeunaient dans des fast-foods par manque de temps, mais qui auraient préféré manger mieux.
+
+**Le deuxième niveau : les non-clients réfractaires.** Ce sont des personnes qui ont envisagé le produit du secteur, mais qui ont décidé de ne pas l'utiliser, parce qu'il ne répond pas à leurs besoins ou qu'il est trop cher. Les auteurs citent l'exemple d'une entreprise française d'affichage. De nombreuses villes refusaient les panneaux publicitaires, jugés laids et envahissants. L'entreprise leur a proposé d'installer et d'entretenir gratuitement du mobilier urbain, comme des abris de bus, en échange du droit d'y placer des affiches. Les villes, qui refusaient l'offre habituelle du secteur, sont devenues clientes.
+
+**Le troisième niveau : les non-clients inexplorés.** Ce sont des personnes qui n'ont jamais été considérées comme des clients potentiels par le secteur. Elles en sont très éloignées. Les auteurs citent l'exemple du ministère américain de la Défense, qui a conçu un avion de combat commun à plusieurs armées, alors que chacune avait jusque-là ses propres appareils, très différents et très coûteux. En cherchant les besoins communs aux différentes armées plutôt que leurs différences, le projet visait à réduire fortement les coûts de développement et d'entretien.
+
+Les auteurs recommandent de rechercher les points communs entre ces non-clients, plutôt que leurs différences. Ce qui les rassemble révèle souvent une opportunité de marché beaucoup plus grande que celle des clients actuels. Ils conseillent de commencer par le niveau qui représente le plus grand potentiel.
+
+- Les clients actuels ne sont qu'une petite partie du marché possible.
+- Cherchez ce que les non-clients ont en commun, pas ce qui les distingue.
+
+--- Penser la demande la plus large
+kw: désegmenter · points communs · volume
+Les auteurs approfondissent l'idée des non-clients par une critique de la segmentation. Ils observent que les entreprises ont tendance à segmenter leurs marchés de plus en plus finement, pour adapter leurs offres aux préférences de chaque groupe de clients. Cette approche peut être utile dans un océan rouge, mais elle conduit souvent à des marchés de plus en plus petits, avec des offres de plus en plus complexes.
+
+Ils proposent une démarche inverse, qu'on pourrait appeler la désegmentation : rechercher les points communs entre les clients et les non-clients, et construire une offre qui réponde à ces points communs. Cette démarche permet de toucher un marché beaucoup plus large.
+
+Ils donnent l'exemple d'une compagnie aérienne qui avait regroupé deux types de voyageurs : ceux qui prenaient l'avion pour les affaires et ceux qui prenaient la voiture pour des trajets moyens. Ce qui les rassemblait, c'était le besoin d'un transport rapide, fréquent et peu cher entre deux villes. La compagnie a construit son offre sur ces besoins communs : des vols directs et fréquents, sans repas ni salons, à des prix comparables à ceux d'un trajet en voiture.
+
+Les auteurs soulignent que la désegmentation a un effet important sur les coûts. Une offre qui s'adresse à un large public bénéficie de volumes plus importants, ce qui réduit les coûts unitaires. Elle simplifie aussi l'organisation, car l'entreprise n'a pas à gérer de nombreuses variantes.
+
+Ils recommandent de se poser deux questions. Quels sont les principaux points communs entre nos clients et les non-clients ? Et quels éléments de notre offre pourrions-nous supprimer parce qu'ils ne servent qu'à des segments étroits ?
+
+Cette idée s'applique aussi au secteur public et associatif. Un service public qui cherche à toucher les personnes qui ne l'utilisent pas peut se demander ce qui les en éloigne, et ce qu'elles ont en commun avec les usagers actuels. Souvent, une simplification de l'offre permet d'attirer des publics nouveaux.
+
+> Question clé | Qu'ont en commun vos clients actuels et les personnes qui ne vous choisissent jamais ? Quelle offre répondrait à ce point commun ?
+
+=== La séquence stratégique
+--- L'utilité pour l'acheteur
+kw: six étapes · six leviers
+Une fois une idée d'océan bleu identifiée, les auteurs proposent de la vérifier selon une séquence précise : l'utilité pour l'acheteur, le prix, le coût et l'adoption. La première étape est la plus importante : l'offre apporte-t-elle une utilité exceptionnelle à l'acheteur ?
+
+Les auteurs soulignent que beaucoup d'innovations échouent parce qu'elles sont fascinantes sur le plan technique, mais qu'elles n'apportent pas de valeur réelle aux acheteurs. Ils citent l'exemple de produits très sophistiqués, dont les clients ne voyaient pas l'utilité ou qu'ils trouvaient trop compliqués.
+
+Pour évaluer l'utilité, ils proposent un outil : la **carte de l'utilité pour l'acheteur**. Elle croise deux dimensions.
+
+La première est le **cycle d'expérience de l'acheteur**, en six étapes : l'achat, la livraison, l'utilisation, les compléments, l'entretien et l'élimination. À chaque étape, l'acheteur peut rencontrer des difficultés ou des frustrations.
+
+La seconde est l'ensemble des **leviers d'utilité**, au nombre de six : la productivité du client, la simplicité, la commodité, la réduction du risque, le plaisir et l'image, et le respect de l'environnement.
+
+En croisant ces deux dimensions, on obtient trente-six cases. Chaque case représente une possibilité d'apporter de l'utilité à l'acheteur. Par exemple, améliorer la simplicité de l'utilisation, réduire le risque lors de l'achat ou améliorer la commodité de l'entretien.
+
+Les auteurs observent que la plupart des secteurs se concentrent sur quelques cases seulement, souvent l'utilisation et la productivité. Les océans bleus naissent fréquemment dans des cases négligées. Ils citent l'exemple d'une entreprise d'imprimantes qui avait identifié une frustration dans l'élimination des cartouches usagées, ou d'une entreprise de meubles qui avait transformé la livraison et le montage.
+
+La carte aide aussi à repérer les **principaux obstacles à l'utilité** : les éléments qui empêchent les acheteurs de tirer pleinement parti du produit. Supprimer ces obstacles est souvent une source importante de valeur.
+
+> Exercice | Dessinez la grille de trente-six cases pour votre offre. Marquez les cases où votre secteur se fait concurrence. Cherchez une case vide où vous pourriez apporter une vraie utilité.
+
+--- Le prix stratégique
+kw: couloir de prix de la masse
+La deuxième étape de la séquence est le **prix stratégique**. Les auteurs affirment que l'utilité exceptionnelle ne suffit pas. Il faut aussi fixer un prix qui attire rapidement la masse des acheteurs.
+
+Ils expliquent que ce choix est différent de la manière habituelle de fixer les prix. Habituellement, les entreprises fixent leurs prix à partir de leurs coûts, puis ajoutent une marge. Ou bien elles se comparent aux concurrents directs de leur secteur. Pour un océan bleu, les auteurs recommandent de partir du prix que la masse des acheteurs est prête à payer, et de fixer le prix avant de calculer les coûts.
+
+Ils proposent un outil : le **couloir de prix de la masse**. La démarche se déroule en deux étapes.
+
+**Première étape : identifier le couloir.** On liste les produits et services que les acheteurs utilisent actuellement pour répondre au même besoin, y compris ceux des secteurs alternatifs et de forme différente. On regarde la fourchette de prix de ces alternatives et le nombre d'acheteurs qui les utilisent. Le couloir de prix de la masse est la fourchette de prix qui attire le plus grand nombre d'acheteurs.
+
+**Seconde étape : se placer dans le couloir.** On décide où se placer dans cette fourchette. Les auteurs recommandent de se placer dans le haut du couloir si l'offre est difficile à imiter, grâce à des brevets ou à des compétences rares. Si l'offre est facile à imiter, il vaut mieux se placer dans le bas du couloir, pour attirer rapidement un grand nombre d'acheteurs et décourager les imitateurs.
+
+Les auteurs soulignent que le prix stratégique est souvent plus bas que ce que l'entreprise pourrait obtenir avec une logique de marge. Mais il permet d'attirer rapidement un grand nombre d'acheteurs, ce qui crée des volumes élevés, réduit les coûts unitaires et rend l'offre plus difficile à imiter.
+
+Ils citent l'exemple de logiciels ou de services vendus à des prix bas pour attirer rapidement une masse d'utilisateurs, avant que les concurrents ne puissent réagir. Ils mentionnent aussi des formules de location ou de partage qui rendent accessibles des produits coûteux.
+
+- Fixez le prix à partir de ce que la masse est prête à payer, avant de calculer les coûts.
+- Regardez les prix des alternatives, pas seulement ceux des concurrents directs.
+- Une offre facile à imiter doit se placer en bas du couloir.
+
+--- Le coût cible et l'adoption
+kw: rationaliser · partenaires · résistances
+Les deux dernières étapes de la séquence sont le coût et l'adoption.
+
+**Le coût cible.** Une fois le prix stratégique fixé, l'entreprise doit atteindre un coût qui lui permette de dégager un profit. Les auteurs parlent de « tarification moins coût », par opposition à la logique habituelle qui ajoute une marge aux coûts. Si le coût actuel est trop élevé, l'entreprise ne doit pas augmenter le prix, ni réduire l'utilité. Elle doit trouver d'autres moyens de réduire ses coûts.
+
+Les auteurs proposent trois leviers. Le premier est de **rationaliser les opérations** et d'innover dans les processus, par exemple en simplifiant la fabrication ou en utilisant des matériaux moins chers. Le deuxième est de **nouer des partenariats** avec d'autres entreprises qui disposent des compétences ou des ressources nécessaires, au lieu de tout faire soi-même. Le troisième est de **changer le modèle de tarification**, par exemple en passant de la vente à la location, au partage ou à l'abonnement.
+
+**L'adoption.** Même une idée excellente peut échouer si elle rencontre des résistances. Les auteurs identifient trois groupes dont l'adhésion est nécessaire.
+
+- **Les salariés**, qui peuvent craindre que la nouvelle stratégie menace leur emploi ou leurs habitudes. Il faut leur expliquer la stratégie, ses raisons et ses conséquences pour eux.
+- **Les partenaires**, qui peuvent craindre de perdre des revenus ou de voir leurs connaissances exploitées. Il faut leur montrer ce qu'ils ont à gagner.
+- **Le grand public**, qui peut s'opposer à une innovation qui remet en cause des normes sociales ou des intérêts établis. Il faut informer et expliquer, souvent avant le lancement.
+
+Les auteurs soulignent que l'adoption doit être préparée dès le début, et non après le lancement. Une stratégie qui ignore les résistances risque d'être bloquée par ceux qui se sentent menacés.
+
+Ils résument la séquence par quatre questions à poser dans l'ordre : l'offre apporte-t-elle une utilité exceptionnelle ? Le prix est-il accessible à la masse des acheteurs ? Peut-on atteindre le coût cible ? Quels sont les obstacles à l'adoption ? Si la réponse à l'une de ces questions est négative, il faut revenir en arrière avant d'avancer.
+
+> À retenir | Utilité, prix, coût, adoption, dans cet ordre. Une réponse négative à une étape impose de revoir l'idée avant de passer à la suivante.
+
+=== Exécuter la stratégie
+--- Le leadership de basculement
+kw: quatre obstacles · effet de levier
+Les auteurs consacrent une partie du livre à l'exécution. Ils affirment que les stratégies d'océan bleu rencontrent des obstacles particuliers, parce qu'elles remettent en cause les habitudes de l'organisation. Ils identifient quatre obstacles principaux.
+
+- **L'obstacle cognitif** : les personnes ne voient pas la nécessité du changement. Elles sont attachées à la situation actuelle et ne perçoivent pas les problèmes.
+- **L'obstacle des ressources** : l'organisation dispose de moyens limités, et le changement semble exiger des ressources qu'elle n'a pas.
+- **L'obstacle de la motivation** : les personnes ne sont pas motivées pour changer, car elles ne voient pas leur intérêt.
+- **L'obstacle politique** : des personnes influentes, dont les intérêts sont menacés, s'opposent au changement.
+
+Pour surmonter ces obstacles, les auteurs proposent une approche qu'ils appellent le **leadership de basculement**. Elle repose sur l'idée que, dans toute organisation, il existe des personnes, des actions et des activités qui ont une influence disproportionnée sur la performance. En concentrant les efforts sur ces facteurs, on peut obtenir des changements importants avec des ressources limitées.
+
+Ils illustrent cette approche par l'exemple de la police de New York au milieu des années 1990. Le nouveau chef de la police avait hérité d'une organisation démoralisée, d'un budget limité et d'un taux de criminalité très élevé.
+
+Pour surmonter l'**obstacle cognitif**, il a obligé les responsables de la police à voir la réalité de près, par exemple en leur demandant de prendre le métro, alors considéré comme dangereux. Ce contact direct avec la réalité a été plus convaincant que tous les rapports.
+
+Pour surmonter l'**obstacle des ressources**, il a concentré les moyens sur les zones et les délits qui avaient le plus d'impact, plutôt que de répartir les ressources uniformément.
+
+Pour surmonter l'**obstacle de la motivation**, il a mis en lumière les responsables clés, en organisant des réunions régulières où ils présentaient leurs résultats devant leurs pairs, ce qui créait une forte émulation.
+
+Pour surmonter l'**obstacle politique**, il a identifié les alliés et les opposants, et il s'est appuyé sur des personnes respectées pour convaincre les autres.
+
+- Faites voir la réalité de près plutôt que de la décrire.
+- Concentrez les ressources là où elles ont le plus d'effet.
+- Rendez visibles les responsables clés et appuyez-vous sur des alliés respectés.
+
+--- Le processus équitable
+kw: engagement · explication · attentes
+Les auteurs consacrent un chapitre à une idée qui a fait l'objet de nombreuses recherches de leur part : le **processus équitable**. Ils affirment que la manière dont une stratégie est élaborée est aussi importante que son contenu. Les personnes acceptent beaucoup plus facilement une décision, même défavorable, lorsqu'elles estiment que le processus qui y a mené était juste.
+
+Ils décrivent trois principes du processus équitable.
+
+**L'engagement.** Il s'agit d'impliquer les personnes dans les décisions stratégiques qui les concernent, en leur demandant leur avis et en leur permettant de remettre en question les idées des autres. L'engagement montre que l'on respecte les personnes et leurs idées. Il améliore aussi la qualité des décisions, car il mobilise davantage de connaissances.
+
+**L'explication.** Il s'agit d'expliquer à toutes les personnes concernées pourquoi les décisions ont été prises. L'explication montre que les dirigeants ont pris en compte les avis exprimés et qu'ils ont décidé de manière impartiale. Elle permet aux personnes de faire confiance aux dirigeants, même lorsque leur avis n'a pas été retenu.
+
+**La clarté des attentes.** Une fois la décision prise, il s'agit de préciser clairement les nouvelles règles du jeu : ce qui est attendu de chacun, les objectifs, les responsabilités, les critères d'évaluation. Lorsque les attentes sont claires, les personnes savent ce qu'elles doivent faire et peuvent s'y engager.
+
+Les auteurs expliquent pourquoi le processus équitable est si puissant. Les êtres humains attachent une grande importance à la reconnaissance de leur valeur intellectuelle et émotionnelle. Lorsqu'ils se sentent traités avec respect, ils coopèrent volontairement, au-delà de ce qui est exigé. Lorsqu'ils se sentent ignorés ou manipulés, ils résistent, même lorsque la décision est bonne pour eux.
+
+Ils citent l'exemple d'entreprises où la même décision, mise en œuvre avec ou sans processus équitable, avait produit des résultats très différents. Dans un cas, les salariés s'étaient mobilisés pour réussir ; dans l'autre, ils avaient résisté et même saboté le changement.
+
+> À retenir | Associer, expliquer, clarifier les attentes. Les personnes acceptent une décision qui leur coûte si elles jugent juste la manière dont elle a été prise.
+
+--- Durer et se renouveler
+kw: imitation · barrières · nouvel océan
+Les auteurs se demandent combien de temps dure un océan bleu. Tôt ou tard, des imitateurs arrivent, et l'océan bleu devient rouge. Ils examinent les barrières qui ralentissent l'imitation, puis le moment où il faut créer un nouvel océan bleu.
+
+Ils observent que beaucoup de stratégies d'océan bleu bénéficient de **barrières naturelles à l'imitation**, qui peuvent les protéger pendant des années, voire des décennies.
+
+- **Une logique contraire à celle des concurrents.** Les entreprises établies ont souvent du mal à imiter une stratégie qui contredit leur propre modèle, car cela les obligerait à abandonner ce qui fait leur réussite actuelle.
+- **Des volumes élevés**, qui donnent à l'innovateur un avantage de coûts difficile à rattraper.
+- **Des effets de réseau**, lorsque la valeur de l'offre augmente avec le nombre d'utilisateurs.
+- **Des brevets ou des autorisations**, qui empêchent légalement l'imitation.
+- **Une marque forte**, qui donne aux clients une raison de rester fidèles.
+- **Un système cohérent** : une stratégie qui combine de nombreux éléments alignés est plus difficile à copier qu'un seul élément.
+- **Des risques pour l'image des concurrents**, qui craignent de dévaloriser leur marque en imitant une offre moins chère.
+
+Les auteurs recommandent de surveiller les courbes de valeur. Tant que la courbe de l'entreprise reste nettement différente de celles des concurrents, il n'est pas nécessaire de chercher un nouvel océan bleu. Il vaut mieux exploiter l'océan existant, en améliorant l'offre et en réduisant les coûts. Lorsque les courbes commencent à converger, c'est le moment de chercher un nouvel océan bleu.
+
+Ils mettent en garde contre deux erreurs. La première est de chercher un nouvel océan bleu trop tôt, alors que l'océan existant offre encore beaucoup de potentiel. La seconde est de rester trop longtemps dans un océan devenu rouge, en se battant pour des parts de marché de plus en plus faibles.
+
+- Une logique contraire à celle des concurrents freine longtemps l'imitation.
+- Cherchez un nouvel océan quand votre courbe de valeur rejoint celle des autres.
+
+=== Mettre en pratique
+--- Atelier en une journée
+kw: canevas · quatre actions · non-clients
+Les outils du livre se prêtent bien à un atelier collectif. Voici un déroulé possible pour une équipe de six à douze personnes, appliqué à une offre, un service ou un produit.
+
+**Préparation.** Une semaine avant, chaque participant interroge deux clients et deux non-clients : des personnes qui pourraient utiliser l'offre, mais qui ne le font pas. Il leur demande ce qu'elles apprécient, ce qui les gêne et ce qu'elles utilisent à la place.
+
+**Matin, première partie : l'éveil visuel.** L'équipe liste les critères sur lesquels le secteur se fait concurrence. Elle dessine la courbe de valeur actuelle de l'offre et celles de deux ou trois alternatives. Elle observe les ressemblances.
+
+**Matin, seconde partie : les non-clients.** Les participants partagent ce qu'ils ont appris des entretiens. Ils classent les non-clients selon les trois niveaux. Ils cherchent ce que clients et non-clients ont en commun.
+
+**Après-midi, première partie : les quatre actions.** En petits groupes, l'équipe remplit la grille : éliminer, réduire, renforcer, créer. Chaque groupe utilise une ou deux des six pistes pour trouver des idées. Chaque groupe dessine une nouvelle courbe de valeur.
+
+**Après-midi, seconde partie : la foire aux stratégies.** Chaque groupe présente sa courbe en cinq minutes. Les participants votent pour les propositions les plus prometteuses et justifient leur choix. On vérifie les trois qualités : focalisation, divergence, slogan.
+
+**Fin de journée : la séquence.** Pour la proposition retenue, l'équipe vérifie l'utilité, le prix, le coût et l'adoption. Elle identifie les hypothèses à tester et décide d'un premier test à réaliser dans le mois.
+
+Les auteurs insistent sur l'importance du terrain. Un atelier qui ne s'appuie que sur les opinions des participants produit souvent des idées décevantes. Ce sont les observations des clients et surtout des non-clients qui donnent les meilleures idées.
+
+> À retenir | Préparez l'atelier par des entretiens avec des non-clients. Leurs réponses valent plus que les opinions de la salle.
+
+--- Plan d'action sur 30 jours
+kw: observer · dessiner · tester
+**Semaine 1 : le canevas.** Listez six à dix critères sur lesquels votre secteur ou votre service se fait concurrence. Dessinez votre courbe de valeur et celle de deux alternatives. Écrivez en une phrase ce qui distingue votre offre, si vous le pouvez.
+
+**Semaine 2 : les non-clients.** Interrogez au moins cinq non-clients, de différents niveaux. Demandez-leur pourquoi ils ne vous choisissent pas, ce qu'ils utilisent à la place et ce qui les ferait changer. Notez les points communs.
+
+**Semaine 3 : les quatre actions.** Remplissez la grille éliminer, réduire, renforcer, créer. Utilisez au moins trois des six pistes pour trouver des idées. Dessinez une nouvelle courbe de valeur. Testez-la avec les trois qualités : focalisation, divergence, slogan.
+
+**Semaine 4 : la séquence et le test.** Vérifiez l'utilité, le prix, le coût et l'adoption pour votre nouvelle courbe. Identifiez l'hypothèse la plus risquée. Concevez un test simple et peu coûteux pour la vérifier : une offre pilote, une maquette, une présentation à quelques clients. Préparez aussi la manière d'associer votre équipe, en appliquant les principes du processus équitable.
+
+Les auteurs rappellent qu'il est rare de trouver un océan bleu en un mois. Mais ces exercices changent la manière de regarder son marché, et ils font souvent apparaître des améliorations importantes, même lorsqu'elles ne créent pas un marché entièrement nouveau.
+
+- Une semaine par outil : canevas, non-clients, quatre actions, séquence.
+- Terminez par un test concret de l'hypothèse la plus risquée.
+
+--- Cas pratique : la médiathèque
+kw: service public · non-usagers
+Une médiathèque municipale d'une ville de 40 000 habitants voit sa fréquentation baisser depuis plusieurs années. Les élus envisagent de réduire son budget. La nouvelle directrice, Amina, décide d'appliquer les outils de l'océan bleu.
+
+**Le canevas.** Avec son équipe, elle liste les critères sur lesquels les médiathèques se font habituellement concurrence : taille du fonds, nouveautés, silence, horaires, animations, conseils des bibliothécaires. Elle compare sa courbe à celle des alternatives utilisées par les habitants : librairies, plateformes en ligne, cafés, espaces de travail partagés. La courbe de la médiathèque ressemble à celle de toutes les médiathèques.
+
+**Les non-clients.** L'équipe interroge une soixantaine d'habitants qui ne viennent jamais. Les non-clients du premier niveau sont des étudiants et des travailleurs indépendants qui cherchent un lieu calme pour travailler, mais trouvent les horaires inadaptés. Ceux du deuxième niveau sont des familles qui trouvent le lieu austère et peu accueillant pour les jeunes enfants. Ceux du troisième niveau sont des personnes âgées isolées et des habitants qui ont des difficultés avec les démarches numériques. Le point commun : un besoin de lieu accueillant et utile au quotidien, pas seulement de livres.
+
+**Les quatre actions.** La médiathèque **élimine** une partie des collections peu empruntées, ce qui libère de l'espace. Elle **réduit** l'exigence de silence dans certaines zones. Elle **renforce** les horaires, en ouvrant tôt le matin et en soirée, avec des bénévoles. Elle **crée** un espace de travail équipé, une zone famille, et une permanence d'aide aux démarches numériques.
+
+**La séquence.** Le prix reste gratuit. Le coût est maîtrisé grâce à des partenariats avec une association et le centre social. L'équipe est associée à chaque étape, selon les principes du processus équitable.
+
+**Le résultat.** En deux ans, la fréquentation a nettement augmenté, avec de nouveaux publics. Les élus maintiennent le budget.
+
+> Question de réflexion | Qui sont les non-clients de votre service, et qu'ont-ils en commun avec vos usagers actuels ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: après coup · imitation · exécution
+*Stratégie Océan Bleu* a été largement adopté, mais il a aussi suscité des critiques.
+
+**Des exemples choisis après coup.** Comme beaucoup de livres de stratégie, celui-ci s'appuie sur des exemples d'entreprises qui ont réussi, analysés après coup. On ne sait pas combien d'entreprises ont tenté de créer un océan bleu et ont échoué. Certains exemples du livre ont aussi connu des difficultés par la suite : des marques ont perdu leur avance, des entreprises ont été rachetées ou ont décliné. Cela ne remet pas en cause l'intérêt des outils, mais invite à la prudence sur leur pouvoir prédictif.
+
+**Des océans qui rougissent vite.** Dans de nombreux secteurs, notamment numériques, les imitateurs arrivent très rapidement. Un océan bleu peut devenir rouge en quelques mois. Les barrières à l'imitation décrites par les auteurs ne suffisent pas toujours.
+
+**Une frontière floue.** Certains critiques soulignent qu'il est souvent difficile de distinguer un océan bleu d'une simple différenciation réussie. Beaucoup d'exemples du livre pourraient aussi être décrits comme des stratégies de différenciation ou de focalisation classiques. Les auteurs répondent que la différence tient à la poursuite simultanée de la valeur et des coûts, mais la frontière reste discutée.
+
+**Une exécution sous-estimée.** Les outils d'analyse sont clairs et faciles à utiliser, ce qui fait leur succès. Mais trouver une idée d'océan bleu ne suffit pas. L'exécution, la constitution d'une équipe, le financement et la persévérance sont souvent plus difficiles que l'idée elle-même. Le livre traite de l'exécution, mais de manière moins détaillée que de la formulation.
+
+**Le risque du slogan.** Le terme « océan bleu » est parfois utilisé pour désigner n'importe quelle innovation, ou pour justifier des projets mal préparés. Les auteurs ont publié en 2017 un autre livre, *Blue Ocean Shift*, qui détaille davantage le processus pratique pour éviter ces dérives.
+
+- Utilisez les outils comme des aides à la réflexion, pas comme des garanties.
+- Prévoyez que l'imitation arrivera, parfois très vite.
+
+--- Liens avec les autres livres
+kw: Christensen · Sinek · Collins · Drucker
+**Avec Le Dilemme de l'innovateur (Christensen).** Les deux livres s'intéressent à la création de nouveaux marchés et aux non-clients. Christensen explique pourquoi les entreprises établies ont du mal à servir les clients négligés, Kim et Mauborgne proposent des outils pour concevoir une offre nouvelle. Les ruptures de nouveau marché de Christensen sont très proches des océans bleus, mais Christensen insiste davantage sur l'organisation nécessaire pour les mener.
+
+**Avec Commencer par pourquoi (Sinek).** Sinek critique la concurrence par les prix, les promotions et les fonctionnalités, qui caractérise les océans rouges. Le pourquoi peut donner la direction d'un océan bleu, et les outils de Kim et Mauborgne permettent de le traduire en offre concrète.
+
+**Avec De la performance à l'excellence (Collins).** Le concept du hérisson de Collins, avec ses trois cercles, et la courbe de valeur de Kim et Mauborgne sont deux manières de répondre à la même question : où concentrer ses efforts pour se distinguer ? Collins insiste sur la discipline dans la durée, Kim et Mauborgne sur la création d'un espace nouveau.
+
+**Avec Management (Drucker).** Drucker affirmait que le but de l'entreprise est de créer un client, et que les deux fonctions essentielles sont le marketing et l'innovation. Il invitait aussi à regarder les non-clients, souvent plus nombreux que les clients. *Stratégie Océan Bleu* peut être lu comme une méthode pour appliquer ces principes.
+
+**Avec Optimisez votre équipe (Lencioni).** Le processus équitable de Kim et Mauborgne rejoint la pyramide de Lencioni : l'engagement suppose que chacun ait pu exprimer son avis, et la clarté des attentes rend possible la responsabilité mutuelle.
+
+> Parcours conseillé | Lisez ensuite Le Dilemme de l'innovateur pour comprendre comment organiser une entreprise établie face aux nouveaux marchés.

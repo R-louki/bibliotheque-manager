@@ -1,0 +1,481 @@
+id: drucker-mgmt
+t: Management : tâches, responsabilités, pratiques
+o: Management: Tasks, Responsibilities, Practices
+a: Peter Drucker
+y: 1973
+cat: Fondamentaux
+p: ≈ 800 p.
+c: --b1
+center: Le management, organe des institutions
+pitch: La somme de Drucker : mission, client, objectifs, travail, structure, direction et responsabilité sociale.
+
+=== Contexte et vision
+--- Une œuvre de référence
+kw: somme · 1973 · lecture par chapitres
+*Management: Tasks, Responsibilities, Practices* est l'ouvrage le plus complet de Peter Drucker. Publié en 1973, il compte environ huit cents pages et une soixantaine de chapitres. Drucker y rassemble et approfondit les idées qu'il avait développées depuis les années 1940 dans ses nombreux livres et articles, notamment dans *The Practice of Management* en 1954, considéré comme le premier livre à présenter le management comme une discipline globale.
+
+Le livre a été écrit à un moment particulier. Au début des années 1970, le management était devenu un phénomène mondial. Les entreprises s'étaient développées dans tous les pays industrialisés, les écoles de commerce se multipliaient, et le mot management était entré dans le langage courant. Mais Drucker observait aussi que le management traversait une crise. Les grandes organisations étaient critiquées pour leur bureaucratie, leur indifférence aux problèmes sociaux et leur manque d'innovation. Les salariés exprimaient une insatisfaction croissante. Les institutions publiques étaient jugées inefficaces.
+
+Drucker voulait donc proposer une synthèse de ce que l'on savait sur le management, et aider les dirigeants à faire face à ces nouveaux défis. Il ne s'adresse pas seulement aux dirigeants d'entreprise, mais à tous ceux qui dirigent des institutions : hôpitaux, universités, administrations, associations, armées.
+
+Le livre n'est pas fait pour être lu d'une traite. Il se consulte comme un manuel, chapitre par chapitre, selon les besoins. Il est organisé en trois grandes parties, qui correspondent à son sous-titre : les tâches du management, le travail et les compétences du manager, et la direction générale et ses stratégies. Une version abrégée et révisée a été publiée plus tard, avec la collaboration d'un de ses anciens étudiants, pour la rendre plus accessible.
+
+Cette fiche ne suit pas l'ordre du livre. Elle regroupe ses idées principales par thème, pour en faciliter la compréhension.
+
+> À retenir | Un manuel à consulter par chapitres, qui s'adresse à tous ceux qui dirigent une institution, publique ou privée, et pas seulement aux chefs d'entreprise.
+
+--- Le management, organe de la société
+kw: institutions · fonction · pas une classe
+L'idée de départ du livre est que la société moderne est devenue une **société d'institutions**. Dans les sociétés anciennes, la plupart des tâches importantes étaient accomplies par des individus ou des familles : l'agriculture, l'artisanat, les soins, l'éducation. Dans la société moderne, elles sont accomplies par des organisations : les entreprises produisent les biens, les hôpitaux soignent, les écoles et les universités éduquent, les administrations assurent les services publics.
+
+Drucker affirme que ces institutions ne fonctionnent pas toutes seules. Elles ont besoin d'un **organe** qui leur permette d'atteindre leurs objectifs : le management. Le management est à l'institution ce que le cerveau et le système nerveux sont au corps. Il n'existe pas en dehors de l'institution qu'il sert. Il n'est donc pas une fin en soi, mais un moyen.
+
+Cette conception a plusieurs conséquences. D'abord, le management n'est pas réservé aux entreprises. Toute institution a besoin de management, et les principes sont largement les mêmes, même si leur application diffère. Ensuite, le management ne se définit pas par une classe sociale ou un statut, mais par une fonction. Un manager est une personne responsable de la contribution d'une institution, ou d'une partie d'institution, à ses résultats.
+
+Drucker souligne aussi que le management est une discipline. Il repose sur des connaissances, des méthodes et des pratiques qui peuvent être enseignées et apprises. Mais ce n'est pas une science exacte. C'est une pratique, comme la médecine, qui s'appuie sur des connaissances, mais qui se juge à ses résultats.
+
+Enfin, il insiste sur le fait que le management a une dimension morale. Les managers exercent un pouvoir important sur la vie des personnes et sur la société. Leur légitimité dépend de leur capacité à utiliser ce pouvoir de manière responsable, au service de l'institution et de la société.
+
+- Le management est l'organe qui permet aux institutions de fonctionner.
+- Il se définit par une fonction, pas par un statut.
+- Il est une pratique, jugée à ses résultats, avec une dimension morale.
+
+--- Les trois tâches du management
+kw: mission · travail productif · impacts
+Drucker définit le management par trois tâches, aussi importantes les unes que les autres.
+
+**Remplir la mission spécifique de l'institution.** Chaque institution existe pour une raison précise. L'entreprise existe pour produire une performance économique. L'hôpital existe pour soigner. L'université existe pour former et produire des connaissances. Le premier rôle du management est de faire en sorte que l'institution remplisse cette mission. Pour l'entreprise, Drucker souligne que la performance économique est sa raison d'être : une entreprise qui n'est pas rentable ne peut remplir aucune autre fonction.
+
+**Rendre le travail productif et le travailleur efficace.** Les institutions n'ont qu'une seule vraie ressource : les personnes. Elles accomplissent leur mission en rendant les personnes productives. Le management doit organiser le travail de manière à ce qu'il produise des résultats, et permettre aux personnes de s'épanouir dans leur travail.
+
+**Gérer les impacts sociaux et les responsabilités sociales.** Aucune institution n'existe pour elle-même. Elle fait partie de la société et elle a des effets sur la société, sur l'environnement et sur les communautés. Le management est responsable de ces effets.
+
+Drucker ajoute que ces trois tâches doivent être accomplies dans deux dimensions de temps à la fois. Le manager doit gérer le présent, en obtenant des résultats aujourd'hui, et préparer l'avenir, en prenant des décisions dont les effets se feront sentir dans plusieurs années. Il compare cette situation à celle d'un pilote qui doit garder l'avion en vol tout en préparant l'atterrissage. Sacrifier l'avenir au présent, ou le présent à l'avenir, est également dangereux.
+
+Il ajoute aussi une dimension d'**administration** : le manager doit faire fonctionner l'institution existante, avec ses routines, ses procédures et ses obligations. Mais il doit aussi être un **entrepreneur**, qui transforme l'institution et crée du nouveau. Ces deux rôles sont complémentaires.
+
+> À retenir | Remplir la mission, rendre le travail productif, assumer ses impacts sur la société, tout en gérant à la fois le présent et l'avenir.
+
+=== Mission et client
+--- « Quelle est notre activité ? »
+kw: défini par le client · question difficile
+Drucker affirme que la question la plus importante qu'une organisation doit se poser est en apparence la plus simple : quelle est notre activité ? Et la question suivante : quelle devrait-elle être ?
+
+Il explique que cette question est rarement posée, parce que la réponse semble évidente. Une entreprise sidérurgique fabrique de l'acier, une compagnie ferroviaire fait rouler des trains, une compagnie d'assurance vend des contrats d'assurance. Mais Drucker affirme que ces réponses sont souvent fausses, ou du moins insuffisantes. L'activité d'une entreprise ne se définit pas par ce qu'elle produit, mais par ce que le client achète, c'est-à-dire par la satisfaction d'un besoin.
+
+Il cite l'exemple d'un dirigeant de la compagnie téléphonique américaine au début du XXe siècle. À une époque où l'entreprise risquait d'être nationalisée, ce dirigeant avait défini son activité non pas comme la fabrication de téléphones ou l'exploitation d'un réseau, mais comme le service rendu aux clients. Cette définition avait guidé toutes les décisions de l'entreprise pendant des décennies, et lui avait permis de garder la confiance du public.
+
+Drucker souligne que la réponse à la question « quelle est notre activité ? » doit partir de l'extérieur : du client, de ses besoins, de ses valeurs et de sa situation. Il propose une série de questions : qui est le client ? Où se trouve-t-il ? Qu'achète-t-il ? Qu'est-ce qui a de la valeur pour lui ?
+
+Il insiste sur un point : il faut se poser ces questions surtout quand tout va bien. Lorsque l'entreprise réussit, elle a tendance à considérer sa définition actuelle comme acquise. C'est précisément à ce moment qu'elle devient vulnérable, car le succès rend obsolètes les hypothèses qui l'ont produit. Une entreprise qui attend d'être en difficulté pour s'interroger sur sa mission s'y prend trop tard.
+
+Il ajoute qu'il faut aussi se demander quelle sera notre activité demain, compte tenu des évolutions du marché, de la démographie, des technologies et des besoins. Et enfin, quelle devrait-elle être : quelles opportunités pourrions-nous saisir en changeant notre définition de l'activité ?
+
+> Question clé | Comment vos clients décriraient-ils ce qu'ils achètent réellement chez vous ? Est-ce la même chose que ce que vous pensez vendre ?
+
+--- Créer un client
+kw: but de l'entreprise · marketing · innovation
+Drucker propose une définition célèbre du but de l'entreprise. Il affirme que ce n'est pas de faire du profit. Le profit est une condition et une mesure de la performance, mais ce n'est pas la raison d'être de l'entreprise. Selon lui, la seule définition valable du but d'une entreprise est de créer un client.
+
+Que signifie créer un client ? Cela signifie transformer un besoin, parfois latent, en demande effective. Le besoin peut exister depuis longtemps, mais tant qu'aucune entreprise ne propose de le satisfaire, il n'existe pas de client. C'est l'action de l'entreprise qui crée le client. Et c'est le client qui détermine ce qu'est l'entreprise, par sa décision d'acheter ou de ne pas acheter.
+
+De cette définition, Drucker déduit que l'entreprise a deux fonctions de base, et deux seulement : le **marketing** et l'**innovation**. Ce sont les seules fonctions qui produisent des résultats. Toutes les autres sont des coûts.
+
+Le **marketing**, au sens de Drucker, n'est pas la vente ou la publicité. C'est la capacité de voir l'entreprise du point de vue du client. Il affirme même que le but du marketing est de rendre la vente superflue : si l'on connaît si bien le client que le produit lui convient parfaitement, il se vend tout seul. Le marketing doit être présent dans toutes les décisions de l'entreprise, et pas seulement dans un service spécialisé.
+
+L'**innovation** est la capacité de créer une satisfaction nouvelle ou meilleure. Elle ne se limite pas à la technologie. Elle peut porter sur un produit, un service, un prix, une méthode de distribution ou une manière d'organiser le travail. Drucker souligne qu'une entreprise qui n'innove pas finit par décliner, car les besoins et les technologies évoluent.
+
+Il ajoute une idée importante : les non-clients sont presque toujours plus nombreux que les clients. Même une entreprise qui domine son marché ne sert qu'une partie des acheteurs potentiels. Les changements importants viennent souvent des non-clients, que l'entreprise ignore.
+
+- Le but de l'entreprise est de créer un client ; le profit en est la condition et la mesure.
+- Marketing et innovation sont les deux seules fonctions qui produisent des résultats.
+- Les non-clients sont plus nombreux que les clients et annoncent souvent les changements.
+
+--- Le profit et l'avenir
+kw: coût de l'avenir · risque · survie
+Drucker consacre une réflexion approfondie au profit. Il critique la vision selon laquelle les entreprises cherchent à maximiser leur profit. Selon lui, cette idée est à la fois fausse et dangereuse. Fausse, parce qu'elle ne décrit pas la manière dont les entreprises bien gérées prennent leurs décisions. Dangereuse, parce qu'elle fait du profit une fin en soi et justifie la méfiance de l'opinion envers les entreprises.
+
+Pour Drucker, le profit a trois fonctions principales. Il **mesure** l'efficacité de l'entreprise : une entreprise rentable utilise bien ses ressources. Il **couvre les risques** de l'activité : toute activité économique comporte des incertitudes, et le profit est la prime qui couvre ces risques. Il **finance l'avenir** : les investissements dans les nouveaux produits, les équipements, la formation et l'innovation, ainsi que les emplois de demain.
+
+Il en tire une conclusion surprenante : il n'existe pas vraiment de profits, au sens de surplus dont l'entreprise pourrait disposer librement. Il n'existe que des coûts : les coûts du présent, et les coûts de l'avenir. Le profit, c'est le coût de rester en activité. Une entreprise qui ne fait pas assez de profit pour couvrir ces coûts de l'avenir se condamne à décliner, même si elle paraît rentable.
+
+Drucker propose donc de se demander non pas quel est le profit maximal que l'on peut obtenir, mais quel est le profit minimal nécessaire pour couvrir les risques et financer l'avenir. Ce minimum est souvent plus élevé que ce que réalisent réellement les entreprises.
+
+Cette vision a des conséquences pratiques pour les dirigeants. Elle les oblige à justifier le profit non pas comme une récompense pour les actionnaires, mais comme une nécessité pour l'avenir de l'entreprise, de ses salariés et de ses clients. Elle les oblige aussi à se méfier des profits obtenus en sacrifiant l'avenir : en réduisant la formation, l'entretien ou la recherche pour améliorer les résultats d'une année.
+
+Elle s'applique aussi aux institutions sans but lucratif. Une association ou un hôpital doit dégager des excédents pour se renouveler. Une institution qui dépense chaque année tout ce qu'elle reçoit ne peut pas investir dans son avenir.
+
+> À retenir | Le profit est le coût de l'avenir. Demandez-vous non pas quel profit maximiser, mais quel minimum est nécessaire pour couvrir les risques et préparer demain.
+
+=== Objectifs et stratégie
+--- Les huit domaines d'objectifs
+kw: marketing · innovation · ressources · profit
+Une fois la mission définie, il faut la traduire en objectifs. Drucker affirme que la mission seule ne suffit pas : elle doit être transformée en engagements concrets, qui orientent le travail et permettent de mesurer les résultats.
+
+Il recommande de fixer des objectifs dans huit domaines, qui correspondent aux conditions de survie et de performance de l'entreprise.
+
+- **Le marketing** : la position sur le marché, les clients à conquérir, les nouveaux marchés à ouvrir.
+- **L'innovation** : les nouveaux produits, services, procédés et méthodes à développer.
+- **Les ressources humaines** : le recrutement, le développement et l'utilisation des personnes.
+- **Les ressources financières** : l'obtention et l'utilisation des capitaux.
+- **Les ressources physiques** : les équipements, les locaux, les matières premières.
+- **La productivité** : l'efficacité de l'utilisation de toutes les ressources.
+- **La responsabilité sociale** : les effets de l'entreprise sur la société et l'environnement.
+- **Le profit nécessaire** : le niveau de profit minimal pour atteindre les autres objectifs.
+
+Drucker souligne que l'erreur la plus fréquente est de se concentrer sur un seul domaine, généralement le profit. Une entreprise qui n'a que des objectifs financiers finit par négliger les autres domaines, qui conditionnent pourtant sa capacité à être rentable à l'avenir. Elle réduit les dépenses de formation, de recherche ou d'entretien, ce qui améliore les résultats à court terme mais affaiblit l'entreprise à long terme.
+
+Il recommande aussi d'**équilibrer** les objectifs entre eux et dans le temps. Les objectifs à court terme et à long terme doivent être compatibles. Les objectifs des différents domaines ne doivent pas se contredire. Cet équilibre est l'une des responsabilités principales de la direction.
+
+Enfin, Drucker insiste sur le fait que les objectifs doivent être **opérationnels** : ils doivent pouvoir être traduits en actions concrètes, en affectations de ressources et en responsabilités. Un objectif qui ne change rien à ce que les personnes font demain n'est qu'une déclaration d'intention.
+
+> Exercice | Pour votre équipe, écrivez un objectif dans chacun des huit domaines. Lesquels sont absents de vos objectifs actuels ? Que risquez-vous en les négligeant ?
+
+--- La planification stratégique
+kw: décisions d'aujourd'hui · futur · abandon
+Drucker propose une définition de la planification stratégique qui la distingue clairement de la prévision. Il affirme que la planification stratégique ne consiste pas à prévoir l'avenir, ce qui est impossible. Elle ne consiste pas non plus à prendre des décisions futures. Elle consiste à prendre aujourd'hui des décisions qui auront des effets dans l'avenir.
+
+Il explique que la question n'est pas « que ferons-nous demain ? », mais « que devons-nous faire aujourd'hui pour être prêts pour demain ? ». Toute décision importante engage l'avenir : investir dans une usine, recruter un dirigeant, lancer un produit, entrer sur un marché. Ces décisions doivent donc être prises en tenant compte de leurs effets à long terme.
+
+Drucker décrit la planification stratégique comme un processus continu, qui comprend trois éléments. D'abord, prendre des décisions entrepreneuriales, c'est-à-dire des décisions qui comportent des risques, de manière systématique et avec la meilleure connaissance possible de leurs conséquences. Ensuite, organiser les efforts nécessaires pour mettre en œuvre ces décisions. Enfin, mesurer les résultats par rapport aux attentes, grâce à un retour d'information organisé.
+
+Il insiste sur un élément qu'il juge essentiel : l'**abandon**. Toute planification stratégique doit commencer par la question : que devons-nous abandonner ? Les ressources de l'entreprise sont limitées, et elles sont souvent mobilisées par des activités du passé. Pour libérer des ressources pour l'avenir, il faut abandonner systématiquement ce qui ne produit plus de résultats, ou ce qui ne correspond plus à la mission.
+
+Il propose une règle : examiner régulièrement chaque produit, chaque service, chaque procédé et chaque marché, et se demander si l'on se lancerait dans cette activité aujourd'hui, si l'on ne l'avait pas déjà. Si la réponse est non, il faut se demander comment en sortir, et à quelle vitesse.
+
+Drucker ajoute que la planification stratégique doit aussi identifier les opportunités. Il recommande de chercher les changements dans l'environnement qui ont déjà eu lieu, mais dont les effets ne se sont pas encore pleinement manifestés : l'évolution démographique, les changements de comportements, les nouvelles connaissances. Ces changements sont souvent visibles, mais ignorés.
+
+- Planifier, c'est prendre aujourd'hui des décisions qui engagent l'avenir.
+- Commencez par décider ce que vous abandonnez.
+- Cherchez les changements déjà survenus dont les effets restent à venir.
+
+--- La gestion par objectifs
+kw: autocontrôle · contribution · mesure
+La gestion par objectifs est l'une des idées les plus connues de Drucker. Il l'avait déjà présentée en 1954, et il la développe dans ce livre. Son nom complet est la gestion par objectifs et par autocontrôle.
+
+Le principe est simple. Chaque manager, à tous les niveaux de l'organisation, doit avoir des objectifs clairs, qui définissent la contribution qu'il doit apporter aux objectifs de l'unité supérieure. Ces objectifs ne sont pas imposés d'en haut. Le manager les propose lui-même, en réfléchissant à ce qu'il peut apporter, puis il en discute avec son supérieur. Le supérieur peut les accepter ou demander des modifications, mais c'est au manager de faire le premier pas.
+
+Drucker insiste sur la seconde partie du nom : l'**autocontrôle**. Le but de la gestion par objectifs n'est pas de contrôler les managers de l'extérieur, mais de leur permettre de se contrôler eux-mêmes. Pour cela, chacun doit disposer des informations nécessaires pour mesurer ses propres résultats. Ces informations doivent lui être transmises directement, et non seulement à son supérieur. Ainsi, le manager peut savoir à tout moment où il en est et corriger lui-même sa trajectoire.
+
+Drucker souligne plusieurs avantages de cette approche. Elle oriente chacun vers la contribution plutôt que vers l'activité. Elle relie les objectifs individuels à ceux de l'organisation. Elle permet de remplacer la domination par la responsabilité. Elle motive, car les personnes sont plus engagées pour des objectifs qu'elles ont contribué à définir.
+
+Il met aussi en garde contre les dérives. La gestion par objectifs peut devenir un outil bureaucratique, avec des formulaires et des procédures qui ont perdu leur sens. Elle peut aussi être réduite à des objectifs chiffrés imposés d'en haut, ce qui en trahit l'esprit. Drucker affirme que la gestion par objectifs n'est pas une technique, mais une philosophie du management, fondée sur la responsabilité.
+
+Cette idée a été très largement adoptée, notamment à travers des méthodes plus récentes comme les objectifs et résultats clés, inspirés par l'expérience d'Intel décrite par Andy Grove.
+
+> À retenir | Chacun propose sa contribution aux objectifs communs, reçoit directement les informations pour se mesurer et se corrige lui-même.
+
+=== Le travail et les personnes
+--- Rendre le travail productif
+kw: analyse · synthèse · contrôle · outils
+Drucker distingue soigneusement deux choses que l'on confond souvent : le **travail** et le **travailleur**. Le travail est impersonnel et objectif. C'est une tâche, qui peut être analysée, organisée et améliorée. Le travailleur est une personne, avec ses besoins, ses compétences et ses émotions. Les deux exigent des approches différentes.
+
+Pour rendre le travail productif, Drucker décrit quatre étapes.
+
+**L'analyse.** Il faut d'abord comprendre le travail : quelles sont ses étapes, dans quel ordre, avec quels moyens. Drucker reconnaît la contribution de Frederick Taylor, qui avait été le premier à analyser systématiquement le travail manuel au début du XXe siècle. Il souligne que cette analyse a permis une augmentation considérable de la productivité dans l'industrie.
+
+**La synthèse.** Après avoir décomposé le travail en étapes, il faut les réassembler en un processus cohérent. Drucker critique ici une limite de l'approche de Taylor, qui découpait le travail en tâches très simples sans se préoccuper de leur assemblage. Il affirme que le travail doit être organisé en ensembles cohérents, qui ont un sens pour ceux qui les accomplissent.
+
+**Le contrôle.** Le travail doit comporter des mécanismes de retour d'information, qui permettent de savoir si les résultats sont atteints et de corriger les écarts. Ces contrôles doivent être intégrés au processus lui-même.
+
+**Les outils.** Le travail doit être équipé des outils adaptés, qu'il s'agisse de machines, de méthodes ou d'informations.
+
+Drucker souligne que ces principes s'appliquent au travail manuel, mais aussi, de plus en plus, au travail intellectuel. Il observe que la productivité du travail manuel a été multipliée au cours du XXe siècle, mais que la productivité du travail intellectuel reste beaucoup moins étudiée et beaucoup plus difficile à améliorer. Il fait de cette question l'un des grands défis du management à venir.
+
+Pour un manager, ces étapes peuvent guider l'amélioration d'un processus : décrire chaque étape, se demander lesquelles sont utiles, réassembler le processus de manière cohérente, prévoir des points de contrôle et vérifier que les personnes ont les bons outils.
+
+- Le travail s'analyse et s'organise ; le travailleur se dirige.
+- Décomposer ne suffit pas : il faut réassembler le travail en un ensemble qui a du sens.
+- La productivité du travail intellectuel est le grand défi.
+
+--- Le travailleur responsable
+kw: responsabilité · retour · apprentissage
+Pour le travailleur, Drucker propose une approche différente. Il affirme que l'objectif n'est pas de rendre les travailleurs satisfaits, mais de les rendre **responsables**.
+
+Il explique pourquoi la satisfaction n'est pas un bon objectif. D'abord, on ne sait pas vraiment ce qu'elle est : une personne peut être satisfaite parce qu'elle est contente de son travail, ou parce qu'elle s'est résignée. Ensuite, la satisfaction est passive : elle ne dit rien de l'engagement de la personne dans son travail. Enfin, elle ne peut pas être imposée par le management.
+
+La responsabilité, au contraire, est active. Elle suppose que le travailleur s'engage dans les résultats de son travail, et qu'il dispose des moyens de les atteindre. Drucker affirme que les personnes sont capables d'assumer beaucoup plus de responsabilités qu'on ne le pense, à condition qu'on leur en donne les moyens.
+
+Il décrit quatre conditions pour que les travailleurs puissent être responsables.
+
+- **Un travail productif**, organisé de manière à produire des résultats, comme décrit précédemment.
+- **Un retour d'information** sur leurs résultats, qui leur permette de se contrôler eux-mêmes. Comme pour les managers, cette information doit leur être transmise directement.
+- **Un apprentissage continu**, qui leur permette de développer leurs compétences et de s'adapter aux changements.
+- **Une participation à la conception de leur travail**, car ce sont souvent eux qui connaissent le mieux la manière de l'améliorer.
+
+Drucker cite des exemples d'entreprises qui avaient confié aux équipes de production la responsabilité de leur propre organisation, de leur qualité ou de leur planification, avec des résultats remarquables. Il évoque notamment les pratiques de certaines entreprises japonaises, où les ouvriers étaient associés à l'amélioration continue des processus.
+
+Il insiste aussi sur la **sécurité** : les travailleurs ne peuvent pas prendre de responsabilités s'ils vivent dans la peur de perdre leur emploi à chaque changement. Une organisation qui veut des travailleurs responsables doit leur offrir une certaine sécurité, notamment en anticipant les changements et en proposant des reconversions.
+
+> À retenir | Ne visez pas la satisfaction, visez la responsabilité : un travail bien organisé, un retour direct sur les résultats, de l'apprentissage et une voix dans la conception du travail.
+
+--- Le travailleur du savoir
+kw: expertise · autonomie · productivité
+Drucker consacre une attention particulière aux **travailleurs du savoir**, un terme qu'il avait popularisé à la fin des années 1950. Il désigne ainsi les personnes dont le travail repose principalement sur des connaissances : ingénieurs, chercheurs, médecins, juristes, enseignants, informaticiens, comptables, analystes.
+
+Il observe que ces travailleurs sont devenus la catégorie la plus importante de la population active dans les pays développés, et que leur nombre continuera à croître. Ils ne peuvent pas être dirigés comme les ouvriers de l'industrie. Leur travail ne se découpe pas facilement en tâches simples, et leurs résultats sont souvent difficiles à mesurer.
+
+Drucker décrit plusieurs caractéristiques des travailleurs du savoir.
+
+**Ils possèdent leur outil de production.** Le savoir est dans leur tête. Ils peuvent l'emporter avec eux s'ils quittent l'organisation. Cela leur donne une autonomie et un pouvoir de négociation que les ouvriers n'avaient pas.
+
+**Ils en savent souvent plus que leur responsable** sur leur domaine. Le manager ne peut donc pas leur dire comment faire leur travail. Il peut seulement définir les objectifs et créer les conditions pour qu'ils réussissent.
+
+**Ils ont besoin de savoir à quoi sert leur travail.** Leur motivation dépend de leur compréhension de la contribution qu'ils apportent. Ils veulent être traités comme des associés, et non comme des subordonnés.
+
+**Ils doivent se former en permanence**, car les connaissances évoluent rapidement.
+
+Drucker affirme que la productivité des travailleurs du savoir dépend d'abord de la question : quelle est la tâche ? Dans le travail manuel, la tâche est généralement évidente. Dans le travail intellectuel, elle ne l'est pas. Un chercheur, un enseignant ou un médecin doit d'abord définir ce qu'il cherche à accomplir. Beaucoup de travailleurs du savoir perdent du temps sur des activités qui ne correspondent pas à leur véritable tâche : réunions inutiles, formulaires administratifs, tâches que d'autres pourraient faire.
+
+Il en tire une recommandation : demander régulièrement aux travailleurs du savoir ce qu'est leur tâche, ce qu'elle devrait être, ce qu'ils devraient arrêter de faire et ce dont ils ont besoin pour mieux contribuer.
+
+- Le travailleur du savoir possède son outil et en sait souvent plus que son chef.
+- Sa productivité commence par la question : quelle est vraiment la tâche ?
+- Traitez-le comme un associé, pas comme un subordonné.
+
+=== Les managers et l'organisation
+--- Le travail du manager
+kw: cinq opérations · développement
+Drucker décrit le travail du manager à travers cinq opérations de base.
+
+**Fixer des objectifs.** Le manager détermine ce que doivent être les objectifs de son unité, les traduit en tâches et les communique aux personnes concernées.
+
+**Organiser.** Il analyse les activités, les décisions et les relations nécessaires. Il classe le travail, le divise en activités gérables et en postes, et regroupe ces postes en une structure.
+
+**Motiver et communiquer.** Il constitue une équipe avec les personnes qui sont responsables des différents postes. Il le fait par ses décisions sur la rémunération, l'affectation et la promotion, ainsi que par une communication constante dans les deux sens.
+
+**Mesurer.** Il établit des indicateurs, s'assure que chaque personne dispose de ceux qui concernent son travail, analyse les résultats et les communique.
+
+**Développer les personnes**, y compris lui-même. Drucker souligne que cette opération est de plus en plus importante, car la ressource principale des organisations est le savoir des personnes.
+
+Drucker insiste sur le fait que chacune de ces opérations exige des compétences différentes. Fixer des objectifs exige du jugement et de l'équilibre. Organiser exige de l'analyse. Motiver et communiquer exige des compétences sociales. Mesurer exige de la rigueur. Développer les personnes exige de l'attention et de l'intégrité.
+
+Il consacre aussi une réflexion au **développement des managers**. Il affirme qu'une organisation doit préparer les managers dont elle aura besoin demain, et pas seulement ceux dont elle a besoin aujourd'hui. Le développement des managers ne se limite pas à la formation. Il passe surtout par l'expérience : des postes exigeants, des responsabilités croissantes, des missions variées. Drucker met en garde contre le développement réservé à une petite élite, et recommande de développer tous les managers.
+
+Il ajoute une observation importante : on ne peut pas développer les autres sans se développer soi-même. Le manager qui veut faire grandir ses collaborateurs doit lui-même continuer à apprendre.
+
+> Question clé | Parmi les cinq opérations, laquelle négligez-vous le plus ? Que faudrait-il changer dans votre agenda pour lui donner sa place ?
+
+--- L'esprit de performance
+kw: forces · choix des personnes · intégrité
+Drucker affirme que le but d'une organisation est de permettre à des personnes ordinaires de faire des choses extraordinaires. Pour cela, elle doit développer ce qu'il appelle l'**esprit de performance** : une culture qui oriente chacun vers les résultats, les opportunités et le dépassement de soi.
+
+Il décrit plusieurs conditions de cet esprit de performance.
+
+**Des exigences élevées.** L'organisation doit attendre beaucoup de ses membres. Une organisation qui se contente de peu obtient peu. Drucker souligne que les personnes s'élèvent à la hauteur des exigences qu'on leur impose, à condition qu'elles soient justes et cohérentes.
+
+**Une attention aux forces.** L'organisation doit chercher à utiliser les forces des personnes, plutôt qu'à corriger leurs faiblesses. Cette idée est développée en détail dans *L'Efficacité du dirigeant*.
+
+**Une orientation vers les opportunités.** L'organisation doit consacrer ses meilleures ressources aux opportunités, et non aux problèmes. Drucker observe que beaucoup d'organisations affectent leurs meilleures personnes à la résolution des crises, ce qui les empêche de saisir les opportunités.
+
+**Des décisions justes sur les personnes.** Les décisions sur les personnes, recrutements, promotions, affectations et départs, sont les plus importantes qu'une organisation prenne. Elles montrent à tous ce que l'organisation valorise vraiment. Drucker affirme que ces décisions doivent être prises avec soin, en se fondant sur la performance et les forces démontrées.
+
+**L'intégrité de caractère.** Drucker insiste fortement sur ce point. Un manager peut manquer de nombreuses qualités et rester efficace. Mais il ne peut pas manquer d'intégrité. Les personnes peuvent pardonner beaucoup d'erreurs à un manager, mais elles ne lui pardonnent pas le manque d'intégrité. Drucker affirme qu'il ne faut jamais nommer à un poste de responsabilité une personne qui s'intéresse davantage à qui a raison qu'à ce qui est juste, ou qui privilégie l'intelligence au détriment de l'intégrité.
+
+Il souligne aussi que l'esprit de performance exige de traiter les faibles performances. Une organisation qui tolère durablement la médiocrité démotive ceux qui travaillent bien. Mais il recommande de le faire avec humanité, en cherchant d'abord si la personne est au bon poste.
+
+> À retenir | Exigences élevées, forces utilisées, meilleurs sur les opportunités, décisions justes sur les personnes et, par-dessus tout, intégrité.
+
+--- Concevoir une structure
+kw: cinq structures · critères de conception
+Drucker consacre plusieurs chapitres à la structure des organisations. Il affirme que la structure n'est pas une fin en soi, mais un moyen d'atteindre les objectifs. Une bonne structure ne garantit pas la performance, mais une mauvaise structure la rend impossible.
+
+Il insiste sur le fait que la structure découle de la stratégie. Il faut d'abord savoir ce que l'organisation veut accomplir, puis concevoir la structure qui le permet. Il recommande de commencer par identifier les **activités clés**, c'est-à-dire celles qui sont essentielles à la réussite de la stratégie.
+
+Il décrit cinq types de structures, chacune adaptée à certaines situations.
+
+- **La structure fonctionnelle**, qui regroupe les personnes par métier : production, ventes, finances. Elle est claire et efficace pour les petites organisations, mais elle devient rigide lorsque l'organisation grandit.
+- **La structure en équipes**, qui réunit des personnes de différents métiers autour d'une tâche. Elle est flexible et adaptée à l'innovation, mais elle exige beaucoup de discipline et de communication.
+- **La décentralisation fédérale**, qui divise l'organisation en unités autonomes, chacune responsable de ses résultats sur un marché ou un produit. Drucker la considère comme la structure la plus efficace pour les grandes entreprises, lorsqu'elle est possible.
+- **La décentralisation simulée**, qui crée des unités qui ne sont pas vraiment autonomes, mais qui sont gérées comme si elles l'étaient, avec des prix de transfert internes. Drucker la considère comme une solution de dernier recours, souvent difficile à gérer.
+- **La structure en système**, qui combine plusieurs types d'organisations, par exemple pour de grands projets complexes comme les programmes spatiaux.
+
+Drucker propose aussi des critères pour évaluer une structure : la clarté, l'économie de moyens, l'orientation vers les résultats, la compréhension par chacun de sa propre tâche et de la tâche commune, la qualité des décisions, la stabilité, l'adaptabilité et la capacité de se renouveler.
+
+Il souligne qu'aucune structure n'est parfaite, et que la plupart des grandes organisations combinent plusieurs types. Il recommande de choisir la structure la plus simple possible, et de ne pas réorganiser trop souvent.
+
+- La structure suit la stratégie : partez des activités clés.
+- Choisissez la structure la plus simple qui permet d'atteindre les objectifs.
+- Évitez les réorganisations fréquentes.
+
+--- La direction générale
+kw: équipe · fonctions · Ford
+Drucker consacre une partie importante du livre à la **direction générale**, c'est-à-dire au groupe de personnes qui dirige l'ensemble de l'institution. Il affirme que la direction générale a des tâches spécifiques, que personne d'autre ne peut accomplir.
+
+Il décrit plusieurs de ces tâches. D'abord, **réfléchir à la mission** de l'institution : se poser les questions « quelle est notre activité ? » et « quelle devrait-elle être ? », fixer les objectifs et élaborer la stratégie. Ensuite, **fixer les normes** et donner l'exemple : la direction est la conscience de l'organisation, elle définit ce qui est acceptable et ce qui ne l'est pas. Puis, **construire et maintenir l'organisation humaine**, en particulier en préparant les dirigeants de demain. Ensuite, **entretenir les relations** avec les acteurs extérieurs importants : grands clients, investisseurs, pouvoirs publics. Enfin, **être disponible pour les crises**, lorsque l'organisation a besoin que ses dirigeants les plus expérimentés prennent les choses en main.
+
+Drucker souligne que ces tâches sont trop nombreuses et trop différentes pour être accomplies par une seule personne. Elles exigent des qualités opposées : la réflexion et l'action, la vision et l'attention aux détails, la fermeté et l'écoute. Il en conclut que la direction générale doit être une **équipe**, et non un individu.
+
+Il illustre ce point par l'histoire du constructeur automobile Ford. Son fondateur, Henry Ford, avait bâti l'une des plus grandes entreprises du monde. Mais il refusait de partager le pouvoir et s'entourait de collaborateurs qui ne pouvaient pas le contredire. Il a progressivement écarté les dirigeants compétents. L'entreprise a décliné, et elle était au bord de la faillite à la fin de la Seconde Guerre mondiale. Son petit-fils a dû reconstruire une véritable équipe de direction pour la redresser.
+
+Drucker donne quelques règles pour que l'équipe de direction fonctionne. Chaque membre doit avoir un domaine de responsabilité clair. Aucun membre ne doit prendre de décision dans le domaine d'un autre. Les membres ne doivent pas se critiquer publiquement. Le dirigeant principal reste responsable, mais il doit s'appuyer sur l'équipe.
+
+> À retenir | Les tâches de direction sont trop variées pour une seule personne. Une direction générale efficace est une équipe aux rôles clairs.
+
+=== Institutions et société
+--- Les institutions de service
+kw: budget · résultats · six disciplines
+Drucker consacre plusieurs chapitres aux institutions de service public : administrations, hôpitaux, écoles, universités, associations. Il observe que ces institutions sont devenues très importantes dans la société moderne, mais qu'elles sont souvent jugées inefficaces.
+
+Il affirme que leur inefficacité ne vient pas de leurs dirigeants, qui sont souvent aussi compétents que ceux des entreprises, ni de leurs salariés. Elle vient de la manière dont elles sont financées. Une entreprise est payée par ses clients pour ses résultats : si elle ne satisfait pas ses clients, elle perd ses revenus. Une institution de service est généralement financée par un **budget**, attribué en fonction de ses besoins ou de ses dépenses passées, et non de ses résultats.
+
+Cette différence a des conséquences profondes. Dans une institution financée par un budget, le succès se mesure par la taille du budget obtenu, et non par les résultats. Réduire ses dépenses ou abandonner une activité est perçu comme une perte de pouvoir. L'institution a donc tendance à croître, à multiplier ses activités et à ne jamais rien abandonner.
+
+Drucker propose six disciplines pour rendre les institutions de service plus efficaces.
+
+- **Définir leur mission** : quelle est notre activité, et quelle devrait-elle être ?
+- **En déduire des objectifs clairs**, qui permettent de savoir si la mission est remplie.
+- **Fixer des priorités**, car aucune institution ne peut tout faire.
+- **Définir des mesures de performance**, même imparfaites, liées aux résultats et non aux dépenses.
+- **Organiser le retour d'information**, pour que les résultats guident les décisions.
+- **Pratiquer l'audit systématique des objectifs et des résultats**, et abandonner les activités qui ne produisent plus de résultats ou qui ne correspondent plus à la mission.
+
+Drucker souligne que la dernière discipline est la plus difficile, et la plus importante. Les institutions de service ont beaucoup de mal à abandonner des activités, même lorsqu'elles sont devenues inutiles. Il recommande de fixer dès le départ une durée de vie limitée aux nouveaux programmes, avec une évaluation obligatoire avant leur prolongation.
+
+> Exercice | Pour un service public ou une association que vous connaissez, appliquez les six disciplines. Quelle activité devrait être abandonnée ?
+
+--- Impacts et responsabilités sociales
+kw: ne pas nuire · impacts · problèmes sociaux
+Drucker consacre une partie du livre à la responsabilité sociale des institutions. Il distingue soigneusement deux types de responsabilités.
+
+**Les impacts.** Ce sont les effets que l'institution produit sur la société par son activité : la pollution d'une usine, les nuisances sonores d'un aéroport, les conditions de travail, les effets sur une région lorsqu'une entreprise ferme un site. L'institution est responsable de ses impacts, qu'elle le veuille ou non. Elle doit les identifier, les réduire au minimum et, si possible, les transformer en opportunités. Drucker souligne que l'institution doit anticiper ses impacts, sans attendre que la loi l'y oblige. Si elle ne le fait pas, elle risque de se voir imposer des réglementations mal conçues.
+
+**Les problèmes sociaux.** Ce sont des problèmes qui existent dans la société, indépendamment de l'activité de l'institution : la pauvreté, le chômage, la dégradation des villes, les problèmes de santé publique. L'institution n'en est pas responsable, mais elle peut contribuer à les résoudre. Drucker affirme que les problèmes sociaux peuvent être des **opportunités** pour les entreprises : les entreprises qui parviennent à transformer un problème social en activité rentable rendent un double service, à la société et à elles-mêmes.
+
+Drucker fixe aussi des limites à la responsabilité sociale. Une institution ne doit pas s'engager dans des activités qui compromettent sa capacité à remplir sa mission principale. Une entreprise qui néglige sa performance économique au nom de la responsabilité sociale finit par ne plus pouvoir remplir ni l'une ni l'autre. De même, une institution ne doit pas s'engager dans des domaines où elle n'a pas de compétence, ou exercer un pouvoir qui ne lui revient pas.
+
+Il propose comme principe éthique central une règle empruntée à la médecine : d'abord, ne pas nuire. Il affirme que c'est la première responsabilité des managers. Ils ne doivent pas, en connaissance de cause, causer du tort aux personnes ou à la société. Cette règle peut sembler modeste, mais Drucker souligne qu'elle est exigeante : elle oblige à réfléchir aux conséquences de chaque décision.
+
+- On est responsable de ses impacts, qu'on le veuille ou non.
+- Les problèmes sociaux peuvent devenir des opportunités.
+- D'abord, ne pas nuire.
+
+--- Innover dans l'existant
+kw: séparer le nouveau · organiser l'innovation
+Drucker consacre une réflexion à l'innovation dans les organisations existantes. Il observe que les grandes organisations ont du mal à innover, parce qu'elles sont conçues pour gérer l'existant de manière efficace. Leurs processus, leurs mesures et leurs incitations favorisent la continuité et la prévisibilité, alors que l'innovation exige le risque et l'expérimentation.
+
+Il affirme pourtant que l'innovation est une fonction essentielle de toute organisation, et qu'elle peut être organisée. Il propose plusieurs principes.
+
+**Séparer le nouveau de l'existant.** Les projets d'innovation doivent être confiés à des équipes ou des unités distinctes de l'activité courante. Si on les confie à ceux qui gèrent l'activité existante, ils seront toujours sacrifiés aux urgences du quotidien. Drucker anticipe ici une idée que Christensen développera longuement plus de vingt ans plus tard.
+
+**Mesurer l'innovation différemment.** On ne peut pas juger un projet d'innovation avec les mêmes critères que l'activité courante. Il faut accepter qu'il soit déficitaire pendant un certain temps, et évaluer ses progrès par rapport à des étapes et non par rapport à des résultats financiers immédiats.
+
+**Rattacher l'innovation au sommet.** Les projets d'innovation doivent être suivis directement par la direction générale, qui les protège des pressions de l'organisation.
+
+**Organiser la recherche des opportunités.** L'innovation ne doit pas dépendre du hasard ou du génie individuel. Elle doit résulter d'une recherche systématique des changements dans l'environnement : les besoins non satisfaits, les évolutions démographiques, les changements de comportements, les nouvelles connaissances. Drucker a développé ces idées plus tard dans un autre livre consacré à l'innovation et à l'esprit d'entreprise.
+
+**Pratiquer l'abandon systématique**, pour libérer les ressources nécessaires à l'innovation.
+
+Drucker souligne aussi que l'innovation n'est pas réservée aux entreprises technologiques. Elle concerne toutes les organisations, y compris les institutions de service, qui doivent sans cesse adapter leurs services à l'évolution des besoins.
+
+> À retenir | Séparez le nouveau de l'existant, jugez-le avec d'autres critères, protégez-le depuis le sommet et cherchez les opportunités de manière organisée.
+
+--- Taille, diversité et mondialisation
+kw: taille · diversification · monde
+Drucker consacre plusieurs chapitres à des défis propres aux grandes organisations : la taille, la diversification et l'internationalisation.
+
+**La taille.** Il affirme qu'il n'existe pas de taille idéale pour une organisation. Chaque activité a une taille adaptée, qui dépend de son marché, de ses technologies et de sa structure de coûts. Une organisation trop petite pour son activité manque de ressources ; une organisation trop grande devient lourde et lente. Drucker recommande de se demander régulièrement si l'organisation a la bonne taille pour son activité, et de ne pas chercher la croissance pour elle-même. Il distingue la croissance saine, qui augmente la productivité, de la croissance malsaine, qui augmente le volume sans améliorer la performance.
+
+**La diversification.** Drucker se méfie des diversifications sans lien entre elles, très à la mode à l'époque avec les conglomérats. Il affirme qu'une organisation doit avoir un **noyau d'unité** : un marché commun, une technologie commune ou une compétence commune, qui relie ses différentes activités. Sans ce noyau, la direction ne peut pas comprendre et gérer correctement des activités trop différentes. Cette idée rejoint le concept du hérisson de Collins.
+
+**L'internationalisation.** Drucker observe que les entreprises multinationales sont devenues une réalité majeure de l'économie mondiale. Il souligne les défis qu'elles posent : concilier l'unité de l'entreprise et la diversité des pays, respecter les cultures locales, gérer les relations avec des gouvernements très différents. Il affirme que les multinationales doivent être des entreprises véritablement mondiales, qui recrutent leurs dirigeants dans tous les pays où elles sont présentes, et non des entreprises nationales qui exportent leurs méthodes.
+
+Ces analyses restent étonnamment actuelles. Les questions de la taille, de la cohérence du portefeuille d'activités et de la gestion internationale se posent toujours aux dirigeants, même si le contexte a beaucoup changé depuis 1973.
+
+- Cherchez la bonne taille pour l'activité, pas la croissance pour elle-même.
+- Toute diversification doit garder un noyau commun.
+- Une entreprise mondiale recrute ses dirigeants partout.
+
+=== Mettre en pratique
+--- Les questions de Drucker
+kw: mission · client · résultats · plan
+Drucker a résumé plus tard l'essentiel de sa pensée en cinq questions, destinées aux dirigeants de toutes les organisations, en particulier des associations et des institutions publiques. Ces questions résument bien les idées du livre.
+
+**Quelle est notre mission ?** Pourquoi existons-nous ? Quel est notre but ? Quelle contribution voulons-nous apporter ? La mission doit être courte, claire et compréhensible par tous.
+
+**Qui est notre client ?** Drucker distingue le client principal, celui dont la vie est changée par notre travail, et les clients secondaires, qui doivent aussi être satisfaits : les financeurs, les partenaires, les bénévoles, les salariés.
+
+**Qu'est-ce qui a de la valeur pour le client ?** C'est la question la plus importante, et la plus souvent négligée. Drucker insiste : il ne faut pas supposer qu'on connaît la réponse. Il faut la demander aux clients eux-mêmes.
+
+**Quels sont nos résultats ?** Comment définissons-nous le succès ? Comment le mesurons-nous ? Que devons-nous renforcer ou abandonner ?
+
+**Quel est notre plan ?** Que devons-nous faire, concrètement, pour avancer ? Le plan doit comporter des objectifs, des actions, des responsables, des échéances et des moyens.
+
+Ces questions peuvent être utilisées par une équipe, un service, une association ou une entreprise. Drucker recommande de les traiter avec l'ensemble des personnes concernées, et non seulement par la direction. Il recommande aussi de les reprendre régulièrement, car les réponses évoluent avec le temps.
+
+Il souligne que la troisième question exige une démarche particulière : interroger réellement les clients. Il recommande d'aller les voir, de les écouter et de ne pas se fier aux impressions internes. Il observe que les organisations sont souvent surprises par les réponses.
+
+> Exercice | Réunissez votre équipe et répondez ensemble aux cinq questions. Puis allez interroger cinq clients sur la troisième question. Comparez leurs réponses aux vôtres.
+
+--- Plan d'action sur 30 jours
+kw: mission · objectifs · abandon · personnes
+**Semaine 1 : la mission et le client.** Posez-vous la question « quelle est notre activité ? », du point de vue de vos clients ou bénéficiaires. Interrogez cinq clients sur ce qu'ils achètent réellement chez vous et ce qui a de la valeur pour eux. Interrogez aussi deux non-clients. Rédigez une première définition de la mission de votre équipe, en une ou deux phrases.
+
+**Semaine 2 : les objectifs.** Fixez un objectif dans chacun des huit domaines pertinents pour votre équipe. Vérifiez qu'ils sont équilibrés entre court et long terme. Pour chaque objectif, identifiez l'action concrète qui commencera la semaine prochaine. Proposez à chaque collaborateur de rédiger ses propres objectifs de contribution, puis discutez-en avec lui.
+
+**Semaine 3 : l'abandon.** Listez les activités, projets, réunions et rapports de votre équipe. Pour chacun, posez la question : le lancerions-nous aujourd'hui ? Choisissez au moins une activité à abandonner, et décidez comment réaffecter les ressources libérées.
+
+**Semaine 4 : les personnes et l'organisation.** Demandez à chaque travailleur du savoir de votre équipe : quelle est votre tâche ? Que devriez-vous arrêter de faire ? De quoi avez-vous besoin pour mieux contribuer ? Vérifiez que chacun reçoit directement les informations nécessaires pour mesurer ses résultats. Enfin, identifiez un impact de votre activité sur les autres, clients, collègues, société, et une manière de le réduire.
+
+Drucker rappelle que le management est une pratique. Ces exercices ne valent que s'ils changent ce que l'équipe fait réellement.
+
+- Partir du client, fixer des objectifs équilibrés, abandonner, puis donner aux personnes les moyens de se contrôler.
+- Un exercice qui ne change pas l'action de la semaine suivante n'a pas servi.
+
+--- Cas pratique : l'hôpital de proximité
+kw: mission · objectifs · abandon · équipe
+Un hôpital de proximité de 300 lits, dans une ville moyenne, connaît des difficultés : déficit budgétaire, difficultés de recrutement, temps d'attente aux urgences en hausse et tensions entre les services. Un nouveau directeur, Karim, est nommé. Il décide d'appliquer les principes de Drucker.
+
+**La mission.** Il réunit les chefs de service, les cadres de santé et des représentants des patients autour de la question : quelle est notre activité ? Les réponses initiales portent sur les services et les équipements. En interrogeant des patients et des médecins de ville, l'équipe découvre ce qui a le plus de valeur pour eux : une prise en charge rapide des urgences courantes et un suivi coordonné des patients âgés atteints de maladies chroniques. La mission est reformulée autour de ces deux priorités.
+
+**Les objectifs.** L'équipe fixe des objectifs dans plusieurs domaines : délai d'attente aux urgences, coordination avec les médecins de ville, recrutement et fidélisation des soignants, équilibre financier, impact environnemental. Chaque chef de service propose sa contribution, puis en discute avec la direction.
+
+**L'abandon.** L'hôpital examine ses activités. Une activité de chirurgie spécialisée, très peu pratiquée, mobilise des moyens importants et pourrait être mieux assurée par le centre hospitalier régional. Après une concertation difficile, l'hôpital décide de la transférer progressivement, en organisant un partenariat avec le centre régional.
+
+**Les personnes.** Karim demande aux infirmières et aux médecins quelles tâches les empêchent de soigner. La réponse est claire : les tâches administratives. Une partie de ces tâches est confiée à des secrétaires médicales.
+
+**La direction.** Karim constitue une équipe de direction avec des rôles clairs, plutôt que de tout décider seul.
+
+**La responsabilité.** L'hôpital mesure son impact environnemental et engage un plan de réduction des déchets.
+
+Deux ans plus tard, les délais aux urgences ont diminué, les recrutements se sont améliorés et le déficit s'est réduit.
+
+> Question de réflexion | Si vous demandiez à vos bénéficiaires ce qui a le plus de valeur pour eux, la réponse correspondrait-elle à vos priorités actuelles ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: longueur · époque · prescriptions
+*Management* est un ouvrage majeur, mais il a aussi ses limites.
+
+**Un livre très long.** Avec environ huit cents pages, le livre est difficile à lire en entier. Certains chapitres sont très actuels, d'autres sont plus datés. Il est préférable de le consulter par thèmes, selon ses besoins, ou de lire la version abrégée publiée plus tard.
+
+**Un contexte des années 1970.** Le livre a été écrit avant la mondialisation financière, la révolution numérique, l'économie des plateformes et les préoccupations climatiques actuelles. Certaines analyses, notamment sur les structures et les conglomérats, sont marquées par leur époque. Drucker a lui-même actualisé plusieurs de ses idées dans des livres ultérieurs.
+
+**Des prescriptions plus que des preuves.** Comme dans ses autres livres, Drucker s'appuie sur son expérience, son observation et sa réflexion, plutôt que sur des études empiriques systématiques. Ses affirmations sont souvent convaincantes, mais elles ne sont pas toujours démontrées. Certaines ont été confirmées par la recherche, d'autres restent des convictions.
+
+**La gestion par objectifs détournée.** La gestion par objectifs a été très largement adoptée, mais souvent sous une forme qui trahit l'esprit de Drucker : des objectifs chiffrés imposés d'en haut, liés de manière mécanique aux primes, sans autocontrôle. Drucker lui-même a critiqué ces dérives. Le lecteur doit donc distinguer ce que Drucker proposait de ce qui en a été fait.
+
+**Une vision optimiste des institutions.** Drucker croyait profondément que les organisations bien gérées pouvaient servir à la fois leurs membres, leurs clients et la société. Certains critiques jugent cette vision trop optimiste, et estiment qu'elle sous-estime les conflits d'intérêts, les rapports de pouvoir et les effets négatifs des grandes organisations.
+
+**Une approche moins centrée sur la finance.** Drucker se méfiait de la logique financière à court terme et de la maximisation de la valeur pour l'actionnaire. Ses idées vont à contre-courant d'une partie de la pratique des entreprises depuis les années 1980. Ce point peut être vu comme une limite ou, au contraire, comme une force du livre.
+
+- Consultez le livre par thèmes plutôt que d'une traite.
+- Distinguez ce que Drucker proposait de ce qu'en ont fait certaines entreprises.
+
+--- Liens avec les autres livres
+kw: tous les autres livres · fondations
+*Management* est en quelque sorte la fondation de toute cette bibliothèque. On y trouve, sous une forme ou une autre, de nombreuses idées développées par les autres auteurs.
+
+**Avec L'Efficacité du dirigeant (Drucker).** Les deux livres sont complémentaires. *L'Efficacité du dirigeant* traite de la manière dont une personne devient efficace ; *Management* traite de la manière dont une organisation fonctionne. Les idées sur les forces, la contribution et la décision sont communes aux deux.
+
+**Avec High Output Management (Grove).** Grove reprend la gestion par objectifs de Drucker et la transforme en méthode opérationnelle, qui donnera naissance aux objectifs et résultats clés. Il développe aussi l'analyse de la productivité du travail intellectuel, que Drucker présentait comme le grand défi du management.
+
+**Avec De la performance à l'excellence (Collins).** La question « quelle est notre activité ? », l'abandon systématique et la concentration sur les forces se retrouvent dans le concept du hérisson et la liste des choses à arrêter. L'idée d'une direction générale en équipe rejoint le leadership de niveau 5.
+
+**Avec Le Dilemme de l'innovateur (Christensen).** Drucker recommandait de séparer le nouveau de l'existant et d'observer les non-clients. Christensen explique en détail pourquoi c'est nécessaire.
+
+**Avec Stratégie Océan Bleu (Kim et Mauborgne).** La définition de l'entreprise par la création d'un client, l'attention aux non-clients et l'importance de l'innovation se retrouvent au cœur de l'océan bleu.
+
+**Avec Commencer par pourquoi (Sinek).** La mission de Drucker et le pourquoi de Sinek répondent à la même question : pourquoi l'organisation existe-t-elle ? Drucker insiste davantage sur le client, Sinek sur la conviction.
+
+> Parcours conseillé | Utilisez ce livre comme référence : revenez au chapitre qui correspond à la question que vous vous posez, puis prolongez par le livre de la bibliothèque qui la développe.

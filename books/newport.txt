@@ -1,0 +1,320 @@
+id: newport
+t: Deep Work
+o: Deep Work
+a: Cal Newport
+y: 2016
+cat: Compétences
+p: ≈ 300 p.
+c: --b1
+ol_author: Newport
+center: Le travail en profondeur
+pitch: Pourquoi la concentration sans distraction est devenue rare et précieuse, et comment l'organiser dans une journée saturée de sollicitations.
+
+=== Contexte et thèse
+--- Un informaticien sans réseaux sociaux
+kw: professeur · concentration · 2016
+Cal Newport est professeur d'informatique à l'université de Georgetown, à Washington. Il s'intéresse depuis longtemps à la manière dont les personnes travaillent dans un monde envahi par les technologies numériques. Il a la particularité de n'avoir jamais eu de compte sur les grands réseaux sociaux, ce qui n'a pas empêché sa carrière de chercheur et d'auteur de se développer.
+
+*Deep Work*, publié en 2016, part d'un constat. Les travailleurs du savoir, cadres, ingénieurs, chercheurs, consultants, passent une grande partie de leur journée à répondre à des courriels, à participer à des réunions, à consulter des messageries instantanées et des réseaux sociaux. Leur attention est sans cesse fragmentée. Ils ont rarement l'occasion de se concentrer longtemps sur une tâche difficile.
+
+Newport défend l'idée que cette fragmentation a un coût énorme, souvent invisible. Les tâches les plus importantes, celles qui demandent de réfléchir, de créer, d'apprendre des choses difficiles, exigent une concentration prolongée. Elles sont repoussées ou réalisées dans de mauvaises conditions.
+
+Le livre est divisé en deux parties. La première explique pourquoi le travail en profondeur est précieux, rare et source de satisfaction. La seconde propose quatre règles pour l'intégrer dans sa vie professionnelle.
+
+Newport écrit pour un large public de travailleurs du savoir. Il illustre son propos par des exemples d'écrivains, de scientifiques, de dirigeants et d'artisans.
+
+> À retenir | Le travail qui compte le plus demande une concentration prolongée, que la journée moderne rend de plus en plus rare.
+
+--- Travail profond et travail superficiel
+kw: définitions · valeur · reproductible
+Newport distingue deux types de travail.
+
+Le **travail en profondeur** (*deep work*) désigne les activités professionnelles réalisées dans un état de concentration sans distraction, qui poussent nos capacités cognitives à leurs limites. Ces activités créent de la valeur, améliorent nos compétences et sont difficiles à reproduire. Exemples : écrire un rapport important, résoudre un problème technique complexe, concevoir une stratégie, apprendre une nouvelle compétence difficile.
+
+Le **travail superficiel** (*shallow work*) désigne les tâches logistiques, peu exigeantes intellectuellement, souvent réalisées en étant distrait. Elles créent peu de valeur et sont faciles à reproduire. Exemples : répondre à des courriels de routine, organiser des réunions, remplir des formulaires, naviguer sur internet pour le travail.
+
+Newport ne prétend pas que le travail superficiel est inutile. Beaucoup de ces tâches sont nécessaires au fonctionnement d'une organisation. Mais il observe qu'elles ont tendance à envahir tout l'emploi du temps. Elles sont plus faciles, plus immédiatement gratifiantes, et donnent l'impression d'être occupé.
+
+Il propose un test simple pour distinguer les deux : combien de temps faudrait-il pour former un jeune diplômé intelligent, sans expérience particulière, à réaliser cette tâche ? Si quelques semaines suffisent, c'est probablement du travail superficiel. Si cela demande des années de formation, c'est du travail en profondeur.
+
+- Profond : concentration totale, valeur élevée, difficile à reproduire.
+- Superficiel : logistique, faible valeur, facile à reproduire.
+- Le superficiel envahit naturellement l'emploi du temps.
+
+--- L'hypothèse du livre
+kw: rare · précieux · avantage
+Newport formule une hypothèse qui structure tout le livre : le travail en profondeur devient de plus en plus **précieux** dans l'économie actuelle, en même temps qu'il devient de plus en plus **rare**. Les personnes qui savent le cultiver et en faire le cœur de leur vie professionnelle prospéreront.
+
+Pourquoi est-il précieux ? Newport s'appuie sur des travaux d'économistes qui montrent que les technologies transforment le marché du travail. Les tâches routinières sont automatisées. Les personnes qui réussissent sont celles qui savent travailler avec des machines complexes, celles qui sont les meilleures dans leur domaine, et celles qui disposent de capitaux. Les deux premières catégories exigent des compétences difficiles, acquises par un travail en profondeur.
+
+Il identifie deux capacités essentielles. D'abord, la capacité à **maîtriser rapidement des choses difficiles**, car les technologies et les métiers évoluent sans cesse. Ensuite, la capacité à **produire à un niveau d'excellence**, en qualité et en rapidité. Ces deux capacités dépendent de la concentration.
+
+Pourquoi est-il rare ? Parce que l'environnement de travail moderne le décourage : bureaux ouverts, messageries instantanées, culture de la réactivité, réseaux sociaux. Newport observe que beaucoup d'entreprises valorisent la disponibilité permanente plus que la qualité du travail.
+
+Il en conclut que le travail en profondeur constitue un avantage compétitif. Puisque peu de personnes le pratiquent, ceux qui le maîtrisent se distinguent.
+
+> À retenir | Plus le travail en profondeur devient rare, plus il devient précieux. Le cultiver est un avantage.
+
+=== Pourquoi la profondeur compte
+--- Qualité = temps × intensité
+kw: intensité · résidu d'attention · multitâche
+Newport propose une formule pour décrire la production de travail de qualité : la qualité du travail produit est le produit du **temps passé** et de l'**intensité de la concentration**.
+
+Cette formule a une conséquence importante. Si l'on augmente l'intensité, on peut produire autant en moins de temps. Une heure de concentration totale peut valoir plusieurs heures de travail distrait.
+
+Newport explique pourquoi la concentration est si importante en s'appuyant sur les travaux de la chercheuse Sophie Leroy sur le **résidu d'attention**. Quand on passe d'une tâche A à une tâche B, une partie de l'attention reste accrochée à la tâche A. On continue à y penser, au moins un peu, ce qui réduit la performance sur la tâche B. Ce résidu est particulièrement fort quand la tâche A n'est pas terminée.
+
+Cela signifie que le **multitâche** est coûteux, même quand il prend la forme de brèves interruptions. Jeter un coup d'œil à ses courriels toutes les dix minutes, même pour quelques secondes, laisse un résidu d'attention qui empêche de se concentrer pleinement. La personne qui travaille ainsi a l'impression d'être efficace, mais elle travaille en permanence avec une attention diminuée.
+
+Newport cite l'exemple de grands auteurs et scientifiques qui organisaient leur travail en longues périodes sans interruption, et qui ont produit une œuvre considérable.
+
+- La qualité dépend du temps et de l'intensité.
+- Chaque changement de tâche laisse un résidu d'attention.
+- Les petites interruptions coûtent plus qu'on ne le croit.
+
+--- Pourquoi c'est rare au travail
+kw: open space · réactivité · activité
+Newport analyse les raisons pour lesquelles les organisations découragent le travail en profondeur, alors qu'il est si précieux.
+
+**Les coûts sont invisibles.** Les entreprises mesurent difficilement le coût des interruptions et des réunions. Elles voient l'avantage d'une messagerie instantanée, qui facilite la communication, mais pas la baisse de productivité qu'elle provoque.
+
+**La culture de la réactivité.** Dans beaucoup d'organisations, répondre vite aux messages est considéré comme un signe de professionnalisme. Cela permet aussi de ne pas planifier : on traite les demandes au fil de l'eau, ce qui est plus facile que d'organiser son travail.
+
+**L'activité comme preuve de productivité.** En l'absence d'indicateurs clairs de la valeur produite, les travailleurs du savoir montrent qu'ils travaillent en étant visiblement occupés : envoyer beaucoup de courriels, participer à beaucoup de réunions. Newport appelle cela l'**activité comme indicateur de productivité**.
+
+**Le culte d'internet.** Toute nouvelle technologie numérique est vue comme un progrès, et ne pas l'adopter paraît rétrograde. Les entreprises adoptent des outils sans se demander s'ils aident vraiment leur travail.
+
+Newport critique aussi les **bureaux ouverts**, censés favoriser la collaboration et la créativité. Il reconnaît l'intérêt des rencontres informelles, mais estime qu'elles devraient être combinées avec des espaces où l'on peut se concentrer.
+
+> Question clé | Dans votre organisation, comment montre-t-on que l'on travaille : par la valeur produite, ou par l'activité visible ?
+
+--- La profondeur rend heureux
+kw: flow · sens · attention choisie
+Newport ajoute un argument d'une autre nature : le travail en profondeur ne rend pas seulement plus productif, il rend aussi plus **heureux**.
+
+Il s'appuie d'abord sur les travaux du psychologue Mihaly Csikszentmihalyi sur l'expérience optimale, qu'il appelle le *flow*. Csikszentmihalyi a montré que les personnes se sentent le plus épanouies lorsqu'elles sont absorbées par une activité difficile, qui mobilise toutes leurs capacités. Paradoxalement, les moments de loisir passif sont souvent moins satisfaisants. Le travail en profondeur crée précisément les conditions de ces expériences.
+
+Il cite ensuite des travaux selon lesquels **ce à quoi nous prêtons attention façonne notre expérience de la vie**. Si nous passons nos journées à réagir à des messages, à des urgences et à des sollicitations, notre vie nous paraît agitée et superficielle. Si nous consacrons notre attention à des tâches qui ont du sens, notre vie paraît plus riche.
+
+Enfin, il évoque une dimension plus philosophique : le **sens du métier**. Il s'appuie sur des réflexions sur l'artisanat, où le travail bien fait, réalisé avec attention et savoir-faire, est une source de satisfaction profonde. Il cite l'exemple d'un forgeron qui fabrique des épées selon des méthodes anciennes, et qui trouve dans ce travail exigeant une forme d'accomplissement.
+
+Newport conclut que le travail en profondeur peut transformer un métier ordinaire en source de satisfaction, en mobilisant pleinement les capacités de la personne.
+
+- Les moments les plus satisfaisants sont souvent des moments de concentration intense.
+- Ce à quoi on prête attention façonne notre vie.
+- Le travail bien fait est une source de sens.
+
+=== Règle 1 : travailler en profondeur
+--- Choisir sa philosophie
+kw: monastique · bimodale · rythmique
+La seconde partie du livre propose quatre règles. La première consiste à **organiser le travail en profondeur**. Newport explique que la volonté ne suffit pas : nous disposons d'une quantité limitée de volonté, et les distractions sont permanentes. Il faut donc des routines et des rituels qui rendent la concentration automatique.
+
+Il commence par décrire quatre philosophies pour intégrer le travail en profondeur dans sa vie.
+
+**La philosophie monastique.** On élimine presque complètement le travail superficiel. Certains écrivains et chercheurs vivent ainsi : pas de courriel, peu de réunions, toute l'énergie consacrée à leur œuvre. Cette approche convient à des personnes dont la valeur dépend presque entièrement d'un seul type de travail.
+
+**La philosophie bimodale.** On alterne entre des périodes longues de travail en profondeur, plusieurs jours ou plusieurs semaines, et des périodes consacrées au reste. Newport cite le psychiatre Carl Jung, qui se retirait régulièrement dans une maison isolée pour écrire, tout en poursuivant par ailleurs une vie professionnelle et sociale intense.
+
+**La philosophie rythmique.** On fait du travail en profondeur une habitude régulière, à heure fixe, chaque jour. Par exemple, chaque matin de six à neuf heures. C'est l'approche la plus accessible pour la plupart des gens.
+
+**La philosophie journalistique.** On profite de chaque moment libre pour passer en mode profond, comme le font certains journalistes habitués à écrire dans l'urgence. Cette approche demande beaucoup d'entraînement et ne convient pas aux débutants.
+
+> Question clé | Laquelle de ces quatre philosophies correspond le mieux à vos contraintes actuelles ?
+
+--- Rituels et grands gestes
+kw: lieu · durée · règles · rupture
+Newport recommande de créer des **rituels** autour du travail en profondeur. Un rituel réduit la quantité de volonté nécessaire pour se mettre au travail. Il précise ce qui doit être défini :
+
+- **Le lieu** : un endroit précis, réservé si possible au travail en profondeur.
+- **La durée** : un temps défini à l'avance, avec un début et une fin.
+- **Les règles** : par exemple, pas d'internet, téléphone éteint, ou un objectif précis à atteindre.
+- **Le soutien** : ce qui aide à se concentrer, comme un café, une promenade avant, de l'eau à portée de main.
+
+Il décrit aussi le **grand geste** : un changement radical d'environnement pour une tâche importante. Il cite l'exemple d'une autrice célèbre qui, pour terminer un roman, s'est installée dans un hôtel luxueux, ou celui de dirigeants qui partent plusieurs jours dans un lieu isolé pour réfléchir. L'investissement en argent ou en effort renforce l'engagement envers la tâche.
+
+Newport souligne aussi l'importance de la **collaboration** bien conçue. Le travail en profondeur n'est pas toujours solitaire. Travailler à deux sur un problème, devant un tableau, peut produire une concentration intense. Mais il faut distinguer ces moments de collaboration ciblée du bavardage permanent.
+
+Il présente enfin une méthode d'exécution inspirée d'un ouvrage de management : se concentrer sur **peu d'objectifs très importants**, suivre des **indicateurs d'action** (les heures de travail profond, plutôt que les résultats finaux), tenir un **tableau de suivi** visible et faire un **point régulier**.
+
+- Un lieu, une durée, des règles, un soutien.
+- Un grand geste pour une tâche majeure.
+- Compter ses heures de travail profond.
+
+--- Le rituel de fin de journée
+kw: déconnexion · repos · liste
+Newport insiste sur un point souvent négligé : pour bien travailler en profondeur, il faut aussi savoir **s'arrêter**.
+
+Il cite des recherches selon lesquelles le repos améliore la capacité de concentration. Les pauses véritables, les promenades dans la nature, les moments où l'on cesse de penser au travail permettent au cerveau de récupérer. Certaines études suggèrent aussi que l'esprit continue à travailler sur des problèmes complexes de manière inconsciente pendant le repos.
+
+Il rappelle aussi que la capacité de concentration profonde est limitée. Selon les travaux qu'il cite, même les experts ne peuvent guère dépasser quelques heures de travail réellement profond par jour, souvent autour de quatre. Au-delà, la qualité diminue. Travailler le soir sur ses courriels n'apporte presque rien et empêche de récupérer.
+
+Il propose un **rituel de fin de journée**. Avant de quitter le travail, il passe en revue ses courriels et ses tâches en cours, note ce qui reste à faire, vérifie son calendrier des jours suivants et prépare le plan du lendemain. Puis il prononce une phrase qui marque la fin de la journée de travail. Ce rituel permet de laisser le travail derrière soi sans craindre d'oublier quelque chose.
+
+Il explique que les tâches non terminées ont tendance à occuper l'esprit. Le simple fait de les noter et de prévoir quand on s'en occupera suffit souvent à libérer l'attention.
+
+> À retenir | La concentration a besoin de repos. Un rituel de fin de journée permet de laisser vraiment le travail derrière soi.
+
+=== Règle 2 : accepter l'ennui
+--- La concentration est un muscle
+kw: entraînement · distraction · dépendance
+La deuxième règle est d'**accepter l'ennui**. Newport explique que la capacité de concentration est comme un muscle : elle se développe par l'entraînement, et elle s'affaiblit quand on ne l'utilise pas.
+
+Le problème, selon lui, est que nous avons pris l'habitude de fuir le moindre moment d'ennui. Dans une file d'attente, dans les transports, entre deux tâches, nous sortons notre téléphone. Notre cerveau s'habitue à recevoir une stimulation nouvelle dès qu'il s'ennuie. Quand nous voulons ensuite nous concentrer longtemps sur une tâche difficile, il réclame cette stimulation, et nous avons beaucoup de mal à résister.
+
+Newport en conclut qu'il ne suffit pas de se protéger des distractions pendant les périodes de travail profond. Il faut aussi changer son rapport aux distractions **en dehors** de ces périodes.
+
+Il critique une pratique souvent recommandée : les **pauses numériques**, où l'on se déconnecte pendant une journée par semaine. Selon lui, si l'on passe le reste de la semaine à consulter son téléphone en permanence, une journée de déconnexion ne change pas grand-chose.
+
+Il propose l'inverse : programmer des **pauses de concentration**. On décide à l'avance des moments où l'on utilisera internet et les outils de communication, et l'on s'abstient de les utiliser en dehors de ces moments. Si l'on a besoin de quelque chose en ligne en dehors de ces créneaux, on attend le créneau suivant. L'objectif est de réapprendre au cerveau à supporter l'absence de stimulation.
+
+- La concentration se muscle par l'entraînement.
+- Fuir chaque moment d'ennui affaiblit la capacité à se concentrer.
+- Programmer les moments de connexion, pas seulement de déconnexion.
+
+--- Exercices de concentration
+kw: méditation productive · délais · mémoire
+Newport propose plusieurs exercices pour développer la concentration.
+
+**Travailler comme si l'on avait un délai très court.** On choisit une tâche importante, on estime le temps qu'elle prend normalement, puis on se fixe un délai nettement plus court. On travaille avec une intensité maximale, sans aucune distraction, pour tenir ce délai. Cet exercice entraîne à des pics de concentration.
+
+**La méditation productive.** Pendant une activité physique qui occupe le corps mais pas l'esprit, comme marcher, courir, se doucher ou se déplacer en transport, on se concentre sur un seul problème professionnel bien défini. Quand l'attention dérive, on la ramène doucement au problème. Newport recommande de structurer cette réflexion : identifier les variables du problème, définir la question suivante à résoudre, puis consolider ce que l'on a trouvé.
+
+**Mémoriser.** Il cite l'exemple de champions de mémoire, qui utilisent des techniques pour retenir rapidement l'ordre de jeux de cartes. Selon lui, ce type d'entraînement améliore la capacité de concentration générale. Il propose d'apprendre à mémoriser l'ordre d'un jeu de cartes, avec une technique qui associe chaque carte à une image dans un lieu familier.
+
+Newport souligne que ces exercices peuvent sembler artificiels, mais qu'ils permettent de développer une compétence de plus en plus rare. Comme un sportif qui s'entraîne en dehors des compétitions, le travailleur du savoir peut entraîner sa concentration en dehors de ses tâches principales.
+
+> Exercice | Lors de votre prochaine marche, choisissez un problème professionnel précis et réfléchissez-y sans vous laisser distraire. Notez vos conclusions en rentrant.
+
+=== Règle 3 : quitter les réseaux sociaux
+--- L'approche de l'artisan
+kw: outils · bénéfices · coûts · choisir
+La troisième règle est provocante : **quitter les réseaux sociaux**. Newport précise toutefois qu'il ne propose pas de rejeter toute technologie. Il propose de choisir ses outils de manière réfléchie.
+
+Il critique ce qu'il appelle l'**approche du bénéfice quelconque** : on adopte un outil s'il présente le moindre avantage. Selon cette logique, presque tous les réseaux sociaux méritent d'être utilisés, car ils offrent tous quelques avantages : garder le contact avec d'anciens amis, découvrir des informations intéressantes, se faire connaître.
+
+Il propose à la place l'**approche de l'artisan**. Un artisan choisit ses outils en fonction de leur contribution réelle à son travail. Il n'utilise pas un outil simplement parce qu'il a quelques avantages ; il l'utilise si ses avantages dépassent largement ses inconvénients.
+
+La démarche consiste à identifier les **objectifs les plus importants** de sa vie professionnelle et personnelle, puis, pour chaque outil, à se demander s'il contribue fortement à ces objectifs, s'il leur nuit, ou s'il a peu d'effet. On ne garde que les outils dont l'effet positif est net.
+
+Newport cite une règle souvent appelée loi de Pareto : dans beaucoup de domaines, une petite partie des activités produit la plus grande partie des résultats. Les quelques activités les plus importantes méritent la plus grande partie de notre temps. Les outils qui nous éloignent de ces activités, même s'ils ont quelques avantages, nous coûtent cher.
+
+> À retenir | Ne pas adopter un outil parce qu'il a des avantages, mais seulement si ses avantages dépassent nettement ses coûts pour ce qui compte.
+
+--- Le test des trente jours
+kw: arrêter · observer · décider
+Pour appliquer l'approche de l'artisan aux réseaux sociaux, Newport propose une expérience simple : le **test des trente jours**.
+
+Pendant trente jours, on cesse d'utiliser tous ses réseaux sociaux, sans annoncer son départ et sans désactiver ses comptes. On disparaît simplement. À la fin des trente jours, on se pose deux questions pour chaque réseau :
+
+- **Les trente derniers jours auraient-ils été nettement meilleurs si j'avais utilisé ce service ?**
+- **Quelqu'un a-t-il remarqué mon absence ?**
+
+Si les deux réponses sont négatives, on peut quitter ce réseau définitivement. Si elles sont positives, on peut le reprendre. Si elles sont incertaines, à chacun de juger.
+
+Newport explique que cette expérience révèle souvent que les réseaux sociaux occupaient beaucoup de temps et d'attention, pour peu de bénéfices réels. Beaucoup de personnes découvrent que personne n'a remarqué leur absence, ce qui contredit la crainte de passer à côté de quelque chose.
+
+Il aborde aussi les **loisirs**. Selon lui, beaucoup de personnes passent leur temps libre à naviguer sans but sur internet, ce qui fatigue sans reposer. Il recommande de planifier ses loisirs avec soin : lecture, activités manuelles, sport, rencontres. Des loisirs exigeants et choisis sont plus reposants que le divertissement passif.
+
+Il souligne que ces conseils ne s'appliquent pas de la même manière à tout le monde. Pour certaines professions, les réseaux sociaux sont un outil essentiel. L'important est de choisir consciemment.
+
+- Trente jours sans réseaux sociaux, sans rien annoncer.
+- Se demander ce qui a manqué, et si quelqu'un l'a remarqué.
+- Planifier des loisirs exigeants plutôt que naviguer sans but.
+
+=== Règle 4 : réduire le superficiel
+--- Planifier chaque minute
+kw: blocs · emploi du temps · ajuster
+La quatrième règle est de **réduire le travail superficiel**. Newport ne propose pas de l'éliminer, ce qui est impossible, mais de le contenir pour qu'il ne dévore pas le temps disponible pour le travail profond.
+
+Sa première technique est de **planifier chaque minute de sa journée de travail**. Chaque matin, ou la veille, il divise sa journée en blocs, d'au moins une demi-heure, et attribue à chaque bloc une activité : travail profond sur un projet, traitement des courriels, réunion, pause. Les petites tâches sont regroupées dans des blocs dédiés.
+
+Newport précise que ce planning n'est pas rigide. Les imprévus arrivent, les tâches prennent plus de temps que prévu. Quand c'est le cas, il refait le planning pour le reste de la journée. L'objectif n'est pas de respecter le plan à tout prix, mais de décider consciemment de l'usage de son temps, plutôt que de le laisser déterminer par les sollicitations.
+
+Il propose aussi de **mesurer la profondeur** de chaque activité, avec la question déjà évoquée : combien de temps faudrait-il pour former un jeune diplômé à cette tâche ?
+
+Il recommande de fixer un **budget de travail superficiel**, en accord avec son responsable. Par exemple, ne pas consacrer plus de 30 à 50 % de son temps aux tâches superficielles. Cette discussion explicite aide à faire reconnaître l'importance du travail profond.
+
+> Exercice | Demain matin, découpez votre journée en blocs d'au moins trente minutes et attribuez une activité à chacun. Le soir, comparez le plan et la réalité.
+
+--- Maîtriser les courriels
+kw: filtrer · conclure · ne pas répondre
+Newport consacre plusieurs conseils à la gestion des courriels, l'une des principales sources de travail superficiel.
+
+**Rendre le contact plus exigeant.** Il suggère de filtrer les personnes qui peuvent vous écrire, par exemple en indiquant sur son site les types de messages auxquels on répond et ceux auxquels on ne répond pas. Les expéditeurs savent ainsi à quoi s'attendre.
+
+**Écrire des courriels qui terminent la conversation.** Beaucoup d'échanges de courriels s'allongent inutilement, parce que chaque message appelle une réponse. Newport recommande de rédiger des messages complets, qui anticipent les questions suivantes et proposent une solution. Par exemple, plutôt que de répondre « Oui, on peut se voir, quand êtes-vous disponible ? », proposer directement plusieurs dates et préciser ce qui se passera ensuite. Il appelle cela une approche **centrée sur le processus**.
+
+**Ne pas répondre à tout.** Newport assume de ne pas répondre à certains messages, quand la réponse ne serait ni utile ni nécessaire. Il reconnaît que cela peut parfois froisser, mais il estime que le gain de temps et d'attention en vaut la peine. Il ne répond pas aux messages ambigus, à ceux qui ne l'intéressent pas, ou à ceux qui ne produiraient rien de bon.
+
+**Regrouper.** Plutôt que de consulter sa messagerie en permanence, traiter les courriels à des moments précis de la journée.
+
+Il souligne que ces pratiques exigent d'accepter de petits inconvénients, comme un délai de réponse plus long ou un expéditeur mécontent, pour un bénéfice important : le temps et l'attention retrouvés.
+
+- Filtrer les demandes en amont.
+- Écrire des messages qui concluent.
+- Accepter de ne pas répondre à tout.
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · heures profondes
+**Semaine 1 : mesurer.** Notez chaque jour le nombre d'heures réellement passées en travail profond, sans aucune distraction. Identifiez vos principales sources de distraction.
+
+**Semaine 2 : un rituel.** Choisissez une philosophie, probablement rythmique, et bloquez chaque jour un créneau fixe de travail profond. Définissez un lieu, une durée, des règles. Mettez en place un rituel de fin de journée.
+
+**Semaine 3 : l'ennui.** Programmez vos moments de connexion à internet et aux messageries. En dehors de ces moments, n'y touchez pas. Pratiquez une méditation productive pendant une marche.
+
+**Semaine 4 : réduire le superficiel.** Planifiez chaque jour en blocs. Regroupez vos courriels en deux ou trois moments. Lancez le test des trente jours sur vos réseaux sociaux. Comparez vos heures de travail profond avec celles de la première semaine.
+
+Newport rappelle que la capacité de concentration se développe progressivement. Il faut commencer par des périodes courtes, d'une heure par exemple, et les allonger.
+
+> À retenir | Mesurer, ritualiser, s'entraîner à l'ennui, contenir le superficiel. Compter ses heures profondes chaque semaine.
+
+--- Cas pratique : l'analyste débordée
+kw: réunions · messagerie · rapport
+Élodie est analyste financière dans une grande entreprise. Elle doit produire chaque trimestre un rapport stratégique important, mais elle n'arrive jamais à s'y consacrer pendant la journée. Elle le rédige le soir et le week-end, épuisée. Ses journées sont remplies de réunions, de courriels et de messages instantanés.
+
+**Mesurer.** Pendant une semaine, elle compte ses heures de travail profond : moins de quatre heures au total.
+
+**Le rituel.** Elle bloque chaque matin, de huit heures à dix heures et demie, un créneau dans son agenda, visible par ses collègues. Elle travaille dans une petite salle, téléphone en mode avion, messagerie fermée.
+
+**L'accord avec son responsable.** Elle lui explique sa démarche et lui demande quel pourcentage de son temps il juge raisonnable de consacrer aux tâches superficielles. Ils conviennent d'environ la moitié. Il accepte de ne pas l'interrompre pendant son créneau, sauf urgence réelle.
+
+**Le superficiel.** Elle traite ses courriels à onze heures et à seize heures. Elle répond aux demandes de réunion en proposant directement un créneau et un ordre du jour.
+
+**La fin de journée.** Chaque soir, elle note ce qui reste à faire et prépare le lendemain.
+
+Le trimestre suivant, elle termine son rapport pendant ses heures de travail, et son responsable en souligne la qualité.
+
+> Question de réflexion | Quel créneau quotidien pourriez-vous protéger, dès la semaine prochaine, pour votre travail le plus important ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: privilégiés · collaboration · métiers
+*Deep Work* a eu une grande influence, mais il présente plusieurs limites.
+
+**Une vision de privilégiés.** Les exemples viennent souvent d'écrivains, de chercheurs ou de dirigeants qui ont une grande liberté d'organisation. Beaucoup de travailleurs n'ont pas la possibilité de bloquer des heures, de ne pas répondre aux courriels ou de partir dans un hôtel. Newport en est conscient, mais ses conseils sont plus faciles à appliquer pour certains que pour d'autres.
+
+**La valeur du travail superficiel sous-estimée.** Dans beaucoup de métiers, la coordination, la disponibilité et la réactivité ont une vraie valeur : le service client, le management, la santé. Le livre tend à présenter ces activités comme secondaires.
+
+**Une vision assez individuelle.** Le livre propose surtout des stratégies personnelles. Or le problème de la fragmentation de l'attention est aussi organisationnel. Newport a d'ailleurs développé cet aspect dans des livres ultérieurs, consacrés à la manière dont les organisations pourraient changer leurs méthodes de communication.
+
+**Une position radicale sur les réseaux sociaux.** Pour certaines personnes, les réseaux sociaux sont un outil professionnel important ou un moyen de rester en lien avec des proches éloignés. La recommandation de les quitter ne convient pas à tous.
+
+**Des preuves inégales.** Certaines recherches citées sont solides, comme celles sur le résidu d'attention ou le *flow*. D'autres affirmations reposent surtout sur des exemples choisis.
+
+- Des conseils plus faciles pour ceux qui maîtrisent leur emploi du temps.
+- La fragmentation de l'attention est aussi un problème d'organisation.
+
+--- Liens avec les autres livres
+kw: Drucker · Csikszentmihalyi · Clear · Grove
+**Avec L'Efficacité du dirigeant (Drucker).** Drucker insistait déjà sur la nécessité de regrouper son temps en blocs importants pour les tâches qui comptent, et de mesurer où va son temps.
+
+**Avec Vivre (Csikszentmihalyi).** Newport s'appuie explicitement sur les travaux sur le *flow* : la concentration intense sur une tâche difficile est l'une des principales sources de satisfaction.
+
+**Avec Un rien peut tout changer (Clear).** Les rituels de travail profond sont des habitudes. Les techniques de Clear, comme l'aménagement de l'environnement, aident à les installer.
+
+**Avec High Output Management (Grove).** Grove valorisait les blocs de temps protégés pour le travail important, et critiquait les interruptions non planifiées.
+
+**Avec Peak (Ericsson).** La pratique délibérée, qui permet de progresser vers l'excellence, est une forme de travail en profondeur.
+
+> Parcours conseillé | Lisez ensuite Un rien peut tout changer pour installer vos rituels, puis Peak pour l'entraînement délibéré.

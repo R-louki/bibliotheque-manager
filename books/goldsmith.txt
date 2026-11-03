@@ -1,0 +1,516 @@
+id: goldsmith
+t: Ce qui vous a mené jusqu'ici ne vous mènera pas plus loin
+o: What Got You Here Won't Get You There
+a: Marshall Goldsmith
+y: 2007
+cat: Développement personnel
+p: ≈ 250 p.
+c: --b3
+center: Changer ce qui freine ceux qui réussissent
+pitch: Vingt travers relationnels qui freinent les personnes brillantes, et une méthode simple pour s'en défaire.
+
+=== Contexte et thèse
+--- Goldsmith, coach de dirigeants
+kw: parties prenantes · payé au résultat
+Marshall Goldsmith est l'un des coachs de dirigeants les plus connus au monde. Docteur en comportement organisationnel, il a accompagné pendant des décennies des présidents et des cadres dirigeants de grandes entreprises. Il a écrit *What Got You Here Won't Get You There* en 2007, avec le journaliste Mark Reiter.
+
+Sa pratique de coaching a une particularité qui explique beaucoup de choses dans le livre. Goldsmith ne travaille pas avec des personnes en difficulté. Il travaille avec des personnes qui réussissent très bien, mais dont certains comportements relationnels limitent la carrière ou abîment leurs équipes. Ce sont souvent des dirigeants brillants, intelligents, travailleurs, dont l'entreprise souhaite qu'ils progressent encore.
+
+Sa méthode repose sur les **parties prenantes** : les collègues, collaborateurs et responsables qui travaillent avec la personne coachée. Ce sont eux qui identifient les comportements à changer, et ce sont eux qui jugent, au bout d'un an ou plus, si le changement a eu lieu. Goldsmith ne se fait payer que si les parties prenantes constatent une amélioration significative. Cette règle l'a obligé à développer une méthode efficace, car il ne peut pas se contenter de bonnes intentions.
+
+Le livre transpose cette méthode pour que chacun puisse l'appliquer à lui-même. Il s'adresse surtout aux personnes qui ont réussi et qui veulent aller plus loin : managers, dirigeants, experts, professionnels confirmés. Mais ses conseils sont utiles à toute personne qui souhaite améliorer ses relations de travail.
+
+Son titre résume la thèse centrale : les compétences et les comportements qui vous ont permis de réussir jusqu'ici ne suffiront pas pour l'étape suivante. Pire, certains de ces comportements, qui ont peut-être contribué à votre réussite, deviennent des obstacles à mesure que vous montez. Plus on progresse, plus les problèmes sont comportementaux plutôt que techniques.
+
+> À retenir | Plus on monte, plus les obstacles sont comportementaux. Et ce sont les autres, pas vous, qui jugent si vous avez vraiment changé.
+
+--- L'illusion du succès
+kw: confiance · superstition · aveuglement
+Goldsmith explique pourquoi il est si difficile pour les personnes qui réussissent de changer. Il décrit un phénomène qu'il appelle l'**illusion du succès**. Les personnes qui ont réussi ont tendance à croire quatre choses sur elles-mêmes : j'ai réussi, je peux réussir, je réussirai, et je choisis de réussir.
+
+Ces convictions sont précieuses. Elles donnent confiance, énergie et persévérance. Elles expliquent en partie pourquoi ces personnes ont réussi. Mais elles ont un revers : elles rendent très difficile la remise en question. Si je suis convaincu que j'ai réussi grâce à ce que je suis et à ce que je fais, pourquoi devrais-je changer ? Les critiques des autres paraissent injustes, ou sans importance.
+
+Goldsmith souligne aussi le rôle de la **superstition**. Les personnes qui réussissent ont tendance à attribuer leur succès à tous leurs comportements, y compris les mauvais. Un dirigeant colérique peut croire que ses colères ont contribué à sa réussite, en poussant les autres à se dépasser. Il confond corrélation et causalité. En réalité, il a souvent réussi malgré ses colères, et non grâce à elles. Goldsmith parle de personnes qui réussissent « à cause de » certains comportements et « en dépit » d'autres.
+
+Il observe aussi que les personnes qui réussissent surestiment presque toujours leur propre performance par rapport à leurs pairs. Lorsqu'on demande à des cadres de se situer, la grande majorité se place dans les meilleurs. C'est statistiquement impossible, mais c'est humain. Cette surestimation rend le feedback encore plus difficile à accepter.
+
+Enfin, il note que le succès crée une forme d'isolement. Plus une personne monte, moins les autres osent lui dire la vérité. Ses collaborateurs filtrent les mauvaises nouvelles et les critiques. Elle reçoit de moins en moins de feedback honnête, alors même que ses comportements ont de plus en plus d'impact.
+
+- Les convictions qui font réussir empêchent aussi de se remettre en question.
+- On réussit souvent malgré certains comportements, pas grâce à eux.
+- Plus on monte, moins on reçoit de vérité.
+
+--- Pourquoi on ne change pas
+kw: intérêt · valeurs · preuves
+Goldsmith constate que les personnes qui réussissent changent rarement, même lorsqu'elles savent qu'elles devraient le faire. Il identifie plusieurs raisons.
+
+**On ne voit pas le problème.** Les comportements relationnels sont souvent invisibles pour celui qui les a. Une personne qui coupe la parole ne s'en rend pas compte, parce que c'est devenu un automatisme. Il faut le regard des autres pour le révéler.
+
+**On ne croit pas que c'est important.** Même lorsqu'on prend conscience d'un comportement, on pense souvent qu'il est sans gravité. On minimise : ce n'est qu'un détail, tout le monde le fait, cela ne gêne personne.
+
+**On pense que changer serait renier ce qu'on est.** Beaucoup de personnes considèrent que leurs comportements font partie de leur identité. Changer serait perdre leur authenticité. Goldsmith répond que ce n'est pas l'identité qui pose problème, mais certains comportements, et que l'on peut changer de comportement sans changer de valeurs.
+
+**On ne voit pas l'intérêt de changer.** Goldsmith affirme que les personnes qui réussissent changent lorsqu'elles voient un intérêt personnel au changement : progresser dans leur carrière, mieux réussir, gagner le respect de leurs collègues, préserver leur famille. Les arguments moraux ou les appels à l'intérêt général ont peu d'effet. Il faut que le changement serve aussi les objectifs de la personne.
+
+**On attend le bon moment.** On se dit qu'on changera plus tard, quand on aura moins de travail, quand le projet en cours sera terminé. Goldsmith souligne que ce moment n'arrive jamais. Il y aura toujours une raison de remettre à plus tard.
+
+Pour lui, la clé du changement est donc double : prendre conscience du problème grâce au regard des autres, et relier le changement à ses propres valeurs et intérêts. Le reste du livre propose les outils pour y parvenir.
+
+> Question clé | Quel comportement vous a-t-on déjà reproché plusieurs fois, et que vous avez minimisé ? Que vous coûterait-il de le changer ?
+
+--- Ce qui change à chaque étape
+kw: expert · manager · dirigeant
+Le titre du livre prend tout son sens lorsqu'on regarde les étapes d'une carrière. À chaque changement de niveau, ce qui était une qualité peut devenir un obstacle. Goldsmith ne présente pas les étapes de manière systématique, mais ses exemples permettent de les reconstituer.
+
+**Au début de la carrière**, on réussit par sa compétence individuelle. On est reconnu parce qu'on sait faire, parce qu'on trouve les réponses, parce qu'on travaille vite et bien. Il est utile de montrer ce qu'on sait, de défendre ses idées, de vouloir gagner. Ces comportements aident à se faire remarquer.
+
+**Lorsqu'on devient manager**, la situation change. On ne réussit plus par sa propre production, mais par celle des autres. Montrer qu'on sait déjà, corriger les idées des collaborateurs ou vouloir avoir raison en réunion devient contre-productif. Ces réflexes, qui ont permis d'être promu, découragent désormais l'équipe. Le nouveau manager doit apprendre à se taire, à poser des questions et à laisser les autres trouver les solutions.
+
+**Lorsqu'on devient dirigeant**, l'effet de chaque comportement est amplifié. Une remarque anodine est interprétée comme une consigne. Un froncement de sourcils peut arrêter un projet. Un oubli de remerciement est perçu par des centaines de personnes. Le dirigeant doit être conscient que ses paroles ont un poids qu'elles n'avaient pas auparavant. Goldsmith observe que beaucoup de dirigeants ne s'en rendent pas compte, parce qu'ils se voient toujours comme la même personne qu'au début de leur carrière.
+
+Goldsmith résume cette évolution par une idée simple : au début, il s'agit de se rendre soi-même brillant ; plus on monte, plus il s'agit de faire briller les autres. Les personnes qui ne font pas ce passage plafonnent, même si elles restent très compétentes.
+
+Cette grille de lecture est utile au moment d'une promotion. Avant de prendre un nouveau poste, il vaut la peine de se demander : quels comportements m'ont fait réussir jusqu'ici, et lesquels pourraient devenir des obstacles dans ce nouveau rôle ?
+
+> À retenir | Au début, on réussit en brillant soi-même. Plus on monte, plus on réussit en faisant briller les autres.
+
+=== Les vingt travers
+--- Vouloir gagner et briller
+kw: gagner · ajouter · juger · « non, mais »
+Le cœur du livre est une liste de vingt travers relationnels que Goldsmith a observés chez les personnes qui réussissent. Il précise que ce ne sont pas des défauts de compétence, d'intelligence ou de personnalité, mais des comportements que l'on peut changer. La plupart des gens en ont un ou deux, rarement plus. Les premiers concernent le besoin de gagner et de briller.
+
+**Vouloir gagner à tout prix.** C'est le travers le plus fréquent, et la source de beaucoup d'autres. Les personnes qui réussissent aiment gagner, ce qui les a aidées. Mais elles veulent gagner partout, y compris dans des situations où cela n'a aucune importance : une discussion sur un restaurant, un débat sur un détail, une conversation familiale.
+
+**Ajouter trop de valeur.** Lorsqu'un collaborateur présente une idée, le manager ne peut pas s'empêcher d'ajouter sa touche : « c'est très bien, mais tu pourrais aussi... ». L'idée est peut-être améliorée de quelques pour cent, mais l'engagement du collaborateur baisse fortement, car ce n'est plus vraiment son idée. Goldsmith recommande souvent de simplement dire merci.
+
+**Juger.** Donner une note aux idées des autres, même positive, crée une relation d'évaluation. Si l'on dit « bonne idée » à certains et rien aux autres, ceux-ci comprennent qu'on n'aime pas leurs idées.
+
+**Faire des commentaires blessants.** Les remarques sarcastiques, les petites piques, les commentaires inutiles. Goldsmith propose une question simple avant de parler : est-ce que ça vaut la peine ? Si la remarque ne sert qu'à se faire plaisir, il vaut mieux se taire.
+
+**Commencer ses phrases par « non », « mais » ou « cependant ».** Ces mots signifient à l'interlocuteur qu'il a tort, quelle que soit la suite. Goldsmith raconte qu'il fait payer une petite amende à ses clients chaque fois qu'ils les utilisent, ce qui les rend rapidement conscients de la fréquence de ce réflexe.
+
+> Exercice | Pendant une journée, comptez combien de fois vous commencez une phrase par « non », « mais » ou « cependant ». Le chiffre vous surprendra.
+
+--- Paraître et contrôler
+kw: montrer qu'on sait · colère · rétention
+Le deuxième groupe de travers concerne le besoin de paraître intelligent et de garder le contrôle.
+
+**Montrer à quel point on est intelligent.** C'est le réflexe de dire « je le savais » ou « j'y avais déjà pensé » lorsqu'on nous apporte une information ou une idée. Le message envoyé est clair : vous ne m'apprenez rien. Cela décourage les autres de partager quoi que ce soit.
+
+**Parler sous le coup de la colère.** Goldsmith affirme que la colère a rarement des effets positifs dans le travail. Elle peut donner l'impression de contrôler la situation, mais elle laisse des traces durables. Les personnes se souviennent longtemps d'une colère, même lorsque celui qui s'est emporté l'a oubliée. Il ajoute que, même si une personne se met rarement en colère, une seule explosion suffit à créer une réputation.
+
+**Être négatif.** C'est le réflexe de répondre à toute proposition par « laisse-moi t'expliquer pourquoi ça ne marchera pas ». Certaines personnes ont tellement l'habitude de critiquer qu'elles le font même lorsqu'on ne leur demande pas leur avis. Elles peuvent avoir raison sur le fond, mais leur négativité décourage les initiatives.
+
+**Retenir l'information.** Garder pour soi des informations utiles aux autres, volontairement ou par négligence. Goldsmith précise que le plus souvent, ce n'est pas de la malveillance, mais un manque d'attention : on oublie de transférer un message, on ne prévient pas d'un changement, on ne répond pas. Le résultat est le même : les autres se sentent exclus.
+
+**Ne pas reconnaître le mérite des autres.** Oublier de féliciter, de remercier ou de reconnaître une contribution. Goldsmith observe que ce travers est très fréquent chez les dirigeants, qui considèrent que faire du bon travail est normal et ne mérite pas d'éloge.
+
+Goldsmith souligne que ces comportements ont un point commun : ils servent l'ego de celui qui les adopte, au détriment des autres. Chacun, pris isolément, semble anodin. Mais répétés jour après jour, ils dégradent la confiance et l'engagement.
+
+- « Je le savais » décourage les autres de partager.
+- Une seule colère peut définir une réputation.
+- La rétention d'information est souvent une négligence, mais elle exclut quand même.
+
+--- S'attribuer et esquiver
+kw: mérite volé · excuses · favoris
+Le troisième groupe de travers concerne la manière dont on gère le mérite et la responsabilité.
+
+**S'attribuer un mérite qu'on ne mérite pas.** C'est l'un des travers qui suscitent le plus de ressentiment. Une personne qui s'approprie le travail des autres, ou qui laisse croire qu'elle a joué un rôle plus important qu'en réalité, perd rapidement la confiance de ses collègues. Goldsmith remarque que ce comportement est souvent involontaire : on se souvient surtout de sa propre contribution et on oublie celle des autres.
+
+**Trouver des excuses.** Goldsmith distingue deux types d'excuses. Les excuses directes : « je suis en retard parce qu'il y avait des embouteillages ». Et les excuses plus subtiles, qui consistent à présenter un défaut comme un trait de caractère : « je suis nul avec les noms », « je suis impatient, c'est comme ça ». Ces excuses permettent de ne pas changer, en faisant d'un comportement une fatalité.
+
+**S'accrocher au passé.** C'est le réflexe d'expliquer ses comportements actuels par son histoire : son éducation, ses parents, ses expériences passées. Goldsmith ne nie pas l'influence du passé, mais il affirme qu'il ne sert à rien de s'y attarder. On ne peut pas changer le passé, on ne peut changer que l'avenir.
+
+**Avoir des favoris.** Les managers ont souvent des préférences, et ils ne s'en rendent pas compte. Goldsmith utilise une image amusante : il observe que, dans beaucoup de familles, c'est le chien qui accueille le plus chaleureusement les personnes qui rentrent à la maison, et qui reçoit le plus d'attention. Les managers récompensent souvent les collaborateurs qui les flattent, qui les admirent ou qui leur ressemblent, plutôt que ceux qui font le meilleur travail.
+
+**Refuser d'exprimer des regrets.** Certaines personnes ont beaucoup de mal à dire qu'elles sont désolées. Elles considèrent que s'excuser est un signe de faiblesse. Goldsmith affirme au contraire que les excuses sincères sont l'un des actes les plus puissants qui soient. Elles désarment l'autre et permettent de reconstruire la relation.
+
+> Question clé | Qui, dans votre équipe, est votre « chien » : la personne qui reçoit votre attention parce qu'elle vous flatte, plutôt que pour son travail ?
+
+--- Écouter et remercier
+kw: écoute · gratitude · messager
+Le dernier groupe de travers concerne l'attention aux autres.
+
+**Ne pas écouter.** C'est l'un des travers les plus répandus et les plus visibles. Ne pas écouter se manifeste par de nombreux signes : consulter son téléphone pendant qu'on nous parle, interrompre, finir les phrases des autres, regarder ailleurs, préparer sa réponse au lieu d'écouter. Goldsmith souligne que les personnes intelligentes sont particulièrement exposées : elles comprennent vite et deviennent impatientes. Mais les autres perçoivent ce manque d'écoute comme un manque de respect.
+
+**Ne pas exprimer sa gratitude.** Goldsmith affirme que le mot le plus simple et le plus efficace est « merci ». Il recommande de répondre par un simple merci à presque tous les conseils, compliments ou critiques, au lieu de se justifier ou de discuter. Ce mot ferme la discussion de manière positive et montre qu'on a entendu.
+
+**Punir le messager.** C'est le réflexe de réagir avec agacement, voire avec colère, lorsque quelqu'un nous apporte une mauvaise nouvelle ou une critique. Même un léger soupir ou un froncement de sourcils peut décourager les autres de nous informer à l'avenir. À long terme, on ne reçoit plus que de bonnes nouvelles, ce qui est dangereux.
+
+**Rejeter la responsabilité sur les autres.** Accuser un collaborateur, un autre service ou les circonstances lorsque les choses vont mal. Goldsmith remarque que les leaders qui rejettent la responsabilité perdent rapidement le respect de leurs équipes. Les collaborateurs veulent un responsable qui assume.
+
+**Le besoin excessif d'être soi-même.** C'est le réflexe de présenter ses défauts comme des vertus : « je suis comme ça », « je dis ce que je pense », « je suis franc ». Goldsmith affirme que ce n'est souvent qu'une excuse pour ne pas changer. On peut rester authentique tout en adaptant ses comportements.
+
+Il ajoute un **vingt-et-unième travers**, qu'il classe à part : l'**obsession des objectifs**. C'est la tendance à se concentrer tellement sur un objectif qu'on en oublie la mission plus large. Un manager peut atteindre ses objectifs de vente en épuisant son équipe et en dégradant la relation avec ses clients. Il a atteint son objectif, mais il a perdu de vue l'essentiel.
+
+- Les personnes brillantes sont les plus exposées au manque d'écoute.
+- « Merci » est presque toujours la meilleure réponse.
+- Ne laissez pas un objectif vous faire oublier la mission.
+
+--- Les travers à l'écrit et à distance
+kw: messagerie · visioconférence · copies
+Goldsmith a écrit son livre avant la généralisation des messageries instantanées et du travail à distance. Mais ses vingt travers se retrouvent tous dans ces nouveaux modes de communication, parfois de manière encore plus marquée.
+
+**Vouloir gagner** se manifeste dans les longs échanges de messages où chacun veut avoir le dernier mot. **Ajouter trop de valeur** prend la forme de la réécriture systématique des documents des collaborateurs, avec des dizaines de corrections de détail. **Juger** apparaît dans les réponses laconiques à une proposition, qui peuvent être perçues comme du mépris.
+
+**Parler sous le coup de la colère** devient **écrire** sous le coup de la colère. Un message envoyé dans l'énervement reste, peut être transféré et relu. Goldsmith recommande depuis longtemps de ne pas réagir immédiatement lorsqu'on est en colère. Avec l'écrit, ce conseil est encore plus important : on peut rédiger un message, puis attendre le lendemain avant de l'envoyer.
+
+**Retenir l'information** prend des formes nouvelles : ne pas répondre aux messages, oublier d'inclure une personne dans une conversation, ne pas partager un document. **Ne pas reconnaître le mérite** se voit dans les messages adressés à la hiérarchie qui oublient de mentionner les contributeurs. **Rejeter la responsabilité** se manifeste parfois par l'usage stratégique des copies, pour montrer à tous que l'erreur vient d'un autre.
+
+**Ne pas écouter** est particulièrement visible en visioconférence : on lit ses messages pendant que les autres parlent, on coupe sa caméra, on répond à côté. Les autres le remarquent, même à distance.
+
+Pour appliquer la méthode de Goldsmith à ces situations, on peut demander à ses collègues un feedback spécifique sur sa communication écrite et à distance. Les réponses sont souvent surprenantes, car nous relisons rarement nos messages avec les yeux du destinataire.
+
+- Écrire sous la colère est pire que parler sous la colère : l'écrit reste.
+- Relisez vos messages comme le destinataire les lira.
+
+--- Identifier son travers principal
+kw: un ou deux · priorités · regard des autres
+Après avoir présenté les vingt travers, Goldsmith donne une recommandation essentielle : ne pas essayer de tout changer. La plupart des personnes ont un ou deux travers vraiment importants. Il faut les identifier et se concentrer sur eux.
+
+Il souligne que la tentation est grande de se reconnaître dans beaucoup de travers, ou au contraire dans aucun. Les deux attitudes sont trompeuses. Si l'on se reconnaît dans tous, on se décourage et l'on ne change rien. Si l'on ne se reconnaît dans aucun, on se trompe probablement : ce sont souvent les autres qui voient nos travers mieux que nous.
+
+Goldsmith recommande donc de demander l'avis des autres pour identifier ses travers prioritaires. Il propose plusieurs moyens, détaillés dans la branche suivante : le feedback structuré, l'observation de ce que les autres disent de nous, et l'écoute de ses propres paroles.
+
+Il donne aussi des critères pour choisir le travers sur lequel travailler :
+
+- **Son impact** : le travers qui a le plus d'effet négatif sur les autres et sur les résultats.
+- **Sa fréquence** : un comportement répété quotidiennement a plus d'impact qu'un comportement exceptionnel.
+- **Sa visibilité** : un travers que les autres remarquent est plus important qu'un travers invisible.
+- **Le lien avec ses objectifs** : un travers qui empêche d'atteindre ses objectifs personnels est plus motivant à corriger.
+
+Goldsmith précise aussi qu'il faut choisir un travers qu'on est vraiment prêt à changer. Il vaut mieux changer un comportement modeste que de prétendre en changer un important sans y parvenir.
+
+Il souligne enfin que corriger un travers a souvent un effet d'entraînement. Si une personne apprend à écouter, elle commence aussi à moins juger, à moins ajouter de valeur et à mieux remercier. Les travers sont liés, et travailler sur l'un améliore souvent les autres.
+
+> Exercice | Parmi les vingt travers, choisissez les trois dans lesquels vous vous reconnaissez le plus. Puis demandez à deux collègues de confiance d'en désigner un pour vous. Comparez.
+
+=== Changer : la méthode
+--- Recueillir le feedback
+kw: 360 · confidentialité · observer
+La première étape de la méthode de Goldsmith est le **feedback**. Il affirme que c'est la seule manière fiable de savoir ce que l'on doit changer. Nos perceptions de nous-mêmes sont trop biaisées.
+
+Dans sa pratique professionnelle, Goldsmith utilise un feedback à 360 degrés : il interroge de manière confidentielle les collègues, les collaborateurs et les responsables de la personne coachée. Il leur demande ce qu'elle fait bien et ce qu'elle pourrait améliorer. Il résume ensuite les résultats sans révéler qui a dit quoi. La confidentialité est essentielle : sans elle, les personnes n'osent pas dire la vérité.
+
+Pour ceux qui n'ont pas accès à un coach, Goldsmith propose d'autres méthodes :
+
+- **Demander directement**, de manière simple : « Qu'est-ce que je pourrais faire pour être un meilleur collègue ? ». Il faut ensuite écouter, sans se défendre, et remercier.
+- **Observer les réactions des autres** : la manière dont ils réagissent à nos propos, les silences, les regards, les absences de réponse.
+- **Écouter ce que l'on dit de nous**, y compris sous forme de plaisanteries. Les plaisanteries révèlent souvent une vérité.
+- **Faire une liste des remarques** qu'on nous a faites plusieurs fois, au travail comme à la maison.
+- **S'écouter parler** : relever les phrases que l'on répète, comme « je le savais » ou « oui, mais ».
+
+Goldsmith souligne que le feedback négatif est difficile à entendre, en particulier pour les personnes qui réussissent. Il recommande de l'accueillir avec curiosité plutôt qu'avec défense. Le but n'est pas de juger si le feedback est juste ou non, mais de comprendre comment les autres nous perçoivent. Car c'est cette perception qui compte dans les relations.
+
+Il ajoute un point important : le feedback dit ce qui ne va pas, mais il ne dit pas comment changer. Il sert à identifier le problème, pas à le résoudre. Pour cela, d'autres outils sont nécessaires.
+
+> À retenir | Ce que les autres perçoivent de vous est la réalité de vos relations. Recueillez-le de manière confidentielle, écoutez sans vous défendre, remerciez.
+
+--- S'excuser et annoncer
+kw: excuses sincères · publicité du changement
+Une fois le travers identifié, Goldsmith recommande deux étapes qui surprennent souvent ses clients : s'excuser, puis annoncer publiquement qu'on va changer.
+
+**S'excuser.** Goldsmith considère les excuses comme l'un des actes les plus puissants du changement. Elles reconnaissent le problème, elles montrent qu'on a entendu et elles ouvrent la porte à une nouvelle relation. Il recommande des excuses simples : « Je suis désolé. J'ai compris que j'avais tendance à couper la parole aux autres en réunion. Je vais essayer de faire mieux. Je vous serais reconnaissant de m'aider. » Il insiste sur la simplicité : pas de justification, pas d'explication, pas de « mais ». Une excuse suivie d'une justification n'est plus une excuse.
+
+**Annoncer.** Après s'être excusé, il faut annoncer à son entourage ce que l'on va changer. Goldsmith appelle cela faire de la publicité. Pourquoi ? Parce que les autres ont déjà une image de nous, et cette image est difficile à modifier. Même si l'on change réellement, les autres risquent de ne pas le remarquer, car ils voient ce qu'ils s'attendent à voir. En annonçant le changement, on les invite à observer nos efforts. On attire leur attention sur les nouveaux comportements.
+
+Goldsmith souligne que ces deux étapes ont aussi un effet sur soi. S'excuser et annoncer publiquement crée un engagement. Il devient plus difficile de revenir en arrière lorsqu'on a dit à tout le monde qu'on allait changer.
+
+Il recommande de répéter l'annonce régulièrement, pendant plusieurs mois. Une seule annonce est vite oubliée. Il faut rappeler aux autres qu'on travaille sur ce comportement et leur demander s'ils remarquent des progrès.
+
+Il compare cette démarche à une campagne de marketing : il faut faire passer le message plusieurs fois, de différentes manières, pour qu'il soit entendu. Le changement de perception prend beaucoup plus de temps que le changement de comportement.
+
+- Une excuse suivie d'un « mais » n'est plus une excuse.
+- Annoncez votre changement : les autres ne voient que ce qu'ils s'attendent à voir.
+- Le changement de perception est plus lent que le changement de comportement.
+
+--- Écouter et remercier
+kw: question avant de parler · « merci »
+Goldsmith consacre une attention particulière à deux compétences qui accompagnent presque tous les changements : écouter et remercier.
+
+**Écouter.** Il affirme que l'écoute est la compétence qui distingue le plus les grands leaders. Il observe que les personnes les plus admirées savent donner à leur interlocuteur l'impression qu'il est la seule personne qui compte au moment où il parle. Elles ne regardent pas ailleurs, ne consultent pas leur téléphone, n'interrompent pas.
+
+Il propose plusieurs pratiques :
+
+- **Écouter sans interrompre**, et attendre que l'autre ait fini avant de répondre.
+- **Ne pas finir les phrases des autres.**
+- **Se poser une question avant de répondre** : ma réponse vaut-elle la peine d'être dite ?
+- **Poser des questions** pour comprendre plutôt que pour orienter.
+- **Ne pas montrer d'agacement**, même lorsque ce qu'on entend est désagréable.
+
+**Remercier.** Goldsmith fait du mot « merci » un outil central de sa méthode. Lorsqu'une personne nous donne un conseil, une critique ou même un compliment, le réflexe est souvent de se justifier, de discuter ou de minimiser. Goldsmith recommande de simplement dire merci. Ce mot reconnaît la contribution de l'autre, évite les discussions inutiles et encourage la personne à continuer à nous parler franchement.
+
+Il souligne que la gratitude a aussi un effet sur celui qui l'exprime. Prendre l'habitude de remercier rend plus attentif à ce que les autres apportent, et réduit la tendance à tout s'attribuer.
+
+Il raconte qu'il demande à ses clients de remercier systématiquement les personnes qui leur donnent un feedback, même lorsqu'ils ne sont pas d'accord. Au début, c'est difficile. Puis cela devient une habitude, et les relations s'améliorent nettement.
+
+> Exercice | Pendant une semaine, répondez par un simple « merci » à chaque remarque, conseil ou critique, sans rien ajouter. Observez la réaction des autres et la vôtre.
+
+--- Suivre et pratiquer le feedforward
+kw: suivi mensuel · suggestions futures
+Les deux dernières étapes de la méthode sont le **suivi** et le **feedforward**.
+
+**Le suivi.** Goldsmith affirme que le suivi est l'élément le plus important de tout le processus. Ses recherches sur des milliers de participants à des programmes de développement du leadership l'ont amené à une conclusion : les personnes qui font un suivi régulier auprès de leurs collègues progressent nettement plus que celles qui ne le font pas. Le suivi consiste à revenir régulièrement vers les personnes concernées, par exemple une fois par mois, pour leur demander : « Le mois dernier, je vous ai dit que je voulais mieux écouter. Avez-vous remarqué un changement ? Qu'est-ce que je pourrais faire de mieux ? »
+
+Le suivi a plusieurs effets. Il rappelle aux autres que l'on travaille sur ce comportement, ce qui les aide à remarquer les progrès. Il permet de recevoir des conseils réguliers pour s'améliorer. Il maintient l'engagement de la personne qui change, qui ne peut pas oublier son objectif.
+
+**Le feedforward.** C'est une technique que Goldsmith a développée et qui est devenue célèbre. Elle consiste à demander des suggestions pour l'avenir, plutôt que des critiques sur le passé. Le processus est simple :
+
+- On choisit un comportement que l'on veut changer.
+- On le décrit brièvement à une personne, qui peut être un collègue, un ami ou même un inconnu.
+- On lui demande deux suggestions pour l'avenir, qui pourraient aider à changer ce comportement.
+- On écoute les suggestions sans les commenter, sans les juger et sans se justifier.
+- On dit merci.
+- On recommence avec une autre personne.
+
+Goldsmith explique que le feedforward est plus facile à accepter que le feedback, parce qu'il porte sur l'avenir, que l'on peut changer, et non sur le passé, que l'on ne peut pas changer. Il n'implique pas de jugement personnel. Les participants trouvent souvent l'exercice agréable, à la fois pour celui qui reçoit les suggestions et pour celui qui les donne.
+
+> À retenir | Le suivi mensuel est le facteur de réussite le plus puissant. Le feedforward demande deux idées pour demain, sans débat sur hier.
+
+--- Se faire accompagner
+kw: binôme · coach · questions du soir
+Goldsmith souligne que le changement est plus facile lorsqu'on n'est pas seul. Dans sa pratique, il joue lui-même le rôle d'accompagnateur. Pour ceux qui n'ont pas de coach, il propose d'autres formes de soutien.
+
+**Le binôme.** Deux personnes qui veulent chacune changer un comportement se mettent d'accord pour s'appeler régulièrement, par exemple chaque jour ou chaque semaine. Chacune pose à l'autre les questions qu'il s'est fixées, du type « as-tu fait de ton mieux pour écouter aujourd'hui ? », et note la réponse. Goldsmith raconte qu'il pratique lui-même ce type d'échange quotidien avec un ami, depuis de nombreuses années. Le simple fait de devoir répondre à quelqu'un augmente nettement la régularité.
+
+**Le collègue observateur.** On peut demander à un collègue de confiance d'observer son comportement en réunion et de faire un retour rapide à la fin. Par exemple, combien de fois on a interrompu, ou combien de fois on a commencé par « non ». Ce retour immédiat est très efficace pour prendre conscience de ses automatismes.
+
+**Le responsable.** Si la relation le permet, il est utile d'informer son propre responsable du changement que l'on entreprend. Il peut le soutenir, le remarquer et le valoriser, ce qui renforce la motivation.
+
+**La famille et les proches.** Goldsmith observe que beaucoup de travers se retrouvent aussi à la maison. Les proches sont souvent les observateurs les plus lucides. Plusieurs de ses clients ont découvert que leurs efforts au travail amélioraient aussi leurs relations familiales, et inversement.
+
+Goldsmith insiste sur le choix de l'accompagnateur. Il doit être bienveillant, honnête et disponible. Il ne doit pas juger, mais aider. Le rôle de l'accompagnateur n'est pas de dire ce qu'il faut changer, mais d'aider la personne à tenir son engagement.
+
+> Exercice | Trouvez un binôme qui veut lui aussi changer un comportement. Fixez trois questions chacun, et échangez vos réponses chaque vendredi pendant un mois.
+
+=== Les règles du changement
+--- Choisir le bon combat
+kw: maladie · bon sujet · pas d'idéal
+Goldsmith formule plusieurs règles pour réussir le changement. Les premières portent sur le choix de ce que l'on va changer.
+
+**Vous n'avez peut-être pas un problème que le changement de comportement peut résoudre.** Goldsmith précise que sa méthode ne s'applique qu'aux comportements relationnels. Elle ne peut pas résoudre un problème de compétence technique, d'éthique ou de santé. Si une personne manque de compétences, il faut une formation. Si elle a un problème d'intégrité, le coaching ne suffit pas. Si elle souffre d'un problème psychologique sérieux, elle a besoin d'un professionnel de santé.
+
+**Choisissez ce qu'il faut vraiment changer.** Il ne faut pas changer ce qu'on aimerait changer, mais ce que les autres jugent important. Le feedback est indispensable pour cela.
+
+**Ne vous faites pas d'illusions sur ce que vous devez changer.** Il arrive qu'une personne reçoive un feedback clair, mais choisisse de travailler sur un autre sujet, plus confortable. Goldsmith recommande d'affronter le vrai problème.
+
+**Ne vous cachez pas la vérité que vous devez entendre.** Même lorsqu'un feedback est douloureux, il faut l'accepter. La personne qui refuse d'entendre la vérité ne peut pas changer.
+
+**Il n'existe pas de comportement idéal.** Goldsmith met en garde contre la recherche d'un modèle parfait. Les entreprises publient souvent des listes de compétences idéales pour leurs dirigeants. Personne ne peut les réunir toutes. Il vaut mieux identifier un ou deux comportements à améliorer que de chercher à devenir un leader parfait.
+
+**Ne réparez pas ce qui n'est pas cassé.** Si un comportement ne pose pas de problème aux autres, inutile de le changer, même s'il ne correspond pas à un modèle théorique. L'énergie doit être concentrée sur ce qui compte vraiment.
+
+Goldsmith insiste sur un principe : le changement se juge par les autres. Ce n'est pas à la personne qui change de décider si elle a progressé, mais aux personnes qui travaillent avec elle.
+
+- Le coaching comportemental ne règle ni un manque de compétence ni un problème d'éthique.
+- Changez ce que les autres jugent important, pas ce qui vous arrange.
+- Un ou deux comportements suffisent, pas un modèle idéal.
+
+--- Mesurer et persévérer
+kw: chiffres · maintenant · patience
+Les autres règles portent sur la manière de mener le changement.
+
+**Si vous pouvez le mesurer, vous pouvez l'atteindre.** Goldsmith recommande de quantifier les comportements que l'on veut changer. Par exemple, compter le nombre de fois où l'on interrompt quelqu'un en réunion, ou le nombre de remerciements exprimés dans la journée. Cette mesure rend le progrès visible et motive à continuer.
+
+**Donnez une valeur au résultat.** Il propose de relier le changement à une conséquence concrète, parfois financière. Il raconte par exemple des situations où une équipe convenait qu'un membre verserait une petite somme à une association chaque fois qu'il retombait dans son travers. Cette règle ludique rendait le comportement visible et créait une motivation supplémentaire.
+
+**Le meilleur moment pour changer, c'est maintenant.** Goldsmith observe que les personnes remettent souvent le changement à plus tard, en attendant d'avoir moins de travail ou une période plus calme. Ce moment n'arrive jamais. Il faut commencer maintenant, même modestement.
+
+**Le changement prend du temps.** Goldsmith affirme qu'il faut en général entre douze et dix-huit mois pour que les autres perçoivent un changement réel. Le comportement peut changer plus vite, mais la perception évolue lentement. Il faut donc persévérer, même lorsqu'on a l'impression que les efforts ne sont pas reconnus.
+
+**Les rechutes font partie du processus.** Personne ne change parfaitement du jour au lendemain. Il y aura des moments où l'on retombera dans son travers. L'important est de le reconnaître, de s'excuser si nécessaire, et de recommencer.
+
+**Impliquez les autres.** Le changement est plus facile lorsqu'on est soutenu. Goldsmith recommande de demander aux collègues de nous signaler les rechutes, et de nous encourager lorsqu'ils voient des progrès.
+
+Il souligne aussi que le changement est souvent plus facile qu'on ne le pense, une fois qu'on a décidé de s'y engager. Beaucoup de ses clients sont surpris de constater que leurs collègues remarquent rapidement leurs efforts et leur en sont reconnaissants.
+
+> À retenir | Mesurez votre comportement, commencez maintenant, comptez douze à dix-huit mois pour que les autres le voient, et ne vous arrêtez pas à la première rechute.
+
+--- Les pièges de la volonté
+kw: surestimation · environnement · rechute
+Goldsmith a approfondi dans un livre ultérieur, *Triggers*, la question des obstacles au changement. Ses idées complètent utilement *What Got You Here*. Il observe que nous surestimons notre capacité à changer par la seule volonté. Nous pensons qu'il suffit de décider pour y parvenir, alors que notre environnement nous pousse sans cesse vers nos vieilles habitudes.
+
+Il identifie plusieurs croyances qui nous empêchent de changer :
+
+- **« Si je le comprends, je le ferai. »** Comprendre ne suffit pas. On peut savoir parfaitement ce qu'il faut faire et ne pas le faire.
+- **« J'ai assez de volonté. »** La volonté s'épuise, surtout en fin de journée ou dans les périodes de stress.
+- **« Aujourd'hui est un jour spécial. »** Il y a toujours une bonne raison de faire une exception, et les exceptions deviennent la règle.
+- **« Je ne serai pas tenté. »** Nous sous-estimons la force des situations qui déclenchent nos travers.
+- **« Je finirai par avoir plus de temps. »** Nous croyons que nous serons moins occupés plus tard, ce qui n'arrive jamais.
+
+Goldsmith recommande donc d'identifier les **déclencheurs** de ses travers : les situations, les personnes ou les moments qui provoquent le comportement que l'on veut changer. Par exemple, une personne qui se met en colère peut remarquer que cela arrive surtout en fin de journée, lorsqu'elle est fatiguée, ou avec une personne en particulier. Une fois les déclencheurs identifiés, on peut se préparer ou modifier son environnement.
+
+Il propose aussi une pratique quotidienne : se poser chaque soir quelques questions sur ses efforts de la journée. Par exemple : « Ai-je fait de mon mieux pour écouter aujourd'hui ? », « Ai-je fait de mon mieux pour remercier ? ». Il insiste sur la formulation « ai-je fait de mon mieux », qui porte sur l'effort et non sur le résultat. Il note la réponse de 1 à 10. Cette pratique rend le changement visible au quotidien.
+
+- La volonté ne suffit pas : identifiez vos déclencheurs.
+- Préparez-vous aux situations qui provoquent vos travers.
+- Chaque soir : « ai-je fait de mon mieux pour… ? »
+
+=== Le manager et son équipe
+--- Ce que les managers oublient
+kw: on ne gère pas que soi · équipe · exemple
+Goldsmith consacre une partie du livre aux défis particuliers des personnes qui dirigent les autres. Il observe que plus une personne monte dans la hiérarchie, plus ses travers ont d'impact. Un collaborateur qui ne remercie pas affecte quelques collègues ; un dirigeant qui ne remercie pas affecte toute une organisation.
+
+Il souligne que les managers ont tendance à croire que leur rôle est de corriger les autres, et non de se corriger eux-mêmes. Ils envoient leurs collaborateurs en formation pour améliorer leurs comportements, sans se demander si leurs propres comportements posent problème. Goldsmith affirme que le changement doit commencer par le haut. Si un dirigeant change lui-même et le montre publiquement, il encourage toute l'organisation à faire de même.
+
+Il remarque aussi que les managers ont souvent des difficultés avec la délégation. Ils veulent tout contrôler, ajoutent trop de valeur aux idées des autres et ne laissent pas leurs collaborateurs prendre des initiatives. Ce comportement réduit l'engagement des équipes et limite la croissance de l'organisation.
+
+Goldsmith recommande aux managers de traiter leurs collaborateurs comme des adultes et des partenaires, et non comme des subordonnés. Il souligne que les meilleurs collaborateurs, notamment les travailleurs du savoir, en savent souvent plus que leur manager sur leur domaine. Le rôle du manager n'est pas de leur dire comment faire, mais de les soutenir et de les aider à progresser.
+
+Il insiste aussi sur la nécessité de remercier et de reconnaître. Les managers sous-estiment presque toujours l'importance de la reconnaissance. Ils pensent que le salaire suffit, ou que faire du bon travail est normal. Goldsmith affirme que la reconnaissance sincère est l'un des moteurs les plus puissants de l'engagement.
+
+Enfin, il recommande aux managers de ne pas chercher à être aimés de tous. Leur rôle est de prendre des décisions, parfois impopulaires. Mais ils doivent le faire avec respect et en expliquant leurs raisons.
+
+> Question clé | Quel comportement demandez-vous à votre équipe de changer, que vous pourriez d'abord changer vous-même ?
+
+--- Changer en équipe
+kw: chacun choisit · feedforward collectif
+Goldsmith décrit une démarche qu'il utilise avec des équipes de direction pour améliorer le fonctionnement collectif. Elle applique sa méthode individuelle à l'échelle d'une équipe.
+
+La démarche commence par une question posée à tous les membres de l'équipe : sur une échelle de 1 à 10, comment évaluez-vous le fonctionnement actuel de notre équipe, et quelle note voudriez-vous atteindre ? La plupart du temps, les membres donnent une note moyenne et souhaitent une note bien plus élevée. Cela crée une motivation commune.
+
+Ensuite, l'équipe identifie quelques comportements collectifs qui permettraient de progresser : mieux communiquer entre services, tenir ses engagements, s'écouter en réunion. Puis chaque membre choisit un comportement personnel qu'il va améliorer pour contribuer au progrès de l'équipe.
+
+Chaque membre pratique ensuite le feedforward avec ses collègues : il leur décrit le comportement qu'il veut changer et leur demande des suggestions. Il remercie, sans commenter.
+
+Pendant plusieurs mois, chaque membre fait un suivi régulier auprès de ses collègues : ont-ils remarqué un progrès ? Qu'est-ce qu'il pourrait faire de mieux ? Après plusieurs mois, l'équipe refait l'évaluation de son fonctionnement.
+
+Goldsmith rapporte que cette démarche produit des progrès significatifs dans la grande majorité des équipes qui l'appliquent sérieusement. Elle a plusieurs avantages. Elle ne repose pas sur la recherche de coupables : chacun travaille sur lui-même. Elle crée une dynamique positive, car chacun voit les efforts des autres. Et elle est simple à mettre en œuvre, sans consultant ni formation longue.
+
+Il souligne que le rôle du dirigeant est essentiel. Il doit être le premier à choisir un comportement à améliorer et à demander des suggestions à ses collaborateurs. Son exemple donne aux autres la permission de se remettre en question.
+
+- Chaque membre choisit un comportement à améliorer pour l'équipe.
+- Feedforward entre collègues, puis suivi mensuel.
+- Le dirigeant commence le premier.
+
+--- Aider un collaborateur à changer
+kw: feedback · choix · soutien · suivi
+Les managers peuvent aussi utiliser la méthode de Goldsmith pour aider leurs collaborateurs à changer un comportement. Goldsmith donne quelques recommandations pour le faire avec respect.
+
+**Commencer par soi.** Un manager qui demande à un collaborateur de changer sans être lui-même engagé dans une démarche de changement manque de crédibilité. S'il a lui-même choisi un comportement à améliorer, s'il s'est excusé et a demandé du feedback, il peut plus facilement proposer la même démarche à ses collaborateurs.
+
+**Vérifier que le problème est comportemental.** Avant d'utiliser la méthode, il faut s'assurer que le problème est bien un comportement relationnel, et non un manque de compétences, de moyens ou un problème personnel. Goldsmith rappelle que sa méthode ne résout pas tout.
+
+**Laisser le collaborateur choisir.** Le manager peut partager ce qu'il observe et ce que d'autres lui ont dit, mais il est préférable que le collaborateur choisisse lui-même le comportement sur lequel il va travailler. Un changement imposé est rarement durable.
+
+**Relier le changement à ses objectifs.** Goldsmith insiste sur l'intérêt personnel. Le manager doit montrer au collaborateur en quoi le changement l'aidera à atteindre ses propres objectifs : une promotion, de meilleures relations, plus d'influence.
+
+**Soutenir le processus.** Le manager peut faciliter le feedback, encourager le feedforward avec les collègues et remarquer publiquement les progrès. Il peut aussi faire le suivi avec le collaborateur lors des entretiens individuels.
+
+**Être patient.** Comme pour soi-même, le changement prend du temps. Le manager doit éviter de juger trop vite et accepter les rechutes.
+
+Goldsmith ajoute un point important : certaines personnes ne veulent pas changer. Dans ce cas, aucune méthode ne fonctionnera. Le manager doit alors décider si le comportement est acceptable dans son équipe, et sinon, en tirer les conséquences.
+
+- Engagez-vous d'abord vous-même dans un changement.
+- Laissez le collaborateur choisir et reliez le changement à ses objectifs.
+- Si la personne refuse de changer, aucune méthode ne fonctionnera.
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: choisir · s'excuser · suivre
+Voici un plan pour appliquer la méthode de Goldsmith à soi-même.
+
+**Semaine 1 : identifier.** Relisez les vingt travers et choisissez les trois dans lesquels vous vous reconnaissez. Demandez à cinq personnes, collègues, collaborateurs, responsable ou proches, de vous dire en toute franchise quel comportement vous pourriez améliorer pour être plus efficace avec les autres. Promettez de ne pas vous défendre et remerciez chaque réponse. Choisissez un seul comportement prioritaire, celui qui revient le plus souvent.
+
+**Semaine 2 : s'excuser et annoncer.** Allez voir les personnes concernées. Excusez-vous simplement pour ce comportement, sans justification. Annoncez que vous allez travailler à le changer, et demandez-leur de vous aider en vous signalant vos rechutes. Commencez à mesurer le comportement, par exemple en comptant chaque jour le nombre de fois où il se produit.
+
+**Semaine 3 : le feedforward.** Pratiquez le feedforward avec au moins huit personnes : décrivez le comportement, demandez deux suggestions, écoutez sans commenter, remerciez. Choisissez les suggestions qui vous paraissent les plus utiles et commencez à les appliquer. Chaque soir, posez-vous la question : « Ai-je fait de mon mieux pour… ? », et notez votre réponse de 1 à 10.
+
+**Semaine 4 : le premier suivi.** Retournez voir les personnes à qui vous avez annoncé votre changement. Demandez-leur si elles ont remarqué un progrès et ce que vous pourriez faire de mieux. Remerciez. Programmez dans votre agenda un suivi mensuel pour les douze prochains mois.
+
+Goldsmith insiste sur le fait que ce premier mois n'est qu'un début. Le changement réel prend douze à dix-huit mois. Mais les personnes qui suivent ce processus avec sérieux voient en général des progrès nets, perçus par leur entourage.
+
+> À retenir | Un seul comportement, choisi grâce aux autres. Excuses, annonce, feedforward, puis un suivi mensuel pendant au moins un an.
+
+--- Grille d'auto-diagnostic
+kw: vingt travers · notation · entourage
+Cette grille reprend les vingt travers. Pour chacun, notez de 0 à 3 la fréquence à laquelle vous pensez l'avoir : 0 jamais, 1 rarement, 2 parfois, 3 souvent. Puis demandez à une personne de confiance de remplir la même grille à votre sujet.
+
+**Gagner et briller**
+
+- Je veux gagner même dans les discussions sans importance.
+- J'ajoute ma touche aux idées des autres.
+- Je juge les idées des autres.
+- Je fais des remarques sarcastiques ou blessantes.
+- Je commence souvent par « non », « mais » ou « cependant ».
+
+**Paraître et contrôler**
+
+- Je montre que je savais déjà.
+- Je parle sous le coup de la colère.
+- Je réponds souvent par une objection.
+- J'oublie de transmettre des informations utiles aux autres.
+- Je ne reconnais pas assez la contribution des autres.
+
+**Mérite et responsabilité**
+
+- Je m'attribue plus de mérite que je n'en ai.
+- Je trouve des excuses à mes comportements.
+- J'explique mes comportements par mon passé.
+- J'ai des préférences pour certaines personnes.
+- J'ai du mal à m'excuser.
+
+**Attention aux autres**
+
+- Je n'écoute pas toujours vraiment.
+- J'oublie de remercier.
+- Je réagis mal aux mauvaises nouvelles.
+- Je rejette la responsabilité sur les autres.
+- Je justifie mes défauts par « je suis comme ça ».
+
+**Interprétation.** Ne regardez pas le total, mais les écarts. Les travers où la personne de confiance vous note plus haut que vous-même sont vos angles morts : ce sont souvent les plus importants à travailler. Choisissez-en un seul pour commencer.
+
+- Les écarts entre votre note et celle des autres révèlent vos angles morts.
+- Un seul travers à la fois.
+
+--- Cas pratique : l'experte brillante
+kw: promotion · réunions · perception
+Isabelle est directrice juridique d'une entreprise industrielle. Elle est unanimement reconnue comme la meilleure juriste du groupe. Son président envisage de lui confier la direction d'un pôle plus large, mais il hésite. Plusieurs collègues se plaignent de son attitude en réunion.
+
+**Le feedback.** Un coach interne recueille de manière confidentielle l'avis de douze personnes. Le résultat est clair : Isabelle est très respectée pour sa compétence, mais elle interrompt souvent les autres, commence ses réponses par « non, ce n'est pas ça » et corrige systématiquement les propositions de ses collègues. Plusieurs personnes ont cessé de lui demander son avis pour éviter d'être reprises.
+
+**La prise de conscience.** Isabelle est d'abord choquée. Elle pense que son exigence est ce qui fait sa valeur. Le coach lui fait remarquer qu'elle a réussi grâce à sa compétence, et en dépit de ces comportements. Elle comprend que son nouveau poste exigera de convaincre des pairs, et non de les corriger.
+
+**Le choix.** Elle choisit un comportement : ajouter trop de valeur et commencer par « non ».
+
+**Les excuses et l'annonce.** Lors d'un comité, elle s'excuse simplement auprès de ses collègues et annonce qu'elle veut mieux écouter leurs propositions avant de réagir. Elle leur demande de lui signaler ses rechutes.
+
+**Le feedforward.** Elle demande des suggestions à huit collègues. Parmi elles : poser une question avant de donner son avis, compter jusqu'à trois avant de répondre, commencer par ce qui est juste dans la proposition.
+
+**Le suivi.** Chaque mois, elle demande à ses collègues s'ils remarquent un progrès. Au début, les réponses sont prudentes. Après six mois, plusieurs collègues lui disent qu'ils la consultent à nouveau volontiers. Un an plus tard, le second feedback montre une amélioration nette. Elle obtient la promotion.
+
+> Question de réflexion | Quel comportement, qui vous a peut-être aidé jusqu'ici, pourrait vous empêcher de réussir dans votre prochain rôle ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: anecdotes · surface · élite
+Le livre de Goldsmith est très pratique et largement apprécié, mais il présente plusieurs limites.
+
+**Un public particulier.** La méthode a été développée pour des cadres dirigeants de grandes entreprises, bien rémunérés, qui ont du pouvoir et des marges de manœuvre. Certains conseils sont plus difficiles à appliquer pour des salariés en position de faiblesse. Par exemple, s'excuser publiquement et demander du feedback à ses collègues est plus risqué pour une personne dont l'emploi est précaire.
+
+**Des preuves surtout issues de sa pratique.** Goldsmith s'appuie sur son expérience de coach et sur des enquêtes réalisées auprès des participants à ses programmes. Ces données sont intéressantes, mais elles ne constituent pas des recherches indépendantes et rigoureuses. Les personnes qui suivent le processus jusqu'au bout sont aussi probablement les plus motivées, ce qui peut expliquer en partie leurs progrès.
+
+**Une approche comportementale.** La méthode se concentre sur les comportements visibles, sans chercher à comprendre leurs causes profondes. Goldsmith l'assume : il pense que l'on peut changer un comportement sans comprendre pourquoi on l'a. Cette approche est efficace pour de nombreux travers, mais elle peut être insuffisante lorsque les comportements sont liés à des difficultés psychologiques plus profondes, comme l'anxiété ou un traumatisme.
+
+**Le risque de la façade.** Une personne pourrait changer ses comportements visibles sans changer d'attitude, par exemple en disant merci mécaniquement ou en s'excusant sans sincérité. Goldsmith pense que les autres finissent par percevoir le manque de sincérité, mais le risque existe.
+
+**Le rôle du système.** Comme beaucoup de livres de développement personnel, celui-ci accorde peu d'attention aux facteurs organisationnels. Certains travers sont encouragés par la culture de l'entreprise : un système qui récompense la compétition individuelle favorise le besoin de gagner à tout prix. Changer seul peut être difficile si le système pousse dans l'autre sens.
+
+**Un style anecdotique.** Le livre est rempli d'histoires de clients célèbres ou anonymes. Elles rendent la lecture agréable, mais certains lecteurs les trouvent répétitives.
+
+- La méthode suppose une certaine sécurité d'emploi et de statut.
+- Elle traite les comportements, pas toujours leurs causes profondes.
+
+--- Liens avec les autres livres
+kw: Covey · Scott · Collins · Kahneman
+**Avec Les 7 habitudes (Covey).** Covey propose une vision globale, fondée sur le caractère et les principes. Goldsmith propose une méthode très concrète pour changer des comportements précis. Les deux se complètent : Covey dit qui devenir, Goldsmith dit comment changer un comportement à la fois. Plusieurs travers de Goldsmith, comme ne pas écouter ou ne pas remercier, correspondent à des retraits dans le compte bancaire émotionnel de Covey.
+
+**Avec Radical Candor (Kim Scott).** La méthode de Goldsmith pour recevoir du feedback, écouter sans se défendre et remercier, correspond exactement à ce que Kim Scott recommande lorsqu'elle conseille de commencer par demander du feedback. Les deux auteurs insistent sur la nécessité de récompenser la franchise des autres.
+
+**Avec De la performance à l'excellence (Collins).** Les leaders de niveau 5 décrits par Collins présentent peu des travers de Goldsmith : ils attribuent le mérite aux autres, assument leurs erreurs et écoutent. Goldsmith offre une méthode pour s'en rapprocher.
+
+**Avec Système 1 / Système 2 (Kahneman).** Kahneman explique scientifiquement plusieurs phénomènes décrits par Goldsmith : la surestimation de soi, l'excès de confiance et la difficulté à voir ses propres biais. L'illusion du succès est une forme particulière de ces biais.
+
+**Avec High Output Management (Grove).** Grove met en garde contre l'ingérence managériale, ce qui correspond au travers d'« ajouter trop de valeur » chez Goldsmith. Les deux auteurs montrent que le manager qui intervient trop réduit la motivation et le développement de ses collaborateurs.
+
+> Parcours conseillé | Lisez ensuite Système 1 / Système 2 pour comprendre pourquoi nous voyons si mal nos propres travers.

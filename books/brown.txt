@@ -1,0 +1,303 @@
+id: brown
+t: Retenir
+o: Make It Stick
+a: Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel
+y: 2014
+cat: Apprendre
+p: ≈ 310 p.
+c: --b3
+ol_author: Roediger
+center: La science d'un apprentissage durable
+pitch: Pourquoi relire et surligner trompent, et comment se tester, espacer et alterner pour retenir durablement.
+
+=== Contexte et thèse
+--- Deux chercheurs et un écrivain
+kw: mémoire · recherche · terrain
+*Make It Stick* est le fruit d'une collaboration entre deux chercheurs en psychologie cognitive de l'université Washington à Saint-Louis, Henry Roediger et Mark McDaniel, et un écrivain, Peter Brown. Les deux chercheurs étudient depuis des décennies la mémoire et l'apprentissage. Peter Brown a donné à leurs travaux une forme accessible, en les illustrant par des histoires de personnes réelles : étudiants, médecins, pilotes, sportifs, enseignants.
+
+Le livre, publié en 2014, part d'un constat inquiétant. La plupart des étudiants, et beaucoup d'enseignants et de formateurs, utilisent des méthodes d'apprentissage qui sont peu efficaces. Ils relisent leurs notes, surlignent des passages, révisent intensivement la veille d'un examen. Ces méthodes donnent une impression de maîtrise, mais produisent un apprentissage fragile, vite oublié.
+
+À l'inverse, les méthodes les plus efficaces, mises en évidence par la recherche, sont souvent contre-intuitives. Elles demandent plus d'effort, paraissent moins confortables et donnent parfois l'impression de moins bien apprendre. Pourtant, elles produisent un apprentissage plus durable et plus flexible.
+
+Les auteurs résument leur message en une idée : **l'apprentissage est plus profond et plus durable quand il demande un effort**. Ils parlent de **difficultés désirables** : des difficultés qui ralentissent l'apprentissage sur le moment, mais le renforcent à long terme.
+
+> À retenir | Les méthodes qui paraissent efficaces sont souvent trompeuses. Celles qui demandent un effort produisent un apprentissage durable.
+
+--- Les illusions de la relecture
+kw: familiarité · surligner · bachotage
+Les auteurs consacrent une partie importante du livre aux méthodes d'apprentissage les plus répandues, et à leurs limites.
+
+**La relecture.** C'est la méthode la plus utilisée par les étudiants. Pourtant, les recherches montrent qu'elle apporte peu après la première lecture. Quand on relit un texte, il paraît familier. Cette familiarité donne l'impression qu'on le connaît. Mais reconnaître un texte n'est pas la même chose que savoir retrouver et utiliser son contenu.
+
+**Le surlignage.** Surligner des passages donne aussi un sentiment d'activité et de maîtrise. Mais il s'agit surtout d'une forme de relecture, qui ne demande pas de réfléchir au sens du texte ni de le retenir.
+
+**Le bachotage.** Réviser intensivement juste avant un examen peut permettre de réussir l'examen, car l'information est encore fraîche. Mais elle est oubliée très vite ensuite. Les auteurs comparent cela à une maison construite sur du sable.
+
+Les auteurs expliquent pourquoi ces méthodes restent si populaires. Elles sont faciles, rapides et donnent une impression immédiate de progrès. Les méthodes efficaces, au contraire, sont plus lentes et plus inconfortables. Les apprenants jugent mal leur propre apprentissage : ils confondent la facilité du moment avec la solidité de ce qu'ils ont appris.
+
+Ils citent des études où des étudiants devaient choisir entre relire un texte et se tester sur son contenu. La plupart préféraient relire, et pensaient avoir mieux appris. Les tests ultérieurs montraient le contraire.
+
+- La familiarité donne une fausse impression de savoir.
+- Surligner et relire demandent peu d'effort, et laissent peu de traces.
+- Le bachotage réussit l'examen, pas l'apprentissage.
+
+--- L'oubli est normal
+kw: courbe de l'oubli · récupération · utile
+Les auteurs rappellent que l'**oubli** est une partie normale du fonctionnement de la mémoire. Nous oublions rapidement la plupart de ce que nous apprenons, surtout si nous ne l'utilisons pas.
+
+Ils expliquent que la mémoire n'est pas un simple stockage. On peut distinguer la **force de stockage**, c'est-à-dire la solidité de la trace en mémoire, et la **force de récupération**, c'est-à-dire la facilité avec laquelle on retrouve cette trace à un moment donné. Une information peut être bien stockée mais difficile à retrouver, parce qu'on ne l'a pas utilisée depuis longtemps.
+
+Cette distinction éclaire un paradoxe. Quand une information est facile à retrouver, la récupérer n'apporte presque rien. Quand elle est un peu oubliée et qu'il faut faire un effort pour la retrouver, cet effort renforce considérablement la mémoire. Un peu d'oubli rend donc la révision plus efficace.
+
+Les auteurs soulignent aussi que l'oubli a une fonction utile. Il permet de laisser de côté les informations qui ne servent plus, pour faire de la place aux nouvelles. Il serait épuisant de se souvenir de tout.
+
+L'enjeu n'est donc pas d'éviter l'oubli, mais d'organiser l'apprentissage pour que les informations importantes soient régulièrement retrouvées, et que leur trace se renforce à chaque fois.
+
+> À retenir | Retrouver une information un peu oubliée la renforce beaucoup plus que la revoir quand elle est encore fraîche.
+
+=== Se tester pour apprendre
+--- La pratique de la récupération
+kw: tests · rappel · effet test
+La technique centrale du livre est la **pratique de la récupération**, souvent appelée **effet test**. Il s'agit de retrouver une information de mémoire, plutôt que de la relire.
+
+Les auteurs présentent de nombreuses études qui montrent l'efficacité de cette pratique. Dans une expérience typique, des étudiants lisent un texte. Certains le relisent plusieurs fois. D'autres le lisent une fois, puis essaient de se rappeler son contenu sans regarder. Quelques jours plus tard, le second groupe se souvient nettement mieux du texte, alors qu'il a passé moins de temps à le lire.
+
+Ils décrivent aussi une recherche menée dans un collège américain. Des enseignants ont intégré de courts quiz réguliers dans leurs cours, sans enjeu pour la note. Les élèves ont obtenu de meilleurs résultats aux examens sur les notions testées que sur celles qui avaient seulement été révisées.
+
+Les auteurs expliquent que chaque tentative de récupération renforce les chemins qui mènent à l'information dans la mémoire. Elle permet aussi de **relier** l'information à d'autres connaissances, ce qui la rend plus facile à retrouver dans des situations variées.
+
+Ils précisent que l'effet est plus fort quand la récupération demande un **effort**. Une question à choix multiples aide, mais une question où l'on doit produire soi-même la réponse aide davantage. Et il est important de recevoir ensuite la bonne réponse, pour corriger les erreurs.
+
+Ils recommandent de transformer ses notes en questions, d'utiliser des fiches avec une question d'un côté et la réponse de l'autre, et de se tester régulièrement.
+
+- Se rappeler est plus efficace que relire.
+- Plus l'effort est grand, plus l'effet est fort.
+- Vérifier la réponse après chaque tentative.
+
+--- Tester n'est pas évaluer
+kw: faible enjeu · fréquent · anxiété
+Les auteurs insistent sur une distinction importante. Dans l'esprit de la plupart des gens, un test sert à **évaluer** : il mesure ce que l'on sait, et il donne une note. Les auteurs proposent de voir le test autrement, comme un **outil d'apprentissage**.
+
+Un test d'apprentissage est un test à **faible enjeu**. Il ne compte pas, ou très peu, pour la note finale. Il est **fréquent** : au début ou à la fin de chaque cours, après chaque chapitre. Il est **suivi d'un retour** : on corrige immédiatement les réponses.
+
+Ils soulignent plusieurs bénéfices de ces tests fréquents.
+
+**Ils renforcent la mémoire**, grâce à l'effet de récupération.
+
+**Ils révèlent ce que l'on ne sait pas.** Les apprenants surestiment souvent leur maîtrise. Les tests leur montrent leurs lacunes, ce qui leur permet de mieux cibler leurs révisions.
+
+**Ils réduisent l'anxiété des examens.** Les étudiants habitués à des tests réguliers sont moins stressés le jour de l'examen.
+
+**Ils incitent à étudier régulièrement**, plutôt que de tout réviser à la dernière minute.
+
+**Ils informent l'enseignant** sur ce que les élèves ont compris ou non.
+
+Les auteurs racontent l'histoire d'un professeur d'université qui a transformé son cours en ajoutant de courts tests au début de chaque séance. Ses étudiants, d'abord réticents, ont fini par reconnaître que ces tests les avaient aidés à mieux apprendre et à mieux réussir.
+
+> Question clé | Comment pourriez-vous transformer votre prochaine formation, ou votre prochaine lecture, en une série de petites questions à vous poser ?
+
+=== Espacer, alterner, varier
+--- Espacer la pratique
+kw: intervalles · oubli partiel · durable
+La deuxième grande technique est l'**espacement**. Plutôt que de pratiquer une compétence ou de réviser une notion de manière concentrée, on répartit les séances dans le temps.
+
+Les auteurs citent de nombreuses études qui montrent que l'espacement améliore fortement la mémorisation à long terme. Ils expliquent pourquoi : entre deux séances, on oublie un peu. À la séance suivante, il faut faire un effort pour retrouver l'information, et cet effort renforce la mémoire. L'espacement laisse aussi le temps à la **consolidation**, ce processus par lequel le cerveau stabilise et réorganise les nouvelles connaissances, notamment pendant le sommeil.
+
+Ils racontent l'histoire d'un chirurgien en formation. Des études ont comparé deux groupes de jeunes chirurgiens qui apprenaient une technique de microchirurgie. Le premier groupe suivait toutes les séances de formation en une seule journée. Le second suivait les mêmes séances réparties sur plusieurs semaines. Le second groupe maîtrisait nettement mieux la technique ensuite.
+
+Les auteurs précisent que l'intervalle idéal dépend de ce que l'on veut retenir, et pour combien de temps. Il doit être assez long pour qu'un peu d'oubli se produise, mais pas au point que l'on ait complètement oublié. En pratique, des intervalles qui s'allongent progressivement sont efficaces : un jour, puis quelques jours, puis une semaine, puis un mois.
+
+Ils reconnaissent que l'espacement paraît moins efficace sur le moment. Pendant une séance concentrée, on progresse vite et on se sent compétent. Pendant une séance espacée, on a l'impression d'avoir oublié. Mais c'est précisément cet effort qui fait la différence.
+
+- Répartir les séances dans le temps.
+- Un peu d'oubli entre deux séances renforce la mémoire.
+- Des intervalles qui s'allongent progressivement.
+
+--- Alterner les sujets
+kw: mélanger · discriminer · choisir la méthode
+La troisième technique est l'**alternance**, ou pratique entrelacée. Plutôt que de pratiquer un type de problème à la fois, puis un autre, on mélange différents types de problèmes au cours d'une même séance.
+
+Les auteurs décrivent une expérience où des étudiants apprenaient à calculer le volume de différentes formes géométriques. Un groupe pratiquait par blocs : d'abord tous les problèmes sur une forme, puis tous ceux sur une autre. L'autre groupe pratiquait de manière mélangée. Pendant l'entraînement, le premier groupe obtenait de meilleurs résultats. Mais lors du test final, une semaine plus tard, le second groupe faisait beaucoup mieux.
+
+Ils expliquent cet effet. Quand on pratique par blocs, on sait d'avance quelle méthode utiliser : il suffit de répéter la même procédure. Quand on alterne, on doit d'abord **identifier** le type de problème et **choisir** la bonne méthode. Cette compétence, savoir reconnaître la nature d'un problème, est essentielle dans la vie réelle, où les problèmes n'arrivent pas classés par catégorie.
+
+Ils citent aussi une étude sur l'apprentissage du style de différents peintres. Des participants qui voyaient des tableaux de différents artistes mélangés apprenaient mieux à reconnaître le style de chacun que ceux qui voyaient tous les tableaux d'un même peintre à la suite.
+
+Les auteurs donnent l'exemple du sport. Un joueur de baseball qui s'entraîne à frapper des balles de types variés, lancées de manière imprévisible, progresse davantage que celui qui frappe le même type de balle plusieurs fois de suite.
+
+> À retenir | Mélanger les types de problèmes est plus difficile, mais apprend à reconnaître lequel on a devant soi.
+
+--- Varier la pratique
+kw: contextes · transfert · flexibilité
+La quatrième technique est la **variation**. Il s'agit de pratiquer une compétence dans des conditions différentes, plutôt que toujours de la même manière.
+
+Les auteurs citent une expérience où des enfants s'entraînaient à lancer des sacs de graines dans un panier. Certains s'entraînaient toujours à la même distance. D'autres s'entraînaient à des distances variées, mais jamais à la distance du test final. Lors du test, ce second groupe obtenait de meilleurs résultats, alors qu'il n'avait jamais pratiqué à la distance testée.
+
+Les auteurs expliquent que la variation oblige le cerveau à construire une **représentation plus générale** de la compétence. Au lieu d'apprendre un geste précis pour une situation précise, on apprend à ajuster son geste à différentes situations. Cette représentation générale permet ensuite de s'adapter à des situations nouvelles.
+
+Ils soulignent que la variation est particulièrement utile pour le **transfert**, c'est-à-dire la capacité à utiliser ce que l'on a appris dans un contexte différent de celui de l'apprentissage. Un apprentissage trop uniforme reste lié au contexte où il a été acquis.
+
+Ils donnent des exemples professionnels : les pilotes s'entraînent sur des simulateurs qui présentent des situations variées, y compris des pannes rares ; les médecins rencontrent des patients aux profils différents ; les pompiers s'exercent dans des bâtiments différents.
+
+- Pratiquer dans des conditions variées.
+- La variation construit une compétence plus générale.
+- Elle facilite le transfert à des situations nouvelles.
+
+=== Comprendre et relier
+--- L'élaboration
+kw: expliquer · relier · exemples
+Les auteurs présentent plusieurs techniques qui aident à **comprendre** et à **relier** les nouvelles connaissances aux anciennes.
+
+**L'élaboration** consiste à donner du sens à une nouvelle information en l'expliquant avec ses propres mots, en la reliant à ce que l'on sait déjà, et en trouvant des exemples dans sa propre expérience. Plus on crée de liens entre une nouvelle information et d'autres connaissances, plus elle est facile à retrouver.
+
+Les auteurs racontent l'histoire d'une étudiante en physique qui, pour comprendre la notion de moment cinétique, pensait à une patineuse qui tourne plus vite quand elle ramène ses bras contre son corps. Cette image concrète l'aidait à comprendre et à retenir le principe.
+
+**La génération** consiste à essayer de répondre à une question ou de résoudre un problème **avant** d'avoir reçu l'explication. Même si l'on se trompe, l'effort de recherche prépare le cerveau à mieux comprendre et retenir la solution quand elle est donnée. Les auteurs citent des études où des participants qui devaient deviner un mot avant de le voir le retenaient mieux que ceux qui le voyaient directement.
+
+**La réflexion** consiste à revenir sur une expérience récente, un cours, une réunion, un projet, pour se demander ce qui s'est passé, ce qui a fonctionné, ce que l'on aurait pu faire autrement, et ce que l'on a appris. Cette pratique combine la récupération, l'élaboration et la génération. Les auteurs citent l'exemple de médecins et d'enseignants qui écrivent régulièrement de courtes réflexions sur leur pratique.
+
+> Exercice | Après votre prochaine réunion importante, écrivez en cinq minutes : ce qui s'est passé, ce que j'en retiens, ce que je ferais autrement.
+
+--- Construire des modèles mentaux
+kw: structure · règles · experts
+Les auteurs expliquent que les meilleurs apprenants ne se contentent pas d'accumuler des faits. Ils **construisent des structures** : des modèles mentaux qui organisent les connaissances et permettent de comprendre comment elles s'articulent.
+
+Ils citent des recherches selon lesquelles certaines personnes sont particulièrement douées pour extraire les idées principales d'un texte et les organiser en une structure cohérente. D'autres retiennent des détails isolés, sans voir comment ils s'articulent. Les premières apprennent mieux et retiennent plus longtemps. Les auteurs suggèrent que cette capacité peut s'entraîner, par exemple en résumant un texte en quelques idées principales, ou en dessinant une carte des concepts.
+
+Ils distinguent aussi deux manières d'apprendre une compétence : apprendre des **exemples** et apprendre des **règles**. Certaines personnes retiennent surtout des exemples précis, d'autres cherchent les principes qui les relient. Les secondes sont souvent plus capables de s'adapter à des situations nouvelles.
+
+Ils soulignent que les experts, dans tous les domaines, disposent de modèles mentaux riches et bien organisés. Un médecin expérimenté reconnaît rapidement un ensemble de symptômes comme le signe d'une maladie précise. Un joueur d'échecs expérimenté voit une position comme une configuration familière. Ces modèles se construisent par une pratique longue et variée, avec des moments de réflexion.
+
+- Organiser les connaissances en structures.
+- Chercher les règles derrière les exemples.
+- Les experts disposent de modèles mentaux riches.
+
+=== Se connaître comme apprenant
+--- L'illusion de savoir
+kw: surconfiance · calibrage · test
+Les auteurs consacrent un chapitre aux **illusions** qui faussent notre jugement sur ce que nous savons.
+
+Ils expliquent que nous sommes souvent mauvais juges de notre propre apprentissage. Plusieurs mécanismes nous trompent.
+
+**La familiarité.** Un texte relu paraît connu, ce qui donne l'impression de le maîtriser.
+
+**La fluidité.** Une explication claire et facile à suivre donne l'impression qu'on pourrait la reproduire. Ce n'est pas le cas.
+
+**La surconfiance.** Les personnes les moins compétentes dans un domaine ont souvent tendance à surestimer leurs capacités, parce qu'elles n'ont pas les connaissances nécessaires pour repérer leurs propres erreurs. Les auteurs évoquent les recherches sur ce phénomène, souvent appelé effet Dunning-Kruger.
+
+**Les souvenirs reconstruits.** Notre mémoire n'est pas une copie fidèle de la réalité. Elle reconstruit les souvenirs, en comblant les lacunes, parfois de manière erronée. Les auteurs citent des cas de témoins sincères mais trompés.
+
+Pour se protéger de ces illusions, les auteurs recommandent de **calibrer** son jugement, c'est-à-dire de le confronter à des mesures objectives. Les tests sont le meilleur outil de calibrage : ils montrent ce que l'on sait réellement. Les retours des autres, les comparaisons avec des pairs et l'application pratique permettent aussi de vérifier sa maîtrise.
+
+> À retenir | Nous jugeons mal ce que nous savons. Se tester est le meilleur moyen de calibrer son jugement.
+
+--- Le mythe des styles
+kw: mythe des styles · effort · intelligence
+Les auteurs abordent deux idées très répandues sur l'apprentissage.
+
+**Les styles d'apprentissage.** Beaucoup de personnes pensent qu'il existe des apprenants visuels, auditifs ou kinesthésiques, et qu'il faut adapter l'enseignement au style de chacun. Les auteurs expliquent que cette idée, bien que populaire, n'est pas soutenue par la recherche. Les études qui ont cherché à vérifier si l'adaptation au style déclaré améliorait l'apprentissage n'ont généralement pas trouvé d'effet. Les auteurs reconnaissent que les personnes ont des préférences et des forces différentes, mais ils recommandent d'adapter l'enseignement à la **nature du contenu** plutôt qu'au style supposé de l'apprenant.
+
+**L'intelligence.** Les auteurs rappellent les travaux de Carol Dweck sur l'**état d'esprit**. Les personnes qui pensent que l'intelligence est fixe ont tendance à éviter les difficultés, pour ne pas révéler leurs limites. Celles qui pensent qu'elle peut se développer considèrent les difficultés comme des occasions d'apprendre. Les auteurs soulignent que les techniques du livre, qui demandent de l'effort et confrontent à l'erreur, sont plus faciles à adopter avec un état d'esprit de développement.
+
+Ils citent aussi des recherches montrant que le cerveau se modifie avec l'apprentissage, et que l'effort intellectuel renforce les capacités cognitives.
+
+Ils concluent que les capacités d'apprentissage ne sont pas fixées une fois pour toutes. On peut apprendre à mieux apprendre.
+
+- Les styles d'apprentissage sont un mythe tenace.
+- Adapter l'enseignement au contenu, pas au style supposé.
+- Croire que l'on peut progresser aide à accepter l'effort.
+
+=== Mettre en pratique
+--- Conseils aux apprenants et formateurs
+kw: étudiants · enseignants · formateurs
+Le dernier chapitre du livre donne des conseils pratiques à différents publics.
+
+**Pour les étudiants et les apprenants :**
+- Transformer ses notes en questions et se tester régulièrement.
+- Espacer ses révisions, en revenant sur les notions déjà vues.
+- Mélanger les types de problèmes.
+- Essayer de résoudre un problème avant de lire la solution.
+- Relier les nouvelles connaissances à ce que l'on sait déjà, avec ses propres mots et ses propres exemples.
+- Se méfier du sentiment de maîtrise que donnent la relecture et la familiarité.
+
+**Pour les enseignants et les formateurs :**
+- Expliquer aux apprenants comment fonctionne l'apprentissage, pour qu'ils acceptent les difficultés désirables.
+- Intégrer des tests fréquents à faible enjeu.
+- Revenir régulièrement sur les notions des séances précédentes.
+- Concevoir des exercices qui alternent les types de problèmes.
+- Rendre l'apprentissage cumulatif : chaque évaluation peut inclure des questions sur des notions anciennes.
+
+**Pour les formations professionnelles :**
+- Répartir les formations dans le temps plutôt que de les concentrer.
+- Utiliser des simulations et des cas variés.
+- Organiser des moments de réflexion après les expériences importantes.
+
+Les auteurs soulignent que ces conseils ne demandent pas de moyens supplémentaires. Ils demandent surtout de changer des habitudes.
+
+> À retenir | Se tester, espacer, alterner, générer, réfléchir. Et expliquer aux apprenants pourquoi c'est plus difficile.
+
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · se tester
+**Semaine 1 : arrêter de relire.** Choisissez un sujet à apprendre. Après chaque lecture, fermez le livre et écrivez ce dont vous vous souvenez. Comparez ensuite avec le texte.
+
+**Semaine 2 : créer des questions.** Transformez vos notes en questions. Préparez des fiches avec la question d'un côté et la réponse de l'autre. Testez-vous chaque jour.
+
+**Semaine 3 : espacer et alterner.** Planifiez vos révisions : le lendemain, trois jours après, une semaine après. Mélangez les sujets ou les types d'exercices dans une même séance.
+
+**Semaine 4 : générer et réfléchir.** Avant de lire une explication, essayez de répondre à la question. Après chaque séance ou chaque expérience importante, écrivez une courte réflexion. À la fin du mois, faites un test sur tout ce que vous avez appris depuis le début.
+
+Les auteurs rappellent que ces méthodes donnent souvent l'impression d'apprendre moins bien. C'est normal : l'effort est le signe que l'apprentissage se renforce.
+
+> À retenir | Si c'est facile, ce n'est probablement pas efficace. L'effort est le signe du progrès.
+
+--- Cas pratique : la certification
+kw: examen · professionnel · révisions
+Karim, responsable comptable, doit passer un examen de certification professionnelle dans quatre mois. Lors d'une première tentative, il avait relu ses manuels plusieurs fois, surligné les passages importants et révisé intensivement la dernière semaine. Il avait échoué, alors qu'il pensait bien connaître le programme.
+
+**Le diagnostic.** En lisant *Make It Stick*, il comprend qu'il a été victime de l'illusion de la familiarité.
+
+**Se tester.** Il transforme chaque chapitre en questions, et commence chaque séance de travail par un test sur les chapitres précédents.
+
+**Espacer.** Il étale ses révisions sur les quatre mois, avec un calendrier qui revient sur chaque chapitre à intervalles croissants.
+
+**Alterner.** Plutôt que de faire tous les exercices d'un chapitre à la suite, il mélange des exercices de différents chapitres.
+
+**Générer.** Il essaie de résoudre les cas pratiques avant de lire les corrections.
+
+**Calibrer.** Un mois avant l'examen, il passe un examen blanc dans les conditions réelles, qui révèle deux domaines encore faibles.
+
+Il réussit l'examen avec une marge confortable, et constate six mois plus tard qu'il se souvient encore de l'essentiel.
+
+> Question de réflexion | Pour votre prochain apprentissage important, quelles méthodes trompeuses utilisez-vous encore ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: laboratoire · motivation · contenus
+*Make It Stick* est très apprécié pour sa clarté et son sérieux scientifique, mais il présente quelques limites.
+
+**Des études souvent en laboratoire.** Beaucoup de résultats viennent d'expériences sur des étudiants, avec des contenus simples comme des listes de mots ou des textes courts. Les auteurs citent aussi des études en classe et en entreprise, mais l'efficacité des techniques sur des apprentissages très complexes est moins documentée.
+
+**La motivation peu traitée.** Le livre explique comment apprendre efficacement, mais il aborde moins la question de la motivation : comment donner envie d'apprendre, comment persévérer quand les méthodes efficaces paraissent difficiles.
+
+**Des techniques adaptées surtout aux connaissances.** Les techniques sont particulièrement efficaces pour retenir des connaissances et des procédures. Pour des compétences très créatives ou relationnelles, leur application est moins directe.
+
+**Le confort perdu.** Les auteurs reconnaissent que les difficultés désirables peuvent décourager certains apprenants, surtout ceux qui manquent de confiance. Une difficulté excessive n'est pas désirable.
+
+**Des répétitions.** Le livre revient souvent sur les mêmes idées, ce qui renforce le message mais allonge la lecture.
+
+- Des techniques solides, surtout pour les connaissances.
+- La motivation et la confiance restent à travailler à côté.
+
+--- Liens avec les autres livres
+kw: Dehaene · Ericsson · Dweck · Young
+**Avec Apprendre ! (Dehaene).** Dehaene explique les mécanismes cérébraux qui rendent efficaces les techniques présentées ici : retour sur erreur, consolidation, sommeil.
+
+**Avec Peak (Ericsson).** La pratique délibérée repose aussi sur l'effort, le retour sur erreur et la construction de représentations mentales.
+
+**Avec Changer d'état d'esprit (Dweck).** Les auteurs s'appuient sur Dweck pour expliquer pourquoi certains apprenants acceptent mieux les difficultés.
+
+**Avec Ultralearning (Young).** Scott Young applique ces techniques, récupération, rétroaction, rétention, à des projets d'apprentissage intensifs.
+
+**Avec Système 1 / Système 2 (Kahneman).** Les illusions de savoir décrites ici sont proches des biais de jugement étudiés par Kahneman.
+
+> Parcours conseillé | Lisez ensuite Ultralearning pour organiser un projet d'apprentissage complet, puis Peak pour viser l'excellence.

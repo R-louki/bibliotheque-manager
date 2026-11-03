@@ -1,0 +1,280 @@
+id: lebon
+t: Psychologie des foules
+o: Psychologie des foules
+a: Gustave Le Bon
+y: 1895
+cat: Sciences humaines
+p: ≈ 200 p.
+c: --b4
+ol_author: Le Bon
+center: L'individu dans la foule
+pitch: Un classique controversé de la fin du XIXe siècle : comment l'individu se transforme dans la foule, et comment les meneurs la gouvernent.
+
+=== Contexte et thèse
+--- Un auteur et son époque
+kw: XIXe siècle · révolutions · ère des foules
+Gustave Le Bon était un médecin, anthropologue et essayiste français, né en 1841. Il s'est intéressé à de nombreux domaines : la médecine, l'archéologie, la photographie, la physique. Il est surtout connu pour *Psychologie des foules*, publié en 1895.
+
+Le livre paraît dans une France marquée par une histoire politique agitée. Le siècle a connu plusieurs révolutions, la Commune de Paris en 1871, l'essor des mouvements ouvriers, le développement du suffrage universel et de la presse de masse. Les élites de l'époque s'inquiètent de la place croissante prise par les masses populaires dans la vie politique.
+
+Le Bon affirme que l'on entre dans l'**ère des foules**. Selon lui, les grandes croyances religieuses et politiques qui organisaient les sociétés s'effondrent, et le pouvoir passe progressivement aux masses. Il veut comprendre la psychologie de ces foules, pour que les dirigeants puissent les comprendre, et éventuellement les gouverner.
+
+Il faut lire ce livre en gardant à l'esprit son contexte. Le Bon exprime une vision très méfiante, souvent méprisante, des classes populaires, et il défend des idées sur les « races » et sur les femmes qui sont aujourd'hui rejetées. Son livre a aussi été lu avec intérêt par des dirigeants autoritaires du XXe siècle, qui y ont trouvé des techniques pour manipuler les masses.
+
+Pourtant, l'ouvrage reste un classique, souvent cité en psychologie sociale, en sciences politiques et en communication. Certaines de ses observations sur les comportements collectifs ont gardé une actualité, même si ses explications ont été largement contestées.
+
+> À retenir | Un classique de 1895, à lire avec un regard critique : des observations frappantes sur les foules, mêlées aux préjugés de son époque.
+
+--- La loi de l'unité mentale
+kw: âme collective · transformation
+La thèse centrale de Le Bon est que l'individu se **transforme** lorsqu'il fait partie d'une foule.
+
+Il précise d'abord ce qu'il entend par foule. Il ne s'agit pas seulement d'un rassemblement de personnes au même endroit. Une foule, au sens psychologique, est un ensemble de personnes dont les sentiments et les idées s'orientent dans une même direction, et qui forment une sorte d'**âme collective**. Une foule peut se constituer dans une rue, dans une assemblée parlementaire, dans un jury ou dans une nation entière à certains moments.
+
+Le Bon formule ce qu'il appelle la **loi de l'unité mentale des foules**. Quand des individus forment une foule, leur personnalité consciente s'efface. Ils pensent, ressentent et agissent d'une manière très différente de celle dont ils agiraient isolément. Les différences d'intelligence, d'éducation et de caractère s'estompent. Ce qui ressort, ce sont des sentiments communs, plus élémentaires.
+
+Il souligne une conséquence frappante : une foule n'est pas la somme des intelligences qui la composent. Selon lui, elle est souvent intellectuellement inférieure à l'individu isolé. Des personnes instruites et raisonnables peuvent, au sein d'une foule, prendre des décisions absurdes ou commettre des actes qu'elles réprouveraient seules.
+
+Le Bon ajoute cependant que la foule n'est pas forcément mauvaise. Elle peut être capable d'actes d'héroïsme et de dévouement que l'individu isolé n'accomplirait pas. Elle est **plus extrême**, dans le bien comme dans le mal.
+
+- L'individu se transforme dans la foule.
+- Une âme collective efface les différences individuelles.
+- La foule est plus extrême, dans le pire comme dans le meilleur.
+
+=== Pourquoi l'individu change
+--- Anonymat, contagion, suggestion
+kw: invincibilité · imitation · hypnose
+Le Bon propose trois explications de la transformation de l'individu dans la foule.
+
+**Le sentiment de puissance et l'anonymat.** Dans une foule, l'individu se sent porté par le nombre. Il acquiert un sentiment de puissance qui lui permet de céder à des instincts qu'il aurait retenus seul. Et comme il est anonyme, noyé dans la masse, il se sent moins responsable de ses actes. Le Bon estime que la responsabilité individuelle, qui retient habituellement les comportements, disparaît en grande partie.
+
+**La contagion.** Les sentiments et les actes se propagent dans une foule de proche en proche, comme une maladie. Un individu adopte le comportement des autres, au point de sacrifier son intérêt personnel à l'intérêt collectif. Le Bon compare cette contagion à un phénomène d'hypnose.
+
+**La suggestibilité.** C'est selon lui la cause la plus importante. L'individu dans la foule se trouve dans un état proche de l'hypnose, où il perd sa volonté et son discernement, et suit les suggestions qu'on lui donne. Le Bon s'inspire ici des recherches de son époque sur l'hypnose, très en vogue à la fin du XIXe siècle.
+
+Le Bon insiste sur le fait que ces mécanismes agissent sur tous les individus, quelle que soit leur éducation. Il cite des exemples d'assemblées savantes ou politiques qui, selon lui, se sont comportées comme des foules.
+
+La psychologie moderne a largement remis en question l'explication par l'hypnose. Mais les phénomènes de contagion émotionnelle, de dilution de la responsabilité et d'influence sociale qu'il décrit ont été étudiés par la suite, avec d'autres explications.
+
+> Question clé | Avez-vous déjà agi, dans un groupe, d'une manière que vous auriez désapprouvée si vous aviez été seul ?
+
+--- Les caractères de la foule
+kw: impulsive · crédule · intolérante
+Le Bon décrit plusieurs caractéristiques des foules.
+
+**L'impulsivité et la mobilité.** La foule est guidée par l'inconscient et les émotions plutôt que par la réflexion. Elle passe rapidement d'un sentiment à l'autre : de l'enthousiasme à la colère, de l'adoration à la haine.
+
+**La crédulité.** La foule accepte facilement ce qu'on lui dit, sans esprit critique. Elle peut croire aux rumeurs les plus invraisemblables. Le Bon évoque des cas d'hallucinations collectives, où des groupes entiers croient voir quelque chose qui n'existe pas.
+
+**L'exagération et la simplicité des sentiments.** La foule ne connaît pas les nuances. Elle simplifie, exagère, et pousse ses sentiments à l'extrême. Un soupçon devient une certitude, une antipathie devient une haine.
+
+**L'intolérance et l'autoritarisme.** La foule accepte mal la contradiction. Elle respecte la force et méprise la faiblesse. Elle est prête à se soumettre à un chef autoritaire.
+
+**Le conservatisme.** Paradoxalement, malgré son caractère révolutionnaire apparent, la foule est attachée aux traditions profondes. Elle peut renverser un gouvernement, mais revient vite à des formes de pouvoir familières.
+
+**La moralité.** La foule peut être capable de cruauté, mais aussi d'abnégation, de dévouement et de sacrifice pour une cause.
+
+Le Bon souligne que ces caractéristiques varient selon le type de foule, mais qu'elles se retrouvent à des degrés divers dans tous les rassemblements humains.
+
+- Impulsive, crédule, simpliste, intolérante.
+- Révolutionnaire en surface, conservatrice en profondeur.
+- Capable de cruauté comme de dévouement.
+
+=== Les idées et les croyances des foules
+--- Des images, pas des raisons
+kw: images · mots · formules
+Le Bon explique que les foules ne sont pas sensibles aux **raisonnements**. Elles sont influencées par les **images**.
+
+Selon lui, la foule pense par images. Une image en évoque une autre, sans lien logique. Ce qui frappe l'imagination d'une foule, ce n'est pas un argument, mais une représentation vivante, saisissante, souvent simplifiée. Il cite l'exemple de grands événements qui marquent l'opinion moins par leur importance réelle que par leur caractère spectaculaire. Une catastrophe qui fait de nombreuses victimes en un seul instant frappe davantage les esprits qu'une épidémie lente qui en fait beaucoup plus.
+
+Il souligne le pouvoir des **mots** et des **formules**. Certains mots, comme liberté, égalité, démocratie, ont sur les foules un pouvoir considérable, non pas en raison de leur sens précis, que la foule ne connaît pas, mais à cause des images et des émotions qu'ils évoquent. Le sens de ces mots change selon les époques et les peuples. Le Bon observe que les dirigeants habiles savent renommer les choses : remplacer un mot devenu impopulaire par un autre, plus séduisant, sans changer la réalité.
+
+Il évoque aussi le rôle des **illusions**. Les foules, selon lui, ont besoin d'illusions, de rêves, de croyances qui donnent un sens à leur existence. Ceux qui savent les leur fournir obtiennent leur adhésion. Ceux qui cherchent à les détruire deviennent leurs ennemis.
+
+Enfin, il insiste sur l'importance de l'**expérience** : seule l'expérience répétée, souvent douloureuse, peut détruire une illusion solidement installée dans l'esprit des foules.
+
+> À retenir | Les foules pensent par images, non par raisonnements. Les mots comptent moins par leur sens que par les émotions qu'ils évoquent.
+
+--- Croyances et opinions
+kw: fondamentales · mobiles · tradition
+Le Bon distingue deux types de convictions.
+
+**Les croyances fondamentales** sont profondes et durables. Ce sont les grandes croyances religieuses, politiques ou sociales, qui organisent une civilisation pendant des siècles. Elles changent très lentement, et leur changement provoque de grandes transformations historiques. Le Bon pense que l'époque où il écrit est une période de transition, où les anciennes croyances s'effondrent sans que de nouvelles ne soient encore établies.
+
+**Les opinions mobiles** sont superficielles et changeantes. Elles naissent et disparaissent rapidement, selon les modes, les événements et l'influence de la presse. Le Bon observe que les opinions de son époque sont devenues de plus en plus instables, en raison de l'affaiblissement des grandes croyances et de la multiplication des journaux.
+
+Il décrit aussi les **facteurs lointains** qui préparent les croyances des foules : la race, au sens contestable que lui donne Le Bon, les traditions, le temps, les institutions et l'éducation. Il accorde une grande importance aux traditions, qu'il considère comme la mémoire collective d'un peuple. Il pense aussi que les institutions ne peuvent pas transformer profondément un peuple : elles sont le produit de son caractère plutôt que sa cause.
+
+Il critique l'éducation de son époque, qu'il juge trop fondée sur la mémorisation et la récitation, et peu capable de former le jugement.
+
+Ces analyses mêlent des observations intéressantes, sur la lenteur des changements culturels ou l'instabilité de l'opinion, et des théories aujourd'hui rejetées, notamment sur les races.
+
+- Les croyances fondamentales changent lentement.
+- Les opinions superficielles changent vite.
+- Le Bon mêle intuitions et théories aujourd'hui rejetées.
+
+=== Les meneurs
+--- Le besoin d'un chef
+kw: volonté · foi · domination
+Le Bon consacre une partie importante de son livre aux **meneurs**. Selon lui, toute foule a besoin d'un chef. Dès qu'un certain nombre de personnes sont réunies, elles se placent instinctivement sous l'autorité de l'une d'elles.
+
+Il décrit le meneur comme une personne dotée d'une **volonté forte** et d'une **foi** intense dans une idée. Le Bon note que les meneurs ne sont généralement pas des penseurs. Ce sont des hommes d'action, parfois peu intelligents, mais convaincus. Leur conviction est communicative. Il estime que la foi d'un meneur, même dans une idée fausse, a plus de pouvoir sur les foules que la raison d'un savant.
+
+Il distingue deux types de meneurs. Les premiers ont une volonté énergique, mais passagère : ils sont capables d'entraîner une foule dans une action ponctuelle. Les seconds ont une volonté durable : ce sont les grands fondateurs de religions ou d'empires, qui peuvent marquer l'histoire pendant des siècles.
+
+Le Bon souligne que la foule cherche moins la liberté que l'**obéissance**. Elle est prête à suivre un chef qui lui donne une direction, des certitudes et un sentiment de force. Cette observation, présentée comme une vérité générale, reflète aussi la méfiance de l'auteur envers la démocratie.
+
+Il note que l'autorité des meneurs est souvent fragile. Elle dépend de leur succès. Un meneur qui échoue peut être abandonné, voire attaqué, par la foule qui l'adorait la veille.
+
+> Question clé | Dans votre organisation, qu'est-ce qui convainc le plus : la qualité d'un argument, ou la conviction de celui qui le porte ?
+
+--- Affirmation, répétition, contagion
+kw: affirmer · répéter · propager
+Le Bon décrit trois procédés utilisés par les meneurs pour faire pénétrer une idée dans l'esprit des foules.
+
+**L'affirmation.** Une affirmation pure et simple, sans raisonnement ni preuve, est l'un des moyens les plus sûrs de faire entrer une idée dans l'esprit d'une foule. Plus l'affirmation est concise et dépourvue de nuance, plus elle a d'effet. Le Bon note que les discours politiques et religieux procèdent souvent ainsi.
+
+**La répétition.** Une affirmation n'a d'effet réel que si elle est répétée constamment, et autant que possible dans les mêmes termes. La répétition finit par installer l'idée dans l'inconscient, au point qu'on oublie qui l'a formulée et qu'on finit par la croire. Le Bon cite l'exemple de la publicité, qui répète inlassablement les mêmes messages, et dont il observe déjà l'efficacité à son époque.
+
+**La contagion.** Une fois qu'une idée a été suffisamment affirmée et répétée, elle se propage d'elle-même, par contagion, d'une personne à l'autre. Les opinions et les croyances se diffusent ainsi bien plus par imitation que par raisonnement. Le Bon observe que les modes, dans les vêtements, les arts ou les idées, se propagent de la même manière.
+
+Ces trois procédés ont été largement étudiés et utilisés au XXe siècle, dans la publicité et dans la propagande politique. Les recherches modernes en psychologie ont confirmé qu'une affirmation répétée paraît plus vraie, un phénomène parfois appelé l'effet de vérité illusoire.
+
+- Affirmer sans démontrer.
+- Répéter dans les mêmes termes.
+- Laisser l'idée se propager par imitation.
+
+--- Le prestige
+kw: acquis · personnel · fragile
+Le Bon considère le **prestige** comme la source principale de l'autorité des meneurs et des idées.
+
+Il le définit comme une forme de domination qu'une personne, une œuvre ou une idée exerce sur notre esprit. Le prestige paralyse le sens critique et suscite l'admiration, presque la fascination.
+
+Il distingue deux formes.
+
+**Le prestige acquis** vient du nom, de la fortune, de la réputation, de la fonction. Un officier en uniforme, un juge, un titre de noblesse, une institution ancienne en sont dotés indépendamment des qualités personnelles de ceux qui les portent.
+
+**Le prestige personnel** est une qualité propre à certaines personnes, qui exercent une fascination sur ceux qui les entourent, même sans titre ni fonction. Le Bon cite les grands conquérants et fondateurs de religions.
+
+Il souligne que le prestige dépend fortement du **succès**. Un échec peut le détruire très rapidement. Et une fois qu'il est discuté, il cesse d'être du prestige : il disparaît dès qu'on commence à l'examiner de manière critique.
+
+Cette analyse rejoint des travaux ultérieurs sur l'autorité et le charisme, notamment ceux du sociologue Max Weber sur l'autorité charismatique, et ceux de la psychologie sociale sur l'influence des symboles d'autorité.
+
+> À retenir | Le prestige paralyse le jugement. Il vient du statut ou de la personne, et disparaît dès qu'on le discute ou qu'il échoue.
+
+=== Les différentes foules
+--- Jurys, électeurs, assemblées
+kw: foules organisées · électeurs · parlements
+Dans la dernière partie de son livre, Le Bon applique ses analyses à différents types de foules.
+
+**Les foules criminelles.** Il examine des épisodes de violence collective pendant la Révolution française. Il estime que les participants n'étaient pas forcément des criminels au sens ordinaire, mais des personnes transformées par la foule, convaincues d'accomplir un devoir.
+
+**Les jurés.** Le Bon observe que les jurys d'assises, composés de citoyens ordinaires, réagissent souvent davantage aux émotions qu'aux arguments juridiques. Ils sont sensibles au prestige de l'avocat, à l'apparence de l'accusé, aux images évoquées.
+
+**Les électeurs.** Il considère le corps électoral comme une foule, sensible aux affirmations, aux promesses et au prestige des candidats. Il décrit, de manière cynique, ce qu'un candidat doit faire pour séduire : affirmer, promettre, flatter, attaquer ses adversaires. Malgré cette vision critique, il reconnaît qu'il ne voit pas de système meilleur que le suffrage universel, et estime qu'il faut l'accepter.
+
+**Les assemblées parlementaires.** Il observe que les parlements, malgré la qualité de leurs membres, présentent souvent les caractéristiques des foules : sensibilité aux orateurs, simplification des idées, revirements soudains, influence de quelques meneurs.
+
+Le Bon conclut que les sociétés de son époque sont de plus en plus gouvernées par la psychologie des foules, et que les dirigeants doivent la comprendre pour gouverner.
+
+- Jurés, électeurs et parlementaires se comportent parfois en foule.
+- Le Bon critique ces institutions sans proposer de les remplacer.
+
+=== Un héritage ambigu
+--- Influence et usages
+kw: propagande · publicité · psychologie sociale
+*Psychologie des foules* a eu une influence considérable, et souvent inquiétante.
+
+Le livre a été lu par de nombreux dirigeants politiques au XXe siècle. Plusieurs dictateurs et propagandistes ont admis s'en être inspirés pour leurs techniques de manipulation des masses : l'affirmation simple, la répétition, l'usage des images et des symboles, le culte du chef. Cette influence a largement contribué à la réputation sulfureuse du livre.
+
+Il a aussi influencé la **publicité** et les **relations publiques**. Les pionniers de ces métiers, au début du XXe siècle, ont étudié la psychologie des foules pour comprendre comment influencer l'opinion et les comportements des consommateurs.
+
+En **sciences sociales**, le livre a ouvert un champ de recherche sur les comportements collectifs. Sigmund Freud a écrit un essai sur la psychologie des masses en discutant longuement les thèses de Le Bon. Mais les chercheurs ultérieurs ont largement critiqué sa méthode, qui repose sur des impressions et des anecdotes plutôt que sur des observations rigoureuses.
+
+La **psychologie sociale moderne** a développé d'autres explications des comportements de groupe. Elle a notamment montré que les foules ne sont pas forcément irrationnelles, que les personnes y conservent souvent leur jugement, et que les comportements collectifs s'expliquent en partie par une identité sociale partagée et par des normes propres au groupe, plutôt que par une perte de la personnalité.
+
+> Question clé | Où reconnaissez-vous aujourd'hui les techniques décrites par Le Bon : dans la politique, la publicité, les réseaux sociaux ?
+
+--- Les foules à l'ère numérique
+kw: réseaux sociaux · viralité · bulles
+Plus d'un siècle après sa publication, le livre de Le Bon est souvent relu à la lumière des **réseaux sociaux** et de la communication numérique.
+
+Plusieurs phénomènes qu'il décrivait semblent trouver un écho dans les dynamiques en ligne.
+
+**La contagion émotionnelle.** Les contenus qui suscitent des émotions fortes, la colère, l'indignation, l'enthousiasme, se propagent beaucoup plus vite que les contenus nuancés.
+
+**La simplification.** Les formats courts favorisent les affirmations simples, les slogans et les images frappantes.
+
+**La répétition.** Les mêmes messages, répétés par de nombreux comptes, peuvent finir par paraître vrais.
+
+**L'anonymat.** L'anonymat relatif en ligne peut favoriser des comportements que les personnes n'adopteraient pas face à face.
+
+**Les meneurs.** Des personnalités très suivies, parfois dotées d'un fort prestige personnel, entraînent des communautés entières.
+
+Mais il faut rester prudent. Les foules numériques ne sont pas des foules physiques. Les chercheurs soulignent que les dynamiques en ligne dépendent aussi des algorithmes, des modèles économiques des plateformes et des stratégies délibérées de certains acteurs. Et de nombreux mouvements collectifs en ligne ont aussi permis des mobilisations utiles et réfléchies.
+
+Le livre de Le Bon peut aider à repérer certains mécanismes, mais pas à les expliquer entièrement.
+
+- Contagion, simplification, répétition se retrouvent en ligne.
+- Mais algorithmes et modèles économiques jouent aussi un rôle majeur.
+
+=== Mettre en pratique
+--- Ce que le manager peut en retenir
+kw: réunions · communication · esprit critique
+Malgré ses limites, le livre de Le Bon peut éclairer certains aspects de la vie des organisations.
+
+**Les réunions.** Un groupe réuni peut prendre des décisions qu'aucun de ses membres n'aurait prises seul. Les phénomènes de contagion, de suivisme et de pression du groupe existent dans les comités et les réunions. Un bon animateur veille à recueillir les avis individuels avant que la discussion collective ne les uniformise, par exemple en demandant à chacun de noter son avis avant d'en parler.
+
+**La communication.** Les messages simples, répétés et illustrés par des images concrètes ont plus d'impact que les longs raisonnements. Un dirigeant qui veut faire comprendre une stratégie doit la résumer, la répéter et l'illustrer. Mais il doit le faire honnêtement, sans tomber dans la manipulation.
+
+**Le prestige.** Dans une organisation, les idées sont souvent jugées selon le statut de celui qui les propose plutôt que selon leur valeur. Un manager attentif veille à ce que les bonnes idées puissent venir de partout.
+
+**L'esprit critique.** Connaître les mécanismes décrits par Le Bon aide à s'en protéger : se méfier des affirmations répétées sans preuve, des émotions collectives, et de l'autorité qui n'est pas discutée.
+
+> Exercice | Lors de votre prochaine réunion de décision, demandez à chacun d'écrire son avis avant toute discussion. Comparez avec la décision finale.
+
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · regard critique
+**Semaine 1 : observer.** Repérez chaque jour un exemple d'affirmation, de répétition ou de contagion dans les médias, la publicité ou les réseaux sociaux. Notez quel sentiment il cherche à provoquer.
+
+**Semaine 2 : les groupes.** Observez les réunions auxquelles vous participez. Notez les moments où le groupe suit un avis sans vraiment le discuter, ou où une émotion collective l'emporte sur l'analyse.
+
+**Semaine 3 : protéger le jugement.** Instaurez des pratiques qui préservent les avis individuels : avis écrits avant la discussion, désignation d'une personne chargée de contredire, temps de réflexion avant une décision importante.
+
+**Semaine 4 : communiquer honnêtement.** Pour un message important à transmettre, résumez-le en une phrase, illustrez-le par une image concrète, et répétez-le, tout en donnant accès aux raisons et aux données.
+
+> À retenir | Repérer les mécanismes, protéger le jugement individuel, communiquer simplement mais honnêtement.
+
+=== Regard critique et liens
+--- Limites du livre
+kw: préjugés · méthode · élitisme
+*Psychologie des foules* doit être lu avec un regard critique.
+
+**Des préjugés graves.** Le livre contient des théories racialistes, des propos méprisants envers les femmes, les peuples non européens et les classes populaires, qui étaient répandus dans certains milieux de son époque et qui sont aujourd'hui rejetés.
+
+**Une méthode impressionniste.** Le Bon procède par affirmations générales et exemples choisis, sans enquête rigoureuse. Ironiquement, il utilise souvent les procédés qu'il décrit : l'affirmation, la répétition, les images frappantes.
+
+**Une vision élitiste et antidémocratique.** Le livre exprime une méfiance profonde envers la participation des masses à la vie politique. Il présente la foule comme naturellement irrationnelle et inférieure, ce que les recherches ultérieures ont largement nuancé.
+
+**Des explications dépassées.** L'explication par l'hypnose et la suggestion ne correspond plus aux connaissances actuelles. La psychologie sociale a montré que les comportements collectifs ont des logiques plus complexes, et souvent plus rationnelles.
+
+**Un usage dangereux.** Le livre a servi de manuel à des propagandistes et à des régimes autoritaires.
+
+Il reste cependant un document important pour comprendre l'histoire des idées, et certaines de ses observations sur la contagion émotionnelle ou la puissance de la répétition ont été confirmées par des recherches ultérieures.
+
+- Un texte marqué par des préjugés aujourd'hui rejetés.
+- Des intuitions, mais une méthode faible et des explications dépassées.
+
+--- Liens avec les autres livres
+kw: Cialdini · Kahneman · Harari · Morel
+**Avec Influence (Cialdini).** Cialdini étudie scientifiquement plusieurs mécanismes que Le Bon décrivait intuitivement, comme la preuve sociale et l'autorité.
+
+**Avec Système 1 / Système 2 (Kahneman).** La sensibilité aux images, aux émotions et aux affirmations répétées correspond au fonctionnement rapide et intuitif du système 1.
+
+**Avec Sapiens (Harari).** Harari montre que les croyances partagées permettent la coopération à grande échelle ; Le Bon en décrivait surtout les dangers.
+
+**Avec Les Décisions absurdes (Morel).** Morel étudie comment des groupes compétents prennent collectivement des décisions absurdes, avec une approche bien plus rigoureuse.
+
+**Avec Team of Teams (McChrystal).** À l'opposé de la vision de Le Bon, McChrystal montre comment un grand collectif peut devenir plus intelligent que ses chefs, grâce au partage d'information et à la décentralisation.
+
+> Parcours conseillé | Lisez ensuite Influence pour une approche scientifique de la persuasion, puis Les Décisions absurdes pour les erreurs collectives.

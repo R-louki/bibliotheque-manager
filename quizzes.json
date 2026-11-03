@@ -1,0 +1,3602 @@
+{
+ "drucker-eff": [
+  {
+   "q": "Selon Drucker, qui est un « dirigeant » ?",
+   "o": [
+    "Toute personne qui a au moins cinq subordonnés",
+    "Tout travailleur du savoir responsable d'une contribution qui compte pour l'organisation",
+    "Uniquement les membres du comité de direction",
+    "Toute personne payée au-dessus d'un certain salaire"
+   ],
+   "a": 1,
+   "e": "Le critère n'est pas le nombre de subordonnés mais la responsabilité d'une contribution qui affecte les résultats de l'organisation."
+  },
+  {
+   "q": "Par quoi Drucker recommande-t-il de commencer pour devenir efficace ?",
+   "o": [
+    "Rédiger un plan stratégique",
+    "Découvrir où passe réellement son temps",
+    "Réorganiser son équipe",
+    "Fixer des objectifs ambitieux"
+   ],
+   "a": 1,
+   "e": "Les dirigeants efficaces commencent par leur temps, et d'abord par l'enregistrer, car notre perception de son usage est presque toujours fausse."
+  },
+  {
+   "q": "Pourquoi faut-il regrouper son temps discrétionnaire en grands blocs ?",
+   "o": [
+    "Pour avoir moins de réunions",
+    "Parce que le travail de réflexion exige du temps continu",
+    "Pour faciliter le reporting",
+    "Parce que les petits créneaux sont réservés aux urgences"
+   ],
+   "a": 1,
+   "e": "Quinze minutes ici et vingt minutes là ne s'additionnent pas : un travail de fond demande de longues plages sans interruption."
+  },
+  {
+   "q": "Quelle question oriente le dirigeant vers l'extérieur ?",
+   "o": [
+    "Quel est mon budget ?",
+    "Combien de personnes dois-je diriger ?",
+    "Quelle contribution puis-je apporter ?",
+    "Quelles sont mes tâches ?"
+   ],
+   "a": 2,
+   "e": "Se demander quelle contribution on peut apporter déplace le regard de l'effort vers les résultats, qui se trouvent à l'extérieur."
+  },
+  {
+   "q": "Que signifie « bâtir sur les forces » dans le recrutement ?",
+   "o": [
+    "Chercher des personnes sans faiblesse",
+    "Chercher une force majeure dans un domaine important et rendre les faiblesses sans importance",
+    "Recruter uniquement des généralistes",
+    "Créer un poste sur mesure pour chaque personne"
+   ],
+   "a": 1,
+   "e": "Chercher l'absence de défauts produit de la médiocrité ; Drucker recommande de chercher la force majeure."
+  },
+  {
+   "q": "Que sont les « postériorités » ?",
+   "o": [
+    "Les tâches à déléguer",
+    "Ce qu'on décide de ne pas faire, ou pas maintenant",
+    "Les projets en retard",
+    "Les objectifs de l'année suivante"
+   ],
+   "a": 1,
+   "e": "Une liste de priorités sans liste de postériorités n'est qu'une liste de souhaits."
+  },
+  {
+   "q": "Comment traiter un problème générique selon Drucker ?",
+   "o": [
+    "Au cas par cas, au fil de l'eau",
+    "Par une règle ou un principe, une fois pour toutes",
+    "En le confiant à un consultant",
+    "En attendant qu'il disparaisse"
+   ],
+   "a": 1,
+   "e": "Traiter un problème générique comme une série de cas isolés produit des décisions qui se contredisent."
+  },
+  {
+   "q": "Pourquoi Drucker recommande-t-il de partir d'opinions plutôt que de faits ?",
+   "o": [
+    "Parce que les faits coûtent cher",
+    "Parce que choisir les faits pertinents suppose déjà une hypothèse, qu'il vaut mieux expliciter et tester",
+    "Parce que les opinions sont toujours justes",
+    "Pour aller plus vite"
+   ],
+   "a": 1,
+   "e": "Expliciter les opinions comme des hypothèses à tester protège contre la recherche de faits qui confirment ce qu'on pense déjà."
+  }
+ ],
+ "grove": [
+  {
+   "q": "Selon l'équation de Grove, à quoi correspond la production d'un manager ?",
+   "o": [
+    "À son propre travail",
+    "À la production de son équipe et des équipes qu'il influence",
+    "Au nombre de réunions qu'il anime",
+    "À son chiffre d'affaires personnel"
+   ],
+   "a": 1,
+   "e": "Le manager est jugé sur ce que produisent les équipes qu'il dirige ou influence, pas sur ce qu'il fait lui-même."
+  },
+  {
+   "q": "Dans l'usine du petit-déjeuner, qu'est-ce que l'étape limitante ?",
+   "o": [
+    "L'étape la moins chère",
+    "L'étape la plus longue, qui fixe le rythme de l'ensemble",
+    "La dernière étape",
+    "L'étape confiée au stagiaire"
+   ],
+   "a": 1,
+   "e": "On organise la production autour de l'étape la plus longue, car c'est elle qui fixe le rythme."
+  },
+  {
+   "q": "Pourquoi associer les indicateurs par paires ?",
+   "o": [
+    "Pour doubler les données",
+    "Parce que se concentrer sur un seul indicateur provoque un effet secondaire indésirable",
+    "Pour impressionner la direction",
+    "Parce que c'est une obligation légale"
+   ],
+   "a": 1,
+   "e": "Vitesse et taux d'erreur, stock et ruptures : l'indicateur de contre-effet évite de dégrader un aspect en améliorant l'autre."
+  },
+  {
+   "q": "Laquelle de ces activités a un fort levier ?",
+   "o": [
+    "Refaire soi-même le travail d'un collaborateur compétent",
+    "Recruter la bonne personne",
+    "Assister à une réunion sans objectif",
+    "Retarder une décision"
+   ],
+   "a": 1,
+   "e": "Une bonne embauche produit des effets pendant des années : c'est une activité à levier très élevé."
+  },
+  {
+   "q": "À qui appartient l'entretien individuel selon Grove ?",
+   "o": [
+    "Au manager",
+    "Au service des ressources humaines",
+    "Au collaborateur, qui en fixe l'ordre du jour",
+    "À l'équipe entière"
+   ],
+   "a": 2,
+   "e": "Le collaborateur prépare l'entretien et choisit les sujets ; le manager écoute et apporte son expérience."
+  },
+  {
+   "q": "Quel est le modèle de décision collective de Grove ?",
+   "o": [
+    "Le chef décide seul, puis informe",
+    "Discussion libre, décision claire, soutien total",
+    "Vote à la majorité",
+    "Consensus obligatoire"
+   ],
+   "a": 1,
+   "e": "On débat librement, on tranche clairement, puis tout le monde soutient la décision, y compris ceux qui étaient contre."
+  },
+  {
+   "q": "Que signifie la « maturité relative à la tâche » ?",
+   "o": [
+    "L'âge du collaborateur",
+    "Son ancienneté dans l'entreprise",
+    "Son niveau d'expérience sur une tâche donnée, qui détermine le style de management adapté",
+    "Son niveau de diplôme"
+   ],
+   "a": 2,
+   "e": "Une même personne peut être experte sur un sujet et débutante sur un autre : le style doit s'adapter à chaque tâche."
+  },
+  {
+   "q": "Selon Grove, quand les valeurs culturelles sont-elles le meilleur mode de contrôle ?",
+   "o": [
+    "Quand la situation est simple et chacun suit son intérêt",
+    "Quand la situation est complexe, incertaine, et que les personnes sont tournées vers le groupe",
+    "Quand on veut réduire les coûts",
+    "Quand les règles sont écrites"
+   ],
+   "a": 1,
+   "e": "Le marché convient aux échanges simples ; les valeurs partagées sont plus efficaces dans les situations complexes et ambiguës."
+  }
+ ],
+ "scott": [
+  {
+   "q": "Quels sont les deux axes du cadre de Kim Scott ?",
+   "o": [
+    "Exigence et rémunération",
+    "Attention personnelle et défi direct",
+    "Autorité et sympathie",
+    "Résultats et processus"
+   ],
+   "a": 1,
+   "e": "La franchise radicale combine une attention sincère à la personne et le courage de dire clairement ce qu'on pense."
+  },
+  {
+   "q": "Quel est le comportement le plus fréquent et le plus coûteux selon l'autrice ?",
+   "o": [
+    "L'agressivité odieuse",
+    "L'insincérité manipulatrice",
+    "L'empathie ruineuse",
+    "La franchise radicale"
+   ],
+   "a": 2,
+   "e": "Par gentillesse, le manager n'ose pas dire ce qui ne va pas, et la personne ne progresse pas."
+  },
+  {
+   "q": "Par quoi Kim Scott recommande-t-elle de commencer ?",
+   "o": [
+    "Donner des critiques",
+    "Demander du feedback sur soi-même",
+    "Organiser un séminaire",
+    "Revoir les salaires"
+   ],
+   "a": 1,
+   "e": "Demander d'abord montre qu'on est prêt à entendre ce qu'on demandera aux autres d'entendre."
+  },
+  {
+   "q": "Que penser de la technique du « sandwich » (critique entre deux compliments) ?",
+   "o": [
+    "C'est la méthode recommandée",
+    "Elle est souvent perçue comme manipulatrice et brouille le message",
+    "Elle ne s'applique qu'aux débutants",
+    "Elle est obligatoire en entretien annuel"
+   ],
+   "a": 1,
+   "e": "Les gens apprennent à ignorer les compliments en attendant la critique : mieux vaut séparer éloges et critiques."
+  },
+  {
+   "q": "Où et comment donner une critique ?",
+   "o": [
+    "Par écrit, devant toute l'équipe",
+    "Rapidement, en personne et en privé, sur des actes et non sur la personnalité",
+    "Une fois par an, lors de l'entretien d'évaluation",
+    "Par l'intermédiaire d'un collègue"
+   ],
+   "a": 1,
+   "e": "Une critique utile arrive vite, se fait de vive voix et en privé, et décrit des actes et leurs effets."
+  },
+  {
+   "q": "Comment se mesure la qualité d'un feedback ?",
+   "o": [
+    "À sa longueur",
+    "À ce que l'autre a réellement entendu et compris",
+    "Au ton employé",
+    "Au nombre de points abordés"
+   ],
+   "a": 1,
+   "e": "Un message parfaitement formulé mais mal compris n'est pas encore de la franchise radicale."
+  },
+  {
+   "q": "Que désigne un collaborateur en « croissance stable » ?",
+   "o": [
+    "Un collaborateur peu performant",
+    "Un pilier qui excelle dans son rôle sans chercher à monter dans la hiérarchie",
+    "Un nouvel arrivant",
+    "Un collaborateur sur le départ"
+   ],
+   "a": 1,
+   "e": "Les piliers sont précieux : il ne faut pas confondre absence d'ambition hiérarchique et absence de valeur."
+  },
+  {
+   "q": "Que recommande l'autrice pour les réunions ?",
+   "o": [
+    "Mélanger débat et décision pour gagner du temps",
+    "Séparer les réunions de débat et les réunions de décision",
+    "Supprimer toutes les réunions",
+    "Laisser toujours décider le plus haut placé"
+   ],
+   "a": 1,
+   "e": "Débattre sans enjeu de décision immédiate permet à chacun de s'exprimer librement."
+  }
+ ],
+ "lencioni": [
+  {
+   "q": "Quel dysfonctionnement est à la base de la pyramide ?",
+   "o": [
+    "L'inattention aux résultats",
+    "La peur du conflit",
+    "L'absence de confiance",
+    "Le manque d'engagement"
+   ],
+   "a": 2,
+   "e": "Sans confiance fondée sur la vulnérabilité, aucun des niveaux supérieurs ne peut se construire."
+  },
+  {
+   "q": "Quelle forme de confiance Lencioni vise-t-il ?",
+   "o": [
+    "Savoir qu'un collègue tiendra ses délais",
+    "Oser se montrer vulnérable : dire « je me suis trompé », « j'ai besoin d'aide »",
+    "Faire confiance au chef",
+    "Avoir confiance dans les chiffres"
+   ],
+   "a": 1,
+   "e": "Il s'agit de la certitude que les autres ont de bonnes intentions et qu'on ne risque rien à se montrer tel qu'on est."
+  },
+  {
+   "q": "Qu'est-ce que l'« harmonie artificielle » ?",
+   "o": [
+    "Une équipe qui se dispute sans cesse",
+    "Des réunions calmes et polies où les vrais désaccords ne sont jamais exprimés",
+    "Une équipe très soudée",
+    "Un séminaire de cohésion"
+   ],
+   "a": 1,
+   "e": "Les désaccords existent mais se déplacent dans les couloirs ; les décisions ne sont pas vraiment soutenues."
+  },
+  {
+   "q": "Quels sont les deux obstacles à l'engagement ?",
+   "o": [
+    "Le manque de budget et de temps",
+    "Le désir de consensus et le besoin de certitude",
+    "Le télétravail et les réunions",
+    "Les conflits et la confiance"
+   ],
+   "a": 1,
+   "e": "On n'a pas besoin d'avoir gain de cause pour soutenir une décision, et une décision imparfaite vaut mieux que pas de décision."
+  },
+  {
+   "q": "À quoi sert l'exercice du « message en cascade » ?",
+   "o": [
+    "À informer la presse",
+    "À vérifier en fin de réunion que chacun a compris la même décision et transmettra le même message",
+    "À désigner un porte-parole",
+    "À voter"
+   ],
+   "a": 1,
+   "e": "Il révèle immédiatement les interprétations différentes d'une même décision."
+  },
+  {
+   "q": "Qui doit rappeler les engagements dans une équipe performante ?",
+   "o": [
+    "Uniquement le manager",
+    "Les pairs eux-mêmes",
+    "Les ressources humaines",
+    "Personne"
+   ],
+   "a": 1,
+   "e": "La pression des pairs est le moyen le plus rapide et le plus efficace de maintenir des standards élevés."
+  },
+  {
+   "q": "Qu'est-ce que la « première équipe » d'un membre du comité de direction ?",
+   "o": [
+    "Le service qu'il dirige",
+    "L'équipe de direction dont il fait partie avec ses pairs",
+    "Son équipe d'origine",
+    "Les clients"
+   ],
+   "a": 1,
+   "e": "Sa loyauté principale doit aller à l'équipe de direction, sinon chacun défend son silo."
+  },
+  {
+   "q": "Que fait Kathryn face à la responsable marketing qui refuse de jouer collectif ?",
+   "o": [
+    "Elle ne dit rien pour préserver son talent",
+    "Après des conversations franches, elle lui demande de quitter l'entreprise",
+    "Elle lui donne une promotion",
+    "Elle change toute l'équipe"
+   ],
+   "a": 1,
+   "e": "Une personne brillante mais qui refuse durablement de jouer collectif peut empêcher toute l'équipe de progresser."
+  }
+ ],
+ "collins": [
+  {
+   "q": "Selon Collins, quel est le principal obstacle à l'excellence ?",
+   "o": [
+    "Le manque de moyens",
+    "Être déjà bon",
+    "La concurrence",
+    "La réglementation"
+   ],
+   "a": 1,
+   "e": "Le confort d'une situation satisfaisante empêche de chercher mieux."
+  },
+  {
+   "q": "Quel paradoxe caractérise le leader de niveau 5 ?",
+   "o": [
+    "Charisme et autoritarisme",
+    "Humilité personnelle et volonté professionnelle",
+    "Prudence et lenteur",
+    "Optimisme et naïveté"
+   ],
+   "a": 1,
+   "e": "Une ambition immense, mais tournée vers l'entreprise et non vers soi."
+  },
+  {
+   "q": "Que signifie l'image de la fenêtre et du miroir ?",
+   "o": [
+    "Regarder par la fenêtre en cas d'échec et dans le miroir en cas de succès",
+    "Attribuer les succès aux autres (fenêtre) et assumer les échecs (miroir)",
+    "Observer la concurrence",
+    "Communiquer en interne et en externe"
+   ],
+   "a": 1,
+   "e": "Les leaders de niveau 5 font l'inverse des leaders égocentriques."
+  },
+  {
+   "q": "Dans quel ordre les entreprises excellentes ont-elles agi ?",
+   "o": [
+    "D'abord la stratégie, ensuite les personnes",
+    "D'abord les bonnes personnes dans le bus, ensuite la direction",
+    "D'abord la technologie, ensuite le marché",
+    "D'abord les acquisitions, ensuite la culture"
+   ],
+   "a": 1,
+   "e": "Avec les bonnes personnes, on peut changer de direction ; avec les mauvaises, même la meilleure stratégie échoue."
+  },
+  {
+   "q": "Que décrit le paradoxe de Stockdale ?",
+   "o": [
+    "L'optimisme comme clé du succès",
+    "Garder la foi dans l'issue finale tout en affrontant les faits les plus durs",
+    "La prudence financière",
+    "Le refus de toute prévision"
+   ],
+   "a": 1,
+   "e": "Les optimistes naïfs se découragent ; la combinaison de lucidité et de confiance permet de tenir."
+  },
+  {
+   "q": "Quels sont les trois cercles du concept du hérisson ?",
+   "o": [
+    "Prix, qualité, délai",
+    "Ce qui vous passionne, ce dans quoi vous pouvez être le meilleur, ce qui fait tourner votre moteur économique",
+    "Clients, salariés, actionnaires",
+    "Passé, présent, avenir"
+   ],
+   "a": 1,
+   "e": "Le concept du hérisson se trouve à l'intersection des trois."
+  },
+  {
+   "q": "Quel rôle Collins donne-t-il à la technologie ?",
+   "o": [
+    "Le déclencheur de la transformation",
+    "Un accélérateur, choisi en lien avec le concept du hérisson",
+    "Un facteur sans importance",
+    "Une menace à éviter"
+   ],
+   "a": 1,
+   "e": "Aucune transition n'a été déclenchée par la technologie, mais elle l'a souvent accélérée."
+  },
+  {
+   "q": "Que représente le volant d'inertie ?",
+   "o": [
+    "Un grand coup stratégique",
+    "Une accumulation de poussées cohérentes qui finissent par créer un élan",
+    "Un programme de changement annoncé en grande pompe",
+    "Une réorganisation annuelle"
+   ],
+   "a": 1,
+   "e": "L'excellence vient d'efforts répétés dans la même direction, pas d'un moment miracle."
+  }
+ ],
+ "sinek": [
+  {
+   "q": "Dans quel ordre les leaders inspirants communiquent-ils ?",
+   "o": [
+    "Quoi, comment, pourquoi",
+    "Pourquoi, comment, quoi",
+    "Comment, quoi, pourquoi",
+    "Quoi, pourquoi, comment"
+   ],
+   "a": 1,
+   "e": "Ils partent du centre du cercle d'or : leur conviction, puis leur manière de faire, puis leurs produits."
+  },
+  {
+   "q": "Pourquoi « gagner de l'argent » n'est-il pas un pourquoi ?",
+   "o": [
+    "Parce que c'est interdit",
+    "Parce que c'est un résultat, pas une conviction",
+    "Parce que les clients ne le comprennent pas",
+    "Parce que c'est trop vague"
+   ],
+   "a": 1,
+   "e": "Le pourquoi est une conviction qui va au-delà du résultat financier."
+  },
+  {
+   "q": "Qu'est-ce qui distingue la manipulation de l'inspiration ?",
+   "o": [
+    "La manipulation est toujours illégale",
+    "La manipulation produit des transactions, l'inspiration produit de la loyauté",
+    "L'inspiration coûte plus cher",
+    "Il n'y a pas de différence"
+   ],
+   "a": 1,
+   "e": "Prix, promotions et peur fonctionnent à court terme, mais ne créent pas d'attachement durable."
+  },
+  {
+   "q": "Quelle est la différence entre répétition et loyauté ?",
+   "o": [
+    "Aucune",
+    "La répétition vient de la commodité ou du prix ; la loyauté résiste même à une meilleure offre",
+    "La loyauté concerne seulement les salariés",
+    "La répétition est toujours meilleure"
+   ],
+   "a": 1,
+   "e": "Un client loyal reste quand un concurrent propose moins cher ; un client « répétitif » part."
+  },
+  {
+   "q": "Pourquoi Sinek recommande-t-il d'écrire les valeurs avec des verbes ?",
+   "o": [
+    "Pour le style",
+    "Parce qu'une action se vérifie, alors qu'un nom reste abstrait",
+    "Pour qu'elles soient plus courtes",
+    "Pour les traduire plus facilement"
+   ],
+   "a": 1,
+   "e": "« Faire toujours ce qui est juste » se vérifie ; « intégrité » reste un mot."
+  },
+  {
+   "q": "Selon la loi de diffusion de l'innovation, qui faut-il convaincre d'abord ?",
+   "o": [
+    "La majorité tardive",
+    "Les innovateurs et les premiers adeptes",
+    "Les retardataires",
+    "Les concurrents"
+   ],
+   "a": 1,
+   "e": "Le succès de masse commence par une minorité convaincue qui entraîne ensuite la majorité."
+  },
+  {
+   "q": "À quoi sert le « test du céleri » ?",
+   "o": [
+    "À choisir un fournisseur",
+    "À vérifier qu'une décision est cohérente avec le pourquoi",
+    "À mesurer la satisfaction",
+    "À fixer les prix"
+   ],
+   "a": 1,
+   "e": "Le pourquoi sert de filtre pour trier les opportunités et les conseils."
+  },
+  {
+   "q": "Que faut-il garder en tête sur l'explication biologique du cercle d'or ?",
+   "o": [
+    "Elle est parfaitement démontrée",
+    "Elle est très simplifiée ; seule l'idée que les décisions ne sont pas purement rationnelles est solide",
+    "Elle a été inventée par Kahneman",
+    "Elle concerne seulement les enfants"
+   ],
+   "a": 1,
+   "e": "La séparation nette entre cerveau émotionnel et rationnel ne correspond pas aux neurosciences actuelles."
+  }
+ ],
+ "covey": [
+  {
+   "q": "Quelle différence Covey fait-il entre éthique du caractère et éthique de la personnalité ?",
+   "o": [
+    "Aucune",
+    "Le caractère repose sur des principes durables ; la personnalité sur des techniques et une image",
+    "La personnalité est plus efficace",
+    "Le caractère ne concerne que la vie privée"
+   ],
+   "a": 1,
+   "e": "Les techniques sans caractère deviennent de la manipulation et se retournent contre celui qui les utilise."
+  },
+  {
+   "q": "Que montre l'histoire du père dans le métro ?",
+   "o": [
+    "Qu'il faut toujours intervenir",
+    "Que changer de paradigme change le comportement sans effort de volonté",
+    "Que les enfants doivent être disciplinés",
+    "Que les transports sont stressants"
+   ],
+   "a": 1,
+   "e": "En apprenant le deuil de la famille, le regard de Covey change instantanément, et son comportement suit."
+  },
+  {
+   "q": "Que représente la fable de la poule aux œufs d'or ?",
+   "o": [
+    "L'importance de l'épargne",
+    "L'équilibre entre production et capacité de production",
+    "La chance",
+    "La concurrence"
+   ],
+   "a": 1,
+   "e": "Se concentrer seulement sur la production épuise la capacité à produire."
+  },
+  {
+   "q": "Où une personne proactive concentre-t-elle son énergie ?",
+   "o": [
+    "Sur son cercle de préoccupation",
+    "Sur son cercle d'influence",
+    "Sur les défauts des autres",
+    "Sur les circonstances"
+   ],
+   "a": 1,
+   "e": "Agir sur ce qu'on peut influencer fait grandir son influence."
+  },
+  {
+   "q": "Dans quel quadrant se joue l'efficacité ?",
+   "o": [
+    "Urgent et important",
+    "Important mais non urgent",
+    "Urgent mais non important",
+    "Ni urgent ni important"
+   ],
+   "a": 1,
+   "e": "Planification, prévention, relations et santé : important, rarement urgent, donc souvent négligé."
+  },
+  {
+   "q": "Quels sont les cinq éléments d'une délégation de responsabilité ?",
+   "o": [
+    "Tâches, horaires, outils, contrôles, sanctions",
+    "Résultats souhaités, règles, ressources, comptes à rendre, conséquences",
+    "Budget, planning, équipe, client, risque",
+    "Objectif, méthode, étapes, délais, rapport"
+   ],
+   "a": 1,
+   "e": "On s'accorde sur le résultat et on laisse l'autre choisir les moyens, comme pour le jardin « vert et propre »."
+  },
+  {
+   "q": "Qu'est-ce que l'écoute empathique ?",
+   "o": [
+    "Écouter pour préparer sa réponse",
+    "Écouter pour comprendre l'autre de son point de vue, ses sentiments autant que ses idées",
+    "Donner des conseils rapidement",
+    "Répéter mot pour mot ce que dit l'autre"
+   ],
+   "a": 1,
+   "e": "Tant que l'autre ne se sent pas compris, il n'est pas prêt à entendre nos conseils."
+  },
+  {
+   "q": "Que signifie « aiguiser la scie » ?",
+   "o": [
+    "Travailler plus vite",
+    "Se renouveler dans les dimensions physique, mentale, sociale et spirituelle",
+    "Changer d'outils",
+    "Réduire ses dépenses"
+   ],
+   "a": 1,
+   "e": "C'est la septième habitude, qui entretient toutes les autres."
+  }
+ ],
+ "goldsmith": [
+  {
+   "q": "Avec quel type de personnes Goldsmith travaille-t-il ?",
+   "o": [
+    "Des salariés en difficulté",
+    "Des personnes qui réussissent mais dont certains comportements freinent la progression",
+    "Des étudiants",
+    "Des demandeurs d'emploi"
+   ],
+   "a": 1,
+   "e": "Plus on monte, plus les obstacles deviennent comportementaux plutôt que techniques."
+  },
+  {
+   "q": "Qu'est-ce que l'« illusion du succès » ?",
+   "o": [
+    "Croire qu'on va échouer",
+    "Croire que tous nos comportements ont contribué à notre réussite, y compris les mauvais",
+    "Douter de soi",
+    "Refuser une promotion"
+   ],
+   "a": 1,
+   "e": "On réussit souvent en dépit de certains comportements, pas grâce à eux."
+  },
+  {
+   "q": "Quel est le travers le plus fréquent selon Goldsmith ?",
+   "o": [
+    "Arriver en retard",
+    "Vouloir gagner à tout prix",
+    "Parler trop doucement",
+    "Être trop modeste"
+   ],
+   "a": 1,
+   "e": "Le besoin de gagner, même sur des sujets sans importance, est la source de beaucoup d'autres travers."
+  },
+  {
+   "q": "Que provoque le fait d'« ajouter trop de valeur » à l'idée d'un collaborateur ?",
+   "o": [
+    "Une meilleure motivation",
+    "Une idée améliorée de quelques pour cent, mais un engagement qui chute",
+    "Une décision plus rapide",
+    "Rien de particulier"
+   ],
+   "a": 1,
+   "e": "Ce n'est plus vraiment son idée : souvent, il vaut mieux simplement dire merci."
+  },
+  {
+   "q": "Qui juge si le changement a eu lieu ?",
+   "o": [
+    "La personne elle-même",
+    "Le coach",
+    "Les parties prenantes qui travaillent avec elle",
+    "Les ressources humaines"
+   ],
+   "a": 2,
+   "e": "C'est la perception des autres qui fait la réalité des relations."
+  },
+  {
+   "q": "Pourquoi annoncer publiquement le comportement qu'on veut changer ?",
+   "o": [
+    "Pour se faire plaindre",
+    "Parce que les autres voient ce qu'ils s'attendent à voir : l'annonce attire leur attention sur les efforts",
+    "Pour obtenir une prime",
+    "Par obligation"
+   ],
+   "a": 1,
+   "e": "Le changement de perception est plus lent que le changement de comportement."
+  },
+  {
+   "q": "Qu'est-ce que le feedforward ?",
+   "o": [
+    "Un feedback très détaillé sur le passé",
+    "Demander deux suggestions pour l'avenir, écouter sans commenter et remercier",
+    "Un entretien annuel",
+    "Une note écrite"
+   ],
+   "a": 1,
+   "e": "Il porte sur l'avenir, que l'on peut changer, et n'implique pas de jugement personnel."
+  },
+  {
+   "q": "Combien de temps faut-il pour que les autres perçoivent un vrai changement ?",
+   "o": [
+    "Une semaine",
+    "Un mois",
+    "Douze à dix-huit mois en général",
+    "Cinq ans"
+   ],
+   "a": 2,
+   "e": "Le comportement peut changer vite, mais la perception évolue lentement : il faut persévérer."
+  }
+ ],
+ "kahneman": [
+  {
+   "q": "Qu'est-ce qui caractérise le Système 1 ?",
+   "o": [
+    "Il est lent et demande un effort",
+    "Il est rapide, automatique et ne peut pas être éteint",
+    "Il ne se trompe jamais",
+    "Il ne fonctionne que la nuit"
+   ],
+   "a": 1,
+   "e": "Il produit la plupart de nos impressions et intuitions, mais commet des erreurs systématiques."
+  },
+  {
+   "q": "Une batte et une balle coûtent 1,10 $. La batte coûte 1 $ de plus que la balle. Combien coûte la balle ?",
+   "o": [
+    "10 centimes",
+    "5 centimes",
+    "1 dollar",
+    "1,05 dollar"
+   ],
+   "a": 1,
+   "e": "Si la balle coûtait 10 centimes, la batte coûterait 1,10 $ et le total 1,20 $. Le Système 2 doit vérifier."
+  },
+  {
+   "q": "Que signifie « ce qu'on voit est tout ce qui existe » ?",
+   "o": [
+    "Il faut tout voir pour décider",
+    "Nous jugeons avec les informations disponibles sans penser à celles qui manquent",
+    "Les apparences ne trompent pas",
+    "Il faut se fier à son regard"
+   ],
+   "a": 1,
+   "e": "Une histoire cohérente construite avec peu d'informations nous paraît très convaincante."
+  },
+  {
+   "q": "Qu'est-ce que l'effet d'ancrage ?",
+   "o": [
+    "La fidélité à une marque",
+    "L'influence d'un premier chiffre, même arbitraire, sur une estimation",
+    "La peur du changement",
+    "La préférence pour le statu quo"
+   ],
+   "a": 1,
+   "e": "Même la roue de loterie truquée ou les dés influençaient les estimations, y compris celles de juges expérimentés."
+  },
+  {
+   "q": "Que recommande Kahneman contre l'erreur de planification ?",
+   "o": [
+    "Être plus optimiste",
+    "Partir de la vue extérieure : les résultats réels de projets comparables",
+    "Ajouter 10 % de marge",
+    "Ne jamais planifier"
+   ],
+   "a": 1,
+   "e": "La vue intérieure ignore les imprévus ; la classe de référence donne une base réaliste."
+  },
+  {
+   "q": "Qu'est-ce que l'aversion à la perte ?",
+   "o": [
+    "Le goût du risque",
+    "Le fait qu'une perte pèse environ deux fois plus qu'un gain équivalent",
+    "La peur de perdre ses clés",
+    "La préférence pour l'épargne"
+   ],
+   "a": 1,
+   "e": "Elle explique notamment la résistance au changement : ce qu'on perd est plus visible que ce qu'on gagne."
+  },
+  {
+   "q": "Comment se déroule un pré-mortem ?",
+   "o": [
+    "On analyse un échec passé",
+    "On imagine que le projet a échoué dans un an et chacun écrit pourquoi",
+    "On vote sur le projet",
+    "On demande l'avis d'un expert"
+   ],
+   "a": 1,
+   "e": "Il rend légitime l'expression des doutes et fait remonter des risques non envisagés."
+  },
+  {
+   "q": "Quand l'intuition d'un expert est-elle fiable ?",
+   "o": [
+    "Toujours, s'il est confiant",
+    "Dans un environnement régulier, après une longue pratique avec des retours rapides",
+    "Jamais",
+    "Seulement s'il a un diplôme"
+   ],
+   "a": 1,
+   "e": "La confiance de l'expert n'indique rien : il faut regarder l'environnement et l'expérience."
+  }
+ ],
+ "christensen": [
+  {
+   "q": "Pourquoi les entreprises leaders échouent-elles face à la rupture selon Christensen ?",
+   "o": [
+    "Parce qu'elles sont mal gérées",
+    "Parce qu'elles appliquent les bonnes règles de gestion dans une situation où elles ne fonctionnent plus",
+    "Parce qu'elles n'investissent pas en recherche",
+    "Par manque de chance"
+   ],
+   "a": 1,
+   "e": "Écouter ses meilleurs clients et viser les marges les plus élevées les conduit à négliger la rupture."
+  },
+  {
+   "q": "Qu'est-ce qu'une innovation de rupture au départ ?",
+   "o": [
+    "Une technologie révolutionnaire et plus performante",
+    "Une offre moins performante sur les critères habituels, mais moins chère, plus simple ou plus pratique",
+    "Un produit de luxe",
+    "Une amélioration demandée par les clients"
+   ],
+   "a": 1,
+   "e": "C'est son effet sur le marché qui est perturbateur, pas sa sophistication technique."
+  },
+  {
+   "q": "Que se passe-t-il quand la performance devient « excédentaire » ?",
+   "o": [
+    "Les clients paient plus",
+    "Les produits dépassent les besoins de la plupart des clients, ce qui ouvre la porte à des offres plus simples",
+    "Les concurrents disparaissent",
+    "Les prix augmentent"
+   ],
+   "a": 1,
+   "e": "Les clients ne paient plus pour des améliorations qu'ils n'utilisent pas."
+  },
+  {
+   "q": "Que montrent les mini-aciéries ?",
+   "o": [
+    "Que la qualité gagne toujours",
+    "Qu'une rupture peut commencer sur le segment le moins rentable puis remonter vers le haut du marché",
+    "Que l'acier est un marché stable",
+    "Qu'il faut se diversifier"
+   ],
+   "a": 1,
+   "e": "À chaque étape, les grandes aciéries abandonnaient le segment le moins rentable, jusqu'à perdre une grande partie de leur activité."
+  },
+  {
+   "q": "Que recommande Christensen face à une innovation de rupture ?",
+   "o": [
+    "L'intégrer dans l'organisation principale",
+    "La confier à une organisation autonome, de taille adaptée, avec ses propres clients et critères",
+    "L'ignorer jusqu'à ce que le marché soit grand",
+    "La racheter immédiatement"
+   ],
+   "a": 1,
+   "e": "Les processus et les valeurs de l'organisation existante étouffent les projets de rupture."
+  },
+  {
+   "q": "Que signifie « planifier pour apprendre » ?",
+   "o": [
+    "Faire un plan détaillé sur dix ans",
+    "Lister ses hypothèses, les tester tôt et à petite échelle, et garder des ressources pour changer de cap",
+    "Former ses équipes",
+    "Copier les concurrents"
+   ],
+   "a": 1,
+   "e": "Sur un marché qui n'existe pas encore, les prévisions sont presque toujours fausses."
+  },
+  {
+   "q": "Quels sont les trois éléments qui définissent les capacités d'une organisation ?",
+   "o": [
+    "Clients, produits, prix",
+    "Ressources, processus, valeurs",
+    "Capital, travail, terre",
+    "Vision, mission, objectifs"
+   ],
+   "a": 1,
+   "e": "Les ressources sont flexibles ; les processus et les critères de décision le sont beaucoup moins."
+  },
+  {
+   "q": "Pourquoi écouter ses clients peut-il être dangereux ?",
+   "o": [
+    "Parce qu'ils mentent",
+    "Parce qu'ils ne peuvent pas décrire les besoins d'un marché qui n'existe pas encore",
+    "Parce que cela coûte cher",
+    "Parce qu'ils sont toujours mécontents"
+   ],
+   "a": 1,
+   "e": "Les fabricants de disques durs écoutaient très bien leurs clients, qui ne voulaient pas des disques plus petits."
+  }
+ ],
+ "ocean": [
+  {
+   "q": "Qu'est-ce qu'un océan bleu ?",
+   "o": [
+    "Un marché saturé",
+    "Un espace de marché nouveau où la demande est créée plutôt que disputée",
+    "Un marché maritime",
+    "Une stratégie de prix bas"
+   ],
+   "a": 1,
+   "e": "Dans un océan bleu, la concurrence devient sans objet car les règles du jeu ne sont pas encore fixées."
+  },
+  {
+   "q": "Que poursuit l'innovation-valeur ?",
+   "o": [
+    "La différenciation seulement",
+    "La réduction des coûts seulement",
+    "Une valeur supérieure pour l'acheteur et des coûts plus bas en même temps",
+    "La croissance par acquisition"
+   ],
+   "a": 2,
+   "e": "Éliminer et réduire baissent les coûts ; renforcer et créer augmentent la valeur."
+  },
+  {
+   "q": "Quelles sont les quatre actions du cadre ?",
+   "o": [
+    "Planifier, faire, vérifier, agir",
+    "Éliminer, réduire, renforcer, créer",
+    "Acheter, vendre, louer, prêter",
+    "Analyser, décider, exécuter, mesurer"
+   ],
+   "a": 1,
+   "e": "La grille oblige à agir sur les coûts comme sur la valeur."
+  },
+  {
+   "q": "Qu'a éliminé la compagnie de cirque canadienne ?",
+   "o": [
+    "Le chapiteau",
+    "Les numéros d'animaux et les vedettes",
+    "La musique",
+    "Les acrobates"
+   ],
+   "a": 1,
+   "e": "Ces éléments étaient parmi les plus coûteux du cirque traditionnel."
+  },
+  {
+   "q": "Quelles sont les trois qualités d'une bonne stratégie selon les auteurs ?",
+   "o": [
+    "Rapidité, coût, qualité",
+    "Focalisation, divergence, slogan convaincant",
+    "Ambition, prudence, patience",
+    "Clients, produits, canaux"
+   ],
+   "a": 1,
+   "e": "Une courbe de valeur focalisée, différente de celle des concurrents, et résumable en une phrase."
+  },
+  {
+   "q": "Que sont les non-clients « réfractaires » ?",
+   "o": [
+    "Des clients fidèles",
+    "Des personnes qui ont envisagé l'offre du secteur mais l'ont refusée",
+    "Des concurrents",
+    "Des clients qui paient en retard"
+   ],
+   "a": 1,
+   "e": "Comme les villes qui refusaient les panneaux publicitaires avant qu'on leur propose du mobilier urbain."
+  },
+  {
+   "q": "Dans quel ordre vérifier une idée d'océan bleu ?",
+   "o": [
+    "Coût, prix, utilité, adoption",
+    "Utilité, prix, coût, adoption",
+    "Prix, coût, adoption, utilité",
+    "Adoption, utilité, coût, prix"
+   ],
+   "a": 1,
+   "e": "Une réponse négative à une étape impose de revoir l'idée avant de passer à la suivante."
+  },
+  {
+   "q": "Quels sont les trois principes du processus équitable ?",
+   "o": [
+    "Rapidité, secret, autorité",
+    "Engagement, explication, clarté des attentes",
+    "Vote, majorité, compromis",
+    "Prime, sanction, contrôle"
+   ],
+   "a": 1,
+   "e": "Les personnes acceptent une décision qui leur coûte si elles jugent juste la manière dont elle a été prise."
+  }
+ ],
+ "drucker-mgmt": [
+  {
+   "q": "Comment Drucker définit-il le management ?",
+   "o": [
+    "Une classe sociale de dirigeants",
+    "L'organe qui permet aux institutions d'atteindre leurs objectifs",
+    "Une technique comptable",
+    "Un ensemble de règles administratives"
+   ],
+   "a": 1,
+   "e": "Le management n'existe pas en dehors de l'institution qu'il sert : c'est une fonction, pas un statut."
+  },
+  {
+   "q": "Quel est le but de l'entreprise selon Drucker ?",
+   "o": [
+    "Maximiser le profit",
+    "Créer un client",
+    "Croître le plus vite possible",
+    "Battre ses concurrents"
+   ],
+   "a": 1,
+   "e": "Le profit est une condition et une mesure de la performance, pas la raison d'être."
+  },
+  {
+   "q": "Quelles sont les deux fonctions de base de l'entreprise ?",
+   "o": [
+    "Production et finance",
+    "Marketing et innovation",
+    "Vente et comptabilité",
+    "Ressources humaines et logistique"
+   ],
+   "a": 1,
+   "e": "Ce sont les seules fonctions qui produisent des résultats ; les autres sont des coûts."
+  },
+  {
+   "q": "Que représente le profit dans la vision de Drucker ?",
+   "o": [
+    "Une récompense pour les actionnaires",
+    "Le coût de l'avenir : couvrir les risques et financer le renouvellement",
+    "Un excédent dont on dispose librement",
+    "Un indicateur secondaire"
+   ],
+   "a": 1,
+   "e": "Il faut se demander quel est le profit minimal nécessaire, pas le profit maximal possible."
+  },
+  {
+   "q": "Que signifie la gestion par objectifs et par autocontrôle ?",
+   "o": [
+    "Des objectifs imposés d'en haut et contrôlés chaque semaine",
+    "Chaque manager propose sa contribution et reçoit directement les informations pour se mesurer",
+    "Des primes liées aux chiffres",
+    "Un tableau de bord pour la direction"
+   ],
+   "a": 1,
+   "e": "Le but est de remplacer la domination par la responsabilité."
+  },
+  {
+   "q": "Quelle question doit ouvrir toute planification stratégique ?",
+   "o": [
+    "Combien allons-nous gagner ?",
+    "Que devons-nous abandonner ?",
+    "Qui sont nos concurrents ?",
+    "Quel est notre budget ?"
+   ],
+   "a": 1,
+   "e": "Les ressources sont mobilisées par le passé : il faut les libérer pour l'avenir."
+  },
+  {
+   "q": "Pourquoi les institutions de service public sont-elles souvent inefficaces selon Drucker ?",
+   "o": [
+    "À cause de leurs dirigeants",
+    "Parce qu'elles sont financées par un budget lié aux besoins plutôt qu'aux résultats",
+    "À cause des salariés",
+    "Par manque de technologie"
+   ],
+   "a": 1,
+   "e": "Le succès se mesure alors à la taille du budget obtenu, et rien n'est jamais abandonné."
+  },
+  {
+   "q": "Quel est le premier principe éthique proposé aux managers ?",
+   "o": [
+    "Maximiser la valeur actionnariale",
+    "D'abord, ne pas nuire",
+    "Respecter la hiérarchie",
+    "Être toujours aimable"
+   ],
+   "a": 1,
+   "e": "Une règle empruntée à la médecine, exigeante car elle oblige à réfléchir aux conséquences de chaque décision."
+  }
+ ],
+ "liker": [
+  {
+   "q": "Selon Liker, pourquoi la plupart des imitateurs de Toyota échouent-ils ?",
+   "o": [
+    "Ils manquent de budget",
+    "Ils copient les outils sans la philosophie ni la culture",
+    "Ils n'ont pas de robots",
+    "Ils produisent trop peu"
+   ],
+   "a": 1,
+   "e": "Les outils ne sont que la partie visible ; sans philosophie de long terme ni culture d'apprentissage, les gains s'érodent."
+  },
+  {
+   "q": "Quels sont les quatre « P » du modèle de Liker ?",
+   "o": [
+    "Prix, produit, promotion, place",
+    "Philosophie, processus, personnes, problèmes",
+    "Plan, pilotage, performance, profit",
+    "Production, planification, personnel, pérennité"
+   ],
+   "a": 1,
+   "e": "Philosophie de long terme, bon processus, développement des personnes et partenaires, résolution de problèmes."
+  },
+  {
+   "q": "Pourquoi le flux continu est-il utile selon Liker ?",
+   "o": [
+    "Il supprime le besoin de standards",
+    "Il rend les problèmes visibles en supprimant les stocks qui les cachent",
+    "Il permet de produire en grandes séries",
+    "Il réduit le nombre de clients"
+   ],
+   "a": 1,
+   "e": "Comme une rivière dont on baisse le niveau : les rochers (problèmes) apparaissent et doivent être résolus."
+  },
+  {
+   "q": "Que désigne le mot « heijunka » ?",
+   "o": [
+    "L'arrêt de la ligne",
+    "Le lissage de la charge en volume et en variété",
+    "La réflexion critique",
+    "La visite du terrain"
+   ],
+   "a": 1,
+   "e": "Le heijunka évite les à-coups : la tortue régulière plutôt que le lièvre."
+  },
+  {
+   "q": "Que se passe-t-il quand un opérateur tire le cordon andon ?",
+   "o": [
+    "Il est sanctionné",
+    "Un chef d'équipe vient l'aider et la ligne peut s'arrêter",
+    "Rien, c'est symbolique",
+    "La pièce est mise au rebut automatiquement"
+   ],
+   "a": 1,
+   "e": "Le jidoka : on s'arrête pour régler le problème à la source, et l'opérateur est remercié."
+  },
+  {
+   "q": "Quel est le rôle du standard chez Toyota ?",
+   "o": [
+    "Une règle figée imposée par les ingénieurs",
+    "La meilleure méthode connue aujourd'hui, point de départ de l'amélioration",
+    "Un document pour les auditeurs",
+    "Une liste de sanctions"
+   ],
+   "a": 1,
+   "e": "Sans standard, impossible de savoir si un changement améliore les choses."
+  },
+  {
+   "q": "Que signifie « genchi genbutsu » ?",
+   "o": [
+    "Décider vite",
+    "Aller voir sur le lieu réel, la chose réelle",
+    "Réduire les coûts",
+    "Former les fournisseurs"
+   ],
+   "a": 1,
+   "e": "Comprendre un problème exige de l'observer sur le terrain, pas seulement à travers des rapports."
+  },
+  {
+   "q": "Que décrit le principe « décider lentement, exécuter vite » ?",
+   "o": [
+    "Retarder les décisions par prudence",
+    "Préparer par consensus (nemawashi) puis mettre en œuvre rapidement",
+    "Laisser le dirigeant trancher seul",
+    "Tester toutes les options en production"
+   ],
+   "a": 1,
+   "e": "La consultation préalable rend la mise en œuvre rapide parce que chacun comprend et soutient la décision."
+  }
+ ],
+ "womack-lean": [
+  {
+   "q": "D'où vient le mot « lean » appliqué à la production ?",
+   "o": [
+    "D'un livre de Taiichi Ohno",
+    "D'une étude du MIT sur l'industrie automobile",
+    "D'un consultant allemand",
+    "D'une norme ISO"
+   ],
+   "a": 1,
+   "e": "Le terme a été adopté par l'équipe du programme du MIT, à l'origine de The Machine That Changed the World (1990)."
+  },
+  {
+   "q": "Quel est l'ordre des cinq principes lean ?",
+   "o": [
+    "Flux, valeur, perfection, chaîne, tirer",
+    "Valeur, chaîne de valeur, flux, flux tiré, perfection",
+    "Chaîne, flux, valeur, tirer, perfection",
+    "Perfection, valeur, flux, chaîne, tirer"
+   ],
+   "a": 1,
+   "e": "On part de la valeur pour le client avant d'organiser le flux, sinon on optimise des activités inutiles."
+  },
+  {
+   "q": "Qui doit définir la valeur selon Womack et Jones ?",
+   "o": [
+    "Les ingénieurs",
+    "Les financiers",
+    "Le client final",
+    "Les fournisseurs"
+   ],
+   "a": 2,
+   "e": "La valeur n'a de sens que pour le client final, pour un produit précis, à un prix et un moment précis."
+  },
+  {
+   "q": "Qu'illustre l'exemple de la canette de soda ?",
+   "o": [
+    "La qualité des usines britanniques",
+    "Un parcours de plusieurs centaines de jours pour quelques heures de transformation réelle",
+    "L'intérêt des grandes machines",
+    "Le succès du recyclage"
+   ],
+   "a": 1,
+   "e": "Chaque maillon est efficace, mais la chaîne entière est faite d'attentes et de stocks."
+  },
+  {
+   "q": "Que mesure le temps takt ?",
+   "o": [
+    "La durée d'une panne",
+    "Le rythme auquel le client achète",
+    "Le temps de changement d'outil",
+    "Le délai de paiement"
+   ],
+   "a": 1,
+   "e": "Temps disponible divisé par la demande : le métronome du flux."
+  },
+  {
+   "q": "Pourquoi les auteurs critiquent-ils les « monuments » ?",
+   "o": [
+    "Ils sont trop lents",
+    "Ce sont de grandes machines qui imposent des lots et font venir les produits vers elles",
+    "Ils sont trop petits",
+    "Ils exigent trop de personnel"
+   ],
+   "a": 1,
+   "e": "Ils préfèrent des machines simples et flexibles, installées dans des cellules en flux."
+  },
+  {
+   "q": "Quelle est la différence entre kaizen et kaikaku ?",
+   "o": [
+    "Aucune",
+    "Le kaizen est progressif, le kaikaku est une amélioration radicale",
+    "Le kaikaku est réservé aux fournisseurs",
+    "Le kaizen est un outil comptable"
+   ],
+   "a": 1,
+   "e": "Le kaikaku fait le grand saut, le kaizen améliore ensuite chaque jour."
+  },
+  {
+   "q": "Que recommandent les auteurs concernant l'emploi ?",
+   "o": [
+    "Licencier à chaque gain de productivité",
+    "Garantir que personne ne perdra son emploi à cause des améliorations",
+    "Embaucher des intérimaires",
+    "Ignorer la question"
+   ],
+   "a": 1,
+   "e": "Sans cette garantie, les salariés n'ont aucune raison de contribuer aux améliorations."
+  }
+ ],
+ "goldratt": [
+  {
+   "q": "Quel est le but d'une entreprise industrielle selon Jonah ?",
+   "o": [
+    "Maximiser l'utilisation des machines",
+    "Gagner de l'argent, aujourd'hui et demain",
+    "Produire la meilleure qualité possible",
+    "Augmenter ses parts de marché"
+   ],
+   "a": 1,
+   "e": "Tout le reste — qualité, technologie, productivité — n'est qu'un moyen au service de ce but."
+  },
+  {
+   "q": "Comment Jonah définit-il le débit ?",
+   "o": [
+    "Le nombre de pièces produites",
+    "Le rythme auquel le système génère de l'argent par les ventes",
+    "La vitesse de la machine la plus rapide",
+    "Le chiffre d'affaires prévu"
+   ],
+   "a": 1,
+   "e": "Une pièce produite mais non vendue n'est pas du débit, seulement du stock."
+  },
+  {
+   "q": "Qu'apprend Alex avec Herbie pendant la randonnée ?",
+   "o": [
+    "Qu'il faut accélérer les plus rapides",
+    "Que le groupe avance à la vitesse du plus lent",
+    "Qu'il faut partir plus tôt",
+    "Que les sacs doivent être plus légers pour tous"
+   ],
+   "a": 1,
+   "e": "Le rythme du système est fixé par sa contrainte ; aider Herbie accélère tout le groupe."
+  },
+  {
+   "q": "Qu'illustre le jeu des allumettes et des dés ?",
+   "o": [
+    "Le hasard compense toujours",
+    "Dans une chaîne dépendante, les retards se propagent et les avances se perdent",
+    "Il faut équilibrer parfaitement chaque étape",
+    "Les moyennes sont fiables"
+   ],
+   "a": 1,
+   "e": "Événements dépendants et fluctuations statistiques rendent une usine « équilibrée » vouée aux stocks et aux retards."
+  },
+  {
+   "q": "Combien coûte une heure perdue sur un goulot ?",
+   "o": [
+    "Le coût horaire de la machine",
+    "Rien, on la rattrape plus tard",
+    "Une heure de production de toute l'usine",
+    "Le salaire de l'opérateur"
+   ],
+   "a": 2,
+   "e": "Le goulot fixe le débit total : chaque heure perdue y est perdue pour tout le système."
+  },
+  {
+   "q": "Que doit faire une ressource qui n'est pas un goulot ?",
+   "o": [
+    "Produire au maximum",
+    "Travailler au rythme du goulot, quitte à rester parfois inactive",
+    "Être supprimée",
+    "Constituer des stocks de sécurité"
+   ],
+   "a": 1,
+   "e": "Activer une ressource au-delà de ce que le goulot absorbe ne produit que du stock."
+  },
+  {
+   "q": "Que représente la « corde » dans tambour-tampon-corde ?",
+   "o": [
+    "Le lien entre le goulot et l'entrée des matières",
+    "La chaîne de montage",
+    "Le contrat avec le client",
+    "La file d'attente du goulot"
+   ],
+   "a": 0,
+   "e": "On ne lance de nouvelles matières qu'au rythme où le goulot les consomme."
+  },
+  {
+   "q": "Quelle est la bonne séquence des cinq étapes ?",
+   "o": [
+    "Élever, identifier, exploiter, subordonner, recommencer",
+    "Identifier, exploiter, subordonner, élever, recommencer",
+    "Exploiter, identifier, élever, subordonner, recommencer",
+    "Subordonner, identifier, élever, exploiter, recommencer"
+   ],
+   "a": 1,
+   "e": "Exploiter la capacité existante avant d'investir pour l'augmenter."
+  }
+ ],
+ "ohno": [
+  {
+   "q": "Quel objectif Kiichiro Toyoda fixe-t-il après 1945 ?",
+   "o": [
+    "Exporter aux États-Unis",
+    "Rattraper l'industrie automobile américaine en trois ans",
+    "Construire la plus grande usine du Japon",
+    "Fabriquer des métiers à tisser"
+   ],
+   "a": 1,
+   "e": "Ohno en conclut que l'écart de productivité venait d'un gaspillage énorme à éliminer."
+  },
+  {
+   "q": "Quels sont les deux piliers du système selon Ohno ?",
+   "o": [
+    "Qualité et coûts",
+    "Juste-à-temps et autonomation",
+    "Kanban et 5S",
+    "Automatisation et sous-traitance"
+   ],
+   "a": 1,
+   "e": "Les deux reposent sur l'élimination complète du gaspillage."
+  },
+  {
+   "q": "D'où vient l'idée du flux tiré ?",
+   "o": [
+    "Des chaînes de Ford",
+    "Des supermarchés américains",
+    "De l'armée",
+    "Des banques"
+   ],
+   "a": 1,
+   "e": "Le client prend ce dont il a besoin, et le rayon est réapprovisionné selon ce qui a été pris."
+  },
+  {
+   "q": "Quelle règle du kanban Ohno met-il en avant pour progresser ?",
+   "o": [
+    "Augmenter le nombre de kanbans",
+    "Réduire sans cesse le nombre de kanbans pour faire apparaître les problèmes",
+    "Supprimer le kanban de production",
+    "Imprimer les kanbans en couleur"
+   ],
+   "a": 1,
+   "e": "Moins de stock entre les étapes révèle les problèmes cachés, qu'il faut alors résoudre."
+  },
+  {
+   "q": "Que signifie l'autonomation ?",
+   "o": [
+    "Une automatisation totale sans humain",
+    "Une automatisation avec une touche humaine : la machine s'arrête en cas d'anomalie",
+    "La sous-traitance des tâches répétitives",
+    "L'autonomie complète des équipes"
+   ],
+   "a": 1,
+   "e": "L'idée vient du métier à tisser de Sakichi Toyoda, qui s'arrêtait quand un fil cassait."
+  },
+  {
+   "q": "Quel est le pire gaspillage selon Ohno ?",
+   "o": [
+    "Les mouvements",
+    "Les défauts",
+    "La surproduction",
+    "Le transport"
+   ],
+   "a": 2,
+   "e": "Elle entraîne tous les autres et les cache."
+  },
+  {
+   "q": "Qu'est-ce que la « vraie efficience » ?",
+   "o": [
+    "Produire plus que la demande avec les mêmes personnes",
+    "Produire ce que demande le marché avec moins de ressources",
+    "Faire tourner les machines en permanence",
+    "Réduire le temps de chaque geste"
+   ],
+   "a": 1,
+   "e": "Produire plus que nécessaire n'est qu'une efficience apparente qui crée du stock."
+  },
+  {
+   "q": "Que pense Ohno d'Henry Ford ?",
+   "o": [
+    "Qu'il a tout faux",
+    "Qu'il a inventé le flux, que ses successeurs ont transformé en production de masse",
+    "Qu'il ne connaissait pas l'automobile",
+    "Qu'il faut copier ses grandes séries"
+   ],
+   "a": 1,
+   "e": "Ohno se présente comme un continuateur de l'esprit de Ford, adapté aux petites séries."
+  }
+ ],
+ "rother-shook": [
+  {
+   "q": "Sur quoi porte une carte de la chaîne de valeur ?",
+   "o": [
+    "Toute l'usine en une fois",
+    "Une famille de produits, de porte à porte",
+    "Un seul poste de travail",
+    "L'organigramme de l'entreprise"
+   ],
+   "a": 1,
+   "e": "On suit le parcours d'un groupe de produits qui passent par des étapes similaires."
+  },
+  {
+   "q": "Par où commence-t-on à relever le flux sur le terrain ?",
+   "o": [
+    "Par la réception des matières",
+    "Par l'expédition, au plus près du client",
+    "Par le bureau de planification",
+    "Par la machine la plus chère"
+   ],
+   "a": 1,
+   "e": "On remonte le flux de l'aval vers l'amont, en partant du client."
+  },
+  {
+   "q": "Quel est l'apport principal de la carte par rapport aux cartes de processus classiques ?",
+   "o": [
+    "Elle est plus colorée",
+    "Elle relie le flux de matières et le flux d'informations",
+    "Elle remplace le système informatique",
+    "Elle ne montre que les stocks"
+   ],
+   "a": 1,
+   "e": "Dans une usine lean, c'est l'information qui dit à chaque étape quoi produire et quand."
+  },
+  {
+   "q": "Que montre la ligne du temps en bas de la carte ?",
+   "o": [
+    "Les horaires des équipes",
+    "L'écart entre le délai total et le temps de transformation réel",
+    "Le planning de maintenance",
+    "Les dates de livraison des fournisseurs"
+   ],
+   "a": 1,
+   "e": "Quelques minutes de travail réel au milieu de semaines d'attente."
+  },
+  {
+   "q": "Quel est le problème principal révélé par la plupart des cartes d'état actuel ?",
+   "o": [
+    "Le manque de machines",
+    "La surproduction : chaque étape produit selon son propre planning",
+    "Le manque de personnel",
+    "Les erreurs de saisie"
+   ],
+   "a": 1,
+   "e": "Les stocks entre les étapes en sont le symptôme visible."
+  },
+  {
+   "q": "Que faire là où le flux continu n'est pas possible ?",
+   "o": [
+    "Ajouter un planning supplémentaire",
+    "Utiliser un supermarché et le flux tiré",
+    "Augmenter la taille des lots",
+    "Ne rien faire"
+   ],
+   "a": 1,
+   "e": "Un stock contrôlé où l'aval se sert et que l'amont réapprovisionne."
+  },
+  {
+   "q": "Qu'est-ce que le processus régulateur ?",
+   "o": [
+    "La machine la plus rapide",
+    "Le seul processus qui reçoit le planning du client",
+    "Le service qualité",
+    "Le fournisseur principal"
+   ],
+   "a": 1,
+   "e": "Les autres étapes sont reliées à lui par du flux continu ou des supermarchés."
+  },
+  {
+   "q": "À quoi sert le « pitch » ?",
+   "o": [
+    "À vendre le projet à la direction",
+    "À donner le travail par petits incréments réguliers pour voir les retards en minutes",
+    "À calculer les salaires",
+    "À mesurer la qualité"
+   ],
+   "a": 1,
+   "e": "Un multiple du takt, souvent un conteneur : on sait très vite si l'on est en avance ou en retard."
+  }
+ ],
+ "rother-kata": [
+  {
+   "q": "Pourquoi copier les outils de Toyota ne suffit-il pas selon Rother ?",
+   "o": [
+    "Les outils sont trop chers",
+    "Ce sont des solutions issues d'un processus d'apprentissage qu'on ne copie pas",
+    "Ils sont secrets",
+    "Ils ne fonctionnent qu'au Japon"
+   ],
+   "a": 1,
+   "e": "Il faut se demander comment Toyota trouve ses solutions, pas lesquelles elle utilise."
+  },
+  {
+   "q": "Que signifie « kata » ?",
+   "o": [
+    "Un outil statistique",
+    "Une routine pratiquée jusqu'à devenir une habitude",
+    "Un tableau de bord",
+    "Une réunion mensuelle"
+   ],
+   "a": 1,
+   "e": "Le mot vient des arts martiaux : on répète une forme jusqu'à l'intégrer."
+  },
+  {
+   "q": "Quelles sont les quatre étapes du kata d'amélioration ?",
+   "o": [
+    "Planifier, budgéter, exécuter, contrôler",
+    "Défi, situation actuelle, état cible, expérimentation",
+    "Observer, copier, déployer, auditer",
+    "Mesurer, comparer, sanctionner, récompenser"
+   ],
+   "a": 1,
+   "e": "On fixe l'état cible avant de savoir comment l'atteindre."
+  },
+  {
+   "q": "Qu'est-ce qu'un bon état cible ?",
+   "o": [
+    "Une liste de solutions",
+    "Une date proche, un fonctionnement décrit et un résultat mesurable, au-delà de ce qu'on sait faire",
+    "Un objectif financier annuel",
+    "Un projet d'investissement"
+   ],
+   "a": 1,
+   "e": "Il doit dépasser la limite actuelle de connaissance, sinon il n'y a rien à apprendre."
+  },
+  {
+   "q": "Quel est l'élément clé de chaque expérience ?",
+   "o": [
+    "Le budget",
+    "La prédiction écrite avant d'agir",
+    "Le nombre de participants",
+    "La durée"
+   ],
+   "a": 1,
+   "e": "Comparer le résultat réel à la prédiction est le moment où l'on apprend."
+  },
+  {
+   "q": "Qui est le coach chez Toyota selon Rother ?",
+   "o": [
+    "Un consultant externe",
+    "Le service formation",
+    "Le responsable hiérarchique direct",
+    "Un collègue au hasard"
+   ],
+   "a": 2,
+   "e": "Chaque manager coache ses collaborateurs directs, et il est lui-même coaché."
+  },
+  {
+   "q": "Combien de temps dure typiquement une séance de coaching ?",
+   "o": [
+    "Une journée",
+    "Une quinzaine à une vingtaine de minutes",
+    "Deux heures par mois",
+    "Une semaine de séminaire"
+   ],
+   "a": 1,
+   "e": "Courte et fréquente, idéalement chaque jour, devant le processus."
+  },
+  {
+   "q": "Quelle question ne fait PAS partie de l'esprit des cinq questions du coach ?",
+   "o": [
+    "Quel est l'état cible ?",
+    "Où en est-on réellement ?",
+    "Qui est responsable de l'échec ?",
+    "Quand pourra-t-on voir ce qu'on a appris ?"
+   ],
+   "a": 2,
+   "e": "Le coaching cherche à apprendre des écarts, pas à désigner des coupables."
+  }
+ ],
+ "zhuo": [
+  {
+   "q": "Selon Julie Zhuo, quel est le travail d'un manager ?",
+   "o": [
+    "Faire le meilleur travail de l'équipe",
+    "Obtenir de meilleurs résultats d'un groupe qui travaille ensemble",
+    "Animer des réunions",
+    "Contrôler les horaires"
+   ],
+   "a": 1,
+   "e": "Le manager est jugé sur ce que son équipe accomplit, pas sur sa production personnelle."
+  },
+  {
+   "q": "Quels sont les trois leviers du manager ?",
+   "o": [
+    "Budget, planning, reporting",
+    "Objectif, personnes, processus",
+    "Vision, mission, valeurs",
+    "Recruter, former, licencier"
+   ],
+   "a": 1,
+   "e": "Pourquoi l'équipe existe, qui fait le travail, et comment elle travaille ensemble."
+  },
+  {
+   "q": "Comment s'appelle la situation d'un manager promu au sein de son équipe ?",
+   "o": [
+    "Le pionnier",
+    "Le successeur",
+    "L'apprenti",
+    "Le nouveau chef"
+   ],
+   "a": 2,
+   "e": "L'apprenti doit changer sa relation avec ses anciens pairs et apprendre à ne plus faire le travail lui-même."
+  },
+  {
+   "q": "À qui appartient l'entretien individuel ?",
+   "o": [
+    "Au manager",
+    "Aux ressources humaines",
+    "Au collaborateur",
+    "À la direction"
+   ],
+   "a": 2,
+   "e": "C'est le temps du collaborateur, pour parler de ce qui compte pour lui."
+  },
+  {
+   "q": "Que recommande l'auteure avant de donner du feedback sur un projet ?",
+   "o": [
+    "Attendre l'évaluation annuelle",
+    "Clarifier les attentes dès le départ",
+    "Demander l'avis des RH",
+    "Comparer avec les autres"
+   ],
+   "a": 1,
+   "e": "Beaucoup de problèmes de performance viennent d'attentes mal exprimées."
+  },
+  {
+   "q": "Face à une sous-performance, quelle distinction l'auteure propose-t-elle ?",
+   "o": [
+    "Junior ou senior",
+    "« Ne sait pas » ou « ne veut pas »",
+    "Interne ou externe",
+    "Temporaire ou définitive"
+   ],
+   "a": 1,
+   "e": "Les solutions sont très différentes : former et clarifier, ou comprendre ce qui bloque la motivation."
+  },
+  {
+   "q": "Comment Julie Zhuo aborde-t-elle le syndrome de l'imposteur ?",
+   "o": [
+    "Il faut le cacher",
+    "Il est fréquent : s'appuyer sur ses forces et partager ses doutes",
+    "Il disparaît en un mois",
+    "Il prouve qu'on n'est pas fait pour le poste"
+   ],
+   "a": 1,
+   "e": "Il touche aussi des personnes très compétentes, et ne disparaît jamais complètement."
+  },
+  {
+   "q": "Quelle règle donne-t-elle en matière de recrutement ?",
+   "o": [
+    "Recruter vite pour soulager l'équipe",
+    "En cas de doute, ne pas recruter",
+    "Recruter des profils similaires",
+    "Ne pas vérifier les références"
+   ],
+   "a": 1,
+   "e": "Mieux vaut attendre le bon candidat que combler un poste avec la mauvaise personne."
+  }
+ ],
+ "marquet": [
+  {
+   "q": "Quel incident déclenche la réflexion de Marquet ?",
+   "o": [
+    "Une avarie de moteur",
+    "Un ordre impossible relayé sans discussion",
+    "Une mutinerie",
+    "Un échec d'inspection"
+   ],
+   "a": 1,
+   "e": "Un équipage habitué à obéir suit le commandant même quand il se trompe."
+  },
+  {
+   "q": "Quel modèle Marquet veut-il remplacer ?",
+   "o": [
+    "Chef-chef",
+    "Chef-suiveur",
+    "Équipe d'équipes",
+    "Matriciel"
+   ],
+   "a": 1,
+   "e": "Quelques-uns pensent et décident, les autres exécutent."
+  },
+  {
+   "q": "Quel principe résume le pilier du contrôle ?",
+   "o": [
+    "Faire remonter toute l'information au chef",
+    "Déplacer l'autorité vers ceux qui ont l'information",
+    "Multiplier les signatures",
+    "Centraliser les décisions"
+   ],
+   "a": 1,
+   "e": "Les personnes au contact de la réalité disposent de l'information la plus complète et la plus récente."
+  },
+  {
+   "q": "Quelle formule remplace « je demande l'autorisation » ?",
+   "o": [
+    "« J'attends vos ordres »",
+    "« J'ai l'intention de… »",
+    "« Que dois-je faire ? »",
+    "« C'est votre décision »"
+   ],
+   "a": 1,
+   "e": "L'officier devient l'auteur de la décision et apprend à penser comme un commandant."
+  },
+  {
+   "q": "Qu'est-ce que l'action délibérée ?",
+   "o": [
+    "Agir le plus vite possible",
+    "Marquer une pause, annoncer et pointer avant une action importante",
+    "Demander l'accord écrit",
+    "Déléguer l'action"
+   ],
+   "a": 1,
+   "e": "Elle fait passer le cerveau du mode automatique au mode conscient, et permet aux autres de corriger."
+  },
+  {
+   "q": "Par quoi Marquet remplace-t-il les briefings ?",
+   "o": [
+    "Par des courriels",
+    "Par des certifications où le responsable interroge l'équipe",
+    "Par des vidéos",
+    "Par rien"
+   ],
+   "a": 1,
+   "e": "L'équipe doit démontrer sa compréhension plutôt qu'écouter passivement."
+  },
+  {
+   "q": "Quels sont les trois piliers du modèle ?",
+   "o": [
+    "Contrôle, compétence, clarté",
+    "Vision, mission, valeurs",
+    "Discipline, ordre, sanction",
+    "Planifier, faire, vérifier"
+   ],
+   "a": 0,
+   "e": "Donner le contrôle n'est sûr que si la compétence et la clarté suivent."
+  },
+  {
+   "q": "Quel est le vrai test d'un leader selon Marquet ?",
+   "o": [
+    "Ses résultats pendant son mandat",
+    "Ce qui reste après son départ",
+    "Sa popularité",
+    "Le nombre d'ordres donnés"
+   ],
+   "a": 1,
+   "e": "Une organisation chef-chef continue de bien fonctionner quand le leader part."
+  }
+ ],
+ "doerr": [
+  {
+   "q": "Qui a enseigné les OKR à John Doerr ?",
+   "o": [
+    "Peter Drucker",
+    "Andy Grove chez Intel",
+    "Larry Page",
+    "Steve Jobs"
+   ],
+   "a": 1,
+   "e": "En 1975, dans un cours interne d'Intel."
+  },
+  {
+   "q": "Quelle est la différence entre objectif et résultats clés ?",
+   "o": [
+    "Aucune",
+    "L'objectif dit ce que l'on veut accomplir, les résultats clés comment on saura qu'on y est",
+    "Les résultats clés sont qualitatifs",
+    "L'objectif est chiffré"
+   ],
+   "a": 1,
+   "e": "Les résultats clés sont mesurables, vérifiables et limités dans le temps."
+  },
+  {
+   "q": "Lequel est un bon résultat clé ?",
+   "o": [
+    "Lancer une campagne de communication",
+    "Améliorer la satisfaction",
+    "Obtenir 10 000 nouveaux inscrits d'ici fin mars",
+    "Travailler plus en équipe"
+   ],
+   "a": 2,
+   "e": "Un résultat mesurable, pas une activité ni une formulation vague."
+  },
+  {
+   "q": "Combien d'objectifs par équipe et par période ?",
+   "o": [
+    "Un seul",
+    "Trois à cinq",
+    "Dix à quinze",
+    "Autant que nécessaire"
+   ],
+   "a": 1,
+   "e": "Choisir peu oblige à renoncer et à se concentrer."
+  },
+  {
+   "q": "Qu'est-ce que l'opération Crush ?",
+   "o": [
+    "Un rachat de Motorola",
+    "La mobilisation d'Intel en 1980 pour reconquérir le marché des microprocesseurs",
+    "Un projet de Google",
+    "Une campagne de licenciements"
+   ],
+   "a": 1,
+   "e": "Un objectif clair décliné en quelques semaines dans toute l'entreprise."
+  },
+  {
+   "q": "Quelle note est souvent jugée bonne pour un OKR ambitieux ?",
+   "o": [
+    "0,1",
+    "Environ 0,6 à 0,7",
+    "Toujours 1",
+    "0"
+   ],
+   "a": 1,
+   "e": "Toujours obtenir 1 signifie que les objectifs étaient trop faciles."
+  },
+  {
+   "q": "Que signifie CFR ?",
+   "o": [
+    "Contrôle, finance, reporting",
+    "Conversations, feedback, reconnaissance",
+    "Coûts, flux, ressources",
+    "Clients, fournisseurs, résultats"
+   ],
+   "a": 1,
+   "e": "Les échanges réguliers qui font vivre les OKR."
+  },
+  {
+   "q": "Faut-il lier mécaniquement les OKR aux primes ?",
+   "o": [
+    "Oui, toujours",
+    "Non, sinon les personnes fixeront des objectifs faciles",
+    "Seulement pour les dirigeants",
+    "Seulement les OKR ambitieux"
+   ],
+   "a": 1,
+   "e": "Les OKR sont un outil de pilotage et d'apprentissage, pas de sanction."
+  }
+ ],
+ "horowitz": [
+  {
+   "q": "Quelle transformation Horowitz a-t-il menée pour sauver son entreprise ?",
+   "o": [
+    "Une fusion avec Google",
+    "Vendre l'hébergement et devenir éditeur de logiciels (Opsware)",
+    "Une délocalisation",
+    "Une introduction en bourse"
+   ],
+   "a": 1,
+   "e": "Il a renoncé à l'essentiel de son chiffre d'affaires pour sauver ce qui pouvait l'être."
+  },
+  {
+   "q": "Que signifie « pas de balle en argent » ?",
+   "o": [
+    "Il faut économiser",
+    "Face à un problème grave, il n'y a pas de solution magique, seulement du travail patient",
+    "Il faut acheter un concurrent",
+    "Il faut changer de stratégie souvent"
+   ],
+   "a": 1,
+   "e": "Chercher une idée brillante est souvent une manière d'éviter le vrai problème."
+  },
+  {
+   "q": "Qui doit annoncer un licenciement à un collaborateur ?",
+   "o": [
+    "Les ressources humaines",
+    "Un consultant",
+    "Son propre manager",
+    "Le directeur général par courriel"
+   ],
+   "a": 2,
+   "e": "Les personnes se souviendront toute leur vie de la manière dont elles ont été traitées."
+  },
+  {
+   "q": "Que pense Horowitz de la technique du compliment-critique-compliment ?",
+   "o": [
+    "C'est la meilleure méthode",
+    "Elle est vite repérée ; mieux vaut être direct et sincèrement bienveillant",
+    "Elle est obligatoire",
+    "Elle est réservée aux dirigeants"
+   ],
+   "a": 1,
+   "e": "Les personnes expérimentées finissent par ne plus croire les compliments."
+  },
+  {
+   "q": "Quand une entreprise est-elle « en temps de guerre » ?",
+   "o": [
+    "Quand elle recrute beaucoup",
+    "Quand elle fait face à une menace existentielle",
+    "Quand elle lève des fonds",
+    "Quand elle change de bureaux"
+   ],
+   "a": 1,
+   "e": "Il faut alors concentrer, décider vite et bousculer les habitudes."
+  },
+  {
+   "q": "Selon Horowitz, d'où vient la politique dans une organisation ?",
+   "o": [
+    "De la nature humaine",
+    "Des incitations créées par la direction",
+    "Des syndicats",
+    "Des clients"
+   ],
+   "a": 1,
+   "e": "Des critères de promotion flous récompensent ceux qui font pression."
+  },
+  {
+   "q": "Quelle est la compétence la plus difficile d'un directeur général ?",
+   "o": [
+    "La finance",
+    "Maîtriser sa propre psychologie",
+    "Le marketing",
+    "La négociation"
+   ],
+   "a": 1,
+   "e": "Garder la tête claire sous une pression constante."
+  },
+  {
+   "q": "Que distingue le héros du lâche selon Horowitz ?",
+   "o": [
+    "Le héros n'a pas peur",
+    "Ils ont la même peur ; c'est ce qu'ils en font qui diffère",
+    "Le lâche est moins compétent",
+    "Le héros décide toujours seul"
+   ],
+   "a": 1,
+   "e": "Le courage, c'est agir malgré la peur, après avoir écouté."
+  }
+ ],
+ "mcchrystal": [
+  {
+   "q": "Pourquoi la force de McChrystal perdait-elle au début ?",
+   "o": [
+    "Manque de moyens",
+    "Manque de compétence",
+    "Une structure trop lente face à un adversaire en réseau",
+    "Manque de soldats"
+   ],
+   "a": 2,
+   "e": "Le problème n'était pas la compétence, mais la structure."
+  },
+  {
+   "q": "Quelle est la différence entre compliqué et complexe ?",
+   "o": [
+    "Aucune",
+    "Compliqué est prévisible avec assez d'analyse ; complexe reste imprévisible",
+    "Complexe est plus petit",
+    "Compliqué concerne les humains"
+   ],
+   "a": 1,
+   "e": "Dans un système complexe, de petites causes peuvent avoir de grands effets imprévisibles."
+  },
+  {
+   "q": "Quel objectif doit remplacer l'efficacité selon les auteurs ?",
+   "o": [
+    "La rentabilité",
+    "L'adaptabilité",
+    "La discipline",
+    "La croissance"
+   ],
+   "a": 1,
+   "e": "La capacité à réagir vite et intelligemment à l'imprévu."
+  },
+  {
+   "q": "Qu'est-ce qu'une « équipe d'équipes » ?",
+   "o": [
+    "Une seule grande équipe",
+    "Des équipes reliées entre elles par des liens de confiance, comme les membres d'une équipe",
+    "Une hiérarchie classique",
+    "Une équipe de managers"
+   ],
+   "a": 1,
+   "e": "Une organisation entière ne peut pas être une équipe, mais ses équipes peuvent se faire confiance."
+  },
+  {
+   "q": "À quoi sert le point quotidien O&I ?",
+   "o": [
+    "À décider de chaque opération",
+    "À créer une compréhension commune partagée par des milliers de personnes",
+    "À sanctionner les erreurs",
+    "À remplacer la hiérarchie"
+   ],
+   "a": 1,
+   "e": "Chaque équipe partage ce qu'elle a fait, appris et ce dont elle a besoin."
+  },
+  {
+   "q": "Pourquoi envoyer de très bons officiers comme officiers de liaison ?",
+   "o": [
+    "Pour s'en débarrasser",
+    "Pour montrer l'importance de ces relations et construire la confiance",
+    "Par obligation légale",
+    "Pour économiser"
+   ],
+   "a": 1,
+   "e": "La méfiance envers un groupe devient confiance envers des personnes."
+  },
+  {
+   "q": "Que se passe-t-il si l'on délègue sans partager l'information ?",
+   "o": [
+    "Tout s'accélère",
+    "Le chaos : des décisions contradictoires",
+    "Rien ne change",
+    "La hiérarchie se renforce"
+   ],
+   "a": 1,
+   "e": "La conscience partagée doit précéder l'exécution décentralisée."
+  },
+  {
+   "q": "Quelle image McChrystal adopte-t-il pour le dirigeant ?",
+   "o": [
+    "Le joueur d'échecs",
+    "Le jardinier",
+    "Le chef d'orchestre",
+    "Le capitaine"
+   ],
+   "a": 1,
+   "e": "Il crée les conditions dans lesquelles les équipes peuvent agir seules."
+  }
+ ],
+ "carnegie": [
+  {
+   "q": "Quel est le premier principe de Carnegie ?",
+   "o": [
+    "Toujours dire ce qu'on pense",
+    "Ne pas critiquer, condamner ou se plaindre",
+    "Imposer ses idées",
+    "Éviter les inconnus"
+   ],
+   "a": 1,
+   "e": "La critique met l'autre sur la défensive sans changer son comportement."
+  },
+  {
+   "q": "Quelle différence entre appréciation et flatterie ?",
+   "o": [
+    "Aucune",
+    "L'appréciation est sincère et précise, la flatterie est fausse et intéressée",
+    "La flatterie est plus efficace",
+    "L'appréciation est réservée aux chefs"
+   ],
+   "a": 1,
+   "e": "La flatterie est vite démasquée ; l'appréciation sincère est rare et précieuse."
+  },
+  {
+   "q": "Que signifie « partir des désirs de l'autre » ?",
+   "o": [
+    "Céder à toutes ses demandes",
+    "Montrer comment ce qu'on propose répond à ce qu'il veut, lui",
+    "Parler de ses propres besoins",
+    "Éviter de demander"
+   ],
+   "a": 1,
+   "e": "On n'accroche pas à l'hameçon ce qu'on aime, mais ce que le poisson aime."
+  },
+  {
+   "q": "Selon Carnegie, comment gagner une dispute ?",
+   "o": [
+    "En ayant les meilleurs arguments",
+    "En l'évitant",
+    "En parlant plus fort",
+    "En humiliant l'autre"
+   ],
+   "a": 1,
+   "e": "Gagner une dispute, c'est perdre la bonne volonté de l'autre."
+  },
+  {
+   "q": "Que faire quand on a tort ?",
+   "o": [
+    "Le cacher",
+    "Le reconnaître rapidement et franchement",
+    "Accuser les autres",
+    "Attendre qu'on l'oublie"
+   ],
+   "a": 1,
+   "e": "Reconnaître sa faute avant le reproche désarme l'autre."
+  },
+  {
+   "q": "Que conseille Carnegie pour se faire apprécier en conversation ?",
+   "o": [
+    "Raconter ses réussites",
+    "Écouter et encourager l'autre à parler de lui",
+    "Parler de l'actualité",
+    "Donner son avis sur tout"
+   ],
+   "a": 1,
+   "e": "Les gens apprécient surtout ceux qui les écoutent."
+  },
+  {
+   "q": "Comment corriger quelqu'un sans le blesser ?",
+   "o": [
+    "Critiquer en public",
+    "Commencer par des éloges sincères et évoquer ses propres erreurs",
+    "Ne jamais rien dire",
+    "Envoyer un courriel"
+   ],
+   "a": 1,
+   "e": "Et laisser à l'autre la possibilité de sauver la face."
+  },
+  {
+   "q": "Que signifie « donner une bonne réputation à défendre » ?",
+   "o": [
+    "Mentir sur ses qualités",
+    "Exprimer sa confiance dans les capacités de l'autre pour qu'il cherche à la mériter",
+    "Promettre une promotion",
+    "Comparer avec les autres"
+   ],
+   "a": 1,
+   "e": "Les personnes tendent à agir pour être à la hauteur de l'image qu'on a d'elles."
+  }
+ ],
+ "patterson": [
+  {
+   "q": "Quelles sont les trois caractéristiques d'une conversation cruciale ?",
+   "o": [
+    "Longue, formelle, écrite",
+    "Enjeux importants, opinions divergentes, émotions fortes",
+    "Publique, rapide, hiérarchique",
+    "Technique, chiffrée, planifiée"
+   ],
+   "a": 1,
+   "e": "C'est là qu'on a le plus besoin de bien parler, et qu'on parle le plus mal."
+  },
+  {
+   "q": "Qu'est-ce que le « choix du perdant » ?",
+   "o": [
+    "Perdre volontairement",
+    "Croire qu'il faut choisir entre dire la vérité et préserver la relation",
+    "Choisir le vote",
+    "Abandonner la discussion"
+   ],
+   "a": 1,
+   "e": "Le dialogue permet de faire les deux."
+  },
+  {
+   "q": "Qu'est-ce que le réservoir de sens partagé ?",
+   "o": [
+    "Un document de synthèse",
+    "L'ensemble des informations, opinions et sentiments que chacun apporte à la discussion",
+    "Une base de données",
+    "Un compte rendu"
+   ],
+   "a": 1,
+   "e": "Plus il est rempli, meilleure est la décision et plus fort l'engagement."
+  },
+  {
+   "q": "Quelles sont les deux réactions quand on ne se sent plus en sécurité ?",
+   "o": [
+    "Rire ou pleurer",
+    "Silence ou violence",
+    "Partir ou revenir",
+    "Écrire ou appeler"
+   ],
+   "a": 1,
+   "e": "Masquer, éviter, se retirer — ou contrôler, étiqueter, attaquer."
+  },
+  {
+   "q": "Quelles sont les deux conditions de la sécurité ?",
+   "o": [
+    "Le temps et le lieu",
+    "L'objectif commun et le respect mutuel",
+    "Le pouvoir et l'argent",
+    "La préparation et l'improvisation"
+   ],
+   "a": 1,
+   "e": "Sans elles, l'autre se méfie ou défend sa dignité."
+  },
+  {
+   "q": "Que dit le « chemin vers l'action » ?",
+   "o": [
+    "L'autre nous met en colère",
+    "Entre le fait et l'émotion, il y a l'histoire que nous nous racontons",
+    "Il faut agir avant de penser",
+    "Les émotions sont inutiles"
+   ],
+   "a": 1,
+   "e": "Changer d'histoire permet de changer d'émotion."
+  },
+  {
+   "q": "Quelles sont les trois histoires piégées ?",
+   "o": [
+    "Héros, sage, rebelle",
+    "Victime, méchant, impuissant",
+    "Chef, suiveur, rebelle",
+    "Passé, présent, avenir"
+   ],
+   "a": 1,
+   "e": "Elles nous justifient quand nous nous comportons mal."
+  },
+  {
+   "q": "Comment conclure une conversation cruciale ?",
+   "o": [
+    "Par un résumé vague",
+    "Par qui fait quoi, pour quand, et le suivi",
+    "Par un vote obligatoire",
+    "Sans rien décider"
+   ],
+   "a": 1,
+   "e": "Et en clarifiant le mode de décision : commandement, consultation, vote ou consensus."
+  }
+ ],
+ "voss": [
+  {
+   "q": "Quelle est la critique principale de Voss envers les méthodes classiques ?",
+   "o": [
+    "Elles sont trop émotionnelles",
+    "Elles supposent que les gens négocient de manière rationnelle",
+    "Elles sont trop rapides",
+    "Elles ignorent les chiffres"
+   ],
+   "a": 1,
+   "e": "Les émotions guident les décisions ; la raison les justifie."
+  },
+  {
+   "q": "Qu'est-ce que le « miroir » ?",
+   "o": [
+    "Imiter la gestuelle",
+    "Répéter les derniers mots de l'autre sur un ton interrogatif",
+    "Se regarder parler",
+    "Réfléchir avant de répondre"
+   ],
+   "a": 1,
+   "e": "Il montre l'écoute et encourage l'autre à développer."
+  },
+  {
+   "q": "Comment nommer une émotion selon Voss ?",
+   "o": [
+    "« Vous êtes en colère ! »",
+    "« On dirait que… » puis se taire",
+    "« Calmez-vous »",
+    "« Je pense que vous… »"
+   ],
+   "a": 1,
+   "e": "Nommer une émotion négative en diminue l'intensité."
+  },
+  {
+   "q": "Qu'est-ce que l'audit des accusations ?",
+   "o": [
+    "Une enquête sur l'autre",
+    "Énoncer soi-même dès le début tout ce que l'autre pourrait nous reprocher",
+    "Un contrôle comptable",
+    "Une liste de griefs contre l'autre"
+   ],
+   "a": 1,
+   "e": "Les craintes nommées perdent leur force."
+  },
+  {
+   "q": "Pourquoi Voss valorise-t-il le « non » ?",
+   "o": [
+    "Il clôt la négociation",
+    "Il donne à l'autre un sentiment de sécurité et ouvre la vraie discussion",
+    "Il montre qu'on a gagné",
+    "Il est poli"
+   ],
+   "a": 1,
+   "e": "Les gens se méfient des questions qui cherchent à arracher un oui."
+  },
+  {
+   "q": "Quelle phrase marque le tournant d'une négociation ?",
+   "o": [
+    "« Vous avez raison »",
+    "« C'est exactement ça »",
+    "« D'accord »",
+    "« On verra »"
+   ],
+   "a": 1,
+   "e": "« Vous avez raison » ferme souvent la conversation sans conviction."
+  },
+  {
+   "q": "Qu'est-ce qu'une question calibrée ?",
+   "o": [
+    "Une question fermée",
+    "Une question ouverte en « comment » ou « quoi »",
+    "Une question piège",
+    "Une question en « pourquoi »"
+   ],
+   "a": 1,
+   "e": "Elle donne l'illusion du contrôle et fait réfléchir l'autre à vos contraintes."
+  },
+  {
+   "q": "Que représente un « cygne noir » en négociation ?",
+   "o": [
+    "Un adversaire redoutable",
+    "Une information inconnue qui change tout",
+    "Une offre finale",
+    "Un bluff"
+   ],
+   "a": 1,
+   "e": "L'irrationnel apparent cache souvent une information manquante."
+  }
+ ],
+ "cialdini": [
+  {
+   "q": "Sur quoi reposent la plupart des techniques de persuasion selon Cialdini ?",
+   "o": [
+    "Le hasard",
+    "Un petit nombre de principes psychologiques universels",
+    "La force",
+    "L'argent"
+   ],
+   "a": 1,
+   "e": "Ce sont des raccourcis mentaux que l'on peut exploiter."
+  },
+  {
+   "q": "Qu'illustre l'histoire des bijoux en turquoise ?",
+   "o": [
+    "La rareté",
+    "Le raccourci « cher = de qualité »",
+    "La réciprocité",
+    "L'autorité"
+   ],
+   "a": 1,
+   "e": "Le prix doublé par erreur a fait vendre les bijoux."
+  },
+  {
+   "q": "Qu'est-ce que la technique du « refus puis retraite » ?",
+   "o": [
+    "Demander peu puis beaucoup",
+    "Demander beaucoup, puis une demande plus modérée perçue comme une concession",
+    "Refuser toute offre",
+    "Partir et revenir"
+   ],
+   "a": 1,
+   "e": "Une concession appelle une concession."
+  },
+  {
+   "q": "Qu'est-ce que le « pied dans la porte » ?",
+   "o": [
+    "Forcer l'entrée",
+    "Obtenir un petit engagement avant une demande plus importante",
+    "Une technique de rareté",
+    "Un argument d'autorité"
+   ],
+   "a": 1,
+   "e": "Le premier oui change l'image de soi et pousse à rester cohérent."
+  },
+  {
+   "q": "Pourquoi les témoins nombreux interviennent-ils moins ?",
+   "o": [
+    "Ils sont égoïstes",
+    "Dilution de la responsabilité et ignorance collective",
+    "Ils ont peur de la police",
+    "Ils ne voient rien"
+   ],
+   "a": 1,
+   "e": "D'où le conseil : désigner une personne précise."
+  },
+  {
+   "q": "Quelle expérience illustre le principe d'autorité ?",
+   "o": [
+    "Les biscuits dans le bocal",
+    "Les expériences de Milgram",
+    "Les rires enregistrés",
+    "Le panneau de prudence"
+   ],
+   "a": 1,
+   "e": "Une majorité obéissait jusqu'au bout à un chercheur."
+  },
+  {
+   "q": "Qu'a montré l'expérience des biscuits ?",
+   "o": [
+    "Les biscuits sucrés plaisent",
+    "Les biscuits rares paraissent plus désirables",
+    "Le goût dépend du prix",
+    "Rien de significatif"
+   ],
+   "a": 1,
+   "e": "Surtout quand la rareté est nouvelle et liée à la demande des autres."
+  },
+  {
+   "q": "Quel principe a été ajouté dans l'édition de 2021 ?",
+   "o": [
+    "La rareté",
+    "L'unité : l'identité partagée",
+    "La réciprocité",
+    "Le contraste"
+   ],
+   "a": 1,
+   "e": "Nous disons oui à ceux que nous percevons comme « des nôtres »."
+  }
+ ],
+ "newport": [
+  {
+   "q": "Comment Newport définit-il le travail en profondeur ?",
+   "o": [
+    "Travailler tard le soir",
+    "Une concentration sans distraction qui pousse nos capacités à leurs limites",
+    "Lire beaucoup",
+    "Faire de longues réunions"
+   ],
+   "a": 1,
+   "e": "Il crée de la valeur et est difficile à reproduire."
+  },
+  {
+   "q": "Quel test distingue travail profond et superficiel ?",
+   "o": [
+    "Le temps passé",
+    "Le temps nécessaire pour former un jeune diplômé à la tâche",
+    "Le nombre de courriels",
+    "L'avis du manager"
+   ],
+   "a": 1,
+   "e": "Quelques semaines suffisent : superficiel. Des années : profond."
+  },
+  {
+   "q": "Qu'est-ce que le résidu d'attention ?",
+   "o": [
+    "La fatigue du soir",
+    "La part d'attention qui reste accrochée à la tâche précédente",
+    "Les notes oubliées",
+    "Le bruit ambiant"
+   ],
+   "a": 1,
+   "e": "Même de brèves interruptions réduisent la performance."
+  },
+  {
+   "q": "Quelle formule propose Newport ?",
+   "o": [
+    "Qualité = effort + chance",
+    "Qualité = temps × intensité",
+    "Qualité = heures de bureau",
+    "Qualité = réunions / courriels"
+   ],
+   "a": 1,
+   "e": "Une heure de concentration totale peut valoir plusieurs heures distraites."
+  },
+  {
+   "q": "Quelle philosophie consiste à travailler en profondeur à heure fixe chaque jour ?",
+   "o": [
+    "Monastique",
+    "Bimodale",
+    "Rythmique",
+    "Journalistique"
+   ],
+   "a": 2,
+   "e": "C'est la plus accessible pour la plupart des gens."
+  },
+  {
+   "q": "Pourquoi « accepter l'ennui » ?",
+   "o": [
+    "Pour se reposer",
+    "Parce que fuir chaque moment d'ennui affaiblit la capacité à se concentrer",
+    "Pour être plus créatif au bureau",
+    "Pour éviter les réunions"
+   ],
+   "a": 1,
+   "e": "La concentration est un muscle qui s'entraîne."
+  },
+  {
+   "q": "Qu'est-ce que l'approche de l'artisan pour les outils ?",
+   "o": [
+    "Adopter tout outil utile",
+    "Ne garder un outil que si ses avantages dépassent nettement ses coûts pour l'essentiel",
+    "Tout faire à la main",
+    "Refuser toute technologie"
+   ],
+   "a": 1,
+   "e": "Elle s'oppose à l'approche du « bénéfice quelconque »."
+  },
+  {
+   "q": "Combien d'heures de travail vraiment profond un expert peut-il tenir par jour, selon les travaux cités ?",
+   "o": [
+    "Une demi-heure",
+    "Autour de quatre",
+    "Dix",
+    "Douze"
+   ],
+   "a": 1,
+   "e": "Au-delà, la qualité diminue ; d'où l'importance du repos."
+  }
+ ],
+ "clear": [
+  {
+   "q": "Que représentent les habitudes selon Clear ?",
+   "o": [
+    "Une contrainte",
+    "Les intérêts composés de l'amélioration personnelle",
+    "Un trait de caractère fixe",
+    "Une perte de temps"
+   ],
+   "a": 1,
+   "e": "De petites améliorations répétées produisent de grands écarts."
+  },
+  {
+   "q": "Qu'est-ce que le plateau du potentiel latent ?",
+   "o": [
+    "Un sommet de performance",
+    "La période où les efforts s'accumulent sans résultats visibles",
+    "Une pause obligatoire",
+    "Un échec définitif"
+   ],
+   "a": 1,
+   "e": "Comme le glaçon qui ne fond qu'à zéro degré."
+  },
+  {
+   "q": "Pourquoi privilégier les systèmes aux objectifs ?",
+   "o": [
+    "Les objectifs sont inutiles",
+    "Gagnants et perdants ont les mêmes objectifs ; c'est le système qui fait la différence",
+    "Les systèmes sont plus faciles",
+    "Les objectifs coûtent cher"
+   ],
+   "a": 1,
+   "e": "Les objectifs donnent la direction, les systèmes produisent le progrès."
+  },
+  {
+   "q": "Que sont les habitudes fondées sur l'identité ?",
+   "o": [
+    "Des habitudes administratives",
+    "Changer d'abord ce que l'on croit de soi, puis le prouver par l'action",
+    "Copier les autres",
+    "Suivre ses gènes"
+   ],
+   "a": 1,
+   "e": "Chaque action est un vote pour la personne que l'on veut devenir."
+  },
+  {
+   "q": "Quelles sont les quatre étapes d'une habitude ?",
+   "o": [
+    "Plan, action, contrôle, ajustement",
+    "Signal, envie, réponse, récompense",
+    "Désir, effort, échec, réussite",
+    "Matin, midi, soir, nuit"
+   ],
+   "a": 1,
+   "e": "D'où les quatre lois : évident, attirant, facile, satisfaisant."
+  },
+  {
+   "q": "Qu'est-ce que l'empilement d'habitudes ?",
+   "o": [
+    "Faire plusieurs choses à la fois",
+    "« Après [habitude actuelle], je ferai [nouvelle habitude] »",
+    "Accumuler des objectifs",
+    "Changer toutes ses habitudes"
+   ],
+   "a": 1,
+   "e": "L'habitude existante sert de signal à la nouvelle."
+  },
+  {
+   "q": "Que dit la règle des deux minutes ?",
+   "o": [
+    "Travailler deux minutes par jour",
+    "Réduire toute nouvelle habitude à une version de moins de deux minutes",
+    "Faire une pause toutes les deux minutes",
+    "Répondre en deux minutes"
+   ],
+   "a": 1,
+   "e": "L'important est d'abord de se présenter chaque jour."
+  },
+  {
+   "q": "Quelle règle aide à se remettre d'un raté ?",
+   "o": [
+    "Recommencer à zéro le mois suivant",
+    "Ne jamais rater deux fois de suite",
+    "Doubler l'effort le lendemain",
+    "Abandonner l'habitude"
+   ],
+   "a": 1,
+   "e": "La deuxième absence marque le début d'une nouvelle mauvaise habitude."
+  }
+ ],
+ "dehaene": [
+  {
+   "q": "Quels sont les quatre piliers de l'apprentissage selon Dehaene ?",
+   "o": [
+    "Lire, écrire, compter, répéter",
+    "Attention, engagement actif, retour sur erreur, consolidation",
+    "Motivation, discipline, talent, chance",
+    "Écouter, noter, relire, réciter"
+   ],
+   "a": 1,
+   "e": "Chacun peut agir sur ces quatre mécanismes."
+  },
+  {
+   "q": "Comment Dehaene définit-il apprendre ?",
+   "o": [
+    "Stocker des informations",
+    "Former un modèle interne du monde, ajusté par des hypothèses",
+    "Répéter jusqu'à saturation",
+    "Imiter les autres"
+   ],
+   "a": 1,
+   "e": "Le cerveau fait des hypothèses et les corrige."
+  },
+  {
+   "q": "Qu'est-ce que le recyclage neuronal ?",
+   "o": [
+    "Le remplacement des neurones morts",
+    "La réorientation de circuits anciens vers des apprentissages culturels comme la lecture",
+    "Le recyclage des souvenirs",
+    "Une méthode de révision"
+   ],
+   "a": 1,
+   "e": "La lecture recycle une région visuelle qui servait à reconnaître objets et visages."
+  },
+  {
+   "q": "Que se passe-t-il pour ce à quoi on ne prête pas attention ?",
+   "o": [
+    "C'est retenu inconsciemment",
+    "C'est presque pas appris",
+    "C'est mieux retenu",
+    "C'est stocké pour plus tard"
+   ],
+   "a": 1,
+   "e": "L'attention sélectionne et amplifie l'information."
+  },
+  {
+   "q": "Que montre l'expérience des deux chatons ?",
+   "o": [
+    "Les chats sont curieux",
+    "Un organisme passif n'apprend presque rien",
+    "La vision est innée",
+    "Le jeu est inutile"
+   ],
+   "a": 1,
+   "e": "Seul le chaton actif développait normalement sa vision de l'espace."
+  },
+  {
+   "q": "Quelle est la différence entre retour sur erreur et punition de l'erreur ?",
+   "o": [
+    "Aucune",
+    "Le premier informe et fait apprendre, la seconde provoque peur et désengagement",
+    "La punition est plus efficace",
+    "Le retour est réservé aux adultes"
+   ],
+   "a": 1,
+   "e": "Évaluer souvent, à faible enjeu, pour apprendre."
+  },
+  {
+   "q": "Quel est le rôle du sommeil dans l'apprentissage ?",
+   "o": [
+    "Aucun",
+    "Il rejoue et consolide les apprentissages de la journée",
+    "Il efface la mémoire",
+    "Il ne compte que pour les enfants"
+   ],
+   "a": 1,
+   "e": "Il réorganise même les connaissances, au-delà de les conserver."
+  },
+  {
+   "q": "Quelles techniques renforcent la consolidation ?",
+   "o": [
+    "Relire et surligner",
+    "Espacer les révisions et se tester",
+    "Tout réviser la veille",
+    "Écouter des cours enregistrés"
+   ],
+   "a": 1,
+   "e": "Plus d'effort, mais beaucoup plus de mémoire."
+  }
+ ],
+ "brown": [
+  {
+   "q": "Pourquoi la relecture est-elle trompeuse ?",
+   "o": [
+    "Elle fatigue les yeux",
+    "La familiarité donne l'illusion de savoir",
+    "Elle prend trop de temps",
+    "Elle est interdite aux examens"
+   ],
+   "a": 1,
+   "e": "Reconnaître un texte n'est pas savoir retrouver et utiliser son contenu."
+  },
+  {
+   "q": "Que sont les « difficultés désirables » ?",
+   "o": [
+    "Des examens piégés",
+    "Des difficultés qui ralentissent sur le moment mais renforcent l'apprentissage",
+    "Des cours ennuyeux",
+    "Des sujets très complexes"
+   ],
+   "a": 1,
+   "e": "L'effort est le signe que l'apprentissage se renforce."
+  },
+  {
+   "q": "Qu'est-ce que l'effet test ?",
+   "o": [
+    "Le stress des examens",
+    "Retrouver une information de mémoire la renforce davantage que la relire",
+    "Les tests mesurent l'intelligence",
+    "Plus on teste, moins on apprend"
+   ],
+   "a": 1,
+   "e": "Plus la récupération demande d'effort, plus l'effet est fort."
+  },
+  {
+   "q": "Pourquoi espacer la pratique ?",
+   "o": [
+    "Pour se reposer",
+    "Un peu d'oubli entre deux séances rend la récupération plus efficace",
+    "Pour réduire le temps total",
+    "Parce que c'est plus agréable"
+   ],
+   "a": 1,
+   "e": "Des intervalles qui s'allongent progressivement sont efficaces."
+  },
+  {
+   "q": "Que montre l'expérience sur les volumes géométriques ?",
+   "o": [
+    "La pratique par blocs est meilleure",
+    "L'alternance des problèmes donne de meilleurs résultats au test final",
+    "Les formes n'ont pas d'importance",
+    "Il faut apprendre par cœur"
+   ],
+   "a": 1,
+   "e": "L'alternance apprend à reconnaître le type de problème."
+  },
+  {
+   "q": "Qu'est-ce que la génération ?",
+   "o": [
+    "Créer des fiches colorées",
+    "Essayer de répondre avant d'avoir reçu l'explication",
+    "Apprendre en groupe",
+    "Relire ses notes"
+   ],
+   "a": 1,
+   "e": "Même en se trompant, l'effort prépare à mieux retenir la solution."
+  },
+  {
+   "q": "Que disent les auteurs des styles d'apprentissage ?",
+   "o": [
+    "Ils sont prouvés",
+    "L'idée est populaire mais peu soutenue par la recherche",
+    "Il faut toujours les respecter",
+    "Ils concernent seulement les enfants"
+   ],
+   "a": 1,
+   "e": "Mieux vaut adapter l'enseignement au contenu."
+  },
+  {
+   "q": "Comment calibrer son jugement sur ce qu'on sait ?",
+   "o": [
+    "En relisant",
+    "En se testant",
+    "En demandant à un ami si c'est clair",
+    "En surlignant"
+   ],
+   "a": 1,
+   "e": "Les tests montrent ce que l'on sait réellement."
+  }
+ ],
+ "young": [
+  {
+   "q": "Quel projet a fait connaître Scott Young ?",
+   "o": [
+    "Un tour du monde à vélo",
+    "Suivre seul en un an l'équivalent du programme d'informatique du MIT",
+    "Écrire un roman en un mois",
+    "Créer une start-up"
+   ],
+   "a": 1,
+   "e": "Avec les cours mis gratuitement en ligne et leurs examens."
+  },
+  {
+   "q": "Qu'est-ce que le méta-apprentissage ?",
+   "o": [
+    "Apprendre plusieurs choses à la fois",
+    "Comprendre comment on va apprendre avant de commencer",
+    "Apprendre sur internet",
+    "Apprendre en dormant"
+   ],
+   "a": 1,
+   "e": "Pourquoi, quoi, comment : dessiner la carte avant le voyage."
+  },
+  {
+   "q": "Quel temps consacrer au méta-apprentissage ?",
+   "o": [
+    "Aucun",
+    "Environ 10 % du temps prévu",
+    "La moitié du projet",
+    "Une minute"
+   ],
+   "a": 1,
+   "e": "Ce temps évite de partir dans de mauvaises directions."
+  },
+  {
+   "q": "Pourquoi la pratique directe est-elle si importante ?",
+   "o": [
+    "Elle est plus rapide",
+    "Le transfert se fait mal depuis un contexte abstrait",
+    "Elle coûte moins cher",
+    "Elle évite les examens"
+   ],
+   "a": 1,
+   "e": "On apprend le mieux dans le contexte où l'on utilisera la compétence."
+  },
+  {
+   "q": "Qu'est-ce que l'exercice ciblé ?",
+   "o": [
+    "Pratiquer l'ensemble de la compétence",
+    "Isoler et travailler la composante qui limite la performance",
+    "Faire des exercices faciles",
+    "Copier un expert"
+   ],
+   "a": 1,
+   "e": "Puis revenir à la pratique directe pour intégrer."
+  },
+  {
+   "q": "Quel type de rétroaction est le plus utile ?",
+   "o": [
+    "Sur le résultat seulement",
+    "Corrective : ce qui ne va pas et comment corriger",
+    "Aucune",
+    "Les compliments"
+   ],
+   "a": 1,
+   "e": "Mais sans surréagir à un retour isolé."
+  },
+  {
+   "q": "Que propose la technique inspirée de Feynman ?",
+   "o": [
+    "Mémoriser des formules",
+    "Expliquer simplement un concept pour révéler ce qu'on n'a pas compris",
+    "Lire plus vite",
+    "Faire des schémas colorés"
+   ],
+   "a": 1,
+   "e": "Les passages flous de l'explication montrent les lacunes."
+  },
+  {
+   "q": "Quel est le dernier principe ?",
+   "o": [
+    "La concentration",
+    "L'expérimentation",
+    "La récupération",
+    "La rétention"
+   ],
+   "a": 1,
+   "e": "Suivre d'abord les méthodes éprouvées, puis expérimenter."
+  }
+ ],
+ "ericsson": [
+  {
+   "q": "Quelle est la thèse principale de Peak ?",
+   "o": [
+    "Le talent inné explique l'excellence",
+    "L'excellence vient surtout de la pratique délibérée",
+    "La chance fait les experts",
+    "Tout dépend de l'âge"
+   ],
+   "a": 1,
+   "e": "La génétique compte dans certains domaines, mais moins que l'entraînement."
+  },
+  {
+   "q": "Que montre l'étude sur l'oreille absolue ?",
+   "o": [
+    "Elle est réservée aux génies",
+    "Des enfants entraînés tôt la développent presque tous",
+    "Elle ne s'apprend pas",
+    "Elle disparaît avec l'âge"
+   ],
+   "a": 1,
+   "e": "C'est moins un don qu'une capacité entraînable tôt."
+  },
+  {
+   "q": "Que montre l'étude des chauffeurs de taxi londoniens ?",
+   "o": [
+    "Ils conduisent mieux",
+    "Leur hippocampe se développe pendant leur formation",
+    "Ils ont une meilleure vue",
+    "Ils dorment moins"
+   ],
+   "a": 1,
+   "e": "Le cerveau adulte se transforme en réponse à un entraînement exigeant."
+  },
+  {
+   "q": "Qu'est-ce que la pratique naïve ?",
+   "o": [
+    "Une pratique d'enfant",
+    "Répéter une activité en espérant progresser",
+    "Une pratique avec un coach",
+    "Une pratique intensive"
+   ],
+   "a": 1,
+   "e": "Elle conduit vite à un plateau."
+  },
+  {
+   "q": "Que pense Ericsson de la règle des dix mille heures ?",
+   "o": [
+    "Elle est exacte",
+    "C'est une déformation : le chiffre n'est pas magique et la qualité compte plus que le nombre",
+    "Il faut vingt mille heures",
+    "Il l'a inventée pour vendre"
+   ],
+   "a": 1,
+   "e": "Dix mille heures était une moyenne chez des violonistes de vingt ans."
+  },
+  {
+   "q": "Que sont les représentations mentales ?",
+   "o": [
+    "Des images artistiques",
+    "Des structures qui permettent aux experts de reconnaître des motifs et d'anticiper",
+    "Des souvenirs d'enfance",
+    "Des rêves"
+   ],
+   "a": 1,
+   "e": "Les grands maîtres d'échecs perdent leur avantage face à des positions aléatoires."
+  },
+  {
+   "q": "Quelle caractéristique distingue la pratique délibérée ?",
+   "o": [
+    "Elle est toujours agréable",
+    "Elle est guidée par un enseignant, cible des aspects précis et demande un effort intense",
+    "Elle se fait en groupe",
+    "Elle dure peu"
+   ],
+   "a": 1,
+   "e": "Elle s'appuie sur un domaine aux méthodes établies."
+  },
+  {
+   "q": "Quel danger présente la croyance au talent ?",
+   "o": [
+    "Aucun",
+    "Elle peut devenir une prophétie autoréalisatrice",
+    "Elle rend paresseux les doués seulement",
+    "Elle augmente la motivation"
+   ],
+   "a": 1,
+   "e": "L'enfant jugé peu doué pratique moins et progresse moins."
+  }
+ ],
+ "dweck": [
+  {
+   "q": "Qu'est-ce que l'état d'esprit fixe ?",
+   "o": [
+    "Une personnalité rigide",
+    "La croyance que ses capacités sont données une fois pour toutes",
+    "Une bonne concentration",
+    "Le refus du changement"
+   ],
+   "a": 1,
+   "e": "Chaque situation devient un test de sa valeur."
+  },
+  {
+   "q": "Qu'est-ce que l'état d'esprit de développement ?",
+   "o": [
+    "Être toujours positif",
+    "Croire que ses capacités peuvent se cultiver par l'effort, les stratégies et l'aide",
+    "Nier les différences",
+    "Travailler sans arrêt"
+   ],
+   "a": 1,
+   "e": "Ce n'est ni l'optimisme ni l'effort pour l'effort."
+  },
+  {
+   "q": "Comment réagit l'état d'esprit fixe face à l'effort ?",
+   "o": [
+    "Il le recherche",
+    "Il le voit comme un signe de faiblesse",
+    "Il le récompense",
+    "Il l'ignore"
+   ],
+   "a": 1,
+   "e": "Si l'on était doué, on n'aurait pas besoin d'effort, pense-t-on."
+  },
+  {
+   "q": "Que montre l'expérience des compliments ?",
+   "o": [
+    "Tous les compliments se valent",
+    "Féliciter l'intelligence pousse à éviter les défis ; féliciter l'effort à les rechercher",
+    "Il ne faut jamais complimenter",
+    "Les compliments n'ont pas d'effet"
+   ],
+   "a": 1,
+   "e": "Certains enfants félicités pour leur intelligence ont même menti sur leurs scores."
+  },
+  {
+   "q": "Que dit Dweck des dirigeants à l'état d'esprit fixe ?",
+   "o": [
+    "Ils réussissent mieux",
+    "Ils cherchent à prouver leur supériorité et écartent les contradicteurs",
+    "Ils écoutent les critiques",
+    "Ils forment leurs équipes"
+   ],
+   "a": 1,
+   "e": "Elle les oppose aux leaders de niveau 5 décrits par Collins."
+  },
+  {
+   "q": "Quel mot aide à changer d'état d'esprit ?",
+   "o": [
+    "Jamais",
+    "Encore",
+    "Toujours",
+    "Impossible"
+   ],
+   "a": 1,
+   "e": "« Je ne sais pas encore faire » ouvre la possibilité du progrès."
+  },
+  {
+   "q": "Qu'est-ce que le « faux état d'esprit de développement » ?",
+   "o": [
+    "Un état d'esprit fixe déguisé, par exemple féliciter l'effort sans progrès",
+    "Une maladie",
+    "Un test psychologique",
+    "Une méthode d'enseignement"
+   ],
+   "a": 0,
+   "e": "L'objectif est l'apprentissage, avec de bonnes stratégies."
+  },
+  {
+   "q": "Que disent les études récentes sur les interventions d'état d'esprit ?",
+   "o": [
+    "Effets énormes partout",
+    "Effets réels mais souvent modestes, plus marqués chez certains élèves",
+    "Aucun effet jamais",
+    "Effets négatifs"
+   ],
+   "a": 1,
+   "e": "Le livre est plus enthousiaste que l'ensemble de la recherche actuelle."
+  }
+ ],
+ "harari": [
+  {
+   "q": "Quelles sont les trois révolutions décrites par Harari ?",
+   "o": [
+    "Industrielle, numérique, spatiale",
+    "Cognitive, agricole, scientifique",
+    "Française, américaine, russe",
+    "Du feu, de la roue, de l'écriture"
+   ],
+   "a": 1,
+   "e": "Elles expliquent comment un primate ordinaire est devenu maître de la planète."
+  },
+  {
+   "q": "Qu'est-ce qui permet à Sapiens de coopérer à grande échelle ?",
+   "o": [
+    "Sa force physique",
+    "Les fictions partagées auxquelles on croit ensemble",
+    "La télépathie",
+    "Un instinct grégaire"
+   ],
+   "a": 1,
+   "e": "Dieux, nations, monnaies, entreprises : des réalités imaginées aux effets bien réels."
+  },
+  {
+   "q": "Autour de quel seuil la confiance personnelle ne suffit-elle plus ?",
+   "o": [
+    "Environ 15 personnes",
+    "Environ 150 personnes",
+    "Environ 1 500 personnes",
+    "Environ 15 000 personnes"
+   ],
+   "a": 1,
+   "e": "Au-delà, il faut des croyances partagées pour coopérer."
+  },
+  {
+   "q": "Comment Harari présente-t-il la révolution agricole ?",
+   "o": [
+    "Comme un progrès évident pour tous",
+    "Comme un piège : plus d'humains, sans forcément une meilleure vie",
+    "Comme un échec total",
+    "Comme une invention européenne"
+   ],
+   "a": 1,
+   "e": "Le blé aurait domestiqué l'homme autant que l'inverse."
+  },
+  {
+   "q": "Pourquoi Harari cite-t-il l'exemple d'une entreprise automobile ?",
+   "o": [
+    "Pour parler de l'industrie",
+    "Pour montrer qu'une entreprise est une fiction juridique",
+    "Pour critiquer le capitalisme",
+    "Pour parler d'innovation"
+   ],
+   "a": 1,
+   "e": "Elle existe parce que juristes et tribunaux la reconnaissent."
+  },
+  {
+   "q": "Sur quel changement d'attitude repose la révolution scientifique ?",
+   "o": [
+    "La foi dans les anciens",
+    "Admettre son ignorance",
+    "Le rejet des mathématiques",
+    "La confiance dans les rois"
+   ],
+   "a": 1,
+   "e": "Les cartes laissent désormais des espaces vides à explorer."
+  },
+  {
+   "q": "Quelles forces ont accompagné l'essor de la science moderne ?",
+   "o": [
+    "La religion et la noblesse",
+    "L'empire et le capitalisme",
+    "Les paysans et les artisans",
+    "Les syndicats"
+   ],
+   "a": 1,
+   "e": "Connaître pour conquérir, et prêter en croyant à la croissance."
+  },
+  {
+   "q": "Que conclut Harari sur le bonheur ?",
+   "o": [
+    "Le progrès matériel a rendu tout le monde plus heureux",
+    "Il est difficile d'affirmer que le progrès a rendu les humains plus heureux",
+    "Les chasseurs-cueilleurs étaient tous malheureux",
+    "Le bonheur ne dépend que de l'argent"
+   ],
+   "a": 1,
+   "e": "Les attentes augmentent avec les conditions de vie."
+  }
+ ],
+ "frankl": [
+  {
+   "q": "Quelle est la motivation fondamentale de l'être humain selon Frankl ?",
+   "o": [
+    "Le plaisir",
+    "Le pouvoir",
+    "La recherche de sens",
+    "La survie"
+   ],
+   "a": 2,
+   "e": "Il l'appelle la volonté de sens."
+  },
+  {
+   "q": "Quelle liberté subsiste selon Frankl même dans les pires conditions ?",
+   "o": [
+    "La liberté de mouvement",
+    "La liberté de choisir son attitude",
+    "La liberté de parole",
+    "Aucune"
+   ],
+   "a": 1,
+   "e": "Il ne jugeait pas ceux qui n'en avaient plus la force."
+  },
+  {
+   "q": "Quelles sont les trois phases décrites dans les camps ?",
+   "o": [
+    "Espoir, colère, vengeance",
+    "Arrivée, apathie, après la libération",
+    "Travail, repos, fuite",
+    "Peur, courage, oubli"
+   ],
+   "a": 1,
+   "e": "Chacune avec ses réactions psychologiques propres."
+  },
+  {
+   "q": "Qu'observait Frankl chez les prisonniers qui perdaient tout espoir dans l'avenir ?",
+   "o": [
+    "Ils résistaient mieux",
+    "Ils déclinaient souvent rapidement",
+    "Ils s'évadaient",
+    "Rien de particulier"
+   ],
+   "a": 1,
+   "e": "D'où ses efforts pour rappeler à chacun ce qui l'attendait."
+  },
+  {
+   "q": "Quels sont les trois chemins vers le sens ?",
+   "o": [
+    "Argent, pouvoir, gloire",
+    "Une œuvre, une expérience ou une rencontre, une attitude face à l'inévitable",
+    "Prière, travail, famille",
+    "Lire, écrire, voyager"
+   ],
+   "a": 1,
+   "e": "Ce que l'on fait, ce que l'on vit, la manière dont on supporte."
+  },
+  {
+   "q": "Qu'est-ce que le vide existentiel ?",
+   "o": [
+    "Une maladie rare",
+    "Le sentiment d'absence de sens fréquent dans les sociétés modernes",
+    "Une technique thérapeutique",
+    "La peur de la mort"
+   ],
+   "a": 1,
+   "e": "La névrose du dimanche en est une forme."
+  },
+  {
+   "q": "Qu'est-ce que l'intention paradoxale ?",
+   "o": [
+    "Faire le contraire de ce qu'on veut",
+    "Souhaiter avec humour ce que l'on craint pour s'en détacher",
+    "Mentir à son thérapeute",
+    "Éviter toute situation stressante"
+   ],
+   "a": 1,
+   "e": "Elle brise le cercle entre la peur et le symptôme."
+  },
+  {
+   "q": "Que dit Frankl du bonheur ?",
+   "o": [
+    "Il faut le poursuivre directement",
+    "Il vient de surcroît quand on se consacre à plus grand que soi",
+    "Il est impossible",
+    "Il dépend des circonstances"
+   ],
+   "a": 1,
+   "e": "Plus on le cherche pour lui-même, plus il échappe."
+  }
+ ],
+ "lebon": [
+  {
+   "q": "Que dit la « loi de l'unité mentale des foules » ?",
+   "o": [
+    "Les foules sont toujours sages",
+    "Dans une foule, la personnalité consciente s'efface au profit d'une âme collective",
+    "Chaque individu garde son jugement",
+    "Les foules n'existent pas"
+   ],
+   "a": 1,
+   "e": "La foule est plus extrême, dans le pire comme dans le meilleur."
+  },
+  {
+   "q": "Quelles explications Le Bon donne-t-il à la transformation de l'individu ?",
+   "o": [
+    "La fatigue et la faim",
+    "Le sentiment de puissance et l'anonymat, la contagion, la suggestion",
+    "L'alcool",
+    "L'éducation"
+   ],
+   "a": 1,
+   "e": "L'explication par l'hypnose est aujourd'hui dépassée."
+  },
+  {
+   "q": "Selon Le Bon, par quoi les foules sont-elles influencées ?",
+   "o": [
+    "Par les raisonnements",
+    "Par les images et les mots évocateurs",
+    "Par les statistiques",
+    "Par les lois"
+   ],
+   "a": 1,
+   "e": "Les mots comptent par les émotions qu'ils évoquent plus que par leur sens."
+  },
+  {
+   "q": "Quels procédés utilisent les meneurs ?",
+   "o": [
+    "Démontrer, nuancer, discuter",
+    "Affirmer, répéter, laisser la contagion agir",
+    "Voter, débattre, réviser",
+    "Écrire, publier, enseigner"
+   ],
+   "a": 1,
+   "e": "La recherche moderne a confirmé qu'une affirmation répétée paraît plus vraie."
+  },
+  {
+   "q": "Qu'est-ce que le prestige selon Le Bon ?",
+   "o": [
+    "La richesse",
+    "Une domination qui paralyse le sens critique, et disparaît dès qu'on la discute",
+    "Un diplôme",
+    "La beauté"
+   ],
+   "a": 1,
+   "e": "Il peut être acquis par le statut ou personnel."
+  },
+  {
+   "q": "Comment faut-il lire ce livre aujourd'hui ?",
+   "o": [
+    "Comme une science exacte",
+    "Avec un regard critique : des intuitions mêlées de préjugés rejetés",
+    "Comme un manuel de démocratie",
+    "Sans contexte"
+   ],
+   "a": 1,
+   "e": "Il a aussi servi de manuel à des propagandistes."
+  },
+  {
+   "q": "Que dit la psychologie sociale moderne des foules ?",
+   "o": [
+    "Qu'elles sont toujours irrationnelles",
+    "Qu'elles suivent souvent des normes et une identité partagée",
+    "Qu'elles n'ont aucune logique",
+    "Que Le Bon avait entièrement raison"
+   ],
+   "a": 1,
+   "e": "Les personnes y conservent souvent leur jugement."
+  },
+  {
+   "q": "Quel conseil tirer pour les réunions ?",
+   "o": [
+    "Laisser parler le plus gradé d'abord",
+    "Recueillir les avis individuels avant la discussion",
+    "Voter à main levée immédiatement",
+    "Éviter les réunions"
+   ],
+   "a": 1,
+   "e": "Cela protège le jugement individuel de la contagion du groupe."
+  }
+ ],
+ "taleb": [
+  {
+   "q": "Quelles sont les trois caractéristiques d'un cygne noir ?",
+   "o": [
+    "Fréquent, faible, prévisible",
+    "Rare, à impact extrême, expliqué après coup",
+    "Noir, blanc, gris",
+    "Politique, économique, social"
+   ],
+   "a": 1,
+   "e": "Il dépend aussi de ce que sait l'observateur."
+  },
+  {
+   "q": "Qu'illustre l'histoire de la dinde ?",
+   "o": [
+    "La gastronomie",
+    "Le passé ne garantit pas l'avenir, et la confiance peut être maximale au moment du danger",
+    "Les animaux sont naïfs",
+    "Les éleveurs sont cruels"
+   ],
+   "a": 1,
+   "e": "Mille jours rassurants ne disaient rien du jour décisif."
+  },
+  {
+   "q": "Quelle est la différence entre Médiocristan et Extrêmistan ?",
+   "o": [
+    "Pauvres et riches",
+    "Dans le premier, aucun cas isolé ne change la moyenne ; dans le second, un seul peut tout dominer",
+    "Europe et Amérique",
+    "Passé et futur"
+   ],
+   "a": 1,
+   "e": "La taille relève du premier, la richesse du second."
+  },
+  {
+   "q": "Que reproche Taleb à la courbe en cloche ?",
+   "o": [
+    "Elle est trop compliquée",
+    "Elle sous-estime les événements extrêmes dans de nombreux domaines",
+    "Elle est trop récente",
+    "Elle surestime les risques"
+   ],
+   "a": 1,
+   "e": "Beaucoup de phénomènes ont des queues épaisses."
+  },
+  {
+   "q": "Qu'est-ce que l'erreur de narration ?",
+   "o": [
+    "Mal raconter une histoire",
+    "Transformer le hasard en récit cohérent et croire comprendre le passé",
+    "Mentir",
+    "Oublier les détails"
+   ],
+   "a": 1,
+   "e": "Plus une histoire est détaillée, plus elle paraît crédible, et moins elle est probable."
+  },
+  {
+   "q": "Qu'illustre l'histoire des marins qui ont prié et survécu ?",
+   "o": [
+    "L'efficacité de la prière",
+    "Les preuves silencieuses : on oublie ceux qui ont prié et se sont noyés",
+    "Le courage des marins",
+    "Le hasard des tempêtes"
+   ],
+   "a": 1,
+   "e": "C'est le biais du survivant."
+  },
+  {
+   "q": "Qu'est-ce que la stratégie des haltères ?",
+   "o": [
+    "Faire du sport",
+    "Être très prudent avec l'essentiel et très audacieux avec une petite part",
+    "Tout miser sur le risque moyen",
+    "Diversifier également"
+   ],
+   "a": 1,
+   "e": "Éviter le faux confort du milieu."
+  },
+  {
+   "q": "Que recommande Taleb face à l'imprévisible ?",
+   "o": [
+    "Améliorer les prévisions",
+    "Réduire son exposition aux conséquences graves et garder des marges",
+    "Ignorer les risques",
+    "Suivre les experts"
+   ],
+   "a": 1,
+   "e": "Se préparer plutôt que prédire."
+  }
+ ],
+ "csikszentmihalyi": [
+  {
+   "q": "Qu'est-ce que le flow ?",
+   "o": [
+    "Un état de repos",
+    "Un état d'absorption totale dans une activité exigeante",
+    "Une technique de respiration",
+    "Une forme de méditation passive"
+   ],
+   "a": 1,
+   "e": "Concentration totale, oubli de soi, temps transformé."
+  },
+  {
+   "q": "Quelle méthode Csikszentmihalyi a-t-il utilisée ?",
+   "o": [
+    "Des entretiens annuels",
+    "Des signaux aléatoires dans la journée pour noter l'expérience sur le moment",
+    "Des scanners cérébraux",
+    "Des sondages téléphoniques"
+   ],
+   "a": 1,
+   "e": "La méthode d'échantillonnage des expériences."
+  },
+  {
+   "q": "Quelle est la condition la plus importante du flow ?",
+   "o": [
+    "Le silence",
+    "L'équilibre entre un défi élevé et les compétences",
+    "Le confort",
+    "La présence d'amis"
+   ],
+   "a": 1,
+   "e": "Trop dur : anxiété. Trop facile : ennui."
+  },
+  {
+   "q": "Que signifie « autotélique » ?",
+   "o": [
+    "Automatique",
+    "Une activité faite pour elle-même",
+    "Une activité à distance",
+    "Une activité solitaire"
+   ],
+   "a": 1,
+   "e": "Du grec auto, soi-même, et telos, but."
+  },
+  {
+   "q": "Qu'est-ce que l'entropie psychique ?",
+   "o": [
+    "Une maladie",
+    "Le désordre de la conscience créé par ce qui contrarie nos buts",
+    "Une forme d'énergie physique",
+    "Le sommeil"
+   ],
+   "a": 1,
+   "e": "Le flow en est l'inverse : un ordre dans la conscience."
+  },
+  {
+   "q": "Quel est le paradoxe du travail ?",
+   "o": [
+    "On travaille trop",
+    "On vit plus de flow au travail qu'aux loisirs, tout en souhaitant être ailleurs",
+    "Le travail rend malheureux",
+    "Les loisirs sont toujours meilleurs"
+   ],
+   "a": 1,
+   "e": "La culture présente le travail comme une contrainte."
+  },
+  {
+   "q": "Comment Csikszentmihalyi voit-il les loisirs passifs ?",
+   "o": [
+    "Les plus satisfaisants",
+    "Souvent associés à une faible énergie et peu de satisfaction",
+    "Indispensables au flow",
+    "Neutres"
+   ],
+   "a": 1,
+   "e": "Des loisirs actifs et exigeants nourrissent davantage."
+  },
+  {
+   "q": "Qu'est-ce qu'un thème de vie ?",
+   "o": [
+    "Un loisir",
+    "Un but global qui relie les expériences et donne une cohérence à l'existence",
+    "Un souvenir d'enfance",
+    "Un métier"
+   ],
+   "a": 1,
+   "e": "Le sens se construit par des choix et de l'engagement."
+  }
+ ],
+ "morel": [
+  {
+   "q": "Qu'est-ce qu'une décision absurde selon Morel ?",
+   "o": [
+    "Une décision malhonnête",
+    "Une action radicalement contraire au but recherché, et persistante",
+    "Une erreur mineure",
+    "Une décision prise seul"
+   ],
+   "a": 1,
+   "e": "Ses auteurs sont souvent compétents et de bonne foi."
+  },
+  {
+   "q": "Quelle erreur de données a joué dans l'accident de Challenger ?",
+   "o": [
+    "Une erreur de calcul de trajectoire",
+    "N'avoir examiné que les vols avec incidents, ce qui masquait le lien avec le froid",
+    "Une panne informatique",
+    "Un manque de carburant"
+   ],
+   "a": 1,
+   "e": "Sur l'ensemble des vols, le lien sautait aux yeux."
+  },
+  {
+   "q": "Qu'est-ce que le paradoxe d'Abilene ?",
+   "o": [
+    "Une erreur de géographie",
+    "Un groupe décide ce que personne ne voulait, chacun croyant faire plaisir aux autres",
+    "Un conflit familial",
+    "Un problème de climatisation"
+   ],
+   "a": 1,
+   "e": "Chacun garde son avis, mais le tait."
+  },
+  {
+   "q": "Que signifie « inverser la charge de la preuve » ?",
+   "o": [
+    "Faire payer les experts",
+    "Exiger la preuve qu'une action est dangereuse plutôt que la preuve qu'elle est sûre",
+    "Demander des témoins",
+    "Changer de juge"
+   ],
+   "a": 1,
+   "e": "On exige des preuves pour arrêter, pas pour continuer."
+  },
+  {
+   "q": "Qu'est-ce qu'un cadre de référence erroné ?",
+   "o": [
+    "Un mauvais tableau",
+    "Un modèle mental faux à travers lequel toutes les informations sont interprétées",
+    "Un organigramme dépassé",
+    "Un contrat mal rédigé"
+   ],
+   "a": 1,
+   "e": "Il explique la persistance des décisions absurdes."
+  },
+  {
+   "q": "Qu'est-ce que l'escalade de l'engagement ?",
+   "o": [
+    "Une promotion rapide",
+    "Continuer à investir dans un projet raté à cause de ce qui est déjà engagé",
+    "Un sport",
+    "Une négociation"
+   ],
+   "a": 1,
+   "e": "Les coûts irrécupérables poussent à dépenser encore."
+  },
+  {
+   "q": "Que pratiquent les organisations à haute fiabilité ?",
+   "o": [
+    "La sanction systématique",
+    "Collégialité, non-punition des erreurs signalées, droit d'arrêter",
+    "La centralisation totale",
+    "L'improvisation"
+   ],
+   "a": 1,
+   "e": "Aviation, nucléaire, sous-marins en sont des exemples."
+  },
+  {
+   "q": "Quelle question aide à sortir de l'escalade ?",
+   "o": [
+    "Combien avons-nous déjà dépensé ?",
+    "Si nous n'avions rien dépensé, lancerions-nous ce projet aujourd'hui ?",
+    "Qui est responsable ?",
+    "Quand finira-t-on ?"
+   ],
+   "a": 1,
+   "e": "Elle neutralise l'effet des coûts déjà engagés."
+  }
+ ]
+}

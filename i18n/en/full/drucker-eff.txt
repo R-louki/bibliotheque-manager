@@ -1,0 +1,487 @@
+=== Context and thesis
+--- Drucker and his era
+kw: 1967 · knowledge society · organizations
+Peter Drucker (1909–2005) is often presented as the inventor of modern management. Born in Vienna and trained in law and economics, he settled in the United States in the late 1930s. He studied General Motors from the inside in the 1940s and went on to publish dozens of books on business, society and institutions. What sets him apart is that he looks at management as a social practice, not just an administrative technique.
+
+When he published *The Effective Executive* in 1967, the world of work was changing profoundly. Large organizations, public and private, employed more and more people whose working tool was knowledge: engineers, accountants, researchers, lawyers, project managers, teachers. Drucker in fact popularized the term “knowledge worker.” Yet these people produce nothing visible at the end of the day. Their output is ideas, analyses, decisions and information. The problem is therefore new: how do you know whether someone whose work is invisible is effective?
+
+The book answers that question. It is short, dense and very concrete. Drucker says almost nothing about strategy, structure or team motivation. He talks about the person who has to get results and what they do with their week. That explains its longevity: sixty years later, instant messaging, video calls and dashboards have multiplied the distractions Drucker was already describing. The diagnosis has remained accurate, and has even become more urgent.
+
+> À retenir | The book is not about how to lead others, but about how to manage yourself to get results. That is the starting point for everything else.
+
+--- Who is an “executive”?
+kw: decisions · contribution · everyone concerned
+Drucker gives the word “executive” a much broader meaning than the org chart does. For him, an executive is any knowledge worker who, by virtue of their position or knowledge, is responsible for a contribution that materially affects the organization's capacity to perform and obtain results. In other words, the criterion is not the number of subordinates but responsibility for making decisions that matter.
+
+An example helps. A marketing analyst with no team who decides which customer segments to study first makes a decision that shapes the work of dozens of people. She is therefore an “executive” in Drucker's sense. Conversely, a department head who merely passes on instructions from above, without ever deciding anything himself, is much less of one than he appears.
+
+This definition has three practical consequences. First, the book is addressed to almost everyone in a modern organization, including experts and young managers. Second, effectiveness becomes an individual responsibility: nobody can be effective in your place. Third, formal authority matters less than contribution. You can have a lot of power and little effect, or the reverse.
+
+Drucker also stresses four realities that push every executive toward ineffectiveness. Their time belongs to others, who constantly make demands on it. They are forced to “keep the operation going” unless they deliberately decide to change that. They work within an organization, so their effectiveness depends on others. Finally, they are inside the organization, while results lie outside, with customers, patients or students. The bigger an organization grows, the greater the risk of looking only inward.
+
+- Being an executive means being responsible for a contribution, not just a team.
+- Organizational pressures naturally push toward activity rather than results.
+- Results lie outside: with whoever receives the work.
+
+--- Effectiveness can be learned
+kw: habit · practice · five disciplines
+The book's central thesis fits in one sentence: effectiveness is a habit, that is, a set of practices that can be learned. Drucker recounts that during his consulting career he observed very different executives: extroverted or reserved, intuitive or analytical, brilliant or simply conscientious. He found no effective “personality type.” But all those who got results shared the same practices.
+
+This observation is liberating. It means that intelligence, imagination and knowledge are not enough. Many brilliant people are ineffective because they do not turn their ideas into results. Conversely, ordinary people become remarkably effective by consistently applying a few simple disciplines. Drucker compares this to learning the multiplication tables: it is tedious, but once learned, it becomes second nature.
+
+The five practices described in the book form the backbone of this mind map:
+
+- **Know where your time goes** and manage it systematically.
+- **Focus on contribution** to the outside rather than on effort.
+- **Build on strengths**: your own, those of your team members, your superiors and the situation.
+- **Concentrate your efforts** on a few areas where superior performance will produce outstanding results.
+- **Make effective decisions**, few in number but fundamental.
+
+These practices are linked. Without mastering time, you cannot concentrate. Without thinking about contribution, you cannot know what to concentrate on. Without knowing strengths, you cannot decide well who does what. You can start with any of them, but Drucker recommends starting with time, because it is the most concrete and the one that produces visible results fastest.
+
+> À retenir | Nobody is born effective; you become effective by repeatedly practicing five disciplines. That is good news: nobody is excluded.
+
+=== Mastering your time
+--- The scarcest resource
+kw: inelastic · irreplaceable · cannot be stored
+Drucker opens the practical part of the book with an observation: effective executives do not start with their tasks; they start with their time. Nor do they start by planning. They start by finding out where their time actually goes.
+
+Why time rather than money, people or information? Because it is the only totally inelastic resource. You can borrow money, hire staff, buy information. You cannot rent, buy or store time. Yesterday will not come back. Every activity, without exception, consumes time. Whoever does not manage their time can therefore manage nothing else.
+
+Knowledge work has a particularity: it requires long stretches of continuous time. Writing a report, analyzing a problem, preparing a reorganization or conducting a difficult conversation cannot be done in ten-minute slices. Fifteen minutes here and twenty minutes there do not add up. A task that requires four hours of thought cannot be done in sixteen fifteen-minute pieces, because you have to pick up the thread each time. Recent research on the “cost of task switching” largely confirms this intuition.
+
+Working with people also consumes a lot of time, and it cannot be compressed. A conversation about a team member's career, a meeting to resolve a conflict, explaining a decision: all of this requires availability. Trying to be quick with people is often the slowest way to get a result, because you will have to come back to the subject several times.
+
+Finally, Drucker notes that our perception of time is very poor. When executives are asked to estimate how they used their week, their estimates are almost always wrong. They think they spend a lot of time on strategic priorities, while the logs show that this time is devoured by emergencies, meetings and interruptions.
+
+> À retenir | Time is the limit on everything. Thinking work and people work need large continuous blocks, which organizations naturally tend to break up.
+
+--- Recording your time
+kw: log · actual record · twice a year
+Drucker's method has three steps: record time, manage it, then consolidate it. The first is the simplest and the most neglected. It means noting what you do as you do it, not reconstructing your day from memory in the evening, because memory is precisely what deceives us.
+
+In practice, you can keep a log in 30-minute slots for three to four weeks. Some executives Drucker observed had their secretaries do this. Today we have simpler tools: a table in a notebook, a note on your phone or a time-tracking app. What matters is regularity and honesty. This is not a reporting exercise for management but a mirror for yourself.
+
+Drucker recommends repeating the exercise about twice a year. The reason is that bad habits come back. After a first cleanup, demands gradually build up again, like a tidied room filling up once more. A periodic log lets you detect this drift before it becomes a problem.
+
+Here is a simple grid for keeping the log:
+
+- **Time and duration** of each activity, in half-hour slots.
+- **Type** of activity: meeting, messaging, deep work, one-on-one, travel, unplanned.
+- **Whose initiative**: yours or someone else's.
+- **Contribution**: did this activity move an important result forward? Yes, a little, no.
+
+The “whose initiative” column is often the most revealing. Many managers discover that more than three quarters of their time is decided by others. That is not necessarily a problem in itself, but it is essential information for knowing where to act.
+
+> Exercice | Keep this log for five working days. At the end, calculate the share of your time spent on continuous deep work lasting more than 60 minutes. For many managers, this figure is under 10%.
+
+--- Diagnosing time-wasters
+kw: eliminate · hand off · spare others
+Once the log is done, Drucker proposes three diagnostic questions. They are simple, but applying them rigorously often frees up a quarter of one's time.
+
+The first question is: **what would happen if this activity were not done at all?** If the answer is “nothing,” stop doing it. Drucker finds that a surprising share of executives' activities fall into this category: courtesy speeches, committees whose purpose nobody remembers, reports nobody reads. A modern method is to stop sending a recurring report without warning and wait to see who asks for it.
+
+The second question is: **which activities could be done as well, or better, by someone else?** This is not delegation in the classic sense of getting rid of a thankless task. It is about getting rid of everything others can do in order to focus on what only you can do. Paradoxically, many managers keep the tasks they know how to do and like doing, often those of their previous job, at the expense of their new role.
+
+The third question is delicate: **what do I do that wastes other people's time?** You can ask your team members directly. Drucker tells the story of an executive who held meetings with all his deputies so that everyone would be informed. When he asked them, they said they were bored and that most of the topics did not concern them. A simple written summary was enough.
+
+Drucker then identifies time-wasters caused by the organization itself:
+
+- **Recurring crises**: a crisis that comes back every year is a system defect, not an accident. It should become a routine.
+- **Overstaffing**: too many people create friction and time spent coordinating.
+- **Excessive meetings**: they are a sign of poor organization. You meet or you work, rarely both at once.
+- **Information malfunctions**: data arrives in the wrong format or to the wrong person, and everyone wastes time correcting it.
+
+> À retenir | Three questions to ask about every activity: does it need doing? Who else can do it? Does it waste other people's time?
+
+--- Consolidating large blocks
+kw: protected time · deep work
+Even after eliminating the superfluous, a problem remains: the freed-up time is often scattered. The third step is therefore to consolidate discretionary time into large continuous blocks. Drucker estimates that an executive rarely has more than a quarter of their time truly at their own disposal. That quarter is useful only if it is grouped together.
+
+He describes several methods observed among effective executives. Some work from home one day a week. Others reserve two full mornings, with no meetings or phone. Still others arrive very early to have a few quiet hours before everyone else arrives. The methods vary, but the principle is the same: protected time, scheduled in advance and defended like an important appointment.
+
+Drucker warns against a common illusion: doing secondary tasks first in the hope that time will be left for the essentials. It never is. The order must be reversed. You first reserve the blocks for important work, then fit the rest around them.
+
+This idea was popularized much later under other names, for example “deep work” by Cal Newport or the “big rocks” by Stephen Covey. The image is familiar: if you fill a jar with sand first, the big rocks no longer fit. If you put the big rocks in first, the sand slips in around them.
+
+A few concrete practices for today:
+
+- Block two 90-minute slots a week in your calendar, with a specific label.
+- Turn off notifications during these slots and let the team know.
+- Group meetings on certain days or half-days.
+- Handle messaging at set times rather than continuously.
+- Review every Friday whether the blocks were respected, and why.
+
+> À retenir | Free time is valuable only if it is grouped. Reserve the important first, organize the rest around it.
+
+=== Focusing on contribution
+--- What contribution can I make?
+kw: results · values · succession
+The second practice shifts the focus. Most people concentrate on their efforts: their workload, their skills, their authority. The effective executive asks instead: what contribution can I make that will significantly affect the performance and results of my organization?
+
+This question changes everything. It points outward, toward customers, users and the whole organization, instead of inward toward one's own department. It also pushes toward responsibility: you no longer define yourself by your title but by what you contribute. Drucker compares two attitudes toward the same job. The one who says “I manage 300 engineers” is talking about their power. The one who says “my job is to give management the information it needs to make good decisions about our future products” is talking about their contribution.
+
+Drucker distinguishes three areas of contribution every organization requires:
+
+- **Direct results**: revenue, profits, patients treated, students trained. They must be clear and measurable.
+- **Building and reaffirming values**: an organization needs to know why it exists and what sets it apart, or it falls apart.
+- **Developing tomorrow's people**: training those who will lead tomorrow. An organization that does not renew itself wears out.
+
+An executive who neglects one of these three areas weakens their organization, even if their immediate results are good. The typical case is the high-performing manager who develops nobody: their departure leaves a void.
+
+The contribution question also protects against a trap. Specialists tend to shut themselves away in their discipline. A lawyer talks to lawyers, an IT specialist to IT specialists. For their knowledge to be useful, they must make it understandable and usable by others. Contribution forces you to ask: who needs to use my work, and in what form will it be useful to them?
+
+> Question clé | Write in one sentence the contribution expected of you over the next twelve months, without mentioning your tasks. Show it to your manager: do they share this view?
+
+--- Effective human relations
+kw: communication · teamwork · development
+Drucker asserts that executives who focus on contribution generally have good working relationships. Not because they have a special talent for human relations, but because they direct exchanges toward the shared work. He identifies four basic requirements.
+
+**Communication.** It works better when it starts from the question “what contribution do you expect from me?” rather than from top-down instructions. A team member who thinks about their contribution and discusses it with their manager understands better what is expected, and the manager understands better what the other sees on the ground. Communication becomes a conversation about work, not a stream of orders.
+
+**Teamwork.** Asking “who uses what I produce?” naturally leads to working sideways with other departments. In modern organizations, most important results require the cooperation of people who do not report to the same boss. Contribution creates a common language.
+
+**Self-development.** Setting contribution goals requires developing the skills needed to achieve them. Contribution thus becomes a driver of learning. You do not train to accumulate qualifications but because you need it to contribute something.
+
+**Developing others.** An executive who thinks in terms of contribution sets high standards for their team, tied to the work rather than the person. They help team members ask in turn what they can contribute. It is a demanding but respectful way to help people grow.
+
+Drucker adds an important observation: good human relations are not a matter of friendliness. A team can be very cordial and completely unproductive. Conversely, demanding relationships oriented toward a common result produce both effectiveness and mutual respect.
+
+- Starting from the expected contribution makes communication simpler and more useful.
+- Important results require working across the org chart.
+- Good working relationships come from shared success, not cordiality alone.
+
+--- Meetings, reports and presentations
+kw: prepare · conclude · decide
+Drucker pays particular attention to meetings, because they are where the question of contribution plays out day to day. In his view, an effective meeting starts with a simple question asked in advance: why are we meeting? To make a decision? To inform? To clarify what everyone will do? Each of these purposes requires different preparation and facilitation.
+
+He recommends that the organizer announce the purpose at the start of the meeting and stick to it. A meeting called to prepare a decision should not turn into a free-for-all on any subject. An information meeting should not drift into an unprepared strategic discussion. At the end, return to the purpose: was it achieved? Who does what now? The conclusion matters as much as the content.
+
+He also suggests applying the contribution question to reports and documents. Before writing, ask who will read the document and what they should be able to do after reading it. Many reports are written to show the effort made rather than to help the reader act. One clear page with a recommendation is more useful than a forty-page file with no conclusion.
+
+Here is a checklist inspired by these principles, usable from tomorrow:
+
+- **Before**: purpose written in one sentence, participants limited to those who contribute or decide, documents sent 24 hours in advance.
+- **During**: purpose restated, time limited, one person responsible for the summary.
+- **At the end**: decisions made, actions with an owner and a date, postponed items noted.
+- **After**: short summary sent the same day.
+
+Finally, Drucker notes that an executive who spends more than a quarter of their time in meetings probably works in a poorly designed organization. Meetings then compensate for unclear roles or faulty information channels. Reducing meetings often forces you to clarify the organization.
+
+> À retenir | A meeting has an announced purpose, an explicit conclusion and clear actions. Otherwise, it consumes contribution instead of producing it.
+
+=== Building on strengths
+--- Staffing for strength
+kw: one major strength · realistic jobs
+The third practice is perhaps the most original. Drucker asserts that the effective executive makes strengths productive. They do not look for people without weaknesses, which at best produces mediocrity. They look for people with a major strength in an important area, and they organize work so that this strength can express itself.
+
+He cites a famous example: during the Civil War, Abraham Lincoln is said to have appointed General Grant to command his armies despite his reputation as a drinker, because Grant knew how to win battles. Lincoln had previously chosen generals without major flaws, who did not win. The anecdote illustrates the principle: you hire for what a person can do, not for what they do not do badly.
+
+To apply this principle, Drucker gives four rules:
+
+- **Design jobs on a human scale.** A job that has defeated two or three competent people in a row is a badly designed job. Redesign it rather than looking for a genius.
+- **Design demanding and broad jobs.** A job that is too narrow does not let a strength express itself and quickly becomes boring.
+- **Start from what the person can do**, not from the job description. Appraisal should focus on demonstrated strengths.
+- **Accept the weaknesses** that come with the strengths. Strong people often have strong weaknesses. You manage them and compensate for them through the team; you do not eliminate them.
+
+Drucker specifies a limit: some weaknesses are not tolerable. Lack of integrity and character is one of them. A person with great skills but dishonest behavior destroys trust and should not hold a position of responsibility, however well they perform.
+
+Finally, he observes that this principle protects against a common drift: building jobs around people. If you create a tailor-made job for a well-liked team member, you weaken the organization when they leave and create injustices. Jobs should be designed according to the work to be done, then filled with the person whose strengths match.
+
+> À retenir | Look for the major strength, not the absence of flaws. A team is built by combining strengths and making weaknesses irrelevant.
+
+--- Helping your people grow
+kw: appraisal · high standards · good fit
+Building on strengths profoundly changes the way team members are appraised and developed. In many organizations, the annual review focuses on weak points: what needs improving, the gaps against expectations. Drucker proposes reversing the logic. The first question becomes: what has this person done remarkably well? The second: what must they learn to get the full benefit of their strengths?
+
+This does not mean ignoring weaknesses. Some prevent the strength from expressing itself and must be corrected. For example, a brilliant technical expert who cannot explain her ideas will see her impact limited. She then needs to work on her communication, not to become a great speaker, but so that her expertise is used. The weakness is addressed in the service of the strength.
+
+Drucker also stresses the need for high standards. People grow to the level of what is expected of them. An undemanding job makes even a talented team member regress. The first years of a career are particularly important: a young professional placed under a demanding manager, in a job that stretches them, progresses much faster than in a comfortable job.
+
+For the manager, this translates into a few practices:
+
+- Note concrete examples of each team member's successes throughout the year.
+- In reviews, start with the strengths observed and the situations where they made a difference.
+- Assign tasks that stretch abilities a little, with appropriate support.
+- Consider a change of job when a person fails despite their efforts: the problem may be the job, not the person.
+
+This last practice is important. Drucker believes that when a competent team member fails in a new job, the organization bears responsibility. It should offer them a job that matches their strengths rather than firing them or letting them stagnate. This is both more humane and more effective.
+
+- Appraisal starts with strengths, not with the list of flaws.
+- Weaknesses are corrected when they prevent a strength from producing.
+- People grow to the level of the standards: a job that is too easy damages talent.
+
+--- Managing your boss
+kw: their strengths · reader or listener
+Drucker addresses a subject few management books cover: how to work with your own boss. His recommendation is clear: the effective executive seeks to make their superior's strengths productive. This is not flattery; it is common sense. A team member's career depends largely on their boss's success. A boss who succeeds pulls the team up; a boss in difficulty drags it down with them.
+
+The practical principle is to ask: what does my boss do really well? What have they already accomplished? What do they need from me to use their strengths? Rather than complaining about their flaws, you organize your own work so that they matter less.
+
+Drucker insists on a concrete point: people take in information differently. Some bosses are “readers”: they need a written document before a discussion in order to think. Others are “listeners”: they understand better by hearing an oral presentation, then read the details afterward. Presenting a twenty-page report to a listener or an improvised oral presentation to a reader wastes both people's time. The effective team member learns how their boss works and adapts.
+
+A few questions to ask about your boss:
+
+- Do they prefer to read or to listen? Details first or conclusion first?
+- What are their current priorities, and how does my work contribute to them?
+- On what subjects do they want to be kept informed, and how often?
+- What surprises would they hate to discover from someone else?
+
+This last question is essential. An implicit principle of the book is never to let your boss be surprised by bad news. Informing them early, even about a difficulty, builds trust.
+
+> Exercice | Ask your boss directly: “How do you prefer to receive information: in writing before we meet, or orally?” The answer will save you hours every month.
+
+--- Knowing your own strengths
+kw: way of working · environment · rhythm
+Building on strengths also applies to yourself. Drucker observes that effective executives know their own ways of working. They know whether they work better in the morning or the evening, alone or in a group, under pressure or with long deadlines, by writing or by talking. They organize their work accordingly instead of following general rules that do not suit them.
+
+This is not about making excuses. It is about recognizing that everyone has a singular way of functioning and that it is far more productive to use it than to fight it. A person who thinks by writing should set aside writing time before making a decision. A person who thinks by talking should organize discussions to clarify their ideas. A person who works better under a strong structure should create one for themselves.
+
+In later writings, notably a famous article titled “Managing Oneself,” Drucker developed this idea. He recommends a simple method for discovering your strengths: feedback analysis. When you make an important decision, write down what you expect to happen. Nine to twelve months later, compare with what actually happened. Over the years, this feedback shows where you are good, where you lack skills and which bad habits keep you from succeeding.
+
+To apply this principle, you can ask yourself three questions:
+
+- **What are my strengths?** What I do well without apparent effort, and what others spontaneously ask me for.
+- **How do I work?** Reader or listener, alone or in a team, decision-maker or adviser.
+- **What are my values?** An organization whose values clash with ours makes us ineffective, even if we are competent there.
+
+> À retenir | Use your own way of working instead of fighting it. Write down your expectations before each important decision and compare them with the results a year later.
+
+=== First things first
+--- The secret of concentration
+kw: one thing at a time · strengths · continuous time
+Drucker sums up the fourth practice almost bluntly: if there is one “secret” of effectiveness, it is concentration. Effective executives do first things first, and they do one thing at a time.
+
+Why is this so important? Because there are always more important contributions to be made than time available. An organization always has more opportunities, problems and projects than people and hours to handle them. Whoever tries to do everything spreads themselves thin and finishes nothing significant. Whoever concentrates on a few subjects can see them through.
+
+Drucker notes that people who seem to do many very different things actually do them sequentially. They concentrate intensely on one subject, finish it or hand it off, then move on to the next. The illusion of simultaneity comes from the speed at which they move from one subject to the next, not from handling them all at once.
+
+Concentration is also necessary because every executive faces emergencies. To be able to respond without abandoning everything, the essentials must be protected. Concentration is not rigidity: it is the ability always to return to the essentials after dealing with the unexpected.
+
+Finally, Drucker links concentration to the other practices. You concentrate on the contribution you must make, use your strengths to do it and devote the large blocks of freed-up time to it. The five practices converge here.
+
+A few signs point to a concentration problem:
+
+- Many projects under way, few completed.
+- A priority list of more than five items.
+- Whole days spent “managing” without a single deliverable moving forward.
+- The feeling of constantly running without knowing what was achieved in the month.
+
+> Exercice | Write the list of your current projects. Circle three at most. For the others, decide: abandon, postpone or hand off.
+
+--- Systematic abandonment
+kw: what no longer produces · free up
+The first corollary of concentration is abandonment. Drucker insists: the effective executive regularly gets rid of what no longer produces results. It is a discipline organizations practice very little. It is much easier to launch a new initiative than to stop an old one.
+
+He proposes a simple question to ask regularly: if we had not already started this, would we start it today? If the answer is no, stop or cut back sharply. This question applies to a product, a project, a process, a committee or a personal habit.
+
+Drucker explains why it is hard. Yesterday's activities were launched by people who believed in them, often the current executives themselves. They mobilize teams whose jobs depend on them. They were sometimes successful in the past. Stopping them means acknowledging that things have changed, which is emotionally costly. He speaks of “investments in managerial ego”: projects kept alive because their sponsors do not want to admit failure.
+
+Yet abandonment is the condition for innovation. Scarce resources, above all the best people, are most often busy maintaining the past. As long as they are not freed up, they cannot be assigned to tomorrow's opportunities. An organization that abandons nothing ends up lacking the energy to renew itself.
+
+To practice systematic abandonment:
+
+- Review the list of projects and recurring activities every quarter with the question “would we start it today?”.
+- Set an end or review date for every new initiative from the moment it is launched.
+- Publicly reward people who propose stopping something useless.
+- Explicitly reassign the freed-up resources to a named priority.
+
+> À retenir | Before launching anything new, decide what you will stop. The question: “Would we start it today?”
+
+--- Priorities and posteriorities
+kw: courage · future · opportunities
+The second corollary of concentration is choosing priorities. Here Drucker introduces an original term: “posteriorities.” Setting priorities is relatively easy. What is hard is deciding what you will not do, or not now. A list of priorities without a list of posteriorities is just a wish list.
+
+He adds that posteriorities are rarely postponed for good. In practice, a project put off until later is often abandoned, because when the time comes, the context will have changed. This must be accepted clearly at the moment of decision.
+
+How to choose? Drucker asserts that it is not primarily a matter of analysis but of courage. He proposes four rules to guide the choice:
+
+- **Pick the future over the past.** Yesterday's problems attract attention, but results come from tomorrow's opportunities.
+- **Focus on opportunities rather than problems.** Solving a problem restores normality; seizing an opportunity creates new results.
+- **Choose your own direction** rather than following the bandwagon. Copying what others do rarely produces remarkable results.
+- **Aim high**, at something that will make a real difference, rather than at what is safe and easy.
+
+Drucker observes that, left to themselves, organizational pressures always choose priorities in the executive's place. They favor the urgent over the important, the inside over the outside, problems over opportunities. Setting priorities is therefore a deliberate act that goes against the organization's natural current.
+
+Finally, he recommends reviewing priorities regularly. A priority that has been achieved should give way to the next. A priority that has become obsolete should be abandoned. Concentration is not a fixed plan; it is a repeated discipline of choice.
+
+> Question clé | What three things have you explicitly decided not to do this quarter? If you cannot answer, you do not yet have priorities.
+
+=== Deciding effectively
+--- Few decisions, but fundamental ones
+kw: generic or exceptional · rules
+The fifth practice concerns decisions, which Drucker sees as the executive's specific task. He observes that effective executives do not make many decisions. They concentrate on important decisions, those that concern principles rather than isolated cases. They do not try to be fast; they try to be right, on the substance.
+
+The first step is to classify the problem. Drucker distinguishes several types of situation:
+
+- **The truly generic problem**, of which the observed event is only a symptom. For example, recurring delivery delays in a company.
+- **The problem that seems unique** to the organization but is in fact generic. For example, a merger: it is new to you, but thousands of companies have gone through the same situation.
+- **The truly exceptional problem**, which will not recur.
+- **The first sign of a new type of problem**, which will become generic.
+
+Generic problems should be handled by a rule or principle, once and for all. Exceptional problems should be handled case by case. The most common mistake is treating a generic problem as a series of exceptional cases. You then make one-off, piecemeal decisions that end up contradicting one another. The organization gives the impression of constantly fighting fires.
+
+Drucker cites the example of a company where an executive made decisions every week on individual cases of unhappy customers. Analyzing these cases revealed that they all came from the same badly designed commercial rule. A single decision of principle solved hundreds of problems.
+
+The sign of a good decision of principle is that it makes many future decisions unnecessary. A manager who has to settle the same questions every week has not yet made the right decision.
+
+> À retenir | Before deciding, ask yourself: is this an isolated case or the symptom of a recurring problem? A recurring problem calls for a rule, not a case-by-case answer.
+
+--- Boundary conditions and what is right
+kw: specifications · objectives · compromise
+The second step is to define the decision's “boundary conditions,” that is, the specifications it must meet. What objectives must the decision achieve? What minimum requirements must it satisfy? The clearer these conditions, the more likely the decision is to be effective, and the easier it is to see when it needs revising.
+
+Drucker insists on a trap: a decision that does not satisfy the boundary conditions is worse than no decision. It gives the illusion of having acted while leaving the problem in place. He also recommends being wary of decisions resting on improbable assumptions, of the “it will work if everything goes well” kind.
+
+The third step is both subtle and important: start from what is right, not from what is acceptable. The executive must first define the solution that would fully satisfy the boundary conditions, before thinking about compromises, concessions and other people's reactions. Compromises will come anyway. But if you start by asking what others will accept, you lose sight of the right solution and make bad compromises.
+
+Drucker distinguishes two kinds of compromise with a proverb: “half a loaf is better than no bread,” but “half a baby is not better than no baby.” Some compromises preserve the essentials: part of the solution, which remains useful. Others destroy the essentials: a solution cut in two no longer works at all. The executive must know which category the proposed compromise falls into.
+
+A concrete example: a company wants to enter a new market and has a limited budget. Reducing the number of target countries can be a good compromise: you do less, but well. Cutting the budget for each country until none has the means to succeed is a bad compromise: you spend money for nothing everywhere.
+
+- Write the boundary conditions before looking for solutions.
+- Define the right solution before negotiating.
+- Distinguish the “half a loaf” compromise from the “half a baby” compromise.
+
+--- From decision to action
+kw: who knows · who acts · feedback from the ground
+The fourth step, often neglected, is turning the decision into action. Drucker asserts that a decision has not been made until it has been translated into concrete actions assigned to specific people. Many decisions remain statements of intent that die in meeting minutes.
+
+He proposes four questions for moving to action:
+
+- **Who has to know** about this decision?
+- **What actions** have to be taken?
+- **Who is to take them?**
+- **What do these actions have to be** so that the people concerned can carry them out?
+
+The last question is important. A decision must be adapted to the capacities and habits of the people who will carry it out. Drucker explains that a poorly formulated decision can fail simply because those who must apply it do not understand it, have not learned it or were not involved in preparing it. Those who execute must therefore be involved early enough.
+
+The fifth step is to build in feedback. Every decision rests on assumptions that may turn out to be wrong. So you must plan from the outset how you will know whether the decision is working. Drucker insists on one point: this feedback must be direct. Reports and metrics are not enough. The executive must go and see for themselves, on the ground. He cites the example of military commanders who went to the front to check that their orders were being carried out, because they knew that information coming up the chain of command was filtered.
+
+Today, this practice could take several forms: calling customers after launching a new offer, spending a day in customer service after a process change, or setting a review point at three months from the outset with clear success criteria.
+
+> À retenir | A decision without an owner, a date and feedback from the ground is only an intention. Plan from the start how you will know whether it works.
+
+--- Opinions rather than facts
+kw: hypotheses · disagreement · alternatives
+The book's most counterintuitive idea concerns how to prepare a decision. The usual reflex is to start by gathering the facts. Drucker asserts that this is not how effective decisions work. You start with opinions, that is, hypotheses, then test them against reality.
+
+Why? Because “facts” are never neutral. To decide which facts are relevant, you must already have an idea of what you are looking for. Whoever claims to start from the facts actually starts from their own opinion, without admitting it, then looks for facts that confirm it. It is better to make opinions explicit from the start and ask: what facts would we have to observe for this opinion to be true?
+
+This leads to another important idea: disagreement is a condition of a good decision. Drucker recounts that Alfred Sloan, the famous head of General Motors, is said to have declared at a meeting where everyone agreed that he proposed postponing the decision, to allow time to develop disagreement and better understand the subject.
+
+Disagreement has three functions:
+
+- **It protects against decisions that are prisoners of the organization**, made to please the boss or the group.
+- **It provides alternatives.** A decision without an alternative is a gamble, not a decision.
+- **It stimulates the imagination**, by forcing you to see the problem from several angles.
+
+Drucker adds a recommendation on how to handle disagreement: assume that the other person is neither stupid nor acting in bad faith, and ask what they see that you do not. This stance turns a conflict into a source of information.
+
+Finally, he asks one last question about every decision: is a decision really necessary? Sometimes doing nothing is the best option. But it must be a conscious choice, not procrastination.
+
+> Exercice | For your next important decision, ask two colleagues to argue for opposite options. Listen before deciding, and note what they saw that you had not.
+
+=== Put it into practice
+--- 30-day action plan
+kw: week by week · one practice at a time
+Drucker's book is full of principles, but above all it is a call to practice. Here is a simple four-week plan for putting his ideas to work without upending everything at once.
+
+**Week 1: time.** Keep a log of your time in 30-minute slots, Monday to Friday. Change nothing about your habits this week; just observe. On Friday, take stock: what share of your time was decided by others? How many hours of continuous work did you have? Which activities could have been eliminated or handed off?
+
+**Week 2: the cleanup.** Apply the three diagnostic questions. Eliminate at least one recurring meeting or useless report. Hand off at least one task to someone who can do it as well as you. Ask two team members what you do that wastes their time. Then block two 90-minute slots in your calendar for the following week.
+
+**Week 3: contribution and strengths.** Write your expected contribution for the year in one sentence. Discuss it with your manager. For each of your team members, note their main strength and one situation where it could be better used. Identify your own way of working: reader or listener, morning or evening.
+
+**Week 4: concentration and decision.** List your projects and keep three at most as priorities. Write your “posteriorities.” Choose an important pending decision and apply the method: type of problem, boundary conditions, right solution, acceptable compromise, actions, feedback.
+
+At the end of the month, compare with your starting point. The most frequent gain is a sense of clarity: you know better what matters and what can wait. Drucker recommends repeating the time exercise about six months later.
+
+> À retenir | One practice per week. The goal is not perfection but habit, which takes hold through repetition.
+
+--- Self-assessment grid
+kw: ten questions · scoring · progress
+This grid lets you measure your level on the five practices. Rate each statement from 1 (not at all true) to 5 (completely true). Repeat the exercise in three months to measure your progress.
+
+**Time**
+
+- I know, with figures, how I used my time over the last two weeks.
+- I have at least two uninterrupted 90-minute blocks each week.
+
+**Contribution**
+
+- I can explain in one sentence the contribution expected of me, without talking about my tasks.
+- I know who uses my work and in what form it is most useful to them.
+
+**Strengths**
+
+- I know the main strength of each of my team members and I use it.
+- I know how my boss prefers to receive information.
+
+**Concentration**
+
+- I have at most three clearly defined priorities this quarter.
+- I have stopped at least one useless activity in the last three months.
+
+**Decision**
+
+- For my important decisions, I sought divergent opinions before deciding.
+- My decisions have an owner, a date and a way of following up.
+
+**Interpretation.** A total of 40 to 50 indicates practices that are already solid: focus on consistency. Between 25 and 40, you have the basics, but some practices need strengthening: choose the weakest category and start there. Below 25, start with time, as Drucker recommends: it is the practice that frees up energy for all the others.
+
+The value of this grid is not the score itself but the discussion it makes possible. You can use it alone, with a mentor or as a team, each person filling in the grid for themselves before discussing it together.
+
+- Measure before acting, then measure again in three months.
+- Always start with the weakest practice.
+
+--- Case study: the new director
+kw: application · first month · trade-offs
+To see how Drucker's ideas work together, let us take a fictional case. Samia has just been appointed director of operations at a 400-person logistics company. She was previously the manager of a warehouse, a job in which she excelled. After three weeks, she feels overwhelmed: meetings all day, two hundred messages a day and the feeling of getting nothing done.
+
+**Time.** Samia keeps a log for a week. She discovers that she spends 22 hours in meetings and 11 hours on messaging, and that she has had no stretch of continuous work longer than an hour. She also discovers that she still spends a lot of time on her former warehouse's problems, because her successor calls her often and she enjoys solving them.
+
+**The cleanup.** She eliminates two redundant weekly committees, asks her deputies to copy her only on decisions and sets up a weekly check-in with her successor instead of daily calls. She reserves Tuesday and Thursday mornings for herself.
+
+**Contribution.** She asks herself what the company really expects of her. With the CEO, she concludes that her main contribution is to halve delivery delays within a year and to prepare two future warehouse managers.
+
+**Strengths.** She notices that one of her deputies, considered difficult, is excellent at data analysis but poor at human relations. She gives him the analysis of the causes of delays rather than team leadership.
+
+**Concentration.** She chooses three priorities and explicitly postpones an automation project she would have liked to launch.
+
+**Decision.** The analysis shows that most delays come from a route-planning rule applied everywhere. Rather than dealing with each delay, she prepares a decision of principle on this rule, having two teams with opposing views debate it.
+
+> Question de réflexion | In your current situation, what is the equivalent of Samia's “old warehouse”: an activity you enjoy but that is no longer your contribution?
+
+=== Critical view and links
+--- Limits of the book
+kw: era · dated examples · individualism
+Drucker's book is a classic, but it is not without limits. Knowing them helps you use it better.
+
+**A different era.** The book was written in 1967, in a world of large hierarchical organizations, executive secretaries and communication by mail and phone. Some practical advice assumes resources few managers have today, such as a secretary to screen calls or keep the time log. The principle remains valid, but it has to be adapted to today's tools, where interruptions come mainly from instant messaging and notifications.
+
+**Marked examples.** Most examples concern men heading large American companies, government agencies or armies. Today's reader may find that world unrepresentative. The examples should be read as illustrations of principles, not as models to imitate.
+
+**A very individual approach.** The book talks about the executive's effectiveness as a person. It says little about the role of corporate culture, systems and structural constraints. Yet in some organizations, individual room for maneuver is very small: you cannot cancel a meeting called by senior management or turn down requests. The book can then feel guilt-inducing. It needs to be complemented by thinking about the system, as Grove or Lencioni do.
+
+**Little data.** Drucker relies on his experience as a consultant and on observation, not on systematic studies. Later research has confirmed several of his intuitions, notably on the cost of interruptions and the value of disagreement in decision-making. But other claims remain matters of conviction.
+
+**Well-being absent.** Finally, the book says almost nothing about mental load, work-life balance or burnout. Effectiveness is conceived in the service of the organization. A present-day reading gains from adding this dimension: managing your time also serves to protect your health.
+
+- Keep the principles, adapt the methods to your tools.
+- Complement the individual view with thinking about the system.
+
+--- Links with other books
+kw: Grove · Covey · Kahneman · Collins
+*The Effective Executive* is an ideal entry point into this library, because many other books develop one of its ideas.
+
+**With High Output Management (Andy Grove).** Grove takes up the question of time and contribution, but with an engineer's logic. He speaks of “leverage”: the manager's activities that have the greatest effect on the team's output. The two books complement each other very well: Drucker for the philosophy, Grove for the tools.
+
+**With The 7 Habits (Stephen Covey).** Covey's matrix, which distinguishes the urgent from the important, is a visual version of Drucker's concentration. The third habit, “put first things first,” echoes almost word for word the title of one of his chapters. Covey adds a dimension of personal values and character development.
+
+**With Thinking, Fast and Slow (Daniel Kahneman).** Drucker's idea of starting with opinions and seeking disagreement finds a scientific basis in Kahneman's work on confirmation bias and overconfidence. The “premortem” Kahneman proposes directly extends the recommendation to seek alternatives.
+
+**With Good to Great (Jim Collins).** Collins concludes that great companies first get the right people on the bus. That is a collective version of the “build on strengths” principle. His “stop doing list” echoes systematic abandonment.
+
+**With Management (Peter Drucker).** This much longer book broadens the discussion to the whole organization: mission, objectives, structure, social responsibility. It can be read as the natural sequel once personal practices are in place.
+
+> Parcours conseillé | After this book, read High Output Management for concrete tools, then Radical Candor for the relationship with your team.

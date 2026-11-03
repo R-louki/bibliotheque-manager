@@ -1,0 +1,399 @@
+=== Context and thesis
+--- What you can't see
+kw: invisible · routines · research
+Mike Rother is an engineer and researcher. He co-wrote *Learning to See*, the guide to value stream mapping. For several years, he supported companies that wanted to apply lean. He made a troubling observation: most of them drew beautiful maps, installed tools and got gains at first, but did not manage to keep improving. After a while, improvements stopped, and the old habits often came back.
+
+Rother then asked himself a question. Toyota uses the same tools as these companies. Yet Toyota keeps improving, year after year, for decades. What makes the difference?
+
+To answer it, he carried out several years of research starting in 2004, observing the daily practices of managers and teams at Toyota and other companies. He focused not on the tools but on how people think and act, and on how that way of thinking is passed on.
+
+His conclusion is that Toyota's strength lies in **routines** that are largely invisible to visitors. These routines guide how everyone, from team leader to executive, approaches problems and improvements day to day. They are passed on through practice and coaching, from manager to team member.
+
+Rother calls these routines **kata**. The book, published in 2009, describes the two main ones: the **improvement kata** and the **coaching kata**. It also proposes a way of practicing them in any organization.
+
+> À retenir | Toyota's strength is not visible: it lies in thinking routines practiced every day and passed on through coaching.
+
+--- The copying trap
+kw: reverse engineering · solutions · context
+Rother explains why copying Toyota's practices fails so often. Companies observe what happens in Toyota plants: U-shaped cells, kanbans, visual boards, the andon. They reproduce these elements at home. Rother compares this to reverse engineering: taking a product apart in order to copy it.
+
+The problem, he explains, is that these practices are **solutions**. Toyota developed them to address specific problems, in a specific context, at a specific time. And they keep evolving. What you see in a Toyota plant today is only a snapshot of an ongoing improvement process.
+
+Copying these solutions without understanding the process that produced them amounts to copying the result of a line of reasoning without the reasoning itself. The copied solutions do not necessarily match the problems of the company adopting them. Above all, once installed, they are no longer improved, because the company has not learned how to do so.
+
+Rother therefore proposes shifting attention. Instead of asking which solutions Toyota uses, ask how Toyota finds its solutions. The question is not “what” but “how.”
+
+He adds that Toyota's way of thinking is hard to observe because it is deeply embedded in daily behavior. Toyota managers themselves often struggle to explain it: for them, it is simply the normal way of working. That is why visitors leave with photos of tools rather than an understanding of the approach.
+
+- Toyota's tools are solutions, not the source of its performance.
+- Copying a solution without the process that produced it does not lead to improvement.
+- Ask how Toyota finds its solutions.
+
+--- What is a kata?
+kw: martial arts · practice · automatic habit
+The word *kata* comes from Japanese martial arts. It refers to a sequence of movements the student repeats tirelessly until it becomes second nature. By extension, the word means a way of doing things, a routine, a form you practice in order to internalize it.
+
+Rother uses this word to underline an essential idea: Toyota's way of thinking cannot be learned by reading or attending a training course. It is learned through **deliberate practice**, repeated every day under the guidance of a coach. Like a musician practicing scales or an athlete repeating movements, the learner practices simple routines until they become habits.
+
+He draws on knowledge from psychology and neuroscience. Our brain works largely by habit. Behaviors we repeat often become automatic and require little effort. Changing the way you think therefore requires practicing new behaviors repeatedly until they replace the old ones.
+
+Rother distinguishes two kinds of kata. The **improvement kata** is the routine you practice to make progress toward a goal in an uncertain situation. The **coaching kata** is the routine the manager practices to teach the improvement kata to their team members.
+
+He also proposes **starter kata**: highly structured, almost mechanical routines that beginners follow to the letter. As in martial arts, you start by faithfully imitating the form. With experience, you understand the meaning of the movements and can adapt them.
+
+> À retenir | A kata is a routine practiced every day until it becomes a habit. You change the way you think by practicing, not by reading.
+
+=== Another view of management
+--- Constant adaptation
+kw: uncertainty · direction · unknown path
+Rother starts from a reflection on the role of management. In his view, most companies operate on an implicit idea: there are known solutions, and managers' job is to find them, decide on them and have them applied. You plan, then you execute.
+
+Rother believes this approach works poorly in a world where conditions keep changing. Customers, technologies and competitors evolve. Plans drawn up in advance turn out to be wrong. Solutions that worked yesterday no longer work tomorrow. A company that merely executes plans ends up falling behind.
+
+He proposes another view, which he attributes to Toyota. The path to an ambitious goal is **not known in advance**. There is a zone of uncertainty between the current situation and the goal. You cannot map the path from your desk. You have to discover it as you go, in small steps, learning from each attempt.
+
+Rother often uses the image of crossing unknown terrain in fog. You know the general direction. You can see a few meters ahead. You move forward carefully, testing the ground, adjusting your route according to what you discover. You do not plot the whole itinerary at the start, because you cannot know it.
+
+In this view, the manager's role changes profoundly. It is no longer about knowing the answers, but about developing the organization's ability to find answers. The key skill is not the solution but how to look for it.
+
+Rother insists that this approach is not an absence of method. On the contrary, it is highly structured. But the structure concerns the learning process, not the content of the solutions.
+
+> Question clé | In your organization, is management mainly about deciding on solutions, or about developing teams' ability to find them?
+
+--- A distant vision
+kw: one-piece flow · ideal · direction
+To move forward in uncertainty, you need a direction. Rother describes how Toyota uses a long-term, often unattainable vision to guide its improvements.
+
+In production, he cites a vision often found at Toyota: one-piece flow, with zero defects, only value-adding operations, at the exact pace of customer demand, in complete safety. This vision is an ideal. No plant reaches it. But it shows the direction every improvement should take.
+
+Rother stresses the importance of this vision. Without it, improvements head off in all directions. One team cuts its inventory, another increases its batch sizes to gain productivity, a third invests in a faster machine. The efforts contradict one another. With a shared vision, each improvement helps bring the organization closer to the same ideal.
+
+He distinguishes this vision from the company's usual goals, such as financial or volume targets. Those goals say what you want to achieve, but not how the organization should operate. The vision describes an ideal way of operating.
+
+Between the distant vision and the current situation there is a great distance. That is why Rother introduces intermediate steps: a **challenge** a few months to a year out, then **target conditions** a few weeks out. These steps turn the distant vision into concrete progress.
+
+- An ideal, unattainable vision shows the direction.
+- It keeps improvements from contradicting one another.
+- Challenges and target conditions translate it into concrete steps.
+
+--- The manager's role redefined
+kw: capability · teaching · system
+From his observations, Rother draws a definition of the manager's role very different from the one that prevails in many companies.
+
+In the usual view, managers are judged on their team's results. They set objectives, monitor metrics, step in when results are not achieved and decide on corrective actions. They are often chosen for their ability to find solutions and impose them.
+
+Rother observes that at Toyota, managers are also judged on results, but their main role is to **develop their team members' ability** to improve their work. They spend a significant part of their time coaching, on the floor, in front of the process. They ask more questions than they give answers.
+
+This difference has important consequences. In the first model, improvement capability is concentrated in a few people, the managers and experts. The organization progresses at the pace of their availability. In the second model, each person develops their own ability to improve. The organization progresses in many places at once.
+
+Rother also stresses that the Toyota manager is responsible for the work **system**, not just the people. If a problem recurs, they do not look for a culprit but for a weakness in the process. They assume people are doing their best within the system they have been given.
+
+He notes that this role requires particular skills: knowing how to observe, how to ask questions, how to resist the temptation to give the solution, how to accept that the learner will make mistakes. These skills do not come naturally. They too are learned through practice, through the coaching kata.
+
+- The manager develops their teams' improvement capability.
+- They look for weaknesses in the system, not culprits.
+- Coaching is learned, just like improving.
+
+=== The improvement kata
+--- The four steps
+kw: challenge · situation · target · experiments
+The heart of the book is the **improvement kata**, a four-step routine Rother distilled from his observations.
+
+**1. Understand the direction or challenge.** You start from an ambitious challenge, consistent with the long-term vision, to be reached in a few months or a year. This challenge is set by management, but it must be understood by those who will work to achieve it.
+
+**2. Grasp the current condition.** Before setting an intermediate step, you need to understand precisely how the process works today. You observe on the floor, measure and analyze operating patterns. The goal is not to look for problems to solve but to understand the starting situation.
+
+**3. Establish the next target condition.** You define an intermediate step, a few weeks out, between the current condition and the challenge. The target condition describes how the process should work by that date and what results it should produce. You do not yet know how to reach it.
+
+**4. Experiment toward the target condition.** You move toward the target condition through a series of small, quick experiments. Each experiment tests an idea. You observe the result, learn, and choose the next experiment.
+
+Rother insists on one point: the target condition is set **before** you know how to reach it. This is counterintuitive. In most companies, goals are set based on solutions already known. In the improvement kata, the goal is set first, and the solutions are discovered along the way. This forces you out of habitual solutions and into learning.
+
+Once the target condition is reached, you set a new one and start again. The cycle repeats indefinitely.
+
+> À retenir | Challenge, current condition, target condition, experimentation. You set the target before knowing the path.
+
+--- Grasping the current condition
+kw: observe · patterns · process data
+Rother pays particular attention to the second step, which is often neglected. Many teams go straight from the goal to solutions without taking the time to understand how the process really works.
+
+To grasp the current condition, he proposes a structured approach, especially for production processes. You start by analyzing customer demand and calculating takt time. You then observe the process to measure its capacity and the stability of its cycle times. You look at the content of the operators' work and how it is distributed.
+
+An important practice is to **time several consecutive cycles** of the same operation, for example twenty cycles, and plot the results on a chart. You then look not just at the average but at the variation. A process whose times vary a lot from cycle to cycle is unstable, and that instability is often more important to address than the average itself.
+
+Rother distinguishes **outcomes** from **process characteristics**. Outcomes are what the process produces: quantities, quality, costs. Process characteristics are how it operates: the sequence of operations, the stability of times, the number of parts waiting. He insists on looking at both, because you can only improve outcomes by changing how the process works.
+
+He also recommends not rushing. Analyzing the current condition may take a few days. But it avoids setting an unrealistic or misdirected target condition.
+
+- Observe on the floor before setting a target.
+- Time several cycles to see the variation.
+- Look at how the process works, not just at outcomes.
+
+--- Setting a target condition
+kw: date · operating pattern · measurable outcome
+The third step is to define the next target condition. Rother describes precisely what makes a good target condition.
+
+**A date.** The target condition should be reached by a near date, usually between one week and three months. A deadline that is too distant dilutes effort; one that is too close leaves no time to learn.
+
+**A description of how things will work.** The target condition is not just a number. It describes how the process should operate: for example, what sequence of operations, how many parts between two stations, what stability of cycle times, what way of communicating between steps.
+
+**A measurable outcome.** It also specifies the expected result, such as an hourly output level or a defect rate.
+
+**Beyond the current knowledge threshold.** A good target condition must be ambitious enough that you do not know exactly how to reach it. Rother speaks of the **knowledge threshold**: the boundary between what you know how to do and what you do not yet know how to do. The target condition should lie beyond that boundary. Otherwise, there is nothing to learn.
+
+Rother distinguishes the target condition from an action plan. An action plan lists solutions to implement. The target condition describes a situation to reach without saying how. The actions are discovered during experimentation.
+
+Finally, he stresses that the target condition should not be changed because the path turns out to be difficult. It may be adjusted if you discover it was poorly defined, but not abandoned at the first obstacle.
+
+> Exercice | For a process you know, write a target condition four weeks out: the date, how the process will work, and the measurable outcome. Check that you do not yet know exactly how to reach it.
+
+--- Experimenting step by step
+kw: PDCA · one factor · prediction
+The fourth step is experimentation. Rother describes it as a series of rapid **plan, do, check, act** cycles, the cycle popularized by W. Edwards Deming.
+
+The starting point is identifying **obstacles**. The team lists the obstacles it thinks are keeping it from reaching the target condition. It chooses one to work on. Rother specifies that you need not choose the most important: just pick one and start.
+
+For that obstacle, the team defines a **next step**, that is, an experiment. The key element, according to Rother, is the **prediction**: before running the experiment, the learner writes down what they think will happen. After the experiment, they compare the actual result with the prediction.
+
+This comparison is the moment of learning. If the result matches the prediction, understanding is confirmed. If it does not, that is even more interesting: it reveals a gap in understanding of the process. Rother stresses that in this approach, an experiment that does not produce the expected result is not a failure. It is a source of learning.
+
+He recommends **small, quick** experiments, ideally several a week, or even one a day. An experiment that takes months does not allow fast learning. He also recommends changing **only one factor at a time** when possible, so you can understand the cause of the result.
+
+Experiments are recorded in a **log**, often posted on a board, that keeps track of each step, its prediction, its result and what was learned.
+
+- List the obstacles and choose one.
+- Predict before acting, then compare.
+- Small, quick experiments, one factor at a time.
+
+--- Starter kata
+kw: beginners · simple forms · examples
+To help beginners practice the improvement kata, Rother proposes **starter kata**: very precise routines to be followed to the letter at first.
+
+For the **current condition**, he proposes for example an analysis sequence: calculate takt from demand; observe the process and time some twenty consecutive cycles; plot those times on a chart to see the variation; describe the operators' work sequence; note the number of parts between stations. This sequence forces the learner to look at the process in a structured way instead of jumping to conclusions.
+
+For the **target condition**, he proposes a fixed format: a date, the expected outcomes, and a description of the process characteristics, such as the sequence of operations or the number of parts waiting.
+
+For **experiments**, he proposes a log in columns: the date, the planned step, the prediction, the result and what was learned. Each row corresponds to a complete cycle.
+
+Rother compares these starter kata to a beginning musician's exercises. At first, you play very simple scales, following the teacher's instructions exactly. You do not always understand why. With practice, the movements become natural and you understand their meaning. You can then adapt them and improvise.
+
+He warns against two opposite mistakes. The first is rejecting starter kata because they seem too rigid and improvising from the start. The learner then falls back into old habits. The second is staying in the starting forms forever without ever adapting them. The kata then becomes an empty ritual.
+
+> À retenir | First follow the form to the letter, like scales. Then, with understanding, adapt it.
+
+=== The coaching kata
+--- Coach and learner
+kw: mentor · one level up · every day
+The second routine is the **coaching kata**. Rother explains that the improvement kata cannot be learned alone. As in martial arts or sport, the learner needs a coach who observes, corrects and helps them progress.
+
+At Toyota, Rother observes, this role is played by the line manager. Every manager coaches their direct reports and is coached in turn by their own manager. Developing people is not left to a training department: it is part of every manager's daily work.
+
+Rother stresses that the coach does not provide the solutions. Their role is to make sure the learner follows the improvement kata correctly: that they have properly understood the current condition, that their target condition is well defined, that their experiments are well designed, and that they learn from each result. The coach is responsible for how the learner thinks, not for the content of the solutions.
+
+He adds an important principle: if the learner is not progressing, the coach has not taught well. Responsibility for learning lies with the coach.
+
+Coaching sessions are **short and frequent**, usually fifteen to twenty minutes, ideally every day. They take place in front of the learner's board, near the process, not in a meeting room. This frequency allows reasoning errors to be corrected quickly, before they become habits.
+
+Finally, Rother describes the role of a **second coach**, sometimes present at sessions, who observes the coach and helps them improve their coaching. Thus every level of the organization learns.
+
+> À retenir | Every manager coaches their team members, every day, for a few minutes, in front of the process. They are responsible for how their people think, not for their solutions.
+
+--- The five questions
+kw: target · reality · obstacle · step
+The coaching kata rests on a series of five questions the coach asks the learner at each session. Rother presents them on a small card the coach keeps in a pocket. Their spirit can be summed up as follows.
+
+**1. What is the target condition?** The learner restates the target condition: what they are trying to achieve, and by when.
+
+**2. Where are we really today?** The learner describes the current condition, with recent facts and data, not impressions.
+
+**3. What obstacles stand between us and the target, and which one are we working on now?** The learner shows their list of obstacles and indicates the one they are addressing.
+
+**4. What is the next step, and what do we expect?** The learner describes their next experiment and their prediction.
+
+**5. When can we go and see what we have learned?** The learner sets the time when the result will be observable, often the same day or the next.
+
+Between the third and fourth questions, the coach often returns to the last experiment: what was expected, what actually happened, what was learned?
+
+Rother explains that these questions have several effects. They force the learner to structure their thinking according to the improvement kata. They let the coach quickly spot where the reasoning is weak: a vague target condition, a poorly understood current condition, an experiment without a prediction. They also create a regular routine that makes improvement a normal part of daily work.
+
+Rother insists that the questions are not an interrogation. The coach listens carefully to the answers and asks follow-up questions to help the learner dig deeper.
+
+- Five short questions, every session.
+- They structure the learner's thinking.
+- They show the coach where the reasoning is fragile.
+
+--- The learner's board
+kw: storyboard · visible · record
+Rother recommends that each learner keep a **learning board**, sometimes called a *storyboard*, posted near the process. This board supports the coaching sessions.
+
+It has several areas. At the top, the **challenge**, which gives the general direction. Then an area describing the **current condition**, with its data and characteristics. An area describing the **target condition**, with its date. An area listing the **obstacles**, indicating the one being worked on. And finally the **experiment log**, where each step, its prediction, its result and what was learned are recorded.
+
+The board has several functions. It makes the learner's approach visible, to themselves and to the coach. It keeps a record of what has been tried, which avoids repeating the same experiments. It allows other people, colleagues or managers, to see how the improvement is going without needing a meeting.
+
+Rother stresses the value of writing by hand and keeping the board simple. What matters is not presentation but the quality of thinking. A board that is too sophisticated ends up being updated for its own sake, at the expense of experimentation.
+
+He also notes that the board helps the coach prepare and run the session. In a few seconds, they see the target condition, the latest results and the current experiment. They can then focus the session on what matters.
+
+> Exercice | Prepare a large sheet with five areas: challenge, current condition, target condition, obstacles, experiment log. Fill it in for an improvement under way.
+
+--- Coaching mistakes
+kw: giving the answer · judging · spacing out
+Rother describes the difficulties managers encounter when learning to coach. They are many, because the coaching role often runs counter to their habits.
+
+**Giving the solution.** This is the strongest temptation. The manager sees the problem, thinks they know the answer and gives it. The learner applies the solution without understanding and learns nothing. Rother recommends that the coach ask themselves each time: what question could help the learner find it on their own?
+
+**Judging rather than helping.** When the learner's experiment does not produce the expected result, the coach sometimes reacts with impatience or criticism. The learner then learns to avoid risky experiments, or to present doctored results. The coach should instead value what has been learned.
+
+**Letting fuzzy reasoning slide.** Conversely, some coaches accept vague answers: an imprecise target condition, a current condition described without data, an experiment without a prediction. The coach's role is precisely to spot these weaknesses and help the learner correct them.
+
+**Coaching from an office.** The session should take place near the process, so that coach and learner can go and see together what is happening.
+
+**Spacing out sessions.** Under the pressure of daily work, sessions become weekly, then monthly. The approach then loses its rhythm, and learning slows.
+
+**Not being coached yourself.** A coach with nobody to observe and help them struggles to improve. That is why Rother recommends a second coach.
+
+Rother acknowledges that these mistakes are normal at the beginning. What matters is recognizing them and correcting gradually, just as the learner corrects their experiments.
+
+- Ask a question rather than give the answer.
+- Value learning, even when the result disappoints.
+- Demand precise reasoning, on the floor, at a regular pace.
+
+=== Why it works
+--- Learning by practice
+kw: habits · brain · repetition
+Rother devotes part of his book to explaining why practicing kata transforms behavior, drawing on knowledge from psychology and cognitive science.
+
+He recalls that our brain seeks to save effort. Faced with a situation, it prefers to activate habitual, already known responses. This tendency is useful in daily life, but it pushes us to keep applying the same solutions even when the situation has changed. We also tend to jump quickly to conclusions and to confuse what we believe with what we know.
+
+The improvement kata runs counter to these tendencies. It forces you to observe before concluding, to make predictions and test them against reality, to accept not knowing. These behaviors are uncomfortable at first. They require conscious effort.
+
+That is why repeated practice is essential. By practicing every day, with a coach who corrects deviations, the learner gradually turns these uncomfortable behaviors into habits. After a few months, they observe, predict and experiment almost naturally.
+
+Rother also stresses the importance of **small wins**. Each successful experiment, each target condition reached, strengthens the learner's confidence and motivation to continue. The kata turns improvement into a series of small victories rather than a big project that produces results only after several months.
+
+He adds that this approach reduces fear of failure. Since every experiment is an opportunity to learn, one that does not produce the expected result is not a fault. It is part of the normal process.
+
+- The brain prefers habitual responses.
+- Daily practice turns discomfort into habit.
+- Small wins sustain motivation.
+
+--- A learning organization
+kw: all levels · cascade · culture
+Rother explains that the power of kata comes from spreading them to every level of the organization.
+
+At Toyota, he observes, the same approach is practiced by the team leader on their line, by the shop manager across their area, by the plant manager across the whole site. Each works on their own target conditions, consistent with those of the level above. And each coaches their direct reports. The approach thus cascades, step by step.
+
+This spread creates a common language. When everyone speaks of target conditions, current conditions, obstacles and experiments, exchanges become clearer. Managers understand faster where their teams stand. Problems surface more easily.
+
+It also aligns efforts. Challenges set by leadership translate into target conditions at every level. Local improvements thus contribute to overall goals instead of heading in different directions.
+
+Finally, it creates a learning culture. Rother distinguishes organizations that seek to **avoid problems**, where difficulties are hidden and mistakes punished, from organizations that seek to **learn from problems**, where difficulties are made visible and gaps are seen as opportunities to improve. Kata favor the second.
+
+Rother acknowledges that this transformation takes time. Leaders themselves must first practice the approach in order to coach others. An organization cannot delegate learning the kata to a training department.
+
+> Question clé | In your organization, is a problem that appears hidden, or made visible so you can learn from it?
+
+--- Kata beyond the factory
+kw: offices · healthcare · education
+Rother first observed kata in manufacturing contexts. But the approach was later applied in many other fields, by practitioners who adapted the starter kata to their situation.
+
+In **offices**, the process studied may be handling requests, preparing quotes or closing the books. The current condition is measured by lead times, rework loops and the number of files waiting. The target condition describes a new way of operating, for example handling requests in order of arrival with a limit on files in progress.
+
+In **healthcare**, teams have used the improvement kata to reduce waiting times, improve medication preparation or organize patient discharges. Daily coaching fits into start-of-day huddles.
+
+In **software development**, kata echo agile practices, which also rely on short cycles, experimentation and retrospectives. The kata brings a more explicit structure to defining intermediate goals and to learning.
+
+In **education**, some teachers have used a simplified version of the kata to teach students to set goals, experiment and reflect on their results.
+
+Rother stresses that the approach remains the same: a challenge, an understanding of the current condition, a near target condition, quick experiments with predictions, and regular coaching. What changes are the measures and the examples.
+
+He also notes that the kata can be applied to personal goals: learning a skill, changing a habit, preparing for an exam. The logic is identical: move forward in small steps, observing and adjusting.
+
+> Question clé | What personal challenge could you tackle with a two-week target condition and one small experiment a day?
+
+=== Put it into practice
+--- Getting started with kata
+kw: one process · one coach · twenty minutes
+Rother gives advice on starting to practice kata in an organization.
+
+**Start small.** Choose one process, one learner and one coach. There is no need to launch a large-scale program. A single team that practices seriously learns more than ten teams that practice superficially.
+
+**Practice every day.** Frequency matters more than duration. Fifteen to twenty minutes of coaching a day is better than a long meeting once a month.
+
+**Follow the starter kata to the letter.** At first, learner and coach follow the routines exactly as described, even if it seems mechanical. Adaptations will come with experience, once the meaning of each step is understood.
+
+**The coach must have practiced.** Ideally, the coach has been a learner. If not, they must learn at the same time, with help from a more experienced second coach.
+
+**Choose target conditions reachable in a few weeks.** The first cycles should deliver a success quickly, to understand the approach and gain confidence.
+
+**Do not look for spectacular results.** The goal of the first months is to learn the approach, not to transform the company. The big results will come once the approach has become a habit at several levels.
+
+Rother stresses that kata do not replace lean tools. They make it possible to use them at the right time and in the right way. A team practicing the improvement kata will discover for itself when a kanban or continuous flow is useful.
+
+- One process, one learner, one coach.
+- Every day, a few minutes, in front of the process.
+- Form first, adaptation later.
+
+--- 30-day action plan
+kw: week by week · target · coaching
+**Week 1: the challenge and the current condition.** Choose a process and a challenge a few months out, consistent with an important goal of your organization. Observe the process on the floor. Measure its outcomes and characteristics. Time several cycles and look at the variation.
+
+**Week 2: the target condition.** Define a target condition three or four weeks out: a date, a description of how things will work and a measurable outcome. Check that it lies beyond what you know how to do. Prepare your learning board.
+
+**Week 3: experiment.** List the obstacles. Choose one. Run a small experiment every day or every other day, noting each time your prediction and the actual result. Ask your manager or a colleague to act as coach, using the five questions, for a few minutes each day.
+
+**Week 4: learn and repeat.** Take stock: has the target condition been reached? What have you learned about the process? What have you learned about how you think? Set the next target condition. If you are a manager, start coaching one of your team members.
+
+Rother reminds us that the goal is not to apply a method but to develop a habit. The first month is only a beginning.
+
+> À retenir | Challenge, current condition, target, experiments, daily coaching. Then the next target condition.
+
+--- Case study: the software team
+kw: deployments · lead times · experiments
+A software development team takes three weeks on average to ship a bug fix to production. Users complain, and management asks for this lead time to be reduced. The team lead, Camille, decides to try the improvement kata, with her own manager, Hugo, as coach.
+
+**The challenge.** Hugo and Camille set a six-month challenge: ship a fix to production in under two days.
+
+**The current condition.** Camille follows some twenty recent fixes. She discovers that development itself usually takes less than a day. The rest of the time, the fix waits: in the queue for code review, waiting for the weekly test campaign, waiting for the monthly deployment.
+
+**The first target condition.** In four weeks, every fix must be reviewed within the day and tested in under three days, with a maximum of five fixes waiting for testing.
+
+**The experiments.** Camille lists the obstacles. She starts with code review. First experiment: set aside half an hour every day for the whole team to do reviews. Prediction: review time will fall below one day. Result: it falls, but some reviews stay stuck for lack of expertise. Second experiment: systematically pair two developers on each fix. And so on.
+
+**Coaching.** Every morning, Hugo asks the five questions in front of Camille's board for fifteen minutes.
+
+After four months and several target conditions, the average lead time has fallen below three days, and Camille is starting to coach two members of her team.
+
+> Question de réflexion | Which process in your team could serve as a training ground for a first target condition?
+
+=== Critical view and links
+--- Limits of the book
+kw: rigidity · time · culture
+*Toyota Kata* has had significant influence, but it has several limits.
+
+**An approach that can seem rigid.** The starter kata, the five questions and the structured board can seem mechanical, even infantilizing, to experienced professionals. Rother replies that the rigidity is temporary and necessary at the start, as in learning any skill. But some organizations never get past this phase.
+
+**A significant time investment.** Daily coaching takes time from managers who are already stretched. Many organizations start enthusiastically, then space out sessions, and the approach loses its effectiveness.
+
+**A mainly qualitative demonstration.** The book rests on the author's observations and on experiences in a few companies. It offers little comparative data on the effectiveness of the approach at scale.
+
+**A delicate transfer.** The approach was described on the basis of repetitive manufacturing processes, where cycle times are easy to measure. Applying it to less repetitive work, such as research, consulting or creative work, requires adaptation.
+
+**A reconstructed view of Toyota.** Rother acknowledges that kata are not formalized routines Toyota teaches under that name. They are his own synthesis of what he observed. Other observers describe Toyota differently.
+
+- A rigid form at first, which should loosen with practice.
+- Daily coaching demands real commitment from managers.
+
+--- Links with other books
+kw: Liker · Learning to See · Dweck · Goldratt
+**With Learning to See (Rother and Shook).** *Toyota Kata* complements Rother's first book. The future-state map shows the direction; the improvement kata makes it possible to move toward it step by step.
+
+**With The Toyota Way (Liker).** Liker describes Toyota's principles, notably developing leaders who teach and the learning organization. Rother shows the concrete routines that bring those principles to life every day.
+
+**With Toyota Production System (Ohno).** Ohno built his system through successive experiments in his shops. The improvement kata formalizes this way of proceeding.
+
+**With The Goal (Goldratt).** The mentor Jonah, who asks questions instead of giving answers, resembles the kata coach. Both books share a scientific view of improvement, through hypotheses and verification.
+
+**With What Got You Here Won't Get You There (Goldsmith) and Radical Candor (Scott).** These books also deal with the manager's role in developing their team members, through feedback and questions.
+
+> Parcours conseillé | After Toyota Kata, choose a process and practice your first target condition. Then reread The Toyota Way with fresh eyes.

@@ -1,0 +1,422 @@
+=== Context and thesis
+--- A field workbook
+kw: workbook · Lean Enterprise Institute · 1998
+*Learning to See* is very different from other books on lean. It is neither an essay nor a story, but a large-format practical workbook full of diagrams. It was published in 1998 by the Lean Enterprise Institute, the organization James Womack founded after the publication of *Lean Thinking*.
+
+Its two authors have complementary backgrounds. **Mike Rother** is an engineer and researcher. He studied Toyota's practices for years and supported many companies. **John Shook** was one of the first Americans to work as a manager at Toyota in Japan, in the 1980s. He then took part in setting up Toyota in the United States, before becoming a consultant and teacher.
+
+The book starts from an observation. After *Lean Thinking*, many companies wanted to identify their value streams but did not know how to go about it. They launched isolated improvement events, station by station, that produced local results but did not transform the overall flow. Rother and Shook propose a tool for seeing the flow as a whole: **value stream mapping**.
+
+This tool draws on a Toyota practice in which material and information flows are drawn to understand and improve production. The authors made it more systematic, with a set of simple symbols and a step-by-step approach.
+
+The title sums up the point. The goal is not to produce pretty diagrams but to **learn to see**: to see the flow, the waste and the sources of that waste, which you no longer notice when you work in the same place every day.
+
+> À retenir | A practical workbook for learning to see the flow as a whole, beyond station-by-station improvements.
+
+--- Why map
+kw: big picture · common language · plan
+Rother and Shook explain that the value stream map has several advantages over the usual tools.
+
+**It shows the whole flow, not just one station.** Most improvement tools focus on a single workstation or machine. The map shows a product's complete path, from receiving materials to shipping to the customer. You can then see how the steps connect, where the product waits, and why.
+
+**It shows the sources of waste.** A map does not just show that there is inventory between two steps. It helps you understand why: a step that produces too fast, a schedule that sends contradictory instructions, a machine that must run large batches.
+
+**It connects material flow and information flow.** This is one of the book's main contributions. Traditional process maps often show the movement of materials. Rother and Shook stress that in a lean plant, it is information that tells each step what to produce and when. A complete map must therefore show both.
+
+**It provides a common language.** The symbols are simple and understood by everyone. They allow operators, engineers, schedulers and executives to discuss the same subject with the same vocabulary.
+
+**It serves as the basis for a plan.** The current-state map leads to a future-state map, then to an action plan. This avoids launching improvements at random.
+
+**It shows how lean tools fit together.** Continuous flow, kanban, supermarkets, leveling: the map shows where and why to use each one.
+
+- See the complete flow, not just stations.
+- Connect materials and information.
+- Start from the map to build a plan, not random actions.
+
+--- Who draws the map
+kw: value stream manager · floor · pencil
+Before even starting to draw, Rother and Shook raise an organizational question: who is responsible for the value stream?
+
+They observe that in most companies, nobody is. Each department manages its own part: production manages its shops, logistics manages inventory and transport, sales manages orders. Nobody is responsible for the product's complete path, from order to delivery. That is why improvements stay local.
+
+The authors recommend appointing a **value stream manager** for each product family. This person must have the authority needed to make changes across departments. They must also spend a lot of time on the shop floor. They report directly to the head of the site.
+
+This manager leads the mapping. They can work with a small team, but Rother and Shook insist that the map be drawn by people with the authority to implement the changes, not by consultants or a specialist department that would then hand over a report.
+
+The authors also give practical advice. Information should be gathered by walking along the actual flow, not in an office from computer system data. It is best to start at shipping, closest to the customer, and work upstream. You should measure times yourself with a stopwatch, without relying on theoretical standard times. And you should draw by hand, in pencil, on a large sheet, rather than on a computer: drawing by hand forces you to focus on the flow rather than the formatting.
+
+> Question clé | In your organization, who is responsible for the complete path of an order, from customer request to delivery?
+
+=== Preparing the map
+--- Choosing a product family
+kw: matrix · shared steps · one at a time
+The first step is to choose what the map will cover. Rother and Shook insist on one point: you do not map the whole plant, but a **product family**.
+
+A product family is a group of products that go through similar processing steps and use common equipment, especially in the final steps, closest to the customer. Customers care only about their products. Maps must therefore follow a product's path, not the organization of the shops.
+
+To identify families, the authors propose a simple tool: a table that crosses the different products, in rows, with the processing steps and equipment, in columns. You check off the steps each product goes through. Products with similar profiles form a family.
+
+Once the family is chosen, you gather some basic information: customer demand for that family, in volume and variety, order and delivery patterns, and lead time requirements.
+
+Rother and Shook recommend starting with a single family, often the most important one or the one where problems are most visible. A plant contains several value streams, but trying to map them all at once scatters the effort. Lessons learned on the first family will then serve for the others.
+
+They also specify the initial scope. The map starts at the plant level, “door to door”: from receiving materials to shipping finished products. Later, it can be extended to suppliers and customers, to map the complete value stream across several companies.
+
+> À retenir | One product family, one site, door to door. Other families and other companies come later.
+
+--- The data to collect
+kw: stopwatch · uptime · days of inventory
+Rother and Shook detail the information to gather on the shop floor. They stress the importance of measuring it yourself by observing the actual work, rather than taking it from the company's computer systems or documents, which often describe what should happen rather than what does happen.
+
+**Cycle time.** This is the interval between two parts coming out of a step. It is measured by timing several cycles. It should not be confused with the processing time of a part, which can be longer if several parts are worked on at the same time.
+
+**Changeover time.** This is the time needed to go from the last good part of one product to the first good part of the next. The authors insist on this definition, which includes setups and trial runs, often left out of official times.
+
+**Uptime.** This is the share of planned time during which the machine actually runs, taking into account breakdowns, waiting and stoppages. A machine with low uptime cannot be integrated into continuous flow without first being made reliable.
+
+**The number of operators** and the **available working time** per shift, minus breaks and meetings.
+
+**How often each product is produced**, which indicates the actual batch size.
+
+**Inventory.** You count the parts present between steps, then convert them into days of customer consumption. Rother and Shook recommend actually counting, and noting the date and time of the count, because inventory varies.
+
+**Scrap rate** and rework, when they are significant.
+
+The authors remind us not to seek excessive precision. An order of magnitude is enough to understand the flow. What matters is that the data are observed rather than assumed.
+
+- Measure it yourself, on the floor.
+- Changeover runs from the last good part to the first good part of the next product.
+- Convert inventory into days of consumption.
+
+--- The symbol vocabulary
+kw: icons · data boxes · arrows
+Rother and Shook propose a set of simple symbols that form the vocabulary of the map. They have become a standard used worldwide. Without reproducing them here, we can describe the main families.
+
+**Processes.** Each processing step where the product flows continuously is represented by a box. A box corresponds to a flow area: as soon as the flow stops and the product is stored, you move on to another box.
+
+**Data boxes.** Under each box, you note the step's key information. The main items are **cycle time**, that is, how often a part comes out of the step; **changeover time**, to switch from one product to another; machine **uptime**, that is, the percentage of time it actually runs; the number of operators; and how often the step can produce each product.
+
+**Inventory.** A triangle indicates inventory between two steps, with the quantity observed.
+
+**Material flows.** The authors distinguish push flows, shown by a particular arrow, from pull flows, supermarkets and continuous-flow transfers.
+
+**Information flows.** Lines represent information: orders, forecasts, schedules. A straight line indicates a manual exchange, a lightning-bolt line an electronic one.
+
+**External parties.** Factory-shaped symbols represent customers and suppliers.
+
+**The timeline.** At the bottom of the map, a stepped line compares waiting time and processing time.
+
+The authors insist: the vocabulary is a means, not an end. What matters is that the team understands and shares the same reading of the flow.
+
+- One box per continuous-flow area.
+- Data measured on the floor under each box.
+- Separate symbols for materials and for information.
+
+=== The current-state map
+--- Drawing what exists
+kw: customer first · inventory · scheduling
+Rother and Shook guide the reader step by step through drawing the current-state map, using an example: a fictional stamping plant that makes steel brackets for an automotive customer. You follow its path from shipping back to the receipt of steel coils.
+
+**Start with the customer.** Draw the customer at the top right, with their demand: monthly quantities, number of part numbers, delivery frequency, packaging size.
+
+**Draw the production steps.** Add, from left to right, the main steps of the flow: in the example, stamping, welding, assembly and shipping. For each step, fill in the data box with the measurements taken on the floor.
+
+**Note inventory.** Between each step, indicate the inventory observed and convert it into days of consumption. This conversion is important because it allows inventories to be compared and total waiting time to be calculated.
+
+**Add suppliers.** Draw the material supplier at the top left, with the frequency and size of deliveries.
+
+**Draw the information flows.** Place production control in the center, at the top. Show how it receives orders and forecasts from the customer, how it places orders with the supplier, and how it sends schedules to each production step. In the example, each step receives a separate weekly schedule and produces by pushing its parts to the next step.
+
+**Add the adjustments.** The authors note that in reality, schedules are constantly corrected by supervisors who walk through the shop to reshuffle priorities. These must be shown too.
+
+> Exercice | Take a process in your team and draw it by hand: the customer at the top right, the steps from left to right, the inventory between them, the information at the top.
+
+--- The timeline
+kw: total lead time · processing · gap
+The last step of the current-state map is the timeline, drawn at the bottom of the sheet. It compares two quantities.
+
+**Production lead time** is the time it takes a part to go through the whole plant, from the arrival of material to shipping. It is calculated by adding up the days of inventory at each step. In the book's example, it is on the order of several weeks.
+
+**Processing time** is the sum of the times during which the part is actually being worked on at each step. In the example, it amounts to only a few minutes.
+
+The gap between the two is striking. The part spends most of its time waiting. Rother and Shook stress that this gap appears in almost every value stream mapped: processing time is a tiny fraction of total lead time.
+
+This comparison has several effects. It makes a strong impression and helps convince people of the need to change. It directs effort: reducing processing time, for example by speeding up machines, will change almost nothing about total lead time. It is waiting time that must be reduced, by removing inventory between steps and improving flow.
+
+The authors also warn against a common mistake: trying to measure every detail with great precision. The current-state map should be done quickly, in a few hours or days. Its purpose is to understand the broad outlines of the situation, not to produce an exhaustive survey. Finer measurements will come when implementing the changes.
+
+- Total lead time: the sum of the waits.
+- Processing time: a few minutes amid weeks.
+- Reduce waiting, not machine speed.
+
+--- Reading the map
+kw: overproduction · islands · instructions
+Once the current-state map is drawn, it has to be read. Rother and Shook help the reader recognize the signs of waste.
+
+**Overproduction.** This is the main problem that emerges from most maps. Each step produces according to its own schedule, at its own pace, without knowing what the next step needs. It pushes its parts downstream. The inventory that piles up between steps is the visible consequence.
+
+**Isolated islands.** Each step operates like an island, separated from the others by inventory. This inventory allows each step to run independently, but it prevents flow and hides problems.
+
+**Multiple instructions.** Production control sends a schedule to each step. Because these schedules are based on changing forecasts, they are rarely consistent with one another. Supervisors must then correct constantly, walking through the shop to expedite urgent orders.
+
+**Large batches.** Long changeover times push people to produce large quantities of each product, which increases inventory and lengthens lead times.
+
+**Mismatch with the customer.** The frequency of production and delivery does not match the customer's rate of consumption.
+
+The authors stress that these problems do not come from people's ill will. They come from the system. Each manager does their best with the information and rules they have. That is why improving each step in isolation is not enough: the way the steps are connected must change.
+
+> À retenir | The inventory between steps is the symptom. The cause is a system in which each step produces according to its own schedule, with no link to the next step.
+
+=== Future state: flow
+--- Producing to takt
+kw: demand · available time · reference
+After drawing the current state, Rother and Shook propose drawing the **future state**: a lean value stream that can be reached within a few months with existing equipment, or nearly so. To do this, they set out a series of guiding principles. The first is to produce to takt.
+
+**Takt time** is the pace at which the customer buys. It is calculated by dividing the available working time per period by customer demand for that period. For example, if a plant works the equivalent of twenty-eight thousand seconds a day and the customer demands four hundred and sixty parts, takt is about one minute: on average, one part must be produced per minute.
+
+Takt serves as the reference for the whole stream. It indicates how fast each step must produce to keep up with demand, neither faster, which would create overproduction, nor slower, which would create delays.
+
+The authors stress that producing to takt requires several conditions. Problems must be dealt with very quickly when they occur, because there is no longer inventory to compensate. The causes of unplanned stoppages must be eliminated. And changeover times in downstream steps must be reduced so that small quantities of each product can be made.
+
+They warn against the temptation to speed up certain steps beyond takt. A step able to produce much faster than takt is not an asset: it risks overproducing. Better to organize it so it produces at the required pace, and use the freed-up time differently.
+
+> À retenir | Takt is the customer's metronome. Neither faster nor slower.
+
+--- Continuous flow where possible
+kw: one piece at a time · cells · combine
+The second principle is to **create continuous flow wherever possible**. Continuous flow means producing one piece at a time, each piece passing immediately from one step to the next, with no inventory between them.
+
+Rother and Shook explain that continuous flow is the most efficient way to produce. It eliminates inventory between steps, sharply reduces lead time and makes problems immediately visible: if a step produces a defective part, the next step sees it right away.
+
+In the stamping plant example, the welding and assembly steps can be combined in a single cell where parts flow one by one. The authors show how to calculate the number of operators needed: divide the total work time for one part by takt time. They also show how to distribute work among operators so that each has a load close to takt.
+
+But the authors are realistic. Continuous flow is not always possible. Some steps operate at paces very different from the others. A large stamping press, for example, produces parts very quickly and serves several product families. It is not reasonable to dedicate it to a single cell. Other steps are far away, at a subcontractor for example, or too unreliable to be linked directly to the others.
+
+In these cases, continuous flow should not be forced; other means should be used to connect the steps, notably supermarkets and pull.
+
+The authors also warn against a trap: continuous flow does not mean moving machines physically closer together while keeping inventory between them. You really have to produce one piece at a time.
+
+- One piece at a time, with no inventory between steps.
+- Combine steps into cells when their paces are compatible.
+- Do not force continuous flow where it is not realistic.
+
+--- Supermarkets and pull
+kw: kanban · controlled inventory · connect
+The third principle is to **use supermarkets to control production where continuous flow does not extend upstream**.
+
+A supermarket is a small controlled inventory placed between two steps that cannot be linked by continuous flow. The downstream step comes to take the parts it needs, when it needs them. The upstream step produces only to replace what has been taken. The replenishment signal is usually a kanban.
+
+Rother and Shook explain that the supermarket replaces the schedule. Instead of the upstream step receiving a schedule based on forecasts, it produces according to what has actually been consumed. Overproduction disappears, since the upstream step cannot produce more than the supermarket can hold.
+
+The authors describe several types of kanban: the withdrawal kanban, which authorizes taking parts from the supermarket; the production kanban, which triggers manufacturing; and the signal kanban, used for steps that produce in batches, such as presses, which triggers production of a batch when inventory falls below a certain level.
+
+They also mention other ways of linking two steps, such as a queue limited in quantity and handled in order of arrival. The principle is the same: limit the amount of work between steps and make the upstream step respond to actual consumption.
+
+The authors stress that the supermarket is a compromise. Inventory remains. But it is limited and controlled, and it can be reduced gradually as steps become more reliable.
+
+> À retenir | Where continuous flow is impossible, a controlled supermarket replaces the schedule: you only produce what has been consumed.
+
+=== Future state: control
+--- A single scheduling point
+kw: pacemaker · downstream · one instruction
+The fourth principle is to **send the customer schedule to only one production process**. Rother and Shook call this process the **pacemaker process**.
+
+In the current state, each step receives its own schedule. In the future state, only one step receives production instructions. All the others are linked to it by continuous flow or by supermarkets, and they produce according to what that step consumes.
+
+The pacemaker process is usually located downstream, close to the customer. The steps after it must run in continuous flow, because there should be no supermarket between the pacemaker and the customer. The steps before it are pulled by its consumption.
+
+The authors show the effects of this change. Production control no longer has to keep drawing up and correcting schedules for each step. Inconsistencies between schedules disappear. The pacemaker's pace is passed naturally to the whole stream through kanbans and supermarkets.
+
+They also explain that the choice of scheduling point determines how much of the stream runs to order. The further upstream the pacemaker, the larger the part of the stream that produces on demand. In some cases, the pacemaker can be placed far upstream and everything produced to order. In others, a finished-goods supermarket is kept, and the pacemaker is the last process.
+
+Rother and Shook stress that this principle greatly simplifies management. Instead of steering every step, you steer only one point, and the rest follows.
+
+- Only one process receives the schedule.
+- The others are linked by continuous flow or supermarkets.
+- Fewer schedules, fewer corrections, less confusion.
+
+--- Leveling mix and volume
+kw: heijunka · pitch · leveling box
+The fifth and sixth principles concern leveling.
+
+The fifth principle is to **distribute the production of different products evenly over time** at the pacemaker process. Rather than producing all the A parts in the morning and all the B parts in the afternoon, products are alternated throughout the day. This reduces the inventory needed in the finished-goods supermarket and passes steady demand to upstream steps. In return, it requires more frequent changeovers at the pacemaker.
+
+The sixth principle is to **release and withdraw a small, consistent increment of work** at the pacemaker process. The authors introduce the notion of **pitch** here: an amount of work corresponding to a multiple of takt, often the quantity in one container. For example, if a container holds twenty parts and takt is one minute, pitch is twenty minutes. Every twenty minutes, the pacemaker is instructed to produce one container, and the previous container is withdrawn.
+
+This practice has an important advantage: it lets you know very quickly whether you are ahead or behind. With a weekly schedule, you discover a delay at the end of the week. With a twenty-minute pitch, you discover it after twenty minutes and can react immediately.
+
+The authors describe a tool for organizing this leveling: a **leveling box**, a board with slots in which kanbans are placed according to the order and time of production. A material handler takes the next kanban at each pitch, delivers it to the pacemaker and withdraws the finished products.
+
+> À retenir | Alternate products and release work in small, regular increments. A delay shows up in minutes, not days.
+
+--- Every part every day
+kw: quick changeovers · small lots
+The seventh principle is to **develop the ability to make every part every day**, then every shift, then every hour, upstream of the pacemaker.
+
+Rother and Shook explain that batch size in upstream steps determines how much inventory is needed in supermarkets. If a press produces each part number only once a week, a week's worth of each part is needed in the supermarket. If it can produce each part number every day, the inventory needed is one day.
+
+To achieve this, changeover times must be reduced. The authors use a simple metric, often noted by practitioners as “every part every…” (EPE), which measures how often a step can produce each of its products. In the current-state map, this metric is noted in the data box. In the future state, a more ambitious target is set.
+
+The authors show how to calculate the time available for changeovers. Start from available working time, subtract the time needed for production and planned downtime, and see how many changeovers can be done in the remaining time. If that time does not allow every part to be produced every day, changeover times must be reduced.
+
+They point out that this ability brings great flexibility. The plant can respond to changes in demand, reduce inventory and shorten lead times. It is often one of the most important efforts of the transformation, because it requires in-depth technical work on the machines.
+
+- Upstream batch size sets the inventory needed.
+- Reduce changeover times to produce each part more often.
+- Calculate the time available for changeovers.
+
+--- Future-state questions
+kw: takt · flow · supermarket · pacemaker
+To help the reader draw the future state, Rother and Shook propose a series of questions to ask in order. They take up the seven guiding principles in practical form.
+
+**What is the takt time?** It is calculated from customer demand and available time.
+
+**Will you build to a finished-goods supermarket, or directly to shipping?** Depending on the lead times the customer accepts and the variety of products, you choose to keep a small finished-goods inventory or to produce to order.
+
+**Where can you use continuous flow?** Look for steps that can be combined and linked piece by piece.
+
+**Where will you need supermarkets to control upstream production?** Where continuous flow is not possible, place supermarkets linked by kanbans.
+
+**What will the single scheduling point be?** Choose the pacemaker process, which alone will receive production instructions.
+
+**How will you level the mix at the pacemaker?** Decide how to alternate products.
+
+**What consistent increment of work will you release?** Set the pitch and the withdrawal method.
+
+**What process improvements will be needed?** For the future state to work, some steps will have to be improved: shorter changeovers, more reliable machines, better quality. The authors show these on the map with lightning-bolt symbols, called kaizen bursts, which flag the improvements to be made.
+
+These questions give structure to the thinking. They prevent people from heading off in all directions and ensure that the future state is coherent. The authors recommend answering them as a team, drawing as you go.
+
+> À retenir | Eight questions in order, from takt to the improvements needed. Kaizen bursts on the map show what will have to change.
+
+=== From map to action
+--- The implementation plan
+kw: loops · order · objectives
+Once the future state is drawn, it has to be achieved. Rother and Shook propose a structured approach.
+
+**Divide the future state into loops.** The future-state map is divided into segments called loops. The **pacemaker loop** includes the pacemaker process and everything downstream to the customer. **Additional loops** correspond to each upstream segment between two supermarkets. Each loop can be handled as a separate project.
+
+**Start with the pacemaker loop.** The authors generally recommend starting with the loop closest to the customer, because it sets the pace for the whole stream. Once it runs to takt in continuous flow, upstream loops can be linked to it. But they acknowledge that in some cases it is better to start elsewhere, for example where problems are most visible or gains easiest.
+
+**Set measurable objectives.** For each loop, define precise objectives: inventory reduction, lead time reduction, target changeover time, number of operators.
+
+**Draw up an annual plan.** The value stream plan shows, for the year, which loops will be addressed, in what order, with what objectives, what measures and who is responsible. It is reviewed regularly, for example monthly, by the value stream manager.
+
+**Link actions to objectives.** Improvement events are no longer launched at random. Each contributes to a specific step in the plan.
+
+The authors insist on the discipline of this follow-up. A future-state map that stays pinned to a wall without an implementation plan is useless.
+
+> À retenir | Divide into loops, start near the customer, set measurable objectives, and review every month.
+
+--- An endless cycle
+kw: new current state · repetition
+Rother and Shook explain that mapping is not a one-off exercise. Once the future state is reached, it becomes the new current state. You map it again, identify the remaining waste and draw a new, more ambitious future state.
+
+They note that each cycle brings new problems to light. By reducing inventory, you discover unreliable machines, overly long changeovers and quality problems that were hidden. These discoveries feed the next cycle.
+
+The authors compare the map to a communication and learning tool. It allows the team to discuss, understand and decide together. With practice, people learn to see the flow without needing to draw it. They spontaneously spot overproduction, unnecessary inventory and contradictory instructions.
+
+They also warn against several pitfalls. The first is spending too much time on the current-state map, seeking needless precision. The second is drawing a future state without implementing it. The third is handing mapping to experts who are not responsible for results. The fourth is making the map an end in itself, producing maps for every family without ever improving the flow.
+
+Rother and Shook remind us that the goal is not a beautiful map but a flow that creates value for the customer. The map is useful only if it leads to action.
+
+- The future state, once reached, becomes the new current state.
+- Each cycle reveals new problems.
+- The map is a learning tool, not an end.
+
+--- Common mistakes
+kw: office · too much detail · no follow-up
+From their experience, Rother and Shook and the practitioners who followed have identified common mistakes in the use of mapping.
+
+**Mapping from an office.** The team draws the map from computer system data, written procedures and participants' memories. The map then describes the process as people imagine it, not as it is. Waiting, workarounds and informal adjustments do not show up.
+
+**Trying to map everything.** The team tries to show every part number, every exception, every variant. The map becomes unreadable and loses its value, which is to give an overall view.
+
+**Confusing the map with a detailed process map.** The value stream map shows the flow at a fairly high level. To improve a specific step, other, more detailed tools are used. Mixing the two levels creates confusion.
+
+**Drawing an ideal but unrealistic future state.** The future state should be achievable within a reasonable time, often six months to a year, with existing or nearly existing resources. A future state that is too ambitious discourages the team. One that is too timid changes nothing.
+
+**Not appointing a manager.** Without a value stream manager, the plan is not followed, and departments go back to their usual priorities.
+
+**Not involving those who do the work.** Operators and team leaders know essential details. Excluding them from mapping produces incomplete maps and poorly accepted plans.
+
+**Stopping after the map.** This is the most common mistake: the future-state map is presented, approved and posted, then nothing happens.
+
+> Question clé | Were your process maps drawn on the floor, and did they lead to real changes?
+
+=== Beyond the factory
+--- Mapping services
+kw: files · information · lead times
+*Learning to See* was written for manufacturing, but value stream mapping quickly spread to other activities. Other books, later published by the Lean Enterprise Institute or by other authors, adapted it to offices, services, healthcare and software development.
+
+In a service, the product that flows is often a file, a request or information. The steps are tasks carried out by different people or departments: data entry, checking, approval, processing, sending. Inventory is the files waiting in inboxes, ticket queues or piles on desks.
+
+The same problems appear. Each department works according to its own priorities. Files wait between steps. Total lead times run to days or weeks, while actual working time amounts to only a few hours, or even a few minutes.
+
+Mapping helps to see these problems. In particular, it helps spot **rework loops**: an incomplete file sent back to the requester, an error that forces a step to be redone. In services, these loops are often more frequent than in manufacturing, and they greatly lengthen lead times. A useful measure is the percentage of files that arrive complete and accurate at each step.
+
+The future-state principles also apply, with adaptations. Steps can be combined so that a single team handles the file from end to end. The number of files waiting can be limited. Requests can be processed at a steady pace rather than in batches.
+
+> Exercice | Map the path of a file in your department. Count the rework loops and the percentage of files that arrive complete at each step.
+
+--- 30-day action plan
+kw: week by week · one family
+**Week 1: choose and walk.** Choose a family of products or files. Appoint a flow manager. With a small team, walk along the actual flow, from the customer upstream, and collect the data for each step.
+
+**Week 2: draw the current state.** Draw the current-state map by hand, with material and information flows. Add the timeline. Compare total lead time with actual working time. Identify areas of overproduction and contradictory instructions.
+
+**Week 3: draw the future state.** Calculate takt. Spot the steps that can be linked by continuous flow. Place supermarkets or limited queues where that is not possible. Choose a single scheduling point. Think about leveling.
+
+**Week 4: plan.** Divide the future state into loops. Choose the first loop to address. Set measurable objectives and a timeline. Present the plan to the team and management, and launch the first action.
+
+Rother and Shook remind us that an imperfect map that leads to action is better than a perfect map that stays on a wall.
+
+> À retenir | Walk, draw, imagine, plan. Then act on the first loop.
+
+--- Case study: the clinic
+kw: appointments · tests · patient journey
+An outpatient clinic receives complaints about how long patient journeys take. A patient who comes in for a knee problem often has to come back several times, over several weeks, before getting a diagnosis. The director, Antoine, makes a coordinating nurse, Léa, responsible for this journey.
+
+**Walk the flow.** Léa follows about ten patients from booking to diagnosis. She records each step: call, wait for the appointment, consultation, test prescription, wait for imaging, wait for results, second consultation.
+
+**The current state.** The timeline shows a total lead time of several weeks for less than two hours of actual care. Each department, consultations, imaging, reception, has its own schedule. Tests are often prescribed but not scheduled, and the patient has to call back. One file in three arrives incomplete at the consultation.
+
+**The future state.** Léa proposes scheduling imaging on the same day as the consultation, reserving dedicated slots each day, a form of supermarket. Reception checks that files are complete before the appointment. The second consultation is booked during the first, according to a single schedule.
+
+**The plan.** The first loop covers imaging. Objectives are set and reviewed every month.
+
+Six months later, most patients get their diagnosis in one or two visits, over a much shorter time.
+
+> Question de réflexion | In your work, how many different “schedules” does a customer or a file have to pass through?
+
+=== Critical view and links
+--- Limits of the book
+kw: tool · stable environments · fetishism
+*Learning to See* has become a classic, but it has several limits, some of which its authors have acknowledged themselves.
+
+**A tool, not a complete approach.** The map helps you see and plan, but it does not say how to develop the skills needed to improve the flow day to day. Mike Rother later acknowledged that many companies drew beautiful future-state maps without managing to reach them, for lack of problem-solving know-how. This is one of the reasons that led him to write *Toyota Kata*.
+
+**A repetitive manufacturing context.** The book's example is a plant producing parts in large quantities for a stable customer. The principles apply less directly to highly varied, low-volume production or to creative work. Adaptations are needed.
+
+**The risk of map fetishism.** In some companies, mapping has become an end in itself. Maps multiply, training is organized, diagrams are posted, but the flow does not change.
+
+**The human dimension little addressed.** The book focuses on material and information flows. It says little about how to involve operators, manage resistance or change the role of managers.
+
+**A plant-centered view.** The “door to door” scope is a good starting point, but the biggest wastes are often between companies, at suppliers and distributors. Other books later extended mapping to the complete value stream.
+
+- The map shows where to go, not how to develop the skills to get there.
+- A beautiful map without action changes nothing.
+
+--- Links with other books
+kw: Womack · Ohno · Rother · Goldratt
+**With Lean Thinking (Womack and Jones).** *Learning to See* is the practical tool for Womack and Jones's second principle: identifying the value stream. The two books are best read together.
+
+**With Toyota Production System (Ohno).** The future-state principles, takt, continuous flow, supermarkets, kanban, leveling, are those Ohno developed at Toyota. The map makes it possible to apply them systematically.
+
+**With Toyota Kata (Rother).** Rother wrote *Toyota Kata* to address the main limitation of *Learning to See*: knowing where you want to go is not enough; you have to learn to move toward the future state through small experiments.
+
+**With The Goal (Goldratt).** The notion of the pacemaker process recalls Goldratt's “drum”: a single point sets the pace for the whole stream. Both approaches share a critique of multiple schedules and local optimization.
+
+**With The Toyota Way (Liker).** Liker reminds us that tools like the map only work in a culture of improvement and people development.
+
+> Parcours conseillé | Next, read Toyota Kata to learn how to move toward the future state, step by step.

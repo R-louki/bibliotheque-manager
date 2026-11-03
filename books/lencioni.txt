@@ -1,0 +1,492 @@
+id: lencioni
+t: Optimisez votre équipe
+o: The Five Dysfunctions of a Team
+a: Patrick Lencioni
+y: 2002
+cat: Équipes
+p: ≈ 230 p.
+c: --b2
+center: Les cinq dysfonctionnements d'une équipe
+pitch: Une fable d'entreprise et une pyramide simple : confiance, conflit, engagement, responsabilité, résultats.
+
+=== Contexte et fable
+--- Lencioni et le genre de la fable
+kw: consultant · récit · modèle simple
+Patrick Lencioni est un consultant américain, fondateur d'un cabinet spécialisé dans le travail d'équipe et la santé des organisations. Avant de fonder son entreprise, il a travaillé dans le conseil en stratégie et dans des entreprises technologiques de la région de San Francisco. Il est devenu célèbre pour une série de livres qui présentent des idées de management sous la forme de récits.
+
+*The Five Dysfunctions of a Team*, publié en 2002, est son livre le plus connu. Il a été traduit dans de nombreuses langues et vendu à plusieurs millions d'exemplaires. En français, il est paru sous le titre *Optimisez votre équipe*. Il est devenu un classique des séminaires de cohésion et des formations au management.
+
+Le livre est construit en deux parties très inégales. La première, qui occupe la plus grande partie de l'ouvrage, est une fable : l'histoire d'une nouvelle dirigeante qui tente de transformer une équipe de direction dysfonctionnelle. La seconde, beaucoup plus courte, présente le modèle théorique et des outils pour l'appliquer.
+
+Ce choix de la fable n'est pas anodin. Lencioni explique qu'il veut que ses lecteurs se reconnaissent dans les personnages et dans les situations. Une théorie abstraite sur le travail d'équipe est facilement acceptée et aussitôt oubliée. Une histoire où l'on voit des personnes concrètes se disputer, se fermer ou se défiler touche davantage. Le lecteur pense immédiatement à son propre comité de direction ou à sa propre équipe.
+
+Cette approche explique la popularité du livre, mais aussi certaines critiques. Le récit est parfois jugé simpliste, avec des personnages un peu caricaturaux et des retournements prévisibles. Mais il remplit sa fonction : rendre le modèle mémorable et donner envie de l'appliquer. La simplicité est d'ailleurs revendiquée par l'auteur, qui affirme que le travail d'équipe n'est pas compliqué à comprendre, mais très difficile à pratiquer.
+
+> À retenir | Le travail d'équipe n'est pas difficile à comprendre, il est difficile à pratiquer. La fable sert à faire reconnaître les dysfonctionnements chez soi.
+
+--- Une équipe brillante qui échoue
+kw: start-up · talents · résultats décevants
+La fable se déroule dans une entreprise technologique de la Silicon Valley, que Lencioni appelle DecisionTech. L'entreprise a tout pour réussir : des fonds importants, une technologie prometteuse, des dirigeants expérimentés et talentueux. Pourtant, deux ans après son lancement, elle est en retard sur ses objectifs, perd du terrain face à ses concurrents et voit le moral de ses employés se dégrader.
+
+Le conseil d'administration décide de remplacer le PDG, l'un des fondateurs, par une dirigeante plus âgée et plus discrète, Kathryn Petersen. Elle vient d'un secteur industriel traditionnel, ce qui surprend beaucoup de monde dans l'entreprise. Les membres de l'équipe de direction se demandent ce qu'une personne sans expérience de la technologie peut leur apprendre.
+
+L'équipe qu'elle découvre est composée de personnes très compétentes dans leur domaine. Il y a notamment une responsable marketing brillante mais très critique envers ses collègues, un directeur technique talentueux mais distant, un responsable commercial aimable mais qui ne tient pas ses engagements, une directrice financière rigoureuse, un responsable du service client discret mais lucide, et un directeur des opérations ambitieux qui supporte mal de ne pas avoir été choisi comme PDG.
+
+Kathryn observe pendant plusieurs semaines sans rien changer. Elle assiste aux réunions et constate que personne ne se dispute vraiment. Les réunions sont polies, ennuyeuses et sans conclusion. Les vrais désaccords s'expriment dans les couloirs, par des remarques acides ou des alliances. Chacun défend son service et ses objectifs personnels. Personne ne se sent responsable des résultats de l'entreprise dans son ensemble.
+
+Le diagnostic de Kathryn est clair : l'équipe dispose de tous les talents nécessaires, mais elle ne fonctionne pas comme une équipe. Elle se compose d'individus brillants qui cohabitent, sans vraiment travailler ensemble. C'est ce constat qui va la conduire à présenter son modèle.
+
+- Le talent individuel ne garantit pas la performance collective.
+- Les réunions polies et sans conflit sont un signal d'alerte.
+- Chacun défend son périmètre au lieu des résultats communs.
+
+--- Les séminaires et le dénouement
+kw: retraites · résistances · départ
+Kathryn organise une série de séminaires hors de l'entreprise, dans une région viticole de Californie. Elle annonce dès le départ que ces journées seront consacrées au fonctionnement de l'équipe et non aux sujets opérationnels, ce qui suscite l'agacement de plusieurs membres qui jugent qu'ils ont mieux à faire.
+
+Lors du premier séminaire, elle dessine au tableau une pyramide composée de cinq niveaux, et explique que chaque dysfonctionnement nourrit le suivant. Puis elle fait travailler l'équipe sur la base de la pyramide : la confiance. Elle propose des exercices simples, comme raconter son parcours personnel ou partager ses forces et ses faiblesses. Les résistances sont fortes. Certains jugent ces exercices inutiles ou gênants. Mais peu à peu, les membres commencent à se découvrir.
+
+Au fil des séminaires, l'équipe passe par des moments de tension. Les conflits, jusque-là cachés, éclatent enfin. Kathryn ne les étouffe pas : elle les encourage, tout en veillant à ce qu'ils portent sur les idées et non sur les personnes. L'équipe apprend progressivement à débattre, à prendre des décisions claires et à s'y tenir.
+
+La fable contient aussi des moments durs. La responsable marketing, très talentueuse mais incapable de faire confiance à ses collègues et de travailler en équipe, finit par quitter l'entreprise à la demande de Kathryn. Ce départ illustre un message important du livre : une personne brillante qui refuse de jouer collectif peut faire plus de mal que de bien. Le directeur des opérations, d'abord en opposition, finit par trouver sa place après une discussion franche.
+
+À la fin de la fable, l'entreprise n'est pas transformée par miracle, mais elle progresse. L'équipe de direction fonctionne mieux, prend de meilleures décisions et commence à rattraper son retard. Lencioni montre que le changement est lent, inconfortable et imparfait, mais possible.
+
+> À retenir | Le changement passe par l'inconfort : faire émerger les conflits cachés, accepter des départs et tenir bon face aux résistances.
+
+--- La pyramide
+kw: cinq niveaux · cascade · ordre
+Le modèle de Lencioni est une pyramide de cinq dysfonctionnements. Chacun est la conséquence du niveau inférieur, et la cause du niveau supérieur. Pour résoudre un dysfonctionnement, il faut donc souvent commencer par celui qui se trouve en dessous.
+
+- **1. L'absence de confiance** : les membres de l'équipe ne sont pas prêts à se montrer vulnérables les uns devant les autres.
+- **2. La peur du conflit** : sans confiance, l'équipe évite les débats d'idées ouverts et passionnés, et se contente d'une harmonie de façade.
+- **3. Le manque d'engagement** : sans vrai débat, les membres ne s'approprient pas les décisions. Ils font semblant d'être d'accord, mais ne s'engagent pas.
+- **4. L'évitement des responsabilités** : sans engagement clair, les membres hésitent à se rappeler mutuellement leurs obligations et leurs comportements.
+- **5. L'inattention aux résultats** : sans responsabilité mutuelle, chacun privilégie ses intérêts personnels, son statut ou son service, au détriment des résultats collectifs.
+
+Lencioni présente aussi la pyramide sous un angle positif. Une équipe performante est une équipe dont les membres se font confiance, s'engagent dans des débats d'idées sans retenue, s'engagent sur les décisions et les plans d'action, se tiennent mutuellement responsables de leur exécution et se concentrent sur les résultats collectifs.
+
+L'ordre des niveaux est important. Il n'est pas possible de construire un engagement solide si personne n'ose exprimer son désaccord. Il n'est pas possible de tenir les autres responsables si les décisions sont floues. Il n'est pas possible de se concentrer sur les résultats si personne n'ose rappeler aux autres leurs engagements.
+
+Lencioni précise que ces dysfonctionnements ne sont pas cinq problèmes indépendants, mais un seul système. Une équipe qui souffre d'un niveau souffre souvent des autres. Le travail sur la pyramide est donc global, même si l'on commence par la base.
+
+> À retenir | Confiance, conflit, engagement, responsabilité, résultats : chaque étage repose sur le précédent. On construit de bas en haut.
+
+=== L'absence de confiance
+--- La confiance par la vulnérabilité
+kw: oser montrer ses faiblesses · erreurs
+Lencioni donne au mot confiance un sens particulier. Il ne parle pas de la confiance prédictive, qui consiste à savoir qu'un collègue fera ce qu'il a promis parce qu'on a l'habitude de travailler avec lui. Il parle d'une confiance fondée sur la vulnérabilité : la certitude que les autres membres de l'équipe ont de bonnes intentions et qu'on ne risque rien à se montrer tel qu'on est.
+
+Concrètement, cela veut dire que les membres de l'équipe sont capables de dire des phrases comme « je me suis trompé », « j'ai besoin d'aide », « je ne sais pas », « tu es meilleur que moi sur ce sujet » ou « je suis désolé ». Ces phrases semblent simples, mais elles sont très difficiles à prononcer dans un contexte professionnel compétitif, où l'on craint d'être jugé ou de perdre du pouvoir.
+
+Lencioni explique que, dans une équipe sans confiance, les membres gaspillent beaucoup d'énergie à se protéger. Ils cachent leurs erreurs et leurs faiblesses, hésitent à demander de l'aide, interprètent négativement les intentions des autres et redoutent les réunions. Ils passent du temps à gérer leur image au lieu de travailler.
+
+Il souligne que la vulnérabilité ne se décrète pas. Elle exige que les membres de l'équipe se connaissent en tant que personnes, comprennent leurs parcours et leurs manières de fonctionner. Elle exige aussi que le comportement vulnérable ne soit jamais puni. Si quelqu'un avoue une erreur et se fait reprocher cette erreur par la suite, il ne recommencera pas.
+
+Les signes d'une équipe sans confiance sont faciles à reconnaître :
+
+- Les membres cachent leurs faiblesses et leurs erreurs.
+- Ils hésitent à demander de l'aide ou à donner un avis sur le travail des autres.
+- Ils tirent des conclusions sur les intentions des autres sans vérifier.
+- Ils redoutent les réunions et cherchent des raisons d'éviter de passer du temps ensemble.
+- Ils gardent rancune.
+
+> Question clé | Dans votre équipe, qui a dit « je me suis trompé » devant les autres au cours du dernier mois ? Si personne, la confiance est probablement faible.
+
+--- Construire la confiance
+kw: histoires personnelles · profils · forces
+Lencioni propose plusieurs outils pour construire la confiance, qu'il utilise dans ses interventions auprès des équipes de direction.
+
+**L'exercice des histoires personnelles.** Chaque membre de l'équipe répond à quelques questions simples sur sa vie : d'où il vient, combien de frères et sœurs il a, quel a été son premier emploi, quel défi important il a rencontré dans son enfance. Ces questions ne sont pas intrusives, mais elles permettent de découvrir des aspects inattendus de chacun. Lencioni affirme que cet exercice, qui ne dure qu'une heure, change souvent la manière dont les membres de l'équipe se voient.
+
+**L'exercice d'efficacité de l'équipe.** Chaque membre identifie, pour chacun de ses collègues, la contribution la plus importante qu'il apporte à l'équipe et un domaine dans lequel il pourrait s'améliorer. Puis chacun écoute ce que les autres disent de lui. Cet exercice demande déjà un certain niveau de confiance, mais il l'accélère considérablement.
+
+**Les profils de personnalité.** Lencioni recommande d'utiliser des outils comme les indicateurs de type psychologique, pour aider les membres à comprendre leurs différences de fonctionnement. Ces outils ne servent pas à mettre des étiquettes, mais à dépersonnaliser certains désaccords. Comprendre que l'autre préfère réfléchir avant de parler, ou qu'il a besoin de données avant de décider, évite de lui prêter de mauvaises intentions.
+
+**Les évaluations à 360 degrés.** Elles permettent à chacun de recevoir un retour de ses collègues sur son comportement. Lencioni recommande de ne pas les lier à la rémunération, pour qu'elles restent un outil de développement.
+
+**Les expériences partagées.** Les épreuves vécues ensemble, comme un projet difficile mené à bien, renforcent aussi la confiance. Mais Lencioni prévient qu'elles ne suffisent pas, car beaucoup d'équipes traversent des épreuves sans jamais parler de ce qu'elles ont vécu.
+
+- Une heure d'histoires personnelles peut changer le regard des membres les uns sur les autres.
+- Les profils de personnalité aident à dépersonnaliser les différences.
+- Les épreuves communes ne suffisent pas : il faut en parler.
+
+--- Le rôle du leader dans la confiance
+kw: montrer l'exemple · ne jamais punir
+Lencioni insiste sur le rôle déterminant du dirigeant dans la construction de la confiance. Le leader doit être le premier à se montrer vulnérable. S'il n'avoue jamais ses erreurs, ne demande jamais d'aide et cache ses doutes, il ne peut pas attendre que les autres le fassent.
+
+Dans la fable, Kathryn montre l'exemple à plusieurs reprises. Elle reconnaît devant l'équipe qu'elle ne connaît pas bien la technologie de l'entreprise, qu'elle a besoin de l'expertise de chacun et qu'elle peut se tromper. Elle partage aussi des éléments de son histoire personnelle lors de l'exercice des histoires personnelles. Cette attitude désarme progressivement les résistances.
+
+Le leader doit aussi créer un environnement où la vulnérabilité n'est pas punie. Si un membre de l'équipe avoue une erreur, le leader doit le remercier pour sa franchise, puis l'aider à corriger le problème, et non l'humilier ou s'en servir contre lui plus tard. Lencioni souligne que la vulnérabilité doit être sincère. Une vulnérabilité calculée, utilisée pour manipuler les autres, détruit la confiance plus sûrement que l'absence de vulnérabilité.
+
+Il ajoute un point important : la confiance ne se construit pas une fois pour toutes. Elle peut se dégrader à tout moment, par exemple à l'arrivée d'un nouveau membre, lors d'une crise ou après une trahison. Le leader doit donc entretenir la confiance en permanence, en revenant régulièrement aux exercices de base et en veillant aux comportements de chacun.
+
+Enfin, Lencioni reconnaît que tout le monde n'est pas capable de cette vulnérabilité. Certaines personnes, par tempérament ou par expérience, ont beaucoup de mal à baisser la garde. Le leader doit les aider, avec patience. Mais si une personne refuse durablement de faire confiance aux autres, elle peut empêcher toute l'équipe de progresser. C'est le cas de la responsable marketing dans la fable.
+
+> À retenir | Le leader doit se montrer vulnérable le premier, et ne jamais punir la vulnérabilité des autres. La confiance s'entretient en continu.
+
+=== La peur du conflit
+--- Le conflit productif
+kw: débat d'idées · harmonie artificielle
+Le deuxième dysfonctionnement est la peur du conflit. Lencioni affirme que toute relation durable exige un conflit productif. C'est vrai dans un couple, dans une famille, et aussi dans une équipe. Sans conflit, les décisions sont moins bonnes, les problèmes ne sont pas résolus et les relations restent superficielles.
+
+Il distingue soigneusement deux formes de conflit. Le **conflit productif** porte sur les idées, les concepts, les décisions. Il peut être passionné, émotionnel et même vif, mais il ne vise pas les personnes. Il cherche la meilleure solution dans le temps le plus court. Le **conflit destructeur** porte sur les personnes. Il s'accompagne d'attaques personnelles, de manœuvres politiques et de rancunes.
+
+Les équipes qui ont peur du conflit tombent dans ce que Lencioni appelle **l'harmonie artificielle**. Les réunions sont calmes et polies, mais ennuyeuses. Les sujets importants sont évités ou traités superficiellement. Les désaccords existent, mais ils s'expriment en dehors des réunions, sous forme de critiques dans les couloirs, de messages privés ou d'alliances. Les décisions sont prises sans vrai débat et ne sont pas vraiment soutenues.
+
+Lencioni représente le conflit sur une ligne continue. À une extrémité se trouve l'harmonie artificielle, où il n'y a aucun conflit. À l'autre extrémité se trouvent les attaques personnelles violentes. La plupart des équipes se situent trop près de l'harmonie artificielle. L'idéal se situe au milieu, un peu au-delà de la zone où les débats commencent à devenir inconfortables, sans franchir la frontière des attaques personnelles.
+
+Il note que la confiance est la condition du conflit productif. Lorsque les membres d'une équipe se font confiance, ils savent que les désaccords ne sont pas des attaques personnelles. Ils peuvent donc débattre vivement sans craindre d'endommager la relation. Sans confiance, le moindre désaccord est perçu comme une menace.
+
+- Le conflit d'idées est nécessaire, le conflit de personnes est destructeur.
+- L'harmonie de façade est plus dangereuse qu'un débat vif.
+- La confiance rend le conflit productif possible.
+
+--- Les symptômes et leurs coûts
+kw: couloirs · réunions ennuyeuses · non-dits
+Lencioni décrit plusieurs symptômes d'une équipe qui craint le conflit, et souligne leurs coûts, souvent sous-estimés.
+
+**Des réunions ennuyeuses.** Paradoxalement, l'absence de conflit rend les réunions ennuyeuses. Lencioni compare une bonne réunion à un film : sans tension, sans enjeu, sans désaccord, elle ne retient pas l'attention. Les participants s'ennuient, consultent leur téléphone et attendent la fin.
+
+**Des débats en coulisses.** Les désaccords non exprimés en réunion ne disparaissent pas. Ils se déplacent dans les couloirs, les pauses-café et les messages privés. Cela crée un climat de méfiance et de politique.
+
+**Des sujets tabous.** Les questions les plus importantes, celles qui pourraient provoquer un conflit, sont évitées. On parle de sujets secondaires parce qu'ils sont consensuels. Les vrais problèmes de l'entreprise restent sans réponse.
+
+**Des décisions de mauvaise qualité.** Sans débat, les décisions ne bénéficient pas de l'intelligence collective. Les objections qui auraient pu améliorer la décision ne sont pas exprimées.
+
+**Une perte de temps.** Les sujets non tranchés reviennent sans cesse. On reprend les mêmes discussions réunion après réunion, sans jamais conclure, parce que personne n'ose exprimer ce qu'il pense vraiment.
+
+Lencioni souligne un paradoxe : beaucoup de dirigeants évitent le conflit pour gagner du temps et préserver les relations. En réalité, ils perdent du temps, car les sujets reviennent sans cesse, et ils dégradent les relations, car les rancœurs s'accumulent. Le conflit productif est un investissement : il coûte un peu d'inconfort sur le moment, mais il fait gagner beaucoup de temps et de clarté ensuite.
+
+Dans la fable, Kathryn observe que les réunions de DecisionTech sont mortellement ennuyeuses. Elle comprend que cet ennui n'est pas un détail, mais le symptôme d'un problème profond.
+
+> Question clé | Quel est le sujet le plus important que votre équipe évite d'aborder en réunion ? Qui en parle à la place, et où ?
+
+--- Faire émerger le conflit
+kw: creuser · permission en direct · règles
+Lencioni propose des outils précis pour aider une équipe à accepter le conflit productif.
+
+**Creuser.** Lors des réunions, un membre de l'équipe, souvent le leader, joue le rôle de « mineur » : il cherche activement les désaccords enfouis et les fait remonter à la surface. Il pose des questions comme : « Qui ne partage pas cet avis ? », « Quels sont les risques que nous ne voyons pas ? », « Qu'est-ce qui pourrait mal tourner ? ». Il oblige l'équipe à affronter les sujets délicats plutôt que de les contourner.
+
+**La permission en temps réel.** Lorsqu'un débat commence à devenir vif, certains membres se sentent mal à l'aise et cherchent à le calmer. Le leader peut alors intervenir pour rappeler que ce type de débat est utile. Il dit par exemple : « Ce que nous faisons en ce moment est exactement ce dont nous avons besoin. » Cette intervention rassure et encourage à poursuivre.
+
+**Les règles du conflit.** Lencioni recommande que l'équipe définisse ensemble ses propres règles de débat. Qu'est-ce qui est acceptable ? Qu'est-ce qui ne l'est pas ? Peut-on hausser le ton ? Peut-on interrompre ? Ces règles varient selon les cultures et les personnes, mais le fait de les définir ensemble évite les malentendus.
+
+**Les outils de styles de conflit.** Des instruments d'évaluation permettent à chacun de comprendre sa manière naturelle de réagir au conflit : éviter, s'adapter, rivaliser, faire des compromis ou collaborer. Comprendre ces différences aide l'équipe à mieux gérer les désaccords.
+
+Lencioni précise que le rôle du leader est délicat. Il doit encourager le conflit sans le diriger. Il ne doit pas intervenir trop tôt pour protéger les membres de l'équipe des désaccords, car cela les empêche d'apprendre à les gérer. Mais il doit intervenir si le conflit dérive vers les attaques personnelles.
+
+- Désignez quelqu'un pour chercher les désaccords cachés en réunion.
+- Dites explicitement que le débat en cours est utile.
+- Définissez ensemble les règles du débat.
+
+--- Le conflit à distance
+kw: visioconférence · écrit · tours de parole
+Lencioni a écrit son livre à une époque où les équipes de direction se réunissaient presque toujours dans la même salle. Aujourd'hui, beaucoup d'équipes travaillent à distance ou en mode hybride, ce qui rend le conflit productif plus difficile encore. Les principes du livre restent valables, mais il faut adapter les pratiques.
+
+En visioconférence, les signaux non verbaux sont réduits. On voit mal si un collègue est en désaccord, s'il hésite à parler ou s'il se désengage. Les silences sont plus difficiles à interpréter. Les personnes les plus réservées ont encore plus de mal à prendre la parole, et les échanges sont souvent dominés par quelques voix. Le risque d'harmonie artificielle augmente.
+
+L'écrit pose d'autres problèmes. Les messages courts sont facilement mal interprétés, et un désaccord exprimé par écrit peut paraître plus agressif qu'il ne l'était. À l'inverse, certains évitent d'exprimer leur désaccord par écrit, de peur que leur message soit transféré ou conservé. Les débats importants glissent alors vers les messages privés, ce qui recrée les « couloirs » décrits par Lencioni.
+
+Quelques pratiques peuvent aider :
+
+- **Faire des tours de parole** systématiques sur les décisions importantes, en demandant à chacun son avis, y compris son niveau de désaccord.
+- **Demander un avis écrit avant la réunion** sur les sujets délicats. Chacun écrit sa position dans un document partagé, ce qui permet aux plus réservés de s'exprimer et évite que les premiers à parler influencent les autres.
+- **Activer les caméras** pour les discussions difficiles, afin de voir les réactions.
+- **Garder les sujets sensibles pour la voix**, et utiliser l'écrit pour les synthèses et les décisions.
+- **Désigner un « mineur »** pour chaque réunion importante, chargé de faire remonter les désaccords.
+
+Le rôle du leader est encore plus important à distance. Il doit être attentif aux silences, relancer ceux qui ne parlent pas et vérifier en privé, après la réunion, que personne n'a gardé un désaccord pour lui.
+
+> À retenir | À distance, le silence ne veut pas dire accord. Demandez explicitement les désaccords, à l'oral et par écrit avant la réunion.
+
+=== Le manque d'engagement
+--- Clarté et adhésion
+kw: décisions claires · désaccord puis soutien
+Le troisième dysfonctionnement est le manque d'engagement. Lencioni définit l'engagement par deux éléments : la **clarté** et **l'adhésion**. Une équipe engagée prend des décisions claires et s'y tient, même lorsque certains membres n'étaient pas d'accord au départ.
+
+Lencioni affirme que deux obstacles empêchent l'engagement. Le premier est le **désir de consensus**. Beaucoup d'équipes pensent qu'une décision n'est légitime que si tout le monde est d'accord. Or le consensus est rarement possible sur les sujets difficiles, et le rechercher à tout prix conduit à des décisions molles ou à l'absence de décision. Lencioni explique que les personnes raisonnables n'ont pas besoin d'obtenir gain de cause pour soutenir une décision. Elles ont seulement besoin de savoir que leur avis a été entendu et pris en compte.
+
+Le second obstacle est le **besoin de certitude**. Certaines équipes hésitent à décider tant qu'elles ne disposent pas de toutes les informations. Mais dans un environnement incertain, ces informations n'arrivent jamais complètement. Lencioni affirme qu'une décision imparfaite prise à temps vaut souvent mieux qu'une décision parfaite prise trop tard. Une équipe peut changer de décision si elle se révèle mauvaise, mais l'absence de décision paralyse tout le monde.
+
+Le lien avec le niveau précédent est direct. Sans conflit productif, les membres de l'équipe n'expriment pas leurs avis. Ils ne se sentent donc pas entendus, et ils n'adhèrent pas aux décisions. Ils hochent la tête en réunion, puis ne font rien ou agissent dans un autre sens. Lencioni insiste : on ne peut pas s'engager sur une décision si l'on n'a pas pu la discuter.
+
+Les signes d'un manque d'engagement sont reconnaissables :
+
+- Des décisions ambiguës, que chacun interprète à sa manière.
+- Des décisions revues et rediscutées sans cesse.
+- Des occasions perdues par excès d'analyse et d'hésitation.
+- Un manque de confiance de l'équipe dans sa propre direction.
+
+> À retenir | On n'a pas besoin d'avoir gain de cause pour soutenir une décision, seulement d'avoir été entendu. Et une décision imparfaite vaut mieux que pas de décision.
+
+--- Les outils de l'engagement
+kw: cascade · échéances · pire scénario
+Lencioni propose plusieurs outils pour renforcer l'engagement.
+
+**Le message en cascade.** À la fin de chaque réunion, l'équipe prend quelques minutes pour revoir les décisions principales et se mettre d'accord sur ce qui doit être communiqué aux équipes de chacun. Cet exercice a deux effets. Il révèle immédiatement les désaccords cachés ou les interprétations différentes d'une même décision. Il garantit aussi que tous les collaborateurs reçoivent le même message, ce qui renforce la cohérence de l'organisation.
+
+**Les échéances.** Fixer des dates précises pour les décisions et s'y tenir évite que les sujets traînent indéfiniment. Lencioni recommande d'appliquer des échéances non seulement aux décisions finales, mais aussi aux étapes intermédiaires, comme la collecte d'informations ou l'analyse des options.
+
+**L'analyse des scénarios de crise.** Pour les équipes qui ont du mal à décider par peur de se tromper, Lencioni recommande d'examiner le pire scénario possible. Que se passerait-il si la décision était mauvaise ? Souvent, l'équipe réalise que les conséquences seraient gérables, ce qui la libère pour décider.
+
+**La thérapie par exposition à faible risque.** Pour les équipes qui ont tendance à trop analyser, Lencioni recommande de prendre des décisions rapides sur des sujets à faible enjeu. Cela leur permet de constater que décider vite ne mène pas à la catastrophe, et de prendre confiance pour les décisions plus importantes.
+
+Lencioni insiste sur le fait que le leader doit être à l'aise avec l'idée de se tromper. S'il exige des certitudes avant de décider, l'équipe sera paralysée. Il doit aussi pousser l'équipe à conclure, à fixer des échéances et à s'y tenir, même lorsque le débat n'est pas totalement épuisé.
+
+Dans la fable, Kathryn met en place le message en cascade. L'équipe découvre avec surprise que ses membres ne comprennent pas les décisions de la même manière, alors qu'ils pensaient être d'accord. Cette découverte leur fait comprendre l'importance de la clarté.
+
+> Exercice | À la fin de votre prochaine réunion, demandez à chacun de dire en une phrase ce qu'il va communiquer à son équipe. Comparez les réponses.
+
+--- Le leader face à la décision
+kw: trancher · se tromper · revenir dessus
+Lencioni insiste sur le rôle du leader dans l'engagement. Dans beaucoup d'équipes, le leader attend que le groupe parvienne à un consensus avant de trancher. Lorsque ce consensus n'arrive pas, la décision est repoussée, et l'équipe s'enlise. Lencioni affirme que le leader doit être prêt à trancher lorsque le débat a été mené jusqu'au bout et qu'aucun consensus n'émerge.
+
+Cette responsabilité est inconfortable. Trancher, c'est accepter de décevoir une partie de l'équipe. C'est aussi accepter de se tromper. Lencioni souligne que le leader doit être à l'aise avec l'idée qu'une décision peut se révéler mauvaise. Il vaut mieux prendre une décision et la corriger ensuite que de ne pas décider. L'équipe peut apprendre d'une mauvaise décision ; elle n'apprend rien d'une absence de décision.
+
+Il insiste aussi sur la manière de trancher. Le leader doit expliquer sa décision, montrer qu'il a entendu les différents points de vue et préciser pourquoi il a choisi une option plutôt qu'une autre. Il doit aussi reconnaître le désaccord de ceux qui n'ont pas eu gain de cause, sans s'en excuser. Cette transparence permet à chacun de soutenir la décision, même s'il ne la partage pas.
+
+Une question délicate concerne la révision des décisions. Une équipe engagée doit-elle s'en tenir à une décision quoi qu'il arrive ? Lencioni répond que non. Si de nouvelles informations apparaissent, l'équipe peut revoir sa décision. Mais elle doit le faire de manière explicite, en réunion, et non par des contournements individuels. Ce qui détruit l'engagement, c'est la remise en cause permanente et souterraine, pas l'ajustement assumé.
+
+Dans la fable, Kathryn tranche à plusieurs reprises lorsque l'équipe ne parvient pas à s'accorder. Elle explique chaque fois ses raisons et demande ensuite à chacun de soutenir la décision. Elle accepte aussi de revenir sur une décision lorsqu'un membre de l'équipe apporte des éléments nouveaux en réunion.
+
+- Après un vrai débat, le leader tranche si le consensus n'émerge pas.
+- Expliquez la décision et reconnaissez le désaccord sans vous excuser.
+- On peut revoir une décision, mais ouvertement et en équipe.
+
+=== L'évitement des responsabilités
+--- La responsabilité entre pairs
+kw: rappeler les engagements · inconfort
+Le quatrième dysfonctionnement est l'évitement des responsabilités. Lencioni définit la responsabilité de manière précise : la volonté des membres de l'équipe de se rappeler mutuellement leurs engagements et leurs comportements qui pourraient nuire à l'équipe. Il insiste sur le fait qu'il s'agit d'une responsabilité entre pairs, et non seulement d'une responsabilité vis-à-vis du chef.
+
+Cette précision est importante. Dans beaucoup d'organisations, seul le manager rappelle les engagements. Les membres de l'équipe considèrent que ce n'est pas leur rôle de dire à un collègue qu'il ne tient pas ses promesses. Lencioni affirme au contraire que, dans une équipe performante, la pression des pairs est le moyen le plus efficace et le plus rapide de maintenir des standards élevés. Les gens craignent davantage de décevoir leurs collègues que de décevoir leur chef.
+
+Il explique pourquoi la responsabilité entre pairs est difficile. Rappeler ses engagements à un collègue est inconfortable. On craint de dégrader la relation, de paraître arrogant ou d'être soi-même critiqué en retour. On préfère donc éviter la confrontation. Lencioni souligne un paradoxe : c'est souvent dans les équipes les plus soudées, où les membres sont amis, que la responsabilité est la plus difficile, car personne ne veut abîmer une amitié.
+
+Il affirme pourtant que l'évitement des responsabilités dégrade les relations davantage que la confrontation. Lorsqu'un membre de l'équipe ne tient pas ses engagements et que personne ne dit rien, les autres finissent par lui en vouloir. Le ressentiment s'accumule et les relations se détériorent.
+
+Le lien avec le niveau précédent est clair : on ne peut pas tenir les autres responsables d'un engagement qui n'a jamais été clairement pris. Si les décisions sont floues, chacun peut prétendre avoir compris autre chose.
+
+Les signes d'une équipe qui évite les responsabilités :
+
+- Ressentiment envers les collègues qui n'ont pas les mêmes standards.
+- Médiocrité encouragée par l'absence de remarques.
+- Échéances et livrables manqués sans conséquence.
+- Le leader devient la seule source de discipline.
+
+> À retenir | Dans une équipe performante, ce sont les pairs, et pas seulement le chef, qui rappellent les engagements. Le silence crée plus de ressentiment que la confrontation.
+
+--- Les outils de la responsabilité
+kw: objectifs publics · revues · récompenses
+Lencioni propose plusieurs outils pour développer la responsabilité mutuelle.
+
+**La publication des objectifs et des standards.** Une équipe qui affiche clairement ses objectifs, les responsabilités de chacun et les comportements attendus rend la responsabilité plus facile. Il n'y a plus d'ambiguïté sur ce qui a été promis, et chacun peut voir où en sont les autres.
+
+**Des revues de progrès simples et régulières.** L'équipe se réunit régulièrement pour faire le point sur l'avancement des objectifs. Chacun présente ses résultats devant ses pairs. Lencioni recommande des revues simples et fréquentes, plutôt que des revues complexes et rares. L'objectif n'est pas de juger, mais de rendre visible l'avancement.
+
+**Des récompenses collectives.** Lorsque les récompenses sont liées aux résultats de l'équipe plutôt qu'aux performances individuelles, chacun a intérêt à ce que les autres tiennent leurs engagements. La responsabilité mutuelle devient naturelle. Lencioni ne recommande pas de supprimer les récompenses individuelles, mais d'y ajouter une dimension collective significative.
+
+**L'exercice d'efficacité de l'équipe**, déjà utilisé pour la confiance, peut aussi servir à la responsabilité. Il permet à chaque membre de dire à ses collègues ce qu'il attend d'eux et ce qu'ils pourraient améliorer.
+
+Lencioni précise le rôle du leader. Le leader doit encourager l'équipe à se tenir mutuellement responsable, et ne pas être la seule source de discipline. Mais il doit aussi être prêt à intervenir lorsque l'équipe n'y parvient pas. Si un problème persiste et que les pairs ne le traitent pas, le leader doit le faire. Il montre ainsi que les standards sont réels.
+
+Dans la fable, Kathryn intervient à plusieurs reprises pour faire respecter les engagements, notamment avec le responsable commercial, qui promet beaucoup et tient peu. Progressivement, les autres membres de l'équipe commencent à le faire eux-mêmes.
+
+- Affichez les objectifs et les responsabilités de chacun.
+- Faites des points d'avancement simples et fréquents.
+- Liez une partie significative des récompenses aux résultats collectifs.
+
+--- Quand quelqu'un ne joue pas collectif
+kw: comportements · conversation · départ
+La responsabilité ne concerne pas seulement les résultats et les échéances. Lencioni insiste sur les comportements : la manière dont un membre de l'équipe se conduit en réunion, traite ses collègues ou respecte les règles communes. Ces comportements sont souvent plus difficiles à aborder que les résultats, car ils touchent à la personnalité.
+
+Lencioni explique qu'une équipe doit pouvoir dire à l'un de ses membres que son comportement pose problème : il coupe la parole, critique les autres en leur absence, ne prépare pas les réunions ou ne respecte pas les décisions. Ces remarques sont plus faciles à faire si l'équipe a défini ensemble des comportements attendus. On peut alors se référer à ces règles plutôt qu'à la personne.
+
+Que faire lorsqu'un membre de l'équipe refuse durablement de changer ? La fable apporte une réponse claire. La responsable marketing est la personne la plus talentueuse de l'équipe sur le plan technique. Mais elle refuse les exercices de confiance, critique ses collègues et défend ses idées sans écouter les autres. Kathryn lui parle franchement à plusieurs reprises, lui explique ce qu'elle attend et lui laisse le temps de changer. Lorsque rien ne change, elle lui demande de quitter l'entreprise.
+
+Ce passage du livre est souvent discuté. Il soulève une question difficile : une équipe doit-elle garder une personne brillante mais toxique ? Lencioni répond que non. Une seule personne qui refuse de jouer collectif peut empêcher toute l'équipe de progresser. Les autres membres observent ce qui est toléré, et si un comportement destructeur reste sans conséquence, ils en concluent que les règles ne sont pas réelles.
+
+Il insiste toutefois sur la manière : la décision doit venir après des conversations franches, des attentes claires et une réelle occasion de changer. Elle ne doit jamais être une surprise pour la personne concernée. Et elle doit être traitée avec respect, car la personne n'est pas mauvaise, elle n'est simplement pas adaptée à cette équipe.
+
+> Question clé | Y a-t-il dans votre équipe un comportement que tout le monde subit sans rien dire ? Que comprennent les autres en voyant qu'il est toléré ?
+
+=== L'inattention aux résultats
+--- Ego, statut et silos
+kw: intérêts individuels · service · carrière
+Le cinquième dysfonctionnement, au sommet de la pyramide, est l'inattention aux résultats collectifs. Lencioni définit les résultats de manière large : il ne s'agit pas seulement des résultats financiers, mais de tous les résultats qu'une équipe s'est fixés. Le dysfonctionnement apparaît lorsque les membres de l'équipe placent quelque chose d'autre au-dessus de ces résultats.
+
+Lencioni identifie deux distractions principales. La première est le **statut de l'équipe**. Certaines équipes se contentent d'appartenir à un groupe prestigieux, comme une équipe de direction, sans se soucier vraiment de leurs résultats. Le simple fait d'en faire partie leur suffit. Lencioni observe ce phénomène dans les équipes de direction, mais aussi dans certaines organisations à but non lucratif, où la noblesse de la mission dispense parfois de mesurer les résultats.
+
+La seconde distraction est le **statut individuel** : la carrière, l'ego, la reconnaissance personnelle, ou les intérêts du service que l'on dirige. Lencioni insiste sur ce dernier point. Les membres d'une équipe de direction sont souvent aussi les responsables de services. Ils ont tendance à défendre leur service au détriment de l'entreprise. Le directeur commercial défend les intérêts des commerciaux, le directeur technique ceux des ingénieurs, et personne ne défend l'entreprise dans son ensemble.
+
+Il en résulte un phénomène bien connu : les **silos**. Chaque service optimise ses propres résultats, mais l'entreprise dans son ensemble se dégrade. Les décisions qui seraient bonnes pour l'entreprise mais défavorables à un service ne sont pas prises.
+
+Les signes de ce dysfonctionnement :
+
+- L'équipe stagne ou ne progresse pas.
+- Elle perd ses meilleurs éléments, qui cherchent des environnements plus orientés vers la réussite.
+- Les membres se concentrent sur leur carrière et leurs objectifs personnels.
+- L'équipe est facilement distraite par des sujets secondaires.
+
+Le lien avec le niveau précédent : sans responsabilité mutuelle, rien n'empêche chacun de privilégier ses propres intérêts.
+
+> Question clé | Si l'on demandait aux membres de votre équipe de direction quelle équipe passe en premier, celle qu'ils dirigent ou celle dont ils font partie, que répondraient-ils ?
+
+--- La « première équipe »
+kw: priorité collective · loyauté
+Pour lutter contre l'inattention aux résultats, Lencioni développe une idée qui sera approfondie dans ses livres suivants : celle de la « première équipe ». Pour un membre d'une équipe de direction, la première équipe n'est pas le service qu'il dirige, mais l'équipe de direction elle-même. Sa loyauté principale va à l'équipe dont il fait partie avec ses pairs, et non à celle qu'il manage.
+
+Cette idée est contre-intuitive. Beaucoup de managers considèrent que leur rôle est de défendre leur équipe et de la représenter auprès de la direction. Ils se voient comme des ambassadeurs de leur service. Lencioni affirme que cette attitude, si elle est naturelle, conduit aux silos. Pour qu'une organisation fonctionne, les membres de l'équipe de direction doivent d'abord se sentir responsables des résultats de l'ensemble.
+
+Concrètement, cela signifie que les membres de l'équipe de direction acceptent des décisions défavorables à leur service si elles sont bonnes pour l'organisation. Par exemple, accepter qu'une partie du budget de son service soit réaffectée à un autre service plus prioritaire. Ou soutenir publiquement une décision qu'on a combattue en réunion, même si son service en pâtit.
+
+Dans la fable, Kathryn pose explicitement cette question à son équipe. Elle leur demande de considérer l'équipe de direction comme leur première équipe. Cette demande suscite des résistances, en particulier chez le directeur des opérations, qui voit ses ambitions personnelles menacées. Mais peu à peu, l'équipe accepte cette idée.
+
+Lencioni reconnaît que cette loyauté est difficile à pratiquer. Les managers sont souvent évalués et récompensés sur les résultats de leur service. Ils subissent la pression de leurs collaborateurs, qui attendent d'eux qu'ils les défendent. Pour que la première équipe devienne une réalité, il faut aligner les objectifs, les évaluations et les récompenses sur les résultats collectifs.
+
+- Pour un dirigeant, l'équipe de direction passe avant le service qu'il dirige.
+- Soutenir une décision défavorable à son service est un signe de maturité.
+- Alignez évaluations et récompenses sur les résultats collectifs.
+
+--- Rendre les résultats visibles
+kw: tableau de bord · déclaration publique
+Lencioni propose deux outils principaux pour concentrer l'équipe sur les résultats.
+
+**La déclaration publique des résultats.** Lencioni observe que les équipes qui annoncent publiquement leurs objectifs sont plus engagées pour les atteindre. Lorsqu'on a déclaré devant les autres ce que l'on vise, on se sent davantage obligé de réussir. Il compare cela à un entraîneur sportif qui annonce publiquement son ambition pour la saison : cela mobilise l'équipe et l'oblige à se dépasser.
+
+**Les récompenses fondées sur les résultats.** Lier les récompenses, financières ou non, à l'atteinte des résultats collectifs envoie un message clair sur ce qui compte. Lencioni met en garde contre les récompenses liées à l'effort ou à la présence, qui détournent l'attention des résultats.
+
+Il recommande aussi d'utiliser un **tableau de bord** commun, qui affiche quelques indicateurs clés des résultats de l'équipe. Ce tableau doit être simple, compréhensible par tous et régulièrement mis à jour. Il permet à chacun de voir en permanence où en est l'équipe et ce qui reste à faire.
+
+Le rôle du leader est central. Il doit montrer par son propre comportement que les résultats collectifs passent avant tout. S'il privilégie sa propre image, ses relations avec le conseil d'administration ou ses projets favoris, l'équipe le remarquera et fera de même. Il doit aussi récompenser et reconnaître les comportements qui contribuent aux résultats collectifs, même lorsqu'ils se font au détriment d'un service.
+
+Lencioni souligne que l'attention aux résultats est le but ultime de la pyramide. La confiance, le conflit, l'engagement et la responsabilité ne sont pas des fins en soi. Ils servent à obtenir des résultats. Une équipe qui se fait confiance et qui débat bien, mais qui n'obtient pas de résultats, n'a pas réussi.
+
+Dans la fable, Kathryn affiche un tableau des objectifs principaux de l'entreprise et le revoit avec l'équipe à chaque réunion. Ce tableau devient le point de référence commun.
+
+> À retenir | Quelques résultats collectifs, affichés publiquement et revus à chaque réunion. Tout le reste de la pyramide sert ce sommet.
+
+=== Mettre en pratique
+--- Diagnostic en quinze questions
+kw: questionnaire · score par niveau
+Lencioni propose dans son livre un questionnaire pour évaluer une équipe. En voici une version adaptée. Chaque membre de l'équipe note les affirmations suivantes de 1 (rarement) à 3 (habituellement), de manière anonyme. On calcule ensuite la moyenne par niveau.
+
+**Confiance**
+
+- Les membres de l'équipe reconnaissent leurs faiblesses et leurs erreurs.
+- Ils demandent de l'aide sans hésiter.
+- Ils connaissent la vie personnelle des autres et en parlent facilement.
+
+**Conflit**
+
+- Les débats en réunion sont passionnés et ouverts.
+- Les sujets importants et délicats sont abordés pendant les réunions.
+- Les membres expriment leurs opinions même si cela risque de provoquer un désaccord.
+
+**Engagement**
+
+- Les réunions se terminent avec des décisions claires et précises.
+- Les membres soutiennent les décisions même s'ils étaient en désaccord au départ.
+- Les décisions sont prises à temps, sans attendre d'avoir toutes les informations.
+
+**Responsabilité**
+
+- Les membres se font des remarques sur leurs comportements contre-productifs.
+- Ils se rappellent mutuellement leurs engagements.
+- Les standards de performance sont les mêmes pour tous.
+
+**Résultats**
+
+- Les membres sont prêts à faire des sacrifices pour l'équipe.
+- Ils se concentrent sur les résultats collectifs plutôt que sur leurs intérêts personnels.
+- L'équipe connaît et suit ses objectifs principaux.
+
+**Interprétation.** Pour chaque niveau, une moyenne de 2,5 ou plus indique qu'il n'est probablement pas un problème. Une moyenne entre 1,5 et 2,5 signale un point à surveiller. En dessous de 1,5, le niveau doit être traité en priorité. Commencez toujours par le niveau le plus bas de la pyramide qui pose problème.
+
+> Exercice | Faites remplir ce questionnaire par votre équipe de manière anonyme, puis présentez les résultats et discutez du niveau le plus faible.
+
+--- Plan d'action sur 30 jours
+kw: un niveau par semaine · séminaire
+Voici un plan pour un manager qui souhaite appliquer le modèle avec son équipe.
+
+**Semaine 1 : le diagnostic et la confiance.** Faites remplir le questionnaire de manière anonyme. Partagez les résultats avec l'équipe, sans chercher de coupables. Organisez une séance d'une heure d'histoires personnelles : chacun raconte où il a grandi, son premier emploi et un défi important de son enfance. Commencez par vous-même, en vous montrant sincère.
+
+**Semaine 2 : le conflit.** Lors de la réunion d'équipe, annoncez que vous voulez des débats plus francs. Définissez ensemble les règles du débat. Pendant la réunion, jouez le rôle de « mineur » : cherchez les désaccords enfouis avec des questions directes. Quand un débat devient vif, rappelez qu'il est utile.
+
+**Semaine 3 : l'engagement.** À la fin de chaque réunion, faites l'exercice du message en cascade : chacun dit en une phrase ce qu'il va communiquer à son équipe. Fixez des échéances claires pour les décisions en attente. Prenez une décision rapide sur un sujet secondaire, pour montrer que décider vite n'est pas dangereux.
+
+**Semaine 4 : la responsabilité et les résultats.** Affichez les objectifs de l'équipe et les responsabilités de chacun. Organisez une revue d'avancement courte, où chacun présente ses résultats devant ses pairs. Posez la question de la première équipe : quelle est la priorité de chacun ? Créez un tableau de bord avec trois à cinq indicateurs collectifs.
+
+À la fin du mois, refaites le questionnaire et comparez les résultats. Lencioni prévient que les progrès sont souvent lents, et qu'il peut y avoir des moments de tension, surtout lorsque les conflits enfouis remontent à la surface. C'est normal et même nécessaire.
+
+> À retenir | Un niveau de la pyramide par semaine, en commençant par la confiance. Les tensions qui apparaissent sont le signe que le travail commence.
+
+--- Animer un séminaire d'une journée
+kw: programme · rôles · suites
+Le livre de Lencioni est souvent utilisé comme base d'un séminaire d'équipe. Voici un programme possible pour une journée, inspiré des séminaires décrits dans la fable.
+
+**Préparation.** Une à deux semaines avant, faites remplir le questionnaire de manière anonyme. Demandez aux participants de lire au moins la partie théorique du livre. Choisissez un lieu hors des bureaux, sans interruption. Annoncez clairement l'objectif : améliorer le fonctionnement de l'équipe, et non traiter des sujets opérationnels.
+
+**Matin : la confiance.** Ouvrez la journée en présentant la pyramide et les résultats du questionnaire. Puis lancez l'exercice des histoires personnelles, pendant environ une heure. Commencez vous-même. Ensuite, si l'équipe a déjà un certain niveau de confiance, faites l'exercice d'efficacité : chacun dit à chaque collègue sa contribution la plus importante et un point à améliorer.
+
+**Fin de matinée : le conflit.** Présentez la ligne continue du conflit et demandez à chacun de situer l'équipe. Définissez ensemble les règles du débat. Puis choisissez un sujet réel que l'équipe évite, et débattez-en, avec un « mineur » désigné.
+
+**Après-midi : l'engagement et la responsabilité.** Prenez une décision sur le sujet débattu, ou fixez une échéance. Faites l'exercice du message en cascade. Puis définissez les objectifs collectifs de l'équipe pour le trimestre et les responsabilités de chacun.
+
+**Fin de journée : les résultats.** Construisez un tableau de bord simple de trois à cinq indicateurs. Posez la question de la première équipe. Terminez par un tour de table sur ce que chacun retient et sur un engagement personnel.
+
+**Suites.** Lencioni insiste sur ce point : un séminaire sans suite produit peu d'effets. Prévoyez des points réguliers, par exemple un temps de quinze minutes à chaque réunion d'équipe sur le fonctionnement collectif, et un nouveau séminaire trois à six mois plus tard.
+
+- Préparez par un questionnaire anonyme et un lieu hors des bureaux.
+- Traitez un vrai sujet évité, pas un exercice artificiel.
+- Sans suivi régulier, l'effet d'un séminaire disparaît en quelques semaines.
+
+--- Cas pratique : le comité en silos
+kw: hôpital · services · première équipe
+Le comité de direction d'une clinique privée réunit la directrice générale, le directeur médical, la directrice des soins infirmiers, le directeur financier, la responsable des ressources humaines et le directeur des services techniques. La clinique connaît des difficultés : délais d'attente en hausse, plaintes de patients, tensions entre services et budget en déficit.
+
+**Le diagnostic.** La directrice générale fait passer le questionnaire de manière anonyme. Les résultats montrent une confiance faible, une forte peur du conflit et une inattention aux résultats collectifs. Les réunions sont polies, mais les vrais débats ont lieu en dehors. Chaque directeur défend les intérêts de son service.
+
+**La confiance.** Lors d'un séminaire d'une journée hors de la clinique, la directrice commence par partager une erreur qu'elle a faite l'année précédente et ce qu'elle en a appris. Puis l'équipe fait l'exercice des histoires personnelles. Le directeur médical, réputé distant, raconte qu'il a choisi la médecine après la maladie d'un proche. Les autres le voient autrement.
+
+**Le conflit.** La directrice met sur la table le sujet que tout le monde évite : la répartition des lits entre les services. Le débat est vif. Le directeur médical et la directrice des soins s'opposent fortement. La directrice rappelle que ce débat est exactement ce dont ils ont besoin.
+
+**L'engagement.** Une décision est prise, qui ne satisfait personne entièrement. À la fin de la réunion, l'exercice du message en cascade révèle que deux directeurs ne l'ont pas comprise de la même manière. Ils clarifient immédiatement.
+
+**La responsabilité et les résultats.** L'équipe adopte trois indicateurs communs : délai d'attente, satisfaction des patients et équilibre budgétaire. Elle les revoit à chaque réunion. La directrice demande à chacun de considérer le comité de direction comme sa première équipe. Le directeur financier accepte une réaffectation de budget vers les soins.
+
+> Question de réflexion | Quel est, dans votre équipe, l'équivalent du débat sur la répartition des lits : le sujet que tout le monde évite ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: simplicité · fable · peu de preuves
+Le livre de Lencioni a été largement adopté, mais il a aussi ses limites.
+
+**Un modèle très simplifié.** La pyramide est facile à retenir, mais elle simplifie la réalité. Les dysfonctionnements ne s'enchaînent pas toujours de manière aussi linéaire. Une équipe peut avoir une forte confiance et pourtant ne pas obtenir de résultats, pour des raisons qui n'ont rien à voir avec la dynamique de groupe : une mauvaise stratégie, un marché difficile, des ressources insuffisantes. Le modèle ne prend pas en compte ces facteurs externes.
+
+**Peu de fondements scientifiques.** Lencioni s'appuie sur son expérience de consultant, et non sur des recherches systématiques. Le modèle n'a pas été rigoureusement validé. Certaines recherches académiques sur les équipes, comme celles sur la sécurité psychologique menées par Amy Edmondson, confirment l'importance de la confiance et du droit à l'erreur. Mais d'autres éléments du modèle, comme l'ordre strict des niveaux, ne sont pas démontrés.
+
+**Une fable parfois caricaturale.** Les personnages sont assez stéréotypés et l'intrigue prévisible. Certains lecteurs trouvent le récit trop simple pour leur situation. Il faut le lire comme une illustration, pas comme un modèle de transformation à suivre à la lettre.
+
+**Un focus sur les équipes de direction.** Le livre est surtout pensé pour les équipes de direction. Les principes s'appliquent aux autres équipes, mais certains outils, comme la notion de première équipe, ont moins de sens pour une équipe opérationnelle.
+
+**Les différences culturelles et individuelles.** Le livre accorde peu de place aux différences culturelles dans l'expression du conflit ou de la vulnérabilité. Dans certaines cultures, le désaccord public avec un supérieur est très mal perçu. Il faut adapter les outils, par exemple en utilisant davantage l'écrit ou des échanges en petits groupes.
+
+**Le risque de l'injonction.** Exiger la vulnérabilité ou le conflit peut devenir une pression supplémentaire. Si la confiance n'est pas réellement présente, les exercices peuvent être vécus comme une obligation gênante.
+
+- Le modèle est utile pour la réflexion, mais ne remplace pas une analyse de la stratégie.
+- Adaptez les exercices à la culture de l'équipe et ne forcez pas la vulnérabilité.
+
+--- Liens avec les autres livres
+kw: Scott · Grove · Collins · Covey
+**Avec Radical Candor (Kim Scott).** La franchise radicale est l'outil individuel qui permet de construire les deux premiers niveaux de la pyramide. L'attention personnelle construit la confiance, le défi direct ouvre la porte au conflit productif. Kim Scott ajoute des outils précis pour donner et recevoir du feedback, que Lencioni aborde peu.
+
+**Avec High Output Management (Grove).** Le modèle de décision de Grove, qui associe discussion libre, décision claire et soutien total, correspond exactement aux niveaux du conflit et de l'engagement chez Lencioni. Grove décrit aussi le syndrome du groupe de pairs, qui illustre l'évitement des responsabilités.
+
+**Avec De la performance à l'excellence (Collins).** Collins décrit des équipes de direction capables de débats vigoureux, puis d'un soutien unifié aux décisions. Il insiste sur le fait de mettre les bonnes personnes dans l'équipe et de faire sortir les mauvaises, ce qui rejoint le départ de la responsable marketing dans la fable.
+
+**Avec Les 7 habitudes (Covey).** La pensée gagnant-gagnant et la recherche de synergie chez Covey prolongent la vision de Lencioni d'une équipe tournée vers les résultats collectifs. Le compte bancaire émotionnel de Covey est une bonne image de la confiance qui se construit et se perd.
+
+**Avec Système 1 / Système 2 (Kahneman).** Kahneman explique pourquoi les groupes prennent de mauvaises décisions lorsque personne n'ose contredire : le biais de confirmation et la pensée de groupe. Le conflit productif est une protection contre ces biais.
+
+> Parcours conseillé | Après ce livre, lisez Radical Candor pour les outils de feedback individuel, ou De la performance à l'excellence pour le lien entre équipe et stratégie.

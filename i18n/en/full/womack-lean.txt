@@ -1,0 +1,430 @@
+=== Context and thesis
+--- The authors and the origin of the word
+kw: MIT · automotive · 1990
+James Womack and Daniel Jones are two researchers, one American, the other British. In the late 1980s, together with Daniel Roos, they led a large MIT research program on the global car industry. For five years, an international team compared dozens of assembly plants in North America, Europe and Japan.
+
+The results, published in 1990 in *The Machine That Changed the World*, struck the industry. The best Japanese plants, led by Toyota, assembled a car with far fewer hours of labor, far fewer defects, far less inventory and far less space than most Western plants. They also developed new models faster and with smaller teams.
+
+To name this system, the team adopted a word suggested by one of its researchers, John Krafcik: **lean**. The word meant doing more with less: less effort, less equipment, less time and less space, while coming closer to what customers want.
+
+The first book described what made Toyota different. But many readers asked the authors the same question: how do we actually do this in our own company? *Lean Thinking*, published in 1996, is their answer. In it they sum up lean thinking in five principles, then tell how American, German and Japanese companies applied them, with successes and difficulties.
+
+> À retenir | The word “lean” comes from an MIT comparative study of the car industry. This book turns it into a method any company can apply.
+
+--- The enemy: muda
+kw: waste · everywhere · antidote
+The book opens with a Japanese word: *muda*, which means waste. The authors define it as any human activity that consumes resources without creating value. They take up the list of seven wastes identified by Taiichi Ohno at Toyota: mistakes that must be corrected, production of items nobody wants, unnecessary processing steps, unnecessary movement of people, unnecessary transport of goods, waiting, and goods or services that do not meet the customer's needs. They add an eighth: designing products or services that do not match what customers want.
+
+Womack and Jones assert that muda is everywhere. When you look closely at any activity, you find that most of the time and effort creates no value for the customer. They propose distinguishing three types of activity:
+
+- **Those that create value**: the customer would be willing to pay for them.
+- **Those that create no value but are unavoidable today** with current technologies and equipment. The authors call this type 1 muda. It cannot be eliminated right away, but it can be reduced.
+- **Those that create no value and can be eliminated immediately.** This is type 2 muda.
+
+Lean is presented as the antidote to muda. But the authors insist that it is not just about cutting costs. Lean thinking is a way of thinking that makes it possible to specify value, line up value-creating actions in the best sequence, carry them out without interruption whenever someone requests them, and do so more and more effectively. That sentence already sums up the book's five principles.
+
+> Exercice | Take one task from your week and classify each step: value for the customer, waste that is unavoidable for now, waste to eliminate.
+
+--- Five principles at a glance
+kw: value · stream · flow · pull · perfection
+The heart of the book comes down to five principles that follow one another in a logical order.
+
+- **1. Specify value**, from the end customer's point of view, for a specific product, at a specific price and at a specific time.
+- **2. Identify the value stream**, that is, all the actions needed to bring that product from concept to launch, from order to delivery, and from raw material to the customer. Then eliminate the unnecessary steps.
+- **3. Make value flow**, meaning the remaining steps follow one another without interruption, without batches, without waiting.
+- **4. Let the customer pull**, meaning produce only what the customer asks for, when they ask for it, rather than pushing products toward them.
+- **5. Pursue perfection**, because once the first four principles are applied, new waste appears and improvement can continue without end.
+
+The authors explain that these principles reinforce one another. When flow speeds up, hidden waste becomes visible. When the customer pulls, new obstacles to flow come to light. When value is specified better, new unnecessary steps are uncovered. The circle is a virtuous one.
+
+They stress that the order matters. Many companies start with the third principle, installing flow lines or kanbans, without having clearly defined value for the customer or mapped the stream. They then improve the efficiency of activities that perhaps should not exist at all.
+
+> À retenir | Value, value stream, flow, pull, perfection. In that order, and in a loop.
+
+--- More satisfying work
+kw: flow · Csikszentmihalyi · motivation
+Womack and Jones defend an idea that often surprises people: lean does not only make companies more efficient, it can also make work more satisfying.
+
+They draw on the work of psychologist Mihaly Csikszentmihalyi on optimal experience, which he calls *flow*. Csikszentmihalyi showed that people have their most satisfying moments when they are fully absorbed in an activity that has a clear goal, gives them immediate feedback on what they are doing, demands total concentration and matches their skills, without overwhelming or boring them.
+
+The authors observe that work in a traditional organization rarely meets these conditions. An employee who handles one piece of a file before passing it on to the next department never sees the final result of their work. They get no immediate feedback. They are often interrupted by emergencies. In a plant organized by batches, an operator produces parts without knowing what they will be used for or when.
+
+In a flow organization, by contrast, a small team follows a product or an order from start to finish. It sees the result of its work. Problems are flagged and dealt with immediately, which provides constant feedback. The pace is clear, set by takt time. Tasks are standardized, which reduces interruptions and uncertainty.
+
+The authors acknowledge that this vision has limits. Flow work can be more intense, and the disappearance of inventory can create pressure. They therefore stress the importance of how work is designed and of employees taking part in improving it. A well-designed lean organization, in their view, brings daily work closer to the conditions of engagement and concentration.
+
+This idea echoes other research in work psychology: people are more motivated when they see the whole of what they produce, receive feedback on their results and have some control over how they work.
+
+> Question clé | Do the people on your team see the final result of their work, and do they get quick feedback on what they do?
+
+=== Principle 1: value
+--- Value as the customer sees it
+kw: end customer · product · price · time
+The first principle seems obvious: specify value. But Womack and Jones show that it is often neglected. Value can only be defined by the end customer. It only makes sense for a specific product, good or service, that meets a specific need, at a specific price and at a specific time.
+
+Yet in most companies, value is defined by other considerations. Engineers want technically sophisticated products. Finance people want to maximize the use of expensive equipment. Sales departments want very broad product ranges. Each defines value according to their own profession, and the end customer ends up with products that do not really meet their needs.
+
+The authors describe several traps. In some countries, notably Germany, companies tend to define value by technical perfection, adding complex features that customers do not use. In the United States, pressure from financial markets pushes companies to define value by the quarterly result. In Japan, the priority given to employment and local production can lead to producing where it does not serve the customer.
+
+They give the example of air travel. What the traveler wants is to get from home to their destination quickly, safely and without hassle. Yet the air system of the time, organized around large hub airports, forced travelers to go to big airports, wait, change planes and go through multiple checks. Each player, airline, airport, agency, optimized its own activity. Nobody looked at the journey from the traveler's point of view.
+
+> Question clé | Who defines the value of what your team produces today: the end customer, or your own internal constraints?
+
+--- Rethinking value
+kw: whole product · product team · target cost
+To specify value correctly, Womack and Jones propose several practices.
+
+**Start from the customer, not from what exists.** You need to ask what the customer is really trying to accomplish, rather than improving the current product. Sometimes the answer leads to offering a very different product, or a service instead of a product.
+
+**Think about the whole product.** The customer does not only want a machine, but also its delivery, installation, maintenance and financing. Companies organized into isolated functions struggle to see the product as a whole.
+
+**Give each product to a dedicated team.** The authors recommend structuring the company by product families, each under the responsibility of a team that follows the product from end to end, rather than by functional departments.
+
+**Set a target cost.** Once value is defined, the company should ask how much the product would cost if all the waste visible with current technologies were eliminated. This target cost becomes a goal for the team. It differs from the traditional logic, which starts from existing costs and adds a margin to set the price.
+
+The authors acknowledge that redefining value is often the hardest part, because it challenges habits, investments and professional identities. But it is also the part that opens up the largest gains. A company that very efficiently produces something the customer does not want creates nothing but muda, however well organized.
+
+- Start from what the customer wants to accomplish.
+- Think about the whole product, service included.
+- One team per product family, one target cost.
+
+=== Principle 2: the value stream
+--- Seeing the whole stream
+kw: concept · order · material · customer
+The second principle consists of identifying the value stream for each product, that is, all the actions needed to bring it to the customer.
+
+Womack and Jones distinguish three streams for every product. The **design** stream, which goes from idea to production launch, through design and engineering. The **information** stream, which goes from order taking to delivery, through scheduling. And the **physical transformation** stream, which goes from raw material to the finished product in the customer's hands.
+
+Their thesis is that almost nobody looks at these streams as a whole. Each company, and within each company each department, sees only its own part. The raw material supplier, the component maker, the assembler, the distributor and the retailer each optimize their own link, often at the expense of the others. The result is a stream full of inventory, waiting, transport and duplication.
+
+Value stream analysis reveals the three types of activity already described: those that create value, those that do not but are unavoidable today, and those that do not and can be eliminated. The authors assert that in most streams, this last category is considerable.
+
+Here they introduce the idea of the **lean enterprise**: a group of companies, from raw material supplier to retailer, that agree to look together at a product's value stream, share information and coordinate their actions. This requires an unusual level of trust and transparency between companies that often see themselves as adversaries in price negotiations.
+
+> À retenir | Every product has three streams: design, information, transformation. Almost nobody looks at them in full.
+
+--- The soda can
+kw: 319 days · 3 hours · inventory
+The book's most famous example is a can of soda sold in a British supermarket. Daniel Jones and his colleagues traced the entire value stream of this can, from the mining of bauxite ore to the consumer's refrigerator.
+
+The journey is astonishing. The ore is mined in Australia, refined into alumina, then smelted into aluminum, often in another country. The aluminum is rolled into thick sheets, then thin sheets, in several successive plants. The sheets are shipped to the can-making plant, which cuts, forms, prints and stores them. The empty cans are sent to the bottler, which fills them. They then pass through the distributor's warehouses, then the store, before reaching the customer.
+
+The figures presented by the authors show the scale of the problem. From ore to consumer, the total journey takes on the order of three hundred days. The time during which the product is actually being transformed amounts to only a few hours. The rest of the time, the material waits: in inventory at each step, in transit between plants, in warehouses. A large share of the aluminum is also scrapped at various stages and remelted.
+
+Each player, taken in isolation, is efficient. The machines are fast and well utilized. But nobody looks at the stream as a whole, and nobody asks why a can has to travel so far and wait so long. The authors suggest that a different organization, with smaller facilities located closer to one another and production matched to actual consumption, could sharply reduce lead times, inventory and costs.
+
+> Exercice | Trace the value stream of a simple product in your business, from the first supplier to the end customer. How many days in total, and how many hours of actual work?
+
+--- Mapping in order to act
+kw: product family · three tasks · map
+Womack and Jones give some practical guidance for identifying a value stream. This guidance would be developed two years later in the workbook *Learning to See*, published by the Lean Enterprise Institute they founded.
+
+**Choose a product family.** You do not map the whole company at once. You pick a group of products that go through similar steps and follow their path.
+
+**Follow the product, not the org chart.** You need to walk along the product's actual path, starting from the customer and working back toward the suppliers. At each step, note what happens, how long it takes, how many products are waiting and how many people are involved.
+
+**Distinguish the three management tasks.** The authors point out that every value stream combines three tasks: problem solving, from design to launch; information management, from order to delivery; and physical transformation, from raw material to finished product. A complete map must show information flows as well as physical flows. Many delays in fact come from how information moves, not from the machines.
+
+**Put numbers on it.** For each step, measure the actual processing time and the waiting time. The ratio between the two reveals the extent of the waste.
+
+**Draw the future stream.** Once the current stream is understood, draw an ideal stream without the unnecessary steps, then decide on actions to move toward it.
+
+The authors stress the collective nature of this exercise. The mapping should be done together by the people who manage the different steps. It is often the first time they see the product's complete path. This shared discovery creates common understanding and motivation to act.
+
+They note that the map can then be extended beyond the company, toward suppliers and distributors, which often reveals the largest wastes.
+
+- One product family at a time.
+- Walk the actual path, from the customer upstream.
+- Information flows matter as much as physical flows.
+
+=== Principle 3: flow
+--- Breaking batch thinking
+kw: departments · queues
+The third principle is to make value flow: once value is defined and unnecessary steps eliminated, the remaining steps must follow one another without interruption.
+
+Womack and Jones acknowledge that this is counterintuitive. We have all learned to think in terms of functions and departments. It seems natural to group similar activities together, all the presses in one shop, all the painting in another, all the accountants in one department, and to process work in batches. Making many identical parts at once seems more efficient than constantly changing setups.
+
+The authors show that this intuition is misleading. Batches create queues at every step. A product spends most of its time waiting for the previous batch to finish, then for its own batch to be moved, then for the next machine to become available. Defects are discovered late, when a whole batch has already been produced. And organizing by departments means products must be carried from one end of the plant to the other.
+
+They tell how Taiichi Ohno challenged this logic at Toyota by learning to change press dies quickly. While Western carmakers took several hours to change a die and therefore produced very large runs, Toyota cut that time to a few minutes, which made it possible to produce small quantities of many different parts.
+
+The authors also give the example of bicycle manufacturing. In a traditional plant, frames are welded in batches in one shop, painted in batches in another, then stored before final assembly. In a flow organization, a small cell carries out all the steps for one bike at a time, at the pace of orders. Manufacturing time drops from several weeks to a few hours.
+
+> À retenir | Batches seem efficient for each machine, but they lengthen everything for the product. Flow does the opposite.
+
+--- Setting up flow
+kw: takt · cells · right-sized machines
+To create flow, Womack and Jones describe several techniques.
+
+**Focus on the product, not on departments.** You need to follow a product or an order from end to end and remove every obstacle that keeps it from moving forward.
+
+**Define takt time.** This word of German origin refers to the pace at which the customer buys. It is obtained by dividing available working time by the number of products demanded. If customers buy 480 products per 480-minute working day, takt is one minute: one product must be made every minute, no faster and no slower. Takt serves as the metronome for the whole process.
+
+**Organize into cells.** Rather than specialized shops, you group in a small area all the machines and people needed for a product family. The steps are placed next to one another, often in a U shape, so that products pass directly from one to the next.
+
+**Reduce changeover times.** To produce small quantities, you must be able to switch quickly from one product to another.
+
+**Choose machines suited to flow.** The authors criticize “monuments”: large, very expensive, very fast machines that impose big batches and force all products to come to them. They recommend smaller, simpler, more flexible machines that can be placed in cells.
+
+**Make it reliable.** Flow without buffer stock does not tolerate breakdowns. Preventive maintenance, standardized work and quality at the source become essential.
+
+The authors point out that flow also applies to administrative work and design. Processing an order or a file can be organized as a flow, with a small team handling it from end to end, rather than passing it from department to department.
+
+- Takt sets the customer's pace.
+- Cells rather than specialized shops.
+- Simple, flexible machines rather than “monuments.”
+
+--- Flow in product development
+kw: dedicated teams · lead times cut · decisions
+Womack and Jones also apply the flow principle to new product development. They observe that in most companies, design follows the same pattern as batch production: the project moves from one department to another, marketing, design, engineering, industrialization, purchasing, each working on its own, then handing its documents to the next. Each handoff causes waiting, misunderstandings and rework.
+
+The result is familiar: projects that last for years, go over budget and, by the time they launch, no longer quite match market needs.
+
+The authors describe the alternative practiced by lean companies. Each project is given to a **dedicated team** that brings together all the necessary skills from the start and stays stable from beginning to end. It is led by a strong project leader responsible for the product as a whole, what Toyota calls the chief engineer. Team members work together, often in the same space, and make decisions quickly without waiting for committees.
+
+They also describe the importance of **dealing with problems early**. In traditional development, manufacturing difficulties are discovered late, when the drawings are finished, and fixing them is very expensive. In an integrated team, production people take part from the start and flag difficulties before they are frozen into the drawings.
+
+Finally, they recommend **reducing queues** in development. An engineer working on ten projects at once keeps each of them waiting. Better to run fewer projects in parallel and complete them faster.
+
+The authors report that companies adopting this organization sharply cut their development lead times, often by half or more, while improving quality. This idea was later taken up in software development by agile methods, which emphasize cross-functional teams, small batches of work and limits on work in progress.
+
+> À retenir | A project passed from department to department piles up waiting. A dedicated, stable team moves it forward in flow.
+
+=== Principle 4: pull
+--- Make what the customer asks for
+kw: pull · short lead times · forecasts
+The fourth principle is to let the customer pull production. In practice, this means nobody upstream should produce a good or service until someone downstream has asked for it.
+
+Womack and Jones explain that this principle becomes possible thanks to flow. When a company takes several months to make something, it has to produce from forecasts, and therefore hold inventory. When it can make it in a few days, or a few hours, it can wait for the customer's actual order. The manufacturing lead time becomes shorter than the time the customer is willing to wait.
+
+This change has profound consequences. Forecasts, which are always wrong, lose their importance. Inventory falls. Sales, clearances and unsold goods largely disappear. And demand becomes more stable, because the artificial swings created by inventory and promotions die down.
+
+The authors describe a phenomenon well known in supply chains: the amplification of demand swings as you move up the chain. A small rise in demand at the retailer leads to a larger order at the distributor, which orders even more from the manufacturer, which orders even more from its suppliers. Each link builds safety stock. Pull, by passing on actual consumption information directly, sharply reduces this amplification.
+
+They give the example of automotive spare parts. In traditional systems, distributors held huge quantities of parts, often for months, and yet lacked the ones customers needed. By reorganizing replenishment around actual consumption and shortening lead times, Toyota was able to cut inventory while improving availability.
+
+> À retenir | When you produce quickly, you can wait for the order. Forecasts and inventory then lose their importance.
+
+--- The tools of pull
+kw: kanban · supermarket · replenishment
+To set up pull, Womack and Jones describe several mechanisms drawn from the Toyota system.
+
+**Kanban.** This is a signal, often a card, that authorizes the production or transport of a specific quantity of parts. When a step uses up a container of parts, the associated card goes back to the previous step, which produces enough to replace it. No card, no production. The number of cards in circulation sets the maximum inventory level.
+
+**The supermarket.** Between two steps that cannot yet be linked by continuous flow, you place a small controlled stock, from which the downstream step takes what it needs and which the upstream step replenishes. As in a supermarket, you only replace what has been taken.
+
+**Frequent replenishment in small quantities.** Rather than delivering large quantities rarely, you deliver small quantities often, which reduces inventory and makes the system more responsive.
+
+**Leveling.** For pull to work, you must avoid surges. The authors take up the idea of leveling orders in volume and variety.
+
+The authors stress that pull changes the relationship with suppliers. Instead of receiving uncertain forecasts and large orders, suppliers receive regular consumption signals. They can then organize their own production as a flow. Pull spreads step by step along the value stream.
+
+They warn against a common mistake: installing kanbans without first creating flow and reducing lead times. Kanban then becomes just another inventory system, with enormous quantities.
+
+- Kanban: no signal, no production.
+- The supermarket: a small controlled stock between two steps.
+- Flow first, kanban second.
+
+=== Principle 5: perfection
+--- Endless improvement
+kw: kaizen · kaikaku · transparency
+The fifth principle is the pursuit of perfection. Womack and Jones explain that when an organization starts applying the first four principles, it discovers that the improvement process has no end. Every time flow speeds up, new waste appears. Every time inventory is reduced, new problems emerge.
+
+The authors distinguish two ways of making progress. **Kaizen**, continuous improvement in small steps, carried out by teams day to day. And **kaikaku**, radical improvement, which consists of completely rethinking a process in a short time. They believe both are needed: kaikaku makes it possible to take major steps, such as moving from batch organization to flow, and kaizen then keeps improving the new system.
+
+They describe a practice widely used by the Japanese consultants they observed: intensive workshops lasting a few days, during which a team analyzes a process, physically reorganizes it, moves machines and tests the new way of working. These workshops, often called “kaizen blitz” or rapid improvement events, produce quick and spectacular results.
+
+The authors also insist on **transparency**. When everyone, operators, suppliers, distributors, customers, can see the whole value stream, it becomes easier to spot waste and propose improvements. Perfection is not an attainable goal, but a direction that guides effort.
+
+Finally, they suggest thinking in terms of a “vision of perfection”: imagine what the ideal value stream would look like, with no waste at all, then choose the two or three most important steps to move closer to it in the coming year.
+
+> À retenir | Kaikaku makes the big leap, kaizen brings progress every day. Perfection is a direction, not a destination.
+
+--- Policy deployment
+kw: hoshin kanri · few priorities · alignment
+To move toward perfection in an organized way, Womack and Jones describe a management practice borrowed from Japanese companies: **policy deployment**, in Japanese *hoshin kanri*.
+
+The problem it solves is familiar. In many companies, each department launches its own improvement projects, often many of them, sometimes contradictory. Resources are scattered, projects do not get finished, and nobody really knows what the priorities are.
+
+Policy deployment works in several stages. Senior management first defines a long-term vision and a few priority goals for the year, rarely more than three or four. It identifies the most important projects for reaching those goals. It then cascades these goals to every level of the organization, discussing with each team what it can do and what resources it needs. This two-way dialogue, which the Japanese sometimes call “catchball,” makes it possible to adjust the goals to the reality on the ground.
+
+The authors highlight two rules. First, **choose few priorities**: better to complete a few major projects than to launch dozens. Second, **explicitly drop** some projects to free up resources. Many organizations keep adding without ever removing.
+
+Policy deployment also includes regular follow-up. Each month, teams compare their results with the goals and analyze the gaps. At year end, a review makes it possible to adjust the vision and choose the next priorities.
+
+For Womack and Jones, this practice turns the pursuit of perfection into a concrete process. It keeps continuous improvement from becoming scattered busyness and directs it toward the issues that really matter for customers and the company.
+
+- A long-term vision, a few annual goals.
+- A two-way dialogue to adjust.
+- Stop some projects to succeed at others.
+
+=== Companies in transformation
+--- Lantech and Wiremold
+kw: SMEs · from batch to flow · growth
+The second part of the book tells the story of several companies' transformations. The authors chose varied cases, with their successes and difficulties.
+
+**Lantech** is a family-owned American company in Kentucky that makes machines for wrapping pallets in plastic film. Its founder, Pat Lancaster, had found success thanks to an invention, but in the early 1990s the company faced competition from imitators and its delivery lead times were long. With the help of consultants trained at Toyota, Lantech transformed its function-based shops into production cells, each dedicated to a family of machines. The authors describe a sharp reduction in manufacturing time, inventory and defects, and a clear improvement in productivity. Lantech also applied lean principles to order taking and design.
+
+**Wiremold** is a Connecticut company that makes electrical raceways and accessories. When Art Byrne became its CEO in 1991, he launched a deep transformation based on rapid improvement events run continuously. The authors describe a company whose sales rose sharply, whose inventory fell sharply and which freed up a great deal of space, with no layoffs resulting from productivity gains. The people freed up by improvements were reassigned to growth. Art Byrne became one of the most cited leaders of the lean movement.
+
+These two cases illustrate several lessons: the importance of a committed leader, the need to bring in people with real experience of the Toyota system, and the fact that productivity gains should be used to grow rather than to lay people off.
+
+- Small and mid-sized companies can become lean, not just large groups.
+- A committed leader and an experienced expert are decisive.
+- Gains should fund growth, not layoffs.
+
+--- Porsche and Pratt & Whitney
+kw: crisis · engineering · monuments
+The authors also tell of more difficult transformations.
+
+**Porsche**, in the early 1990s, went through a severe crisis. Its sales collapsed, its costs were high and the company was under threat. Its culture was one of technical excellence: passionate engineers, sophisticated products, highly skilled workers who corrected defects at the end of the line. The new CEO, Wendelin Wiedeking, brought in Japanese consultants. The authors describe a transformation marked by culture shocks, but one that allowed Porsche to sharply reduce its lead times, inventory and defects, and to return to profitability.
+
+The authors use this case to discuss the difficulties specific to German industry. Technical pride, job specialization and the tradition of end-of-line rework make it hard to accept the logic of flow and quality at the source. Waste there often takes the form of technical perfection that the customer does not ask for.
+
+**Pratt & Whitney**, the American aircraft engine maker, illustrates another kind of difficulty. The company used enormous, expensive machines designed for large runs, while demand for engines was low and irregular. The authors describe how the company began to rethink its facilities, favoring simpler equipment organized in flow, and sharply shortening its lead times.
+
+The authors also study Japanese companies, such as the component maker Showa, to show that even in Japan not every company is lean, and that transformation requires considerable effort.
+
+> Question clé | In your organization, what local form does waste take: technical perfectionism, quarterly pressure, or something else?
+
+--- Lessons from transformations
+kw: common points · resistance · pace
+Comparing the American, German and Japanese companies they studied, Womack and Jones identify several common points.
+
+**A trigger.** Almost every transformation began at a moment of crisis: falling sales, losses, a competitive threat. The crisis made a deep rethink acceptable.
+
+**A leader who gets personally involved.** Successful transformations were driven by leaders who were present on the shop floor, took part in improvement events themselves and understood processes in detail.
+
+**An experienced teacher.** Most companies brought in people trained in Toyota's orbit, who showed concretely what flow was, often by moving the machines themselves on the very first day.
+
+**Predictable resistance.** The authors describe the opposition encountered: managers attached to their departments, engineers proud of their big machines, controllers worried about seeing inventory fall, wary unions. Several leaders had to replace managers who refused the approach. The authors do not hide this, but they note that most frontline employees quickly come on board when they see their work simplified.
+
+**Progress in waves.** Companies do not transform everything at once. They start with one value stream, learn from it, then move on to the next. Each wave goes a little further.
+
+**Gains that exceed expectations.** The authors report large reductions in lead times, inventory and defects in almost every case, and note that the biggest gains often come after several years, once the culture has changed.
+
+They conclude that lean is not reserved for one country, culture or industry. The obstacles are mainly habits of thought, which can change with determination and time.
+
+> À retenir | A crisis, a leader on the shop floor, an experienced teacher, then successive waves. The obstacles are mainly habits.
+
+=== The transformation journey
+--- The step-by-step action plan
+kw: change agent · lever · mapping
+Womack and Jones propose a sequence of steps for launching a lean transformation, drawn from the cases studied.
+
+**Find a change agent.** You need a determined person, often the CEO or someone they strongly support, ready to take responsibility for the transformation and face resistance.
+
+**Get the knowledge.** Lean thinking cannot be invented. You need to rely on people who have practiced it, often veterans of Toyota or its suppliers.
+
+**Find a lever.** A crisis is often the best trigger, because it forces habits to be questioned. Without a crisis, you need to create a sense of one, for example by showing the gaps with the best competitors.
+
+**Map the value streams.** For each product family, represent the current stream and identify the waste.
+
+**Start quickly and strike hard.** The authors recommend making visible changes quickly, through kaikaku events, rather than spending months training and planning. Concrete results are more convincing than presentations.
+
+**Demand immediate results.** The first events should produce measurable gains within days or weeks.
+
+**Expand gradually.** Once the first successes are achieved, extend the approach to other value streams, then to suppliers and customers.
+
+The authors estimate that a complete transformation takes about five years. The first months produce quick gains, but it then takes several years to change the organization, management systems and culture.
+
+- A change agent, expertise, a lever.
+- Act quickly and visibly rather than training at length.
+- Allow about five years for a complete transformation.
+
+--- Reorganizing the company
+kw: product families · jobs · accounting
+The authors explain that after the first improvement events, a lean company must change its deeper organization.
+
+**Organize by product families.** Functional departments give way to teams responsible for a product family from end to end. Support functions, such as quality, maintenance or purchasing, are partly integrated into these teams.
+
+**Address the question of jobs.** Productivity gains free up people. The authors strongly recommend guaranteeing that nobody will lose their job because of improvements. If necessary, reduce headcount once, at the start, to fit the company to its level of activity, then guarantee jobs from then on. Otherwise, employees have no reason to contribute to improvements.
+
+**Adapt the accounting.** Traditional accounting systems often reward large runs and maximum machine utilization, and value inventory as an asset. They can make it look as though reducing inventory hurts results. The authors recommend simplifying accounting and making it readable by product family.
+
+**Train everyone.** Employees at every level must understand lean principles and know how to apply them.
+
+**Make information transparent.** Each team's results, problems and progress should be visible to all.
+
+**Extend to partners.** Finally, the company must bring its suppliers and distributors along, to build a lean enterprise across the whole value stream.
+
+> À retenir | Without job security, no continuous improvement. Without suitable accounting, progress seems to cost money.
+
+--- Lean beyond the factory
+kw: services · healthcare · offices
+The book deals mainly with manufacturing companies, but the authors assert that lean thinking applies to any activity that creates value for a customer. In later editions and later books, Womack and Jones developed this idea, notably in *Lean Solutions*, devoted to consumption and services.
+
+In service activities, the value stream is often made of information rather than materials. But the same wastes appear: files waiting in in-trays, information entered several times, multiple approvals, errors that must be corrected, back-and-forth between departments. The actual processing time for a request is often tiny compared with the total lead time.
+
+In hospitals, lean-inspired approaches have been used to reduce patient waiting times, better organize operating rooms and reduce errors. In public administrations, to shorten the processing of applications. In software development, agile methods and the *lean startup* movement took up several ideas, such as small batches, flow and putting what the customer wants first.
+
+The authors insist on one condition: the transfer must not be limited to tools. A kanban board in an office does not make an organization lean. You must first understand value for the customer, then the value stream, and only then apply flow techniques.
+
+- The same wastes exist in offices and services.
+- Information moves in batches, just like parts.
+- Start with value, not with tools.
+
+=== Put it into practice
+--- 30-day action plan
+kw: week by week · one value stream
+**Week 1: define value.** Choose a product or service your team provides. Ask three customers, internal or external, what they are really trying to accomplish. Note the gaps between what they expect and what you deliver.
+
+**Week 2: map the stream.** Follow this product or service from request to delivery. Draw each step on a large sheet. For each one, note the actual working time and the waiting time. Classify the steps into three categories: value, unavoidable waste, removable waste.
+
+**Week 3: create flow.** Remove one or two unnecessary steps. Reduce a batch size: handle requests one at a time rather than in bundles. Calculate the pace of demand, your takt, and compare it with your actual capacity.
+
+**Week 4: pull and improve.** Identify an activity you carry out in advance, based on forecasts, and try triggering it only on demand. Measure the total lead time again. Hold a short meeting with the team to choose the next improvement.
+
+The authors remind us to start quickly, on a limited scope, and aim for visible results. A concrete demonstration is worth more than presentations.
+
+> À retenir | Value, stream, flow, pull, perfection: in one month, you can apply each principle once to a small value stream.
+
+--- Case study: the purchasing department
+kw: administrative · lead times · purchase orders
+In a mid-sized company, purchase requests from internal departments take an average of three weeks to become an order with a supplier. Departments complain, and many get around the procedure. Sophie, the purchasing manager, decides to apply lean principles.
+
+**Value.** She asks the requesters. What they want is to receive the right item quickly, at the right price, without needless formalities. For small routine purchases, the exact price matters less than the lead time.
+
+**The value stream.** She follows about twenty requests. Each request goes through five people: the requester, their manager, financial control, the buyer and the purchasing director. The actual work amounts to about an hour. The rest of the time, the request sits waiting in inboxes.
+
+**Flow.** Approvals used to be done in batches, once a week. Sophie gets them done every day. For low-value purchases, a single approval is now enough.
+
+**Pull.** For routine supplies, she sets up a catalog with negotiated prices, from which departments order directly, and automatic replenishment for consumables.
+
+**Perfection.** Each month, the team examines the slowest requests and looks for the cause.
+
+Six months later, the average lead time has fallen to a few days, and workarounds have almost disappeared.
+
+> Question de réflexion | In your work, how many people approve a simple request? Do all those approvals create value?
+
+=== Critical view and links
+--- Limits of the book
+kw: tools · jobs · enthusiasm
+*Lean Thinking* has had considerable influence, but it has several limits.
+
+**A risk of reduction to tools.** The clarity of the five principles made them easy to spread, but it also encouraged tool-centered approaches: maps, kanbans, rapid improvement events. Liker and Rother criticized many lean initiatives for neglecting the cultural dimension and people development, which Womack and Jones address in less depth.
+
+**Lean as headcount reduction.** Despite the authors' warnings, many companies used lean to cut staff. The word itself, which suggests thinness, encouraged this interpretation. In some countries, lean acquired a bad reputation among employees and unions, who see it as an intensification of work.
+
+**A militant tone.** The book is written with enthusiasm, sometimes with the tone of a convert. The difficulties, failures and human costs of transformations are described, but less developed than the successes.
+
+**Selected cases.** The companies presented were chosen to illustrate the method. We do not know how many similar transformations failed. Later studies show that many lean initiatives run out of steam after a few years.
+
+**Particular conditions.** Flow and pull suit repetitive production well. For highly variable, highly creative or very low-volume activities, applying them is trickier.
+
+- The method is clear, but culture is covered less.
+- Lean has sometimes served as a pretext for job cuts.
+
+--- Links with other books
+kw: Liker · Ohno · Rother and Shook · Goldratt
+**With The Toyota Way (Liker).** Womack and Jones formulated the principles; Liker went deeper into the philosophy, culture and people development that make them last. Reading both gives a complete picture.
+
+**With Toyota Production System (Ohno).** Ohno's book is the original source. In it you find muda, flow, just-in-time and kanban, expressed by the man who invented them.
+
+**With Learning to See (Rother and Shook).** This practical workbook teaches value stream mapping, the central tool of the second principle. It was published in the wake of *Lean Thinking* by the Lean Enterprise Institute founded by Womack.
+
+**With The Goal (Goldratt).** Goldratt offers another approach to improving flow, based on managing constraints. The two approaches converge on several points: criticism of local optimization, the importance of flow and distrust of traditional accounting measures.
+
+**With The Innovator's Dilemma (Christensen).** The first principle, starting from value for the customer, echoes Christensen's idea that you must understand the “job” the customer is trying to get done.
+
+> Parcours conseillé | Next, read Learning to See to map a value stream, then The Toyota Way for the human dimension.

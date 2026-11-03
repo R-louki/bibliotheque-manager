@@ -1,0 +1,442 @@
+id: womack-lean
+t: Système Lean
+o: Lean Thinking
+a: James P. Womack, Daniel T. Jones
+y: 1996
+cat: Lean manufacturing
+p: ≈ 400 p.
+c: --b4
+ol_author: Womack
+center: Les 5 principes du lean
+pitch: Valeur, chaîne de valeur, flux, flux tiré, perfection : les cinq principes qui ont fait connaître le lean bien au-delà de l'automobile.
+
+=== Contexte et thèse
+--- Les auteurs et l'origine du mot
+kw: MIT · automobile · 1990
+James Womack et Daniel Jones sont deux chercheurs, l'un américain, l'autre britannique. À la fin des années 1980, ils ont dirigé avec Daniel Roos un vaste programme de recherche du MIT sur l'industrie automobile mondiale. Pendant cinq ans, une équipe internationale a comparé des dizaines d'usines d'assemblage en Amérique du Nord, en Europe et au Japon.
+
+Les résultats, publiés en 1990 dans *The Machine That Changed the World* (*Le Système qui va changer le monde*), ont frappé l'industrie. Les meilleures usines japonaises, Toyota en tête, assemblaient une voiture avec beaucoup moins d'heures de travail, beaucoup moins de défauts, beaucoup moins de stocks et beaucoup moins d'espace que la plupart des usines occidentales. Elles développaient aussi de nouveaux modèles plus vite et avec des équipes plus petites.
+
+Pour désigner ce système, l'équipe a adopté un mot proposé par l'un de ses chercheurs, John Krafcik : **lean**, que l'on peut traduire par « maigre », « sobre » ou « au plus juste ». Le mot voulait dire qu'on fait plus avec moins : moins d'efforts, moins d'équipements, moins de temps et moins d'espace, tout en se rapprochant de ce que veulent les clients.
+
+Le premier livre décrivait ce qui rendait Toyota différente. Mais beaucoup de lecteurs ont posé la même question aux auteurs : comment faire, concrètement, dans notre entreprise ? *Lean Thinking*, publié en 1996, est leur réponse. Ils y résument la pensée lean en cinq principes, puis racontent comment des entreprises américaines, allemandes et japonaises les ont appliqués, avec des réussites et des difficultés.
+
+> À retenir | Le mot « lean » vient d'une étude comparative du MIT sur l'automobile. Ce livre en tire une méthode applicable à toute entreprise.
+
+--- L'ennemi : le muda
+kw: gaspillage · partout · antidote
+Le livre commence par un mot japonais : *muda*, qui signifie gaspillage. Les auteurs le définissent comme toute activité humaine qui consomme des ressources sans créer de valeur. Ils reprennent la liste des sept gaspillages identifiés par Taiichi Ohno chez Toyota : les erreurs qui doivent être corrigées, la production d'articles dont personne ne veut, les étapes de traitement inutiles, les déplacements inutiles de personnes, les transports inutiles de marchandises, les attentes, et la production de biens ou de services qui ne répondent pas aux besoins du client. Ils en ajoutent un huitième : concevoir des produits ou des services qui ne correspondent pas à ce que veulent les clients.
+
+Womack et Jones affirment que le muda est partout. Quand on observe attentivement une activité, on constate que la plus grande partie du temps et des efforts ne crée pas de valeur pour le client. Ils proposent de distinguer trois types d'activités :
+
+- **Celles qui créent de la valeur** : le client serait prêt à payer pour elles.
+- **Celles qui ne créent pas de valeur mais sont aujourd'hui inévitables** avec les technologies et les équipements actuels. Les auteurs les appellent le muda de type 1. On ne peut pas les supprimer tout de suite, mais on peut les réduire.
+- **Celles qui ne créent pas de valeur et peuvent être supprimées immédiatement.** C'est le muda de type 2.
+
+Le lean est présenté comme l'antidote au muda. Mais les auteurs insistent : il ne s'agit pas seulement de couper des coûts. La pensée lean est une manière de penser qui permet de spécifier la valeur, d'aligner les actions qui la créent dans le meilleur ordre, de les réaliser sans interruption quand quelqu'un les demande, et de le faire de plus en plus efficacement. Cette phrase résume déjà les cinq principes du livre.
+
+> Exercice | Prenez une tâche de votre semaine et classez chaque étape : valeur pour le client, gaspillage inévitable pour l'instant, gaspillage à supprimer.
+
+--- Cinq principes en un coup d'œil
+kw: valeur · chaîne · flux · tirer · perfection
+Le cœur du livre tient en cinq principes, qui s'enchaînent dans un ordre logique.
+
+- **1. Spécifier la valeur**, du point de vue du client final, pour un produit précis, à un prix précis et à un moment précis.
+- **2. Identifier la chaîne de valeur** (*value stream*), c'est-à-dire l'ensemble des actions nécessaires pour amener ce produit du concept au lancement, de la commande à la livraison, et de la matière première au client. Puis éliminer les étapes inutiles.
+- **3. Faire circuler le flux**, c'est-à-dire faire en sorte que les étapes qui restent s'enchaînent sans interruption, sans lots, sans attente.
+- **4. Laisser le client tirer**, c'est-à-dire ne produire que ce que le client demande, au moment où il le demande, plutôt que de pousser des produits vers lui.
+- **5. Viser la perfection**, car une fois les quatre premiers principes appliqués, de nouveaux gaspillages apparaissent, et l'amélioration peut continuer sans fin.
+
+Les auteurs expliquent que ces principes se renforcent mutuellement. Quand le flux s'accélère, des gaspillages cachés deviennent visibles. Quand le client tire, on découvre de nouveaux obstacles au flux. Quand on spécifie mieux la valeur, on découvre de nouvelles étapes inutiles. Le cercle est vertueux.
+
+Ils précisent que l'ordre compte. Beaucoup d'entreprises commencent par le troisième principe, en installant des flux ou des kanbans, sans avoir clairement défini la valeur pour le client ni cartographié la chaîne. Elles améliorent alors l'efficacité d'activités qui ne devraient peut-être pas exister.
+
+> À retenir | Valeur, chaîne de valeur, flux, flux tiré, perfection. Dans cet ordre, et en boucle.
+
+--- Un travail plus satisfaisant
+kw: flow · Csikszentmihalyi · motivation
+Womack et Jones défendent une idée qui surprend souvent : le lean ne rend pas seulement les entreprises plus efficaces, il peut aussi rendre le travail plus satisfaisant.
+
+Ils s'appuient sur les travaux du psychologue Mihaly Csikszentmihalyi sur l'expérience optimale, qu'il appelle le *flow*. Csikszentmihalyi a montré que les personnes vivent leurs moments les plus satisfaisants lorsqu'elles sont pleinement absorbées par une activité qui a un objectif clair, qui leur donne un retour immédiat sur ce qu'elles font, qui demande une concentration totale et qui correspond à leurs compétences, sans les dépasser ni les ennuyer.
+
+Les auteurs observent que le travail dans une organisation traditionnelle réunit rarement ces conditions. Un employé qui traite un morceau de dossier avant de le transmettre au service suivant ne voit pas le résultat final de son travail. Il ne reçoit aucun retour immédiat. Il est souvent interrompu par des urgences. Dans une usine organisée par lots, l'opérateur produit des pièces dont il ne sait pas à quoi elles serviront ni quand.
+
+Dans une organisation en flux, au contraire, une petite équipe suit un produit ou une commande de bout en bout. Elle voit le résultat de son travail. Les problèmes sont signalés et traités immédiatement, ce qui fournit un retour constant. Le rythme est clair, donné par le takt. Les tâches sont standardisées, ce qui réduit les interruptions et les incertitudes.
+
+Les auteurs reconnaissent que cette vision a ses limites. Le travail en flux peut être plus intense, et la disparition des stocks peut créer de la pression. Ils insistent donc sur l'importance de la conception du travail et sur la participation des salariés à son amélioration. Une organisation lean bien conçue, selon eux, rapproche le travail quotidien des conditions de l'engagement et de la concentration.
+
+Cette idée rejoint d'autres travaux de psychologie du travail : les personnes sont plus motivées lorsqu'elles voient l'ensemble de ce qu'elles produisent, qu'elles reçoivent un retour sur leurs résultats et qu'elles ont une certaine maîtrise de leur manière de travailler.
+
+> Question clé | Les personnes de votre équipe voient-elles le résultat final de leur travail, et reçoivent-elles un retour rapide sur ce qu'elles font ?
+
+=== Principe 1 : la valeur
+--- La valeur vue par le client
+kw: client final · produit · prix · moment
+Le premier principe paraît évident : spécifier la valeur. Mais Womack et Jones montrent qu'il est souvent négligé. La valeur ne peut être définie que par le client final. Elle n'a de sens que pour un produit précis, bien ou service, qui répond à un besoin précis, à un prix précis et à un moment précis.
+
+Or, dans la plupart des entreprises, la valeur est définie par d'autres considérations. Les ingénieurs veulent des produits techniquement sophistiqués. Les financiers veulent maximiser l'utilisation des équipements coûteux. Les services commerciaux veulent des gammes très larges. Chacun définit la valeur selon son métier, et le client final se retrouve avec des produits qui ne correspondent pas vraiment à ses besoins.
+
+Les auteurs décrivent plusieurs pièges. Dans certains pays, notamment en Allemagne, les entreprises ont tendance à définir la valeur par la perfection technique, en ajoutant des fonctions complexes que les clients n'utilisent pas. Aux États-Unis, la pression des marchés financiers pousse à définir la valeur par le résultat trimestriel. Au Japon, la priorité donnée à l'emploi et à la production locale peut amener à produire là où cela ne sert pas le client.
+
+Ils donnent l'exemple des voyages en avion. Ce que veut le voyageur, c'est aller de chez lui à sa destination, rapidement, sûrement et sans tracas. Or le système aérien de l'époque, organisé autour de grandes plateformes de correspondance, obligeait les voyageurs à se rendre dans de grands aéroports, à attendre, à changer d'avion, à passer par des contrôles multiples. Chaque acteur, compagnie, aéroport, agence, optimisait sa propre activité. Personne ne regardait le voyage du point de vue du voyageur.
+
+> Question clé | Qui définit aujourd'hui la valeur de ce que produit votre équipe : le client final, ou vos propres contraintes internes ?
+
+--- Repenser la valeur
+kw: produit entier · équipe produit · coût cible
+Pour spécifier correctement la valeur, Womack et Jones proposent plusieurs pratiques.
+
+**Partir du client, pas de l'existant.** Il faut se demander ce que le client cherche vraiment à accomplir, plutôt que d'améliorer le produit actuel. Parfois, la réponse conduit à proposer un produit très différent, ou un service plutôt qu'un produit.
+
+**Penser au produit entier.** Le client ne veut pas seulement une machine, mais aussi sa livraison, son installation, sa maintenance et son financement. Les entreprises organisées par fonctions isolées ont du mal à voir le produit dans sa globalité.
+
+**Confier chaque produit à une équipe dédiée.** Les auteurs recommandent de structurer l'entreprise par familles de produits, chacune sous la responsabilité d'une équipe qui suit le produit de bout en bout, plutôt que par départements fonctionnels.
+
+**Fixer un coût cible.** Une fois la valeur définie, l'entreprise doit se demander combien le produit devrait coûter si l'on éliminait tout le gaspillage visible avec les technologies actuelles. Ce coût cible devient un objectif pour l'équipe. Il diffère de la logique traditionnelle, qui part des coûts existants et ajoute une marge pour fixer le prix.
+
+Les auteurs reconnaissent que redéfinir la valeur est souvent la partie la plus difficile, parce qu'elle remet en cause des habitudes, des investissements et des identités professionnelles. Mais c'est aussi celle qui ouvre les gains les plus importants. Une entreprise qui produit très efficacement quelque chose dont le client ne veut pas ne crée que du muda, même très bien organisé.
+
+- Partir de ce que le client veut accomplir.
+- Penser au produit entier, service compris.
+- Une équipe par famille de produits, un coût cible.
+
+=== Principe 2 : la chaîne de valeur
+--- Voir toute la chaîne
+kw: concept · commande · matière · client
+Le deuxième principe consiste à identifier la chaîne de valeur de chaque produit, c'est-à-dire l'ensemble des actions nécessaires pour l'amener jusqu'au client.
+
+Womack et Jones distinguent trois chaînes pour chaque produit. La chaîne de **conception**, qui va de l'idée au lancement en production, en passant par le design et l'ingénierie. La chaîne d'**information**, qui va de la prise de commande à la livraison, en passant par la planification. Et la chaîne de **transformation physique**, qui va de la matière première au produit fini entre les mains du client.
+
+Leur thèse est que presque personne ne regarde ces chaînes dans leur ensemble. Chaque entreprise, et dans chaque entreprise chaque service, ne voit que sa propre partie. Le fournisseur de matières premières, le fabricant de composants, l'assembleur, le distributeur et le détaillant optimisent chacun leur maillon, souvent au détriment des autres. Le résultat est une chaîne pleine de stocks, d'attentes, de transports et de doublons.
+
+L'analyse de la chaîne de valeur fait apparaître les trois types d'activités déjà décrits : celles qui créent de la valeur, celles qui n'en créent pas mais sont aujourd'hui inévitables, et celles qui n'en créent pas et peuvent être supprimées. Les auteurs affirment que, dans la plupart des chaînes, cette dernière catégorie est considérable.
+
+Ils introduisent ici l'idée d'**entreprise lean étendue** : un groupe d'entreprises, du fournisseur de matière première au détaillant, qui acceptent de regarder ensemble la chaîne de valeur d'un produit, de partager l'information et de coordonner leurs actions. Cela suppose un niveau de confiance et de transparence inhabituel entre entreprises qui, souvent, se considèrent comme des adversaires dans la négociation des prix.
+
+> À retenir | Chaque produit a trois chaînes : conception, information, transformation. Presque personne ne les regarde en entier.
+
+--- La canette de soda
+kw: 319 jours · 3 heures · stocks
+L'exemple le plus célèbre du livre est celui d'une canette de soda vendue dans un supermarché britannique. Daniel Jones et ses collègues ont retracé toute la chaîne de valeur de cette canette, depuis l'extraction du minerai de bauxite jusqu'au réfrigérateur du consommateur.
+
+Le parcours est étonnant. Le minerai est extrait en Australie, transformé en alumine, puis fondu en aluminium, souvent dans un autre pays. L'aluminium est laminé en tôles épaisses, puis en tôles fines, dans plusieurs usines successives. Les tôles sont transportées vers l'usine de fabrication des canettes, qui les découpe, les forme, les imprime et les stocke. Les canettes vides sont envoyées chez l'embouteilleur, qui les remplit. Elles passent ensuite par les entrepôts du distributeur, puis par le magasin, avant d'arriver chez le client.
+
+Les chiffres présentés par les auteurs donnent la mesure du problème. Du minerai au consommateur, le parcours total prend de l'ordre de trois cents jours. Le temps pendant lequel on transforme réellement le produit ne représente que quelques heures. Le reste du temps, la matière attend : en stock à chaque étape, en transit entre les usines, dans les entrepôts. Une grande partie de l'aluminium est par ailleurs mise au rebut à différentes étapes et refondue.
+
+Chaque acteur, pris isolément, est efficace. Les machines sont rapides et bien utilisées. Mais personne ne regarde la chaîne dans son ensemble, et personne ne se demande pourquoi une canette doit voyager autant et attendre si longtemps. Les auteurs suggèrent qu'une organisation différente, avec des installations plus petites et plus proches les unes des autres, et une production calée sur la consommation réelle, pourrait réduire fortement les délais, les stocks et les coûts.
+
+> Exercice | Retracez la chaîne de valeur d'un produit simple de votre activité, du premier fournisseur au client final. Combien de jours au total, et combien d'heures de travail réel ?
+
+--- Cartographier pour agir
+kw: famille de produits · trois tâches · carte
+Womack et Jones donnent quelques indications pratiques pour identifier une chaîne de valeur. Ces indications seront développées deux ans plus tard dans le guide *Learning to See*, publié par le Lean Enterprise Institute qu'ils ont fondé.
+
+**Choisir une famille de produits.** On ne cartographie pas toute l'entreprise d'un coup. On choisit un groupe de produits qui passent par des étapes similaires, et on suit leur parcours.
+
+**Suivre le produit, pas l'organigramme.** Il faut marcher le long du parcours réel du produit, en partant du client et en remontant vers les fournisseurs. À chaque étape, on note ce qui se passe, combien de temps cela prend, combien de produits attendent, combien de personnes interviennent.
+
+**Distinguer les trois tâches de gestion.** Les auteurs rappellent que toute chaîne de valeur combine trois tâches : la résolution des problèmes, de la conception au lancement ; la gestion de l'information, de la commande à la livraison ; et la transformation physique, de la matière au produit fini. Une carte complète doit faire apparaître les flux d'information autant que les flux physiques. Beaucoup de délais viennent en effet de la circulation des informations, pas des machines.
+
+**Chiffrer.** Pour chaque étape, on mesure le temps de traitement réel et le temps d'attente. Le rapport entre les deux révèle l'ampleur du gaspillage.
+
+**Dessiner la chaîne future.** Une fois la chaîne actuelle comprise, on dessine une chaîne idéale, sans les étapes inutiles, puis on décide des actions pour s'en rapprocher.
+
+Les auteurs insistent sur la dimension collective de cet exercice. La cartographie doit être réalisée par les personnes qui gèrent les différentes étapes, ensemble. C'est souvent la première fois qu'elles voient le parcours complet du produit. Cette découverte commune crée une compréhension partagée et une motivation pour agir.
+
+Ils notent qu'on peut ensuite étendre la carte au-delà de l'entreprise, vers les fournisseurs et les distributeurs, ce qui fait souvent apparaître les gaspillages les plus importants.
+
+- Une famille de produits à la fois.
+- Marcher le long du parcours réel, du client vers l'amont.
+- Les flux d'information comptent autant que les flux physiques.
+
+=== Principe 3 : le flux
+--- Briser la logique des lots
+kw: départements · files d'attente
+Le troisième principe consiste à faire circuler le flux : une fois la valeur définie et les étapes inutiles supprimées, il faut faire en sorte que les étapes restantes s'enchaînent sans interruption.
+
+Womack et Jones reconnaissent que c'est contre-intuitif. Nous avons tous appris à penser en termes de fonctions et de départements. Il semble naturel de regrouper les activités similaires, toutes les presses dans un atelier, toutes les peintures dans un autre, tous les comptables dans un service, et de traiter le travail par lots. Faire beaucoup de pièces identiques d'un coup paraît plus efficace que de changer sans arrêt de réglage.
+
+Les auteurs montrent que cette intuition est trompeuse. Les lots créent des files d'attente à chaque étape. Un produit passe la plupart de son temps à attendre que le lot précédent soit terminé, puis que le sien soit transporté, puis que la machine suivante soit disponible. Les défauts sont découverts tard, quand tout un lot a déjà été produit. Et l'organisation par départements oblige à transporter les produits d'un bout à l'autre de l'usine.
+
+Ils racontent comment Taiichi Ohno avait remis en cause cette logique chez Toyota, en apprenant à changer rapidement les outils des presses. Alors que les constructeurs occidentaux mettaient plusieurs heures à changer une matrice et produisaient donc de très grandes séries, Toyota a réduit ce temps à quelques minutes, ce qui permettait de produire de petites quantités de nombreuses pièces différentes.
+
+Les auteurs donnent aussi l'exemple de la fabrication de bicyclettes. Dans une usine traditionnelle, les cadres sont soudés par lots dans un atelier, peints par lots dans un autre, puis stockés avant l'assemblage final. Dans une organisation en flux, une petite cellule réalise toutes les étapes pour un vélo à la fois, au rythme des commandes. Le temps de fabrication passe de plusieurs semaines à quelques heures.
+
+> À retenir | Les lots semblent efficaces pour chaque machine, mais ils allongent tout pour le produit. Le flux fait l'inverse.
+
+--- Mettre le flux en place
+kw: takt · cellules · machines adaptées
+Pour créer un flux, Womack et Jones décrivent plusieurs techniques.
+
+**Se concentrer sur le produit, pas sur les départements.** Il faut suivre un produit ou une commande de bout en bout et lever tous les obstacles qui l'empêchent d'avancer.
+
+**Définir le temps takt.** Ce mot d'origine allemande désigne le rythme auquel le client achète. On l'obtient en divisant le temps de travail disponible par le nombre de produits demandés. Si les clients achètent 480 produits par journée de 480 minutes, le takt est d'une minute : il faut produire un produit chaque minute, ni plus vite ni plus lentement. Le takt sert de métronome à tout le processus.
+
+**Organiser en cellules.** Plutôt que des ateliers spécialisés, on regroupe dans une petite zone toutes les machines et les personnes nécessaires à une famille de produits. Les étapes sont placées les unes à côté des autres, souvent en forme de U, pour que les produits passent directement de l'une à l'autre.
+
+**Réduire les temps de changement.** Pour produire de petites quantités, il faut pouvoir passer rapidement d'un produit à l'autre.
+
+**Choisir des machines adaptées au flux.** Les auteurs critiquent les « monuments », ces grandes machines très coûteuses et très rapides, qui imposent des lots importants et obligent à faire venir tous les produits vers elles. Ils recommandent des machines plus petites, plus simples, plus flexibles, que l'on peut placer dans les cellules.
+
+**Fiabiliser.** Un flux sans stock tampon ne tolère pas les pannes. La maintenance préventive, la standardisation du travail et la qualité dès la source deviennent indispensables.
+
+Les auteurs soulignent que le flux s'applique aussi aux activités administratives et à la conception. Le traitement d'une commande ou d'un dossier peut être organisé en flux, avec une petite équipe qui le traite de bout en bout, plutôt que de le faire passer de service en service.
+
+- Le takt donne le rythme du client.
+- Des cellules plutôt que des ateliers spécialisés.
+- Des machines simples et flexibles plutôt que des « monuments ».
+
+--- Le flux dans la conception
+kw: équipes dédiées · délais divisés · décisions
+Womack et Jones appliquent aussi le principe du flux au développement de nouveaux produits. Ils observent que, dans la plupart des entreprises, la conception suit le même schéma que la production par lots : le projet passe d'un département à l'autre, marketing, design, ingénierie, industrialisation, achats, chacun travaillant de son côté, puis transmettant ses documents au suivant. Chaque transmission provoque des attentes, des malentendus et des reprises.
+
+Le résultat est connu : des projets qui durent des années, qui dépassent leur budget et qui, au moment du lancement, ne correspondent plus tout à fait aux besoins du marché.
+
+Les auteurs décrivent l'alternative pratiquée par les entreprises lean. Chaque projet est confié à une **équipe dédiée**, qui réunit dès le départ toutes les compétences nécessaires et reste stable du début à la fin. Elle est dirigée par un chef de projet fort, responsable du produit dans sa globalité, ce que Toyota appelle l'ingénieur en chef. Les membres de l'équipe travaillent ensemble, souvent dans le même espace, et prennent les décisions rapidement, sans attendre des comités.
+
+Ils décrivent aussi l'importance de **traiter les problèmes tôt**. Dans un développement traditionnel, les difficultés de fabrication sont découvertes tard, quand les plans sont terminés, et leur correction coûte très cher. Dans une équipe intégrée, les personnes de la production participent dès le début et signalent les difficultés avant qu'elles ne soient figées dans les plans.
+
+Enfin, ils recommandent de **réduire les files d'attente** dans le développement. Un ingénieur qui travaille sur dix projets en même temps fait attendre chacun d'eux. Mieux vaut moins de projets en parallèle, menés plus vite.
+
+Les auteurs rapportent que les entreprises qui adoptent cette organisation réduisent fortement leurs délais de développement, souvent de moitié ou davantage, tout en améliorant la qualité. Cette idée a ensuite été reprise dans le développement de logiciels, par les méthodes agiles, qui insistent sur des équipes pluridisciplinaires, de petits lots de travail et la limitation du travail en cours.
+
+> À retenir | Un projet qui passe de service en service accumule les attentes. Une équipe dédiée et stable le fait avancer en flux.
+
+=== Principe 4 : le flux tiré
+--- Produire ce que le client demande
+kw: pull · délais courts · prévisions
+Le quatrième principe consiste à laisser le client tirer la production. Concrètement, cela signifie que personne en amont ne doit produire un bien ou un service avant que quelqu'un en aval ne l'ait demandé.
+
+Womack et Jones expliquent que ce principe devient possible grâce au flux. Quand une entreprise fabrique en plusieurs mois, elle est obligée de produire à partir de prévisions, et donc de stocker. Quand elle peut fabriquer en quelques jours, ou en quelques heures, elle peut attendre la commande réelle du client. Le délai de fabrication devient plus court que le délai que le client est prêt à attendre.
+
+Ce changement a des conséquences profondes. Les prévisions, toujours fausses, perdent de leur importance. Les stocks diminuent. Les soldes, liquidations et invendus disparaissent en grande partie. Et la demande devient plus stable, parce que les variations artificielles créées par les stocks et les promotions s'atténuent.
+
+Les auteurs décrivent un phénomène bien connu des chaînes logistiques : l'amplification des variations de la demande quand on remonte la chaîne. Une petite hausse de la demande chez le détaillant entraîne une commande plus importante chez le distributeur, qui commande encore plus chez le fabricant, qui commande encore plus chez ses fournisseurs. Chaque maillon constitue des stocks de sécurité. Le flux tiré, en transmettant directement l'information de consommation réelle, réduit fortement cette amplification.
+
+Ils donnent l'exemple des pièces détachées automobiles. Dans les systèmes traditionnels, les distributeurs stockaient d'énormes quantités de pièces, souvent pendant des mois, et manquaient pourtant de celles dont les clients avaient besoin. En réorganisant le réapprovisionnement à partir des consommations réelles et en raccourcissant les délais, Toyota a pu réduire les stocks tout en améliorant la disponibilité.
+
+> À retenir | Quand on produit vite, on peut attendre la commande. Les prévisions et les stocks perdent alors leur importance.
+
+--- Les outils du flux tiré
+kw: kanban · supermarché · réapprovisionnement
+Pour mettre en place le flux tiré, Womack et Jones décrivent plusieurs mécanismes, issus du système Toyota.
+
+**Le kanban.** C'est un signal, souvent une carte, qui autorise la production ou le transport d'une quantité précise de pièces. Quand une étape consomme un conteneur de pièces, la carte associée revient vers l'étape précédente, qui produit de quoi le remplacer. Sans carte, pas de production. Le nombre de cartes en circulation fixe le niveau maximal de stock.
+
+**Le supermarché.** Entre deux étapes qui ne peuvent pas encore être reliées en flux continu, on place un petit stock contrôlé, où l'étape aval vient se servir, et que l'étape amont réapprovisionne. Comme dans un supermarché, on ne remplace que ce qui a été pris.
+
+**Le réapprovisionnement fréquent par petites quantités.** Plutôt que de livrer de grandes quantités rarement, on livre de petites quantités souvent, ce qui réduit les stocks et rend le système plus réactif.
+
+**Le lissage.** Pour que le flux tiré fonctionne, il faut éviter les à-coups. Les auteurs reprennent l'idée de lisser les commandes en volume et en variété.
+
+Les auteurs soulignent que le flux tiré change la relation avec les fournisseurs. Au lieu de recevoir des prévisions incertaines et de grosses commandes, les fournisseurs reçoivent des signaux réguliers de consommation. Ils peuvent ainsi organiser leur propre production en flux. Le flux tiré se propage de proche en proche le long de la chaîne de valeur.
+
+Ils mettent en garde contre une erreur fréquente : installer des kanbans sans avoir d'abord créé le flux et réduit les délais. Le kanban devient alors un système de stock comme un autre, avec des quantités énormes.
+
+- Le kanban : pas de signal, pas de production.
+- Le supermarché : un petit stock contrôlé entre deux étapes.
+- Le flux d'abord, le kanban ensuite.
+
+=== Principe 5 : la perfection
+--- Une amélioration sans fin
+kw: kaizen · kaikaku · transparence
+Le cinquième principe est la recherche de la perfection. Womack et Jones expliquent que, lorsqu'une organisation commence à appliquer les quatre premiers principes, elle découvre qu'il n'y a pas de fin au processus d'amélioration. Chaque fois que le flux s'accélère, de nouveaux gaspillages apparaissent. Chaque fois qu'on réduit les stocks, de nouveaux problèmes émergent.
+
+Les auteurs distinguent deux manières de progresser. Le **kaizen**, l'amélioration continue par petites étapes, réalisée par les équipes au quotidien. Et le **kaikaku**, l'amélioration radicale, qui consiste à repenser entièrement un processus en peu de temps. Ils estiment que les deux sont nécessaires : le kaikaku permet de franchir des étapes majeures, comme passer d'une organisation par lots à une organisation en flux, et le kaizen permet ensuite d'améliorer sans cesse le nouveau système.
+
+Ils décrivent une pratique très utilisée par les consultants japonais qu'ils ont observés : des ateliers intensifs de quelques jours, au cours desquels une équipe analyse un processus, le réorganise physiquement, déplace les machines et teste le nouveau fonctionnement. Ces ateliers, souvent appelés « kaizen blitz » ou chantiers d'amélioration rapide, produisent des résultats spectaculaires et rapides.
+
+Les auteurs insistent aussi sur la **transparence**. Quand tout le monde, opérateurs, fournisseurs, distributeurs, clients, peut voir l'ensemble de la chaîne de valeur, il devient plus facile de repérer les gaspillages et de proposer des améliorations. La perfection n'est pas un objectif atteignable, mais une direction qui guide l'effort.
+
+Ils proposent enfin de raisonner en termes de « vision de la perfection » : imaginer à quoi ressemblerait la chaîne de valeur idéale, sans aucun gaspillage, puis choisir les deux ou trois étapes les plus importantes pour s'en rapprocher dans l'année qui vient.
+
+> À retenir | Le kaikaku fait le grand saut, le kaizen fait progresser chaque jour. La perfection est une direction, pas une destination.
+
+--- Le déploiement des objectifs
+kw: hoshin kanri · peu de priorités · alignement
+Pour avancer vers la perfection de manière organisée, Womack et Jones décrivent une pratique de management empruntée aux entreprises japonaises : le **déploiement des objectifs**, en japonais *hoshin kanri*.
+
+Le problème qu'elle résout est familier. Dans beaucoup d'entreprises, chaque service lance ses propres projets d'amélioration, souvent nombreux, parfois contradictoires. Les ressources sont dispersées, les projets n'aboutissent pas, et personne ne sait vraiment quelles sont les priorités.
+
+Le déploiement des objectifs fonctionne en plusieurs temps. La direction définit d'abord une vision de long terme et quelques objectifs prioritaires pour l'année, rarement plus de trois ou quatre. Elle identifie les projets les plus importants pour atteindre ces objectifs. Elle fait ensuite redescendre ces objectifs à chaque niveau de l'organisation, en discutant avec chaque équipe de ce qu'elle peut faire et des ressources dont elle a besoin. Ce dialogue dans les deux sens, que les Japonais appellent parfois le « catchball », permet d'ajuster les objectifs à la réalité du terrain.
+
+Les auteurs soulignent deux règles. D'abord, **choisir peu de priorités** : mieux vaut mener à bien quelques projets majeurs que d'en lancer des dizaines. Ensuite, **abandonner explicitement** certains projets pour libérer des ressources. Beaucoup d'organisations ajoutent sans jamais retirer.
+
+Le déploiement des objectifs inclut aussi un suivi régulier. Chaque mois, les équipes comparent leurs résultats aux objectifs et analysent les écarts. En fin d'année, un bilan permet d'ajuster la vision et de choisir les priorités suivantes.
+
+Pour Womack et Jones, cette pratique transforme la recherche de la perfection en démarche concrète. Elle évite que l'amélioration continue devienne une agitation dispersée et l'oriente vers les enjeux qui comptent vraiment pour les clients et l'entreprise.
+
+- Une vision de long terme, quelques objectifs annuels.
+- Un dialogue dans les deux sens pour ajuster.
+- Arrêter des projets pour en réussir d'autres.
+
+=== Les entreprises en transformation
+--- Lantech et Wiremold
+kw: PME · de lots à flux · croissance
+La deuxième partie du livre raconte la transformation de plusieurs entreprises. Les auteurs ont choisi des cas variés, avec leurs réussites et leurs difficultés.
+
+**Lantech** est une entreprise familiale américaine du Kentucky qui fabrique des machines pour emballer des palettes avec un film plastique. Son fondateur, Pat Lancaster, avait connu le succès grâce à une invention, mais au début des années 1990 l'entreprise affrontait la concurrence d'imitateurs et ses délais de livraison étaient longs. Avec l'aide de consultants formés chez Toyota, Lantech a transformé ses ateliers organisés par fonctions en cellules de production, chacune dédiée à une famille de machines. Les auteurs décrivent une forte réduction du temps de fabrication, des stocks et des défauts, et une nette amélioration de la productivité. Lantech a aussi appliqué les principes lean à la prise de commande et à la conception.
+
+**Wiremold** est une entreprise du Connecticut qui fabrique des goulottes et des accessoires électriques. Lorsqu'Art Byrne en devient le dirigeant en 1991, il engage une transformation profonde, en s'appuyant sur des chantiers d'amélioration rapide menés en permanence. Les auteurs décrivent une entreprise dont les ventes ont fortement augmenté, dont les stocks ont fortement diminué et qui a libéré beaucoup d'espace, sans licenciement lié aux gains de productivité. Les personnes libérées par les améliorations ont été réaffectées à la croissance. Art Byrne est devenu l'un des dirigeants les plus cités du mouvement lean.
+
+Ces deux cas illustrent plusieurs leçons : l'importance d'un dirigeant engagé, la nécessité de faire appel à des personnes ayant une vraie expérience du système Toyota, et le fait que les gains de productivité doivent être utilisés pour croître plutôt que pour licencier.
+
+- Des PME peuvent devenir lean, pas seulement les grands groupes.
+- Un dirigeant engagé et un expert expérimenté sont décisifs.
+- Les gains doivent financer la croissance, pas les licenciements.
+
+--- Porsche et Pratt & Whitney
+kw: crise · ingénierie · monuments
+Les auteurs racontent aussi des transformations plus difficiles.
+
+**Porsche**, au début des années 1990, traverse une crise grave. Ses ventes s'effondrent, ses coûts sont élevés, et l'entreprise est menacée. Sa culture est celle de l'excellence technique : des ingénieurs passionnés, des produits sophistiqués, des ouvriers très qualifiés qui corrigent les défauts en fin de chaîne. Le nouveau dirigeant, Wendelin Wiedeking, fait appel à des consultants japonais. Les auteurs décrivent une transformation marquée par des chocs culturels, mais qui permet à Porsche de réduire fortement ses délais, ses stocks et ses défauts, et de retrouver la rentabilité.
+
+Les auteurs utilisent ce cas pour discuter des difficultés propres à l'industrie allemande. La fierté technique, la spécialisation des métiers et la tradition de réparation en fin de chaîne rendent difficile l'acceptation d'une logique de flux et de qualité dès la source. Le gaspillage y prend souvent la forme d'une perfection technique que le client ne demande pas.
+
+**Pratt & Whitney**, le motoriste aéronautique américain, illustre un autre type de difficulté. L'entreprise utilisait des machines énormes et coûteuses, conçues pour de grandes séries, alors que la demande de moteurs était faible et irrégulière. Les auteurs décrivent comment l'entreprise a commencé à repenser ses installations, en privilégiant des équipements plus simples et organisés en flux, et en raccourcissant fortement ses délais.
+
+Les auteurs étudient aussi des entreprises japonaises, comme le fabricant de composants Showa, pour montrer que même au Japon, toutes les entreprises ne sont pas lean, et que la transformation demande un effort considérable.
+
+> Question clé | Quelle est, dans votre organisation, la forme locale du gaspillage : le perfectionnisme technique, la pression du trimestre, ou autre chose ?
+
+--- Leçons des transformations
+kw: points communs · résistances · rythme
+En comparant les entreprises étudiées, américaines, allemandes et japonaises, Womack et Jones dégagent plusieurs points communs.
+
+**Un déclencheur.** Presque toutes les transformations ont commencé dans un moment de crise : chute des ventes, pertes, menace d'un concurrent. La crise a rendu acceptable une remise en cause profonde.
+
+**Un dirigeant qui s'implique personnellement.** Les transformations réussies ont été portées par des dirigeants présents sur le terrain, qui participaient eux-mêmes aux chantiers et comprenaient le détail des processus.
+
+**Un enseignant expérimenté.** La plupart des entreprises ont fait appel à des personnes formées dans l'entourage de Toyota, qui ont montré concrètement ce qu'était un flux, souvent en déplaçant elles-mêmes les machines dès le premier jour.
+
+**Des résistances prévisibles.** Les auteurs décrivent les oppositions rencontrées : des cadres attachés à leur département, des ingénieurs fiers de leurs grandes machines, des contrôleurs de gestion inquiets de voir les stocks diminuer, des syndicats méfiants. Plusieurs dirigeants ont dû remplacer des managers qui refusaient la démarche. Les auteurs ne cachent pas cet aspect, mais ils notent que la plupart des salariés de terrain adhèrent rapidement quand ils voient leur travail simplifié.
+
+**Une progression en vagues.** Les entreprises ne transforment pas tout en même temps. Elles commencent par une chaîne de valeur, en tirent des leçons, puis passent à la suivante. Chaque vague va un peu plus loin.
+
+**Des gains qui dépassent les attentes.** Les auteurs rapportent des réductions importantes des délais, des stocks et des défauts dans presque tous les cas, et notent que les gains les plus importants viennent souvent après plusieurs années, quand la culture a changé.
+
+Ils concluent que le lean n'est pas réservé à un pays, à une culture ou à un secteur. Les obstacles sont surtout des habitudes de pensée, qui peuvent changer avec de la détermination et du temps.
+
+> À retenir | Une crise, un dirigeant sur le terrain, un enseignant expérimenté, puis des vagues successives. Les obstacles sont surtout des habitudes.
+
+=== La démarche de transformation
+--- Le plan d'action en étapes
+kw: agent du changement · levier · cartographie
+Womack et Jones proposent une séquence d'étapes pour engager une transformation lean, tirée des cas étudiés.
+
+**Trouver un agent du changement.** Il faut une personne déterminée, souvent le dirigeant ou quelqu'un qu'il soutient fortement, prête à assumer la responsabilité de la transformation et à affronter les résistances.
+
+**Acquérir la connaissance.** La pensée lean ne s'invente pas. Il faut s'appuyer sur des personnes qui l'ont pratiquée, souvent des anciens de Toyota ou de ses fournisseurs.
+
+**Trouver un levier.** Une crise est souvent le meilleur déclencheur, parce qu'elle oblige à remettre en cause les habitudes. Sans crise, il faut en créer le sentiment, par exemple en montrant les écarts avec les meilleurs concurrents.
+
+**Cartographier les chaînes de valeur.** Pour chaque famille de produits, il faut représenter la chaîne actuelle et identifier les gaspillages.
+
+**Commencer vite et frapper fort.** Les auteurs recommandent d'engager rapidement des changements visibles, par des chantiers de kaikaku, plutôt que de passer des mois à former et planifier. Les résultats concrets convainquent davantage que les présentations.
+
+**Exiger des résultats immédiats.** Les premiers chantiers doivent produire des gains mesurables en quelques jours ou semaines.
+
+**Étendre progressivement.** Une fois les premiers succès obtenus, il faut étendre la démarche à d'autres chaînes de valeur, puis aux fournisseurs et aux clients.
+
+Les auteurs estiment qu'une transformation complète prend environ cinq ans. Les premiers mois produisent des gains rapides, mais il faut ensuite plusieurs années pour changer l'organisation, les systèmes de gestion et la culture.
+
+- Un agent du changement, une expertise, un levier.
+- Agir vite et visiblement plutôt que former longuement.
+- Compter environ cinq ans pour une transformation complète.
+
+--- Réorganiser l'entreprise
+kw: familles de produits · emploi · comptabilité
+Les auteurs expliquent qu'après les premiers chantiers, une entreprise lean doit modifier son organisation profonde.
+
+**Organiser par familles de produits.** Les départements fonctionnels laissent place à des équipes responsables d'une famille de produits de bout en bout. Les fonctions support, comme la qualité, la maintenance ou les achats, sont en partie intégrées dans ces équipes.
+
+**Traiter la question de l'emploi.** Les gains de productivité libèrent des personnes. Les auteurs recommandent fortement de garantir que personne ne perdra son emploi à cause des améliorations. Si nécessaire, il faut réduire les effectifs une fois, au début, pour adapter l'entreprise à son niveau d'activité, puis garantir l'emploi pour la suite. Sinon, les salariés n'ont aucune raison de contribuer aux améliorations.
+
+**Adapter la comptabilité.** Les systèmes comptables traditionnels récompensent souvent les grandes séries et l'utilisation maximale des machines, et valorisent les stocks comme des actifs. Ils peuvent donner l'impression que la réduction des stocks dégrade les résultats. Les auteurs recommandent de simplifier la comptabilité et de la rendre lisible par famille de produits.
+
+**Former tout le monde.** Les salariés à tous les niveaux doivent comprendre les principes lean et savoir les appliquer.
+
+**Rendre l'information transparente.** Les résultats de chaque équipe, les problèmes et les progrès doivent être visibles par tous.
+
+**Étendre aux partenaires.** Enfin, l'entreprise doit entraîner ses fournisseurs et ses distributeurs, pour construire une entreprise lean étendue tout au long de la chaîne de valeur.
+
+> À retenir | Sans garantie d'emploi, pas d'amélioration continue. Sans comptabilité adaptée, les progrès semblent coûter de l'argent.
+
+--- Le lean au-delà de l'usine
+kw: services · santé · bureaux
+Le livre traite surtout d'entreprises industrielles, mais les auteurs affirment que la pensée lean s'applique à toute activité qui crée de la valeur pour un client. Dans les éditions suivantes et dans des ouvrages ultérieurs, Womack et Jones ont développé cette idée, notamment dans *Lean Solutions*, consacré à la consommation et aux services.
+
+Dans les activités de services, la chaîne de valeur est souvent faite d'informations plutôt que de matières. Mais les mêmes gaspillages apparaissent : des dossiers qui attendent dans des corbeilles, des informations saisies plusieurs fois, des validations multiples, des erreurs qu'il faut corriger, des allers-retours entre services. Le temps de traitement réel d'une demande est souvent infime par rapport au délai total.
+
+Dans les hôpitaux, des démarches inspirées du lean ont été utilisées pour réduire les temps d'attente des patients, mieux organiser les blocs opératoires et réduire les erreurs. Dans les administrations, pour raccourcir le traitement des demandes. Dans le développement de logiciels, les méthodes agiles et le mouvement *lean startup* ont repris plusieurs idées, comme les petits lots, le flux et la priorité donnée à ce que veut le client.
+
+Les auteurs insistent sur une condition : la transposition ne doit pas se limiter aux outils. Un tableau kanban dans un bureau ne rend pas une organisation lean. Il faut d'abord comprendre la valeur pour le client, puis la chaîne de valeur, et seulement ensuite appliquer les techniques de flux.
+
+- Les mêmes gaspillages existent dans les bureaux et les services.
+- L'information circule par lots, comme les pièces.
+- Commencer par la valeur, pas par les outils.
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · une chaîne de valeur
+**Semaine 1 : définir la valeur.** Choisissez un produit ou un service de votre équipe. Interrogez trois clients, internes ou externes, sur ce qu'ils cherchent vraiment à accomplir. Notez les écarts entre ce qu'ils attendent et ce que vous livrez.
+
+**Semaine 2 : cartographier la chaîne.** Suivez ce produit ou service de la demande à la livraison. Dessinez chaque étape sur une grande feuille. Pour chacune, notez le temps de travail réel et le temps d'attente. Classez les étapes en trois catégories : valeur, gaspillage inévitable, gaspillage supprimable.
+
+**Semaine 3 : créer du flux.** Supprimez une ou deux étapes inutiles. Réduisez la taille d'un lot : traitez les demandes une par une plutôt que par paquets. Calculez le rythme de la demande, votre takt, et comparez-le à votre capacité réelle.
+
+**Semaine 4 : tirer et améliorer.** Identifiez une activité que vous réalisez à l'avance, sur prévision, et testez de la déclencher seulement à la demande. Mesurez à nouveau le délai total. Organisez une courte réunion avec l'équipe pour choisir la prochaine amélioration.
+
+Les auteurs rappellent qu'il faut commencer vite, sur un périmètre limité, et viser des résultats visibles. La démonstration concrète vaut plus que les présentations.
+
+> À retenir | Valeur, chaîne, flux, flux tiré, perfection : en un mois, on peut appliquer chaque principe une fois sur une petite chaîne de valeur.
+
+--- Cas pratique : le service des achats
+kw: administratif · délais · bons de commande
+Dans une entreprise de taille moyenne, les demandes d'achat des services internes mettent en moyenne trois semaines à aboutir à une commande auprès d'un fournisseur. Les services se plaignent, et beaucoup contournent la procédure. Sophie, responsable des achats, décide d'appliquer les principes lean.
+
+**La valeur.** Elle interroge les demandeurs. Ce qu'ils veulent, c'est recevoir rapidement le bon article, au bon prix, sans formalités inutiles. Pour les petits achats courants, le prix exact compte moins que le délai.
+
+**La chaîne de valeur.** Elle suit une vingtaine de demandes. Chaque demande passe par cinq personnes : le demandeur, son responsable, le contrôle de gestion, l'acheteur et le directeur des achats. Le travail réel représente environ une heure. Le reste du temps, la demande attend dans les boîtes de réception.
+
+**Le flux.** Les validations étaient faites par lots, une fois par semaine. Sophie obtient qu'elles soient faites chaque jour. Pour les achats de faible montant, une seule validation suffit désormais.
+
+**Le flux tiré.** Pour les fournitures courantes, elle met en place un catalogue avec des prix négociés, où les services commandent directement, et un réapprovisionnement automatique pour les consommables.
+
+**La perfection.** Chaque mois, l'équipe examine les demandes les plus lentes et cherche la cause.
+
+Six mois plus tard, le délai moyen est passé à quelques jours, et les contournements de procédure ont presque disparu.
+
+> Question de réflexion | Dans votre activité, combien de personnes valident une demande simple ? Toutes ces validations créent-elles de la valeur ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: outils · emploi · enthousiasme
+*Lean Thinking* a eu une influence considérable, mais il présente plusieurs limites.
+
+**Un risque de réduction aux outils.** La clarté des cinq principes a facilité leur diffusion, mais elle a aussi encouragé des démarches centrées sur les outils : cartographies, kanbans, chantiers rapides. Liker et Rother ont reproché à beaucoup de démarches lean d'avoir négligé la dimension culturelle et le développement des personnes, que Womack et Jones abordent moins en profondeur.
+
+**Le lean comme réduction des effectifs.** Malgré les avertissements des auteurs, de nombreuses entreprises ont utilisé le lean pour réduire leurs effectifs. Le mot lui-même, qui évoque la minceur, a favorisé cette interprétation. Dans certains pays, le lean a acquis une mauvaise réputation auprès des salariés et des syndicats, qui y voient une intensification du travail.
+
+**Un ton militant.** Le livre est écrit avec enthousiasme, parfois avec un ton de conversion. Les difficultés, les échecs et les coûts humains des transformations sont décrits, mais moins développés que les succès.
+
+**Des cas sélectionnés.** Les entreprises présentées ont été choisies pour illustrer la méthode. On ne sait pas combien de transformations similaires ont échoué. Les études ultérieures montrent que beaucoup de démarches lean s'essoufflent après quelques années.
+
+**Des conditions particulières.** Le flux et le flux tiré conviennent bien aux productions répétitives. Pour des activités très variables, très créatives ou à très faibles volumes, leur application est plus délicate.
+
+- La méthode est claire, mais la culture est moins traitée.
+- Le lean a parfois servi de prétexte à des suppressions de postes.
+
+--- Liens avec les autres livres
+kw: Liker · Ohno · Rother et Shook · Goldratt
+**Avec Le Modèle Toyota (Liker).** Womack et Jones ont formulé les principes, Liker a approfondi la philosophie, la culture et le développement des personnes qui les rendent durables. Lire les deux donne une vision complète.
+
+**Avec L'Esprit Toyota (Ohno).** Le livre d'Ohno est la source d'origine. On y retrouve le muda, le flux, le juste-à-temps et le kanban, exprimés par celui qui les a inventés.
+
+**Avec Learning to See (Rother et Shook).** Ce guide pratique enseigne la cartographie de la chaîne de valeur, outil central du deuxième principe. Il a été publié dans la foulée de *Lean Thinking* par le Lean Enterprise Institute fondé par Womack.
+
+**Avec Le But (Goldratt).** Goldratt propose une autre approche de l'amélioration des flux, fondée sur la gestion des contraintes. Les deux approches convergent sur plusieurs points : la critique de l'optimisation locale, l'importance du flux et la méfiance envers les indicateurs comptables traditionnels.
+
+**Avec Le Dilemme de l'innovateur (Christensen).** Le premier principe, partir de la valeur pour le client, rejoint l'idée de Christensen selon laquelle il faut comprendre le « travail » que le client cherche à accomplir.
+
+> Parcours conseillé | Lisez ensuite Learning to See pour cartographier une chaîne de valeur, puis Le Modèle Toyota pour la dimension humaine.

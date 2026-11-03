@@ -1,0 +1,284 @@
+id: ericsson
+t: Peak
+o: Peak: Secrets from the New Science of Expertise
+a: Anders Ericsson, Robert Pool
+y: 2016
+cat: Apprendre
+p: ≈ 300 p.
+c: --b1
+ol_author: Ericsson
+center: La pratique délibérée
+pitch: L'excellence ne vient pas d'un don inné mais d'un entraînement particulier : la pratique délibérée, qui construit des représentations mentales.
+
+=== Contexte et thèse
+--- Le chercheur de l'expertise
+kw: psychologue · experts · décennies
+Anders Ericsson était un psychologue suédois, professeur à l'université d'État de Floride. Pendant plus de trente ans, il a étudié les experts dans de nombreux domaines : musiciens, joueurs d'échecs, sportifs, médecins, chauffeurs de taxi, champions de mémoire. Il cherchait à comprendre ce qui distingue les meilleurs des autres.
+
+Ses travaux ont été largement diffusés, et parfois déformés, notamment par la célèbre « règle des dix mille heures » popularisée par un journaliste. Avec le journaliste scientifique Robert Pool, Ericsson a écrit *Peak*, publié en 2016, pour présenter directement ses conclusions et corriger les malentendus.
+
+La thèse du livre est que l'excellence ne vient pas principalement d'un **talent inné**, mais d'un type particulier d'entraînement, qu'Ericsson appelle la **pratique délibérée**. Cette pratique transforme le cerveau et le corps, et construit des capacités que l'on croyait réservées aux personnes douées.
+
+Ericsson ne nie pas toute influence de la génétique. Il reconnaît que certaines caractéristiques physiques, comme la taille pour un basketteur, jouent un rôle. Mais il soutient que, dans la plupart des domaines, les différences entre les meilleurs et les autres s'expliquent avant tout par la quantité et la qualité de leur entraînement.
+
+Le livre s'adresse à toute personne qui veut progresser dans un domaine, ainsi qu'aux parents, aux enseignants et aux managers qui veulent aider les autres à progresser.
+
+> À retenir | L'excellence vient moins d'un don que d'un entraînement particulier, la pratique délibérée.
+
+--- Oreille absolue et chiffres
+kw: Mozart · entraînement · capacités nouvelles
+Ericsson commence par deux exemples qui remettent en question l'idée du talent inné.
+
+**L'oreille absolue.** C'est la capacité à identifier la hauteur exacte d'une note sans référence. On l'a longtemps considérée comme un don rare, que possédaient certains grands musiciens, comme Mozart. Ericsson rapporte des recherches, notamment une étude japonaise, où de jeunes enfants entraînés régulièrement avec une méthode adaptée ont presque tous développé cette capacité. L'oreille absolue serait donc moins un don qu'une capacité qui se développe par un entraînement précoce. Ericsson rappelle aussi que Mozart avait été formé intensivement par son père dès son plus jeune âge.
+
+**La mémoire des chiffres.** À la fin des années 1970, Ericsson mène une expérience avec un étudiant. La plupart des gens peuvent retenir environ sept chiffres entendus à la suite. Au début de l'expérience, l'étudiant n'en retient pas davantage. Pendant près de deux ans, il s'entraîne plusieurs fois par semaine. Il finit par retenir plus de quatre-vingts chiffres. Il a développé des techniques pour regrouper les chiffres, par exemple en les associant à des temps de course à pied, qu'il connaissait bien comme coureur.
+
+Ericsson tire de ces exemples une idée centrale : l'entraînement ne se contente pas d'améliorer une capacité existante. Il peut **créer des capacités nouvelles**, en modifiant la manière dont le cerveau traite l'information.
+
+- L'oreille absolue s'entraîne chez le jeune enfant.
+- La mémoire des chiffres peut être multipliée par l'entraînement.
+- L'entraînement crée des capacités nouvelles.
+
+--- Le cerveau s'adapte
+kw: plasticité · taxis londoniens · homéostasie
+Ericsson explique pourquoi l'entraînement peut produire de tels effets : le corps et le cerveau **s'adaptent** aux exigences qu'on leur impose.
+
+Il prend d'abord l'exemple du corps. Quand on fait de l'exercice physique à un niveau qui dépasse légèrement ses capacités, le corps réagit en développant de nouveaux muscles, de nouveaux vaisseaux sanguins, une plus grande capacité respiratoire. Il cherche à retrouver un équilibre, à un niveau plus élevé. Mais si l'exercice reste dans sa zone de confort, il n'a aucune raison de s'adapter, et les progrès s'arrêtent.
+
+Le cerveau fonctionne de manière comparable. Ericsson cite une étude célèbre sur les **chauffeurs de taxi londoniens**. Pour obtenir leur licence, ils doivent mémoriser le plan complexe de la ville, ce qui leur demande plusieurs années de formation. Des chercheurs ont observé, par imagerie cérébrale, que la région du cerveau liée à la mémoire spatiale, l'hippocampe, était plus développée chez ces chauffeurs que chez des personnes comparables. Et ce développement apparaissait au cours de leur formation.
+
+Ericsson cite aussi des études sur les musiciens, chez qui les régions du cerveau liées au contrôle des doigts sont plus développées, en particulier quand ils ont commencé jeunes.
+
+Il en conclut que le cerveau adulte reste capable de se transformer en réponse à un entraînement exigeant. Mais cette transformation demande de sortir régulièrement de sa zone de confort.
+
+> À retenir | Le corps et le cerveau s'adaptent à ce qu'on leur demande, à condition de les pousser un peu au-delà de leur confort.
+
+=== La pratique délibérée
+--- Pratique naïve, pratique ciblée
+kw: répéter · objectifs · stagnation
+Ericsson distingue plusieurs formes de pratique.
+
+**La pratique naïve** consiste simplement à répéter une activité, en espérant que la répétition suffira à progresser. C'est ce que font la plupart des gens. Un joueur de tennis amateur qui joue chaque semaine avec ses amis, un conducteur qui conduit tous les jours, un employé qui fait son travail chaque jour. Au début, ils progressent. Puis, une fois atteint un niveau acceptable, leurs performances se stabilisent. Ils peuvent continuer pendant des années sans progresser davantage. Ericsson cite même des études selon lesquelles certains médecins expérimentés obtiennent de moins bons résultats que des médecins plus jeunes, parce que leurs connaissances ne sont plus à jour.
+
+**La pratique ciblée** (*purposeful practice*) est plus efficace. Elle présente plusieurs caractéristiques :
+
+- **Des objectifs précis et bien définis**, plutôt qu'une intention générale de progresser.
+- **Une concentration totale** pendant l'entraînement.
+- **Un retour** sur la performance, pour savoir ce qui fonctionne et ce qui ne fonctionne pas.
+- **Une sortie de la zone de confort** : s'entraîner à faire ce que l'on ne sait pas encore faire.
+
+Ericsson illustre cela par l'exemple de l'étudiant qui a développé sa mémoire des chiffres. Il s'est fixé des objectifs précis, s'est concentré pendant chaque séance, a reçu un retour immédiat et a sans cesse cherché de nouvelles techniques quand il atteignait un plateau.
+
+> Question clé | Dans votre métier, pratiquez-vous de manière naïve, en répétant, ou de manière ciblée, avec des objectifs, de la concentration et des retours ?
+
+--- Ce qui rend la pratique délibérée
+kw: méthodes · enseignant · représentations
+La **pratique délibérée** est la forme la plus efficace d'entraînement. Elle reprend les caractéristiques de la pratique ciblée, et en ajoute d'autres.
+
+**Elle s'appuie sur un domaine bien établi.** La pratique délibérée est possible dans les domaines où il existe des méthodes d'entraînement éprouvées, des critères objectifs de performance et une longue tradition d'enseignement : la musique classique, les échecs, de nombreux sports, la danse, les mathématiques.
+
+**Elle est guidée par un enseignant ou un entraîneur.** Un enseignant expérimenté connaît les étapes de progression, sait concevoir des exercices adaptés et repère les erreurs que l'apprenant ne voit pas.
+
+**Elle cible des aspects précis de la performance.** Plutôt que de pratiquer l'activité dans son ensemble, on travaille des éléments particuliers, souvent les plus faibles.
+
+**Elle produit et s'appuie sur des représentations mentales.** C'est l'élément le plus important selon Ericsson.
+
+**Elle s'appuie sur des compétences déjà acquises.** Chaque étape construit sur les précédentes.
+
+**Elle est exigeante et souvent peu agréable.** Ericsson souligne que la pratique délibérée n'est pas un jeu. Elle demande un effort intense et soutenu. Les meilleurs musiciens étudiés par Ericsson ne trouvaient pas leurs séances d'entraînement particulièrement plaisantes, mais ils les considéraient comme nécessaires.
+
+Ericsson précise que, dans les domaines moins structurés, comme beaucoup de métiers, la pratique délibérée au sens strict n'est pas toujours possible. Mais on peut s'en rapprocher en appliquant ses principes.
+
+- Un domaine avec des méthodes éprouvées.
+- Un enseignant qui guide.
+- Un effort intense, souvent peu agréable.
+
+--- Le mythe des dix mille heures
+kw: chiffre moyen · qualité · pas magique
+Ericsson consacre un passage à corriger une idée qui a largement circulé : la « **règle des dix mille heures** ».
+
+Il raconte l'origine de ce chiffre. Dans une étude menée au début des années 1990 sur des violonistes d'une école de musique à Berlin, Ericsson et ses collègues avaient observé que les meilleurs étudiants avaient accumulé, vers vingt ans, environ dix mille heures de pratique en solitaire, nettement plus que les étudiants moins performants. Un journaliste a repris ce chiffre dans un livre à succès, en affirmant qu'il faudrait dix mille heures de pratique pour devenir expert dans n'importe quel domaine.
+
+Ericsson explique que cette affirmation déforme ses travaux sur plusieurs points.
+
+**Le chiffre n'a rien de magique.** Dix mille heures était une moyenne, et certains violonistes en avaient beaucoup moins. Dans d'autres domaines, le nombre d'heures nécessaire peut être très différent.
+
+**Les violonistes n'étaient pas encore des maîtres.** À vingt ans, ils étaient très bons, mais pas encore au sommet de leur discipline.
+
+**Toutes les heures ne se valent pas.** Ce qui compte, ce n'est pas le nombre d'heures, mais la qualité de la pratique. Des milliers d'heures de pratique naïve ne produisent pas d'expert.
+
+**Il n'y a pas de seuil.** On ne devient pas expert d'un coup après un certain nombre d'heures. La progression est continue.
+
+Ericsson reconnaît cependant que l'idée générale est juste : l'excellence demande beaucoup de temps et d'efforts, bien plus que la plupart des gens ne l'imaginent.
+
+> À retenir | Dix mille heures n'est pas une règle. Ce qui compte est la qualité de la pratique, pas le nombre d'heures.
+
+=== Les représentations mentales
+--- Ce que voient les experts
+kw: échecs · motifs · organiser l'information
+Ericsson considère les **représentations mentales** comme la clé de l'expertise.
+
+Une représentation mentale est une structure dans le cerveau qui correspond à un objet, une idée, une situation ou une procédure. Quand on pense au visage d'une personne connue, on utilise une représentation mentale. Les experts disposent de représentations beaucoup plus riches et plus précises que les débutants dans leur domaine.
+
+Ericsson prend l'exemple des **joueurs d'échecs**. Des expériences classiques ont montré que les grands maîtres peuvent mémoriser presque parfaitement une position d'échecs réelle après l'avoir vue quelques secondes, alors que les débutants n'en retiennent que quelques pièces. Mais quand les pièces sont placées au hasard, dans une position qui ne pourrait pas apparaître dans une vraie partie, les grands maîtres ne font guère mieux que les débutants.
+
+Cela montre que les grands maîtres n'ont pas une meilleure mémoire en général. Ils ont des représentations mentales qui leur permettent de reconnaître des **motifs** familiers dans les positions réelles. Ils voient un groupe de pièces comme une seule configuration significative, là où le débutant voit des pièces isolées.
+
+Ces représentations permettent aux experts de traiter beaucoup d'informations rapidement, de repérer ce qui est important, d'anticiper ce qui va se passer et de choisir rapidement une bonne action. Elles se construisent au cours de milliers d'heures de pratique délibérée.
+
+- Les experts voient des motifs là où les débutants voient des détails.
+- Leur avantage disparaît face à des situations aléatoires.
+- Les représentations se construisent par la pratique délibérée.
+
+--- Représentations et performance
+kw: anticiper · planifier · s'autocorriger
+Ericsson explique comment les représentations mentales améliorent la performance dans différents domaines.
+
+**Elles permettent d'anticiper.** Un joueur de tennis expérimenté devine la direction de la balle en observant la position du corps de son adversaire avant même qu'il ne frappe. Ses représentations lui permettent de lire les signaux que le débutant ne voit pas.
+
+**Elles permettent de planifier.** Un alpiniste expérimenté visualise la voie avant de commencer l'ascension. Un écrivain expérimenté a une représentation de la structure de son texte avant de l'écrire.
+
+**Elles permettent de s'autocorriger.** Un musicien expérimenté a une représentation claire de ce que doit être un morceau. Il entend immédiatement quand son interprétation s'en écarte, et peut corriger sans avoir besoin d'un professeur. C'est pourquoi les experts peuvent continuer à progresser seuls.
+
+**Elles permettent de comprendre l'information.** Un médecin expérimenté qui lit un dossier voit immédiatement les éléments importants et les relie entre eux.
+
+Ericsson souligne un cercle vertueux : la pratique délibérée construit de meilleures représentations, qui permettent de pratiquer plus efficacement, ce qui construit des représentations encore meilleures.
+
+Il en tire une conséquence pour l'apprentissage. Le but de l'entraînement n'est pas seulement de répéter des gestes, mais de construire des représentations mentales. Il faut donc s'entraîner à comprendre ce que l'on fait, à analyser ses erreurs et à comparer sa performance à celle des meilleurs.
+
+> Exercice | Dans votre domaine, choisissez un exemple de travail excellent. Analysez-le pour comprendre ce qui le rend excellent, puis essayez de le reproduire sans le regarder.
+
+=== S'entraîner au travail et seul
+--- La pratique délibérée au travail
+kw: médecins · pilotes · entraînement réel
+Ericsson consacre un chapitre à l'application de la pratique délibérée dans le monde professionnel. Il observe que la plupart des professionnels ne s'entraînent pas. Ils font leur travail, et considèrent que l'expérience suffit à progresser. Mais l'expérience seule produit souvent une stagnation.
+
+Il présente plusieurs exemples d'organisations qui ont introduit des formes de pratique délibérée.
+
+**Les pilotes de chasse.** Pendant la guerre du Vietnam, la marine américaine a créé une école d'entraînement où ses pilotes affrontaient en combat simulé des instructeurs très expérimentés, qui imitaient les tactiques ennemies. Après chaque exercice, une analyse détaillée permettait aux pilotes de comprendre leurs erreurs. Selon Ericsson, les résultats en combat réel se sont nettement améliorés pour les pilotes formés ainsi.
+
+**Les médecins.** Ericsson évoque des programmes d'entraînement par simulation, où les médecins pratiquent des interventions sur des mannequins ou des cas simulés, avec un retour immédiat. Il cite aussi des radiologues qui améliorent leur lecture des mammographies en s'entraînant sur des cas dont le diagnostic est connu.
+
+Il propose une démarche pour les organisations : identifier les meilleurs professionnels, comprendre ce qui les distingue, concevoir des exercices qui permettent de développer ces compétences, avec des retours fréquents.
+
+Il souligne aussi l'importance de **mesurer la performance réelle**, plutôt que les années d'expérience ou les diplômes, qui ne disent pas grand-chose de la compétence.
+
+- L'expérience seule ne fait pas progresser.
+- Simuler, s'entraîner, analyser après chaque exercice.
+- Mesurer la performance réelle, pas les années.
+
+--- Progresser seul
+kw: modèle · plateau · motivation
+Ericsson reconnaît que tout le monde n'a pas accès à un enseignant. Il propose des conseils pour pratiquer de manière délibérée par soi-même.
+
+**Trouver un modèle.** Identifier des personnes qui excellent dans le domaine, et étudier précisément ce qu'elles font. Ericsson rappelle l'exemple de Benjamin Franklin, qui améliorait son écriture en analysant des articles qu'il admirait et en essayant de les reconstruire.
+
+**Se fixer des objectifs précis.** Plutôt que « devenir meilleur », choisir une composante à améliorer et un critère de réussite.
+
+**Obtenir des retours.** Enregistrer sa performance pour l'analyser, comparer son travail à celui des meilleurs, demander l'avis de personnes compétentes.
+
+**Surmonter les plateaux.** Tout le monde rencontre des périodes où les progrès s'arrêtent. Ericsson recommande d'identifier précisément ce qui bloque, en modifiant les conditions de pratique, par exemple en allant plus vite ou en changeant de méthode pour faire apparaître les erreurs.
+
+**Entretenir la motivation.** La pratique délibérée est exigeante, et la motivation finit souvent par faiblir. Ericsson propose plusieurs moyens de la maintenir : prévoir des moments réguliers et protégés pour s'entraîner, limiter la durée des séances pour garder une concentration élevée, s'entourer de personnes qui partagent le même objectif, et célébrer les progrès. Il souligne que les experts qu'il a étudiés ne comptaient pas sur la volonté seule, mais sur des habitudes et un environnement qui soutenaient leur pratique.
+
+> À retenir | Sans enseignant : un modèle, des objectifs précis, des retours, et un environnement qui soutient l'effort.
+
+=== Talent et parcours
+--- Le chemin vers l'excellence
+kw: étapes · enfance · engagement
+Ericsson décrit les étapes typiques du parcours des experts qu'il a étudiés.
+
+**La découverte.** Les futurs experts découvrent généralement leur domaine dans l'enfance, de manière ludique. Leurs parents les encouragent, les félicitent, leur donnent l'occasion de pratiquer.
+
+**L'engagement.** Vers la fin de l'enfance ou au début de l'adolescence, ils commencent à s'entraîner plus sérieusement, souvent avec un enseignant. La pratique devient plus régulière et plus exigeante. Les parents jouent un rôle essentiel en soutenant cet engagement.
+
+**L'investissement total.** À l'adolescence ou au début de l'âge adulte, certains décident de consacrer leur vie à ce domaine. Ils s'entraînent plusieurs heures par jour, avec les meilleurs enseignants disponibles.
+
+**L'innovation.** Les plus grands experts finissent par dépasser ce que leurs enseignants peuvent leur apprendre. Ils développent de nouvelles techniques, de nouvelles approches, et font progresser leur domaine.
+
+Ericsson souligne que ce parcours n'est pas réservé aux enfants. Les adultes peuvent aussi progresser considérablement, même s'ils ne pourront généralement pas atteindre le plus haut niveau dans des domaines très physiques ou très compétitifs où les meilleurs ont commencé très tôt.
+
+Il cite des exemples d'adultes qui ont développé des compétences remarquables, dans la musique, le sport ou d'autres domaines, en commençant tardivement.
+
+- Découverte ludique, engagement, investissement, innovation.
+- Le rôle des parents et des enseignants est décisif.
+- Les adultes peuvent aussi progresser beaucoup.
+
+--- Et le talent ?
+kw: génétique · prodiges · conséquences
+Ericsson aborde directement la question du **talent inné**. Il examine plusieurs cas souvent présentés comme des preuves du talent, et propose une autre explication.
+
+Il revient sur Mozart, souvent cité comme l'exemple du génie inné. Ericsson rappelle qu'il a reçu dès sa petite enfance un entraînement intensif de son père, lui-même musicien et pédagogue. Ses premières compositions ont probablement été largement corrigées par son père. Ses œuvres majeures datent d'une époque où il avait déjà accumulé de nombreuses années de pratique.
+
+Il évoque aussi le cas de personnes présentées comme des prodiges, et montre que leur parcours révèle presque toujours un entraînement intensif précoce.
+
+Ericsson reconnaît que la génétique joue un rôle dans certains domaines, notamment physiques. La taille, la morphologie ou certaines capacités physiques influencent la performance. Il admet aussi que des différences individuelles peuvent influencer la facilité avec laquelle on progresse au début. Mais il soutient que ces différences comptent beaucoup moins que la pratique, surtout aux niveaux élevés.
+
+Il souligne enfin un danger de la croyance au talent : elle peut devenir une **prophétie autoréalisatrice**. Si un enfant est jugé peu doué, on ne l'encourage pas, il pratique moins, et il progresse moins, ce qui semble confirmer le jugement initial. À l'inverse, un enfant jugé doué reçoit plus d'attention et d'opportunités.
+
+> Question clé | Avez-vous un jour renoncé à une activité parce que vous pensiez ne pas être « doué » ?
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · une compétence
+**Semaine 1 : choisir et observer.** Choisissez une compétence que vous voulez améliorer. Identifiez une personne qui excelle dans ce domaine. Analysez précisément ce qu'elle fait mieux que vous. Mesurez votre niveau actuel.
+
+**Semaine 2 : cibler.** Choisissez un aspect précis à travailler. Concevez un exercice qui vous oblige à sortir légèrement de votre zone de confort. Pratiquez chaque jour, avec une concentration totale, pendant des séances courtes.
+
+**Semaine 3 : obtenir des retours.** Enregistrez votre performance, comparez-la à votre modèle, ou demandez un avis à une personne compétente. Ajustez vos exercices en fonction des erreurs constatées.
+
+**Semaine 4 : construire des représentations.** Essayez de reproduire un exemple de travail excellent sans le regarder, puis comparez. Notez ce que vous comprenez maintenant que vous ne compreniez pas au début. Mesurez à nouveau votre niveau.
+
+Ericsson rappelle que les progrès significatifs prennent des mois ou des années. Ce premier mois sert surtout à installer une méthode de pratique.
+
+> À retenir | Un modèle, un aspect ciblé, un exercice inconfortable, des retours, des représentations qui s'affinent.
+
+--- Cas pratique : le commercial
+kw: rendez-vous · enregistrement · progrès
+Thomas est commercial dans une entreprise de logiciels depuis cinq ans. Ses résultats sont corrects, mais stables, alors que certains collègues progressent chaque année. Il pense qu'ils sont simplement plus doués.
+
+**Observer.** Il demande à accompagner la meilleure commerciale de l'équipe lors de plusieurs rendez-vous. Il remarque qu'elle pose beaucoup plus de questions que lui avant de présenter le produit, et qu'elle reformule souvent les besoins du client.
+
+**Cibler.** Il décide de travailler spécifiquement la phase de découverte des besoins. Il prépare pour chaque rendez-vous une série de questions, et se fixe comme objectif de ne pas présenter le produit avant d'avoir posé au moins dix questions.
+
+**Sortir de sa zone de confort.** Au début, il est mal à l'aise : il a l'impression de perdre du temps.
+
+**Retour.** Avec l'accord des clients, il enregistre certains appels. Chaque semaine, il les écoute avec sa collègue, qui lui signale ce qu'il aurait pu faire autrement.
+
+**Représentations.** Au bout de quelques mois, il reconnaît rapidement les différents profils de clients et leurs préoccupations typiques.
+
+Un an plus tard, son taux de conversion a nettement augmenté.
+
+> Question de réflexion | Dans votre métier, qui pourriez-vous observer, et quel aspect précis pourriez-vous entraîner ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: génétique · débats · domaines flous
+*Peak* est une synthèse importante, mais ses thèses ont suscité des débats.
+
+**Le rôle de la génétique.** Plusieurs chercheurs estiment qu'Ericsson sous-estime l'influence des différences individuelles innées. Des études ont montré que la quantité de pratique explique une partie importante, mais pas la totalité, des différences de performance, et que cette part varie selon les domaines.
+
+**Les domaines peu structurés.** La pratique délibérée au sens strict suppose un domaine où les méthodes d'entraînement sont établies et la performance mesurable. Dans beaucoup de métiers, notamment ceux qui demandent créativité ou jugement dans des situations incertaines, il est plus difficile de l'appliquer.
+
+**Le coût de l'excellence.** Le livre décrit des parcours qui demandent des milliers d'heures d'effort intense, souvent dès l'enfance. Il aborde peu les coûts de ces parcours : la pression, l'épuisement, le renoncement à d'autres activités.
+
+**La motivation.** Le livre explique comment s'entraîner, mais la question de savoir pourquoi certaines personnes sont capables de maintenir un tel engagement reste en partie ouverte.
+
+**Des exemples choisis.** Les cas de réussite présentés sont frappants, mais on connaît moins les personnes qui ont beaucoup pratiqué sans atteindre l'excellence.
+
+- La pratique compte énormément, mais pas seule.
+- Plus difficile à appliquer dans les domaines peu structurés.
+
+--- Liens avec les autres livres
+kw: Dweck · Young · Newport · Csikszentmihalyi
+**Avec Changer d'état d'esprit (Dweck).** Les deux livres contestent l'idée d'un talent fixe et mettent l'accent sur l'effort et l'apprentissage.
+
+**Avec Ultralearning (Young).** L'exercice ciblé et la rétroaction de Young appliquent la pratique délibérée à des projets d'apprentissage autonomes.
+
+**Avec Deep Work (Newport).** La pratique délibérée exige une concentration intense, qui correspond au travail en profondeur.
+
+**Avec Vivre (Csikszentmihalyi).** Le *flow* survient quand le défi est légèrement supérieur aux compétences, ce qui est aussi la zone de la pratique délibérée.
+
+**Avec Apprendre ! (Dehaene).** Les représentations mentales d'Ericsson correspondent aux modèles internes que le cerveau construit selon Dehaene.
+
+> Parcours conseillé | Lisez ensuite Changer d'état d'esprit pour le rapport à l'effort, puis Ultralearning pour organiser votre propre projet.

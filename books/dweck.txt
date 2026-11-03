@@ -1,0 +1,285 @@
+id: dweck
+t: Changer d'état d'esprit
+o: Mindset
+a: Carol S. Dweck
+y: 2006
+cat: Apprendre
+p: ≈ 280 p.
+c: --b2
+ol_author: Dweck
+center: État d'esprit fixe ou de développement
+pitch: Croire que ses capacités sont figées ou qu'elles se développent change la manière d'apprendre, d'échouer, de diriger et d'aimer.
+
+=== Contexte et thèse
+--- Une psychologue et les enfants
+kw: Stanford · échec · puzzles
+Carol Dweck est professeure de psychologie à l'université Stanford. Depuis les années 1970, elle étudie la manière dont les personnes réagissent à l'échec et aux difficultés.
+
+Elle raconte une expérience qui a marqué le début de ses recherches. Elle donnait à des enfants des puzzles de plus en plus difficiles, et observait leur réaction. Elle s'attendait à voir certains enfants se décourager et d'autres résister. Elle a découvert quelque chose de plus surprenant : certains enfants semblaient **aimer** l'échec. Face à un puzzle trop difficile, ils se frottaient les mains et disaient qu'ils adoraient les défis. Pour eux, l'échec n'était pas un signe d'incapacité, mais une occasion d'apprendre.
+
+Dweck a voulu comprendre ce qui distinguait ces enfants des autres. Pendant des décennies, elle a mené des recherches auprès d'élèves, d'étudiants, de sportifs, de managers et de couples. Elle a fini par identifier un facteur décisif : les **croyances** des personnes sur la nature de leurs capacités.
+
+*Mindset*, publié en 2006, présente ces recherches pour un large public. Le livre est devenu très influent, en particulier dans l'éducation, où l'expression « état d'esprit de développement » est entrée dans le vocabulaire courant.
+
+La thèse est simple : la manière dont on considère ses capacités, comme figées ou comme pouvant se développer, influence profondément la manière dont on apprend, dont on réagit aux difficultés et dont on vit.
+
+> À retenir | Certains enfants aimaient l'échec. Ce qui les distinguait n'était pas leur talent, mais leur croyance sur la nature de leurs capacités.
+
+--- Deux états d'esprit
+kw: fixe · développement · croyances
+Dweck distingue deux états d'esprit.
+
+L'**état d'esprit fixe** consiste à croire que ses qualités, l'intelligence, la personnalité, le talent, sont **gravées dans le marbre**. On a une certaine quantité d'intelligence, et on ne peut pas la changer. Avec cet état d'esprit, chaque situation devient un test : va-t-on réussir, et donc prouver qu'on est intelligent, ou échouer, et révéler qu'on ne l'est pas ?
+
+L'**état d'esprit de développement** consiste à croire que ses qualités peuvent être **cultivées** par l'effort, les bonnes stratégies et l'aide des autres. On ne nie pas que les personnes soient différentes, ni que certaines aient plus de facilités. Mais on considère que chacun peut progresser considérablement par l'apprentissage et la pratique.
+
+Dweck souligne que ces états d'esprit ne sont pas des traits de personnalité permanents. Ce sont des **croyances**, qui peuvent varier selon les domaines. Une personne peut avoir un état d'esprit de développement pour le sport et un état d'esprit fixe pour les mathématiques. Et surtout, ces croyances peuvent changer.
+
+Elle explique que ces croyances ont des effets en cascade. Elles influencent ce que l'on recherche, comment on interprète les échecs, ce que l'on pense de l'effort, comment on réagit aux critiques et comment on considère la réussite des autres.
+
+- Fixe : les capacités sont données une fois pour toutes.
+- Développement : elles se cultivent par l'effort et l'apprentissage.
+- Ce sont des croyances, variables selon les domaines, et modifiables.
+
+--- Les conséquences en cascade
+kw: défis · obstacles · effort · critiques
+Dweck décrit comment chaque état d'esprit conduit à des comportements différents.
+
+**Face aux défis.** Avec un état d'esprit fixe, on évite les défis, car un échec risquerait de révéler un manque de capacités. On préfère les tâches où l'on est sûr de réussir. Avec un état d'esprit de développement, on recherche les défis, parce qu'ils permettent d'apprendre.
+
+**Face aux obstacles.** Avec un état d'esprit fixe, on abandonne facilement, car un obstacle est vu comme la preuve qu'on n'est pas fait pour cela. Avec un état d'esprit de développement, on persévère, parce qu'un obstacle est une étape normale de l'apprentissage.
+
+**Face à l'effort.** Avec un état d'esprit fixe, l'effort est vu comme un signe de faiblesse : si l'on était vraiment doué, on n'aurait pas besoin de faire d'effort. Avec un état d'esprit de développement, l'effort est le chemin vers la maîtrise.
+
+**Face aux critiques.** Avec un état d'esprit fixe, on ignore ou on rejette les critiques, parce qu'elles menacent l'image de soi. Avec un état d'esprit de développement, on les utilise pour apprendre.
+
+**Face à la réussite des autres.** Avec un état d'esprit fixe, la réussite des autres est menaçante, car elle peut faire paraître moins capable. Avec un état d'esprit de développement, elle est une source d'inspiration et d'apprentissage.
+
+Dweck souligne qu'au fil du temps, ces différences de comportement produisent des différences importantes de résultats. Les personnes à l'état d'esprit de développement apprennent davantage, et finissent souvent par dépasser celles qui avaient plus de facilités au départ.
+
+> Question clé | Face à votre dernier échec, avez-vous pensé « je ne suis pas fait pour ça » ou « qu'est-ce que je peux en apprendre » ?
+
+=== L'école et l'apprentissage
+--- Les études sur les élèves
+kw: transition · collège · notes
+Dweck présente plusieurs études menées auprès d'élèves, qui montrent l'influence des états d'esprit sur la réussite scolaire.
+
+Dans l'une d'elles, elle suit des élèves pendant la transition vers le collège, une période où les exigences augmentent et où les notes baissent souvent. Au départ, les élèves des deux états d'esprit ont des résultats comparables. Mais au cours des années suivantes, ceux qui ont un état d'esprit de développement voient leurs notes progresser, tandis que ceux qui ont un état d'esprit fixe stagnent ou régressent.
+
+Dweck explique cette différence par les réactions face aux difficultés. Quand les mathématiques deviennent plus difficiles, les élèves à l'état d'esprit fixe interprètent leurs mauvaises notes comme une preuve de leur manque de capacités. Ils se découragent, travaillent moins, et parfois trichent. Les élèves à l'état d'esprit de développement considèrent ces difficultés comme un signal qu'il faut travailler davantage ou changer de méthode.
+
+Elle décrit aussi une expérience où des élèves suivaient un court programme expliquant que le cerveau se renforce comme un muscle quand on apprend. Un groupe comparable suivait un programme sur d'autres compétences d'étude. Les élèves du premier groupe ont amélioré leurs résultats en mathématiques, tandis que ceux du second groupe ont continué à décliner.
+
+Dweck souligne que ces effets sont particulièrement importants pour les élèves qui rencontrent des difficultés ou qui appartiennent à des groupes stigmatisés, car l'état d'esprit fixe renforce les stéréotypes selon lesquels certains groupes seraient moins capables.
+
+- Les écarts apparaissent quand les difficultés augmentent.
+- L'état d'esprit fixe conduit à abandonner, l'autre à persévérer.
+- Comprendre la plasticité du cerveau peut changer les résultats.
+
+--- Le piège des compliments
+kw: intelligence · effort · processus
+L'une des découvertes les plus célèbres de Dweck concerne la manière de **complimenter** les enfants.
+
+Elle décrit une expérience menée avec des centaines d'élèves. On leur donnait d'abord une série de problèmes assez faciles. Ensuite, on complimentait certains enfants sur leur **intelligence** : tu as dû être très intelligent pour réussir cela. D'autres étaient complimentés sur leur **effort** : tu as dû beaucoup travailler pour réussir cela.
+
+Les effets ont été frappants. Les enfants complimentés sur leur intelligence ont adopté un état d'esprit fixe. Quand on leur a ensuite proposé de choisir entre une tâche facile et une tâche difficile, la plupart ont choisi la facile, pour ne pas risquer de perdre leur image d'enfants intelligents. Quand ils ont rencontré des problèmes difficiles, ils se sont découragés, ont moins apprécié la tâche et ont obtenu de moins bons résultats. Certains ont même menti sur leurs scores.
+
+Les enfants complimentés sur leur effort ont adopté un état d'esprit de développement. Ils ont choisi les tâches difficiles, persévéré face aux problèmes et progressé.
+
+Dweck en tire une recommandation : **complimenter le processus plutôt que la personne**. Valoriser l'effort, les stratégies, la persévérance, les progrès, plutôt que l'intelligence ou le talent.
+
+Elle précise que cela ne signifie pas complimenter n'importe quel effort, même inefficace. Il faut valoriser l'effort **associé à de bonnes stratégies**, et aider l'enfant à changer de méthode quand l'effort ne suffit pas.
+
+> À retenir | Féliciter l'intelligence pousse à éviter les défis. Féliciter l'effort et la stratégie pousse à les rechercher.
+
+=== Sport, travail et relations
+--- Le sport et le talent
+kw: athlètes · caractère · entraînement
+Dweck consacre un chapitre au sport, un domaine où l'on croit souvent beaucoup au talent naturel.
+
+Elle cite des exemples d'athlètes considérés comme des talents exceptionnels, qui n'ont pas réalisé leur potentiel parce qu'ils comptaient sur leurs facilités et ne travaillaient pas assez. Elle évoque des joueurs qui, après un échec, accusaient les autres ou les circonstances, plutôt que de chercher à progresser.
+
+À l'inverse, elle décrit des athlètes qui n'étaient pas considérés comme les plus doués au départ, mais qui ont atteint le plus haut niveau grâce à leur travail acharné et leur capacité à apprendre de leurs échecs. Elle cite notamment de grands joueurs de basket-ball ou de baseball connus pour la rigueur de leur entraînement, et qui avaient connu des échecs importants au début de leur carrière.
+
+Dweck souligne que ces athlètes avaient en commun ce que les entraîneurs appellent le **caractère** : la capacité à se relever après une défaite, à rester concentré sous la pression, à travailler même quand ce n'est pas agréable. Elle affirme que ce caractère est lié à l'état d'esprit de développement.
+
+Elle évoque aussi des entraîneurs célèbres qui ont cultivé cet état d'esprit chez leurs joueurs, en valorisant l'effort, la préparation et l'amélioration personnelle plutôt que la victoire à tout prix. L'un d'eux, entraîneur d'une équipe universitaire de basket-ball, définissait la réussite comme la satisfaction d'avoir fait de son mieux pour devenir le meilleur possible.
+
+- Le talent sans travail ne suffit pas.
+- Le caractère, c'est se relever et continuer à apprendre.
+- Les grands entraîneurs valorisent l'effort et le progrès.
+
+--- Les dirigeants et les entreprises
+kw: PDG · génies · culture
+Dweck applique ses idées au monde de l'entreprise et du leadership.
+
+Elle décrit des dirigeants à l'**état d'esprit fixe**. Ils ont besoin de prouver sans cesse leur supériorité. Ils s'entourent de personnes qui les admirent et écartent celles qui les contredisent. Ils refusent de reconnaître leurs erreurs. Ils cherchent à briller personnellement plutôt qu'à développer leur organisation. Dweck cite plusieurs exemples de dirigeants célèbres dont les entreprises ont décliné sous leur direction, en partie à cause de cette attitude.
+
+Elle décrit à l'inverse des dirigeants à l'**état d'esprit de développement**. Ils cherchent à apprendre, écoutent les critiques, reconnaissent leurs erreurs et s'entourent de personnes compétentes, même plus compétentes qu'eux. Ils se concentrent sur le développement de leurs équipes et de leur organisation. Elle cite plusieurs dirigeants connus pour avoir redressé leur entreprise en adoptant cette attitude.
+
+Dweck fait le lien avec les travaux de Jim Collins sur les entreprises qui passent de la performance à l'excellence. Les dirigeants de ces entreprises, que Collins appelle les leaders de niveau 5, étaient humbles, posaient des questions et affrontaient la réalité, des caractéristiques proches de l'état d'esprit de développement.
+
+Elle évoque aussi la **culture des organisations**. Certaines entreprises valorisent avant tout le talent, recrutent des génies et les mettent en compétition. Ces cultures peuvent encourager la dissimulation des erreurs et les comportements risqués. D'autres valorisent l'apprentissage et le développement, ce qui favorise la collaboration et l'innovation.
+
+> Question clé | Votre organisation valorise-t-elle surtout le talent démontré, ou l'apprentissage et le progrès ?
+
+--- Les relations
+kw: couple · conflits · reproches
+Dweck applique aussi les états d'esprit aux **relations personnelles**, notamment au couple.
+
+Elle explique que l'état d'esprit fixe peut prendre une forme particulière dans les relations. Certaines personnes croient qu'une bonne relation doit être naturellement facile, sans effort. Si deux personnes sont faites l'une pour l'autre, pensent-elles, elles devraient se comprendre spontanément, sans avoir à communiquer leurs besoins. Les difficultés sont alors vues comme la preuve que la relation n'est pas la bonne.
+
+Avec cet état d'esprit, les conflits deviennent menaçants. Quand un problème apparaît, on cherche un coupable. On attribue les difficultés aux défauts permanents de l'autre : il est égoïste, elle est irresponsable. Ces jugements figés rendent les problèmes difficiles à résoudre.
+
+Avec un état d'esprit de développement, on considère qu'une relation se construit. Les difficultés sont normales, et peuvent être surmontées par la communication et l'effort. On voit les défauts de l'autre, et les siens, comme des comportements qui peuvent évoluer. Les conflits deviennent des occasions de mieux se comprendre.
+
+Dweck évoque aussi les relations d'amitié et les situations de **rejet**. Les personnes à l'état d'esprit fixe vivent le rejet comme un jugement définitif sur leur valeur, et peuvent développer de la rancune ou un désir de vengeance. Celles à l'état d'esprit de développement cherchent à comprendre ce qui s'est passé et à en tirer des leçons.
+
+- Une relation n'est pas censée être facile sans effort.
+- Les jugements figés sur l'autre bloquent la résolution des conflits.
+- Les difficultés sont des occasions de se comprendre.
+
+=== Parents, enseignants, managers
+--- Transmettre l'état d'esprit
+kw: messages · réactions à l'échec · exigence
+Dweck consacre un chapitre aux personnes qui ont une influence sur le développement des autres : parents, enseignants, entraîneurs, managers.
+
+Elle explique que ces personnes transmettent un état d'esprit à travers leurs **messages**, souvent sans s'en rendre compte. Chaque compliment, chaque critique, chaque réaction à un échec envoie un message sur la nature des capacités.
+
+Elle donne des exemples de messages qui transmettent un état d'esprit fixe : complimenter le talent ou l'intelligence ; dire à un enfant qui échoue qu'il n'est pas fait pour cela ; protéger un enfant de toute difficulté pour préserver sa confiance ; comparer les enfants entre eux en termes de dons.
+
+À l'inverse, des messages transmettent un état d'esprit de développement : valoriser l'effort, les stratégies et les progrès ; présenter l'échec comme une étape de l'apprentissage ; proposer des défis adaptés ; montrer que l'on apprend soi-même.
+
+Dweck souligne que l'état d'esprit de développement n'est pas synonyme de **laxisme**. Les grands enseignants qu'elle décrit ont des exigences très élevées pour tous leurs élèves. Mais ils croient que chacun peut les atteindre, et ils fournissent le soutien nécessaire. Elle cite l'exemple d'une enseignante qui a obtenu des résultats remarquables avec des élèves de quartiers défavorisés, en refusant de croire que leurs difficultés étaient définitives.
+
+Elle met aussi en garde contre la manière dont les adultes réagissent à leurs propres échecs devant les enfants. Un parent qui se décourage facilement ou qui rejette la faute sur les autres transmet un état d'esprit fixe.
+
+> À retenir | Chaque compliment et chaque réaction à l'échec transmet un état d'esprit. Exigence élevée et confiance dans le progrès vont ensemble.
+
+--- Le manager qui fait grandir
+kw: potentiel · feedback · erreurs
+Dweck propose des pistes pour les managers qui veulent cultiver un état d'esprit de développement dans leurs équipes.
+
+**Croire au potentiel de chacun.** Un manager qui pense que certains collaborateurs sont doués et d'autres non investira dans les premiers et négligera les seconds. Il passera aussi à côté de talents qui auraient pu se développer.
+
+**Donner un feedback orienté vers le progrès.** Plutôt que de juger les personnes, commenter leurs actions, leurs stratégies et leurs progrès. Proposer des pistes concrètes d'amélioration.
+
+**Valoriser l'apprentissage et pas seulement les résultats.** Reconnaître les efforts, les initiatives et les leçons tirées des échecs, même quand le résultat n'est pas au rendez-vous.
+
+**Accepter les erreurs.** Créer un environnement où l'on peut reconnaître ses erreurs sans crainte, pour pouvoir en apprendre.
+
+**Montrer l'exemple.** Reconnaître ses propres erreurs, demander du feedback, montrer que l'on continue à apprendre.
+
+**Recruter et promouvoir sur le potentiel d'apprentissage.** Dans le recrutement et les promotions, valoriser la capacité à apprendre et à progresser, pas seulement les compétences actuelles.
+
+Dweck cite des recherches montrant que des managers à l'état d'esprit fixe remarquent moins les progrès de leurs collaborateurs, et donnent moins de conseils utiles. Elle évoque aussi des formations qui ont permis à des managers de changer d'état d'esprit et d'améliorer leur accompagnement.
+
+- Croire que chacun peut progresser.
+- Commenter les actions et les stratégies, pas les personnes.
+- Reconnaître l'apprentissage autant que les résultats.
+
+=== Changer d'état d'esprit
+--- Un changement progressif
+kw: déclencheurs · personnage · voix intérieure
+Dweck consacre le dernier chapitre à la manière de **changer** d'état d'esprit.
+
+Elle souligne d'abord que ce changement n'est pas instantané. On ne passe pas d'un état d'esprit fixe à un état d'esprit de développement simplement en lisant un livre. Les deux états d'esprit coexistent en chacun de nous, et l'état d'esprit fixe resurgit souvent dans certaines situations.
+
+Elle propose d'abord de **reconnaître ses déclencheurs**. Dans quelles situations l'état d'esprit fixe apparaît-il ? Face à un défi difficile, à une critique, à la réussite d'un collègue, à un échec ? Quand on se sent menacé, défensif, découragé ?
+
+Elle suggère ensuite de **donner un nom** à son personnage à l'état d'esprit fixe, cette voix intérieure qui dit que l'on n'est pas capable, que l'on va échouer, que les autres sont meilleurs. Ce nom permet de prendre de la distance avec cette voix, et de lui répondre.
+
+Elle recommande ensuite de **répondre à cette voix** avec un discours d'état d'esprit de développement. Quand elle dit « tu n'es pas fait pour ça », répondre « je ne sais pas encore le faire, mais je peux apprendre ». Quand elle dit « et si j'échoue ? », répondre « les personnes qui réussissent ont aussi échoué ».
+
+Enfin, elle propose d'**agir** : choisir le défi, persévérer, demander du feedback, et observer les résultats.
+
+Dweck souligne que le mot « **encore** » joue un rôle important. Dire « je ne sais pas faire » est un constat figé. Dire « je ne sais pas encore faire » ouvre la possibilité du progrès.
+
+> Exercice | Notez une situation récente où votre voix intérieure vous a dit « tu n'es pas capable ». Écrivez ce que vous pourriez lui répondre.
+
+--- Le faux état d'esprit de développement
+kw: malentendus · effort seul · discours
+Dans les éditions plus récentes de son livre et dans des articles ultérieurs, Dweck a mis en garde contre un phénomène qu'elle appelle le **faux état d'esprit de développement**.
+
+Elle observe que l'expression est devenue très populaire, notamment dans les écoles, mais qu'elle est souvent mal comprise. Elle décrit plusieurs malentendus.
+
+**Confondre état d'esprit de développement et attitude positive.** Être ouvert d'esprit, optimiste ou flexible n'est pas la même chose que croire que ses capacités peuvent se développer.
+
+**Valoriser l'effort seul.** Certains enseignants félicitent les élèves pour leur effort même quand cet effort ne produit aucun progrès. Dweck rappelle que l'objectif est l'apprentissage. Si l'effort ne fonctionne pas, il faut aider l'élève à changer de stratégie, demander de l'aide ou essayer d'autres approches.
+
+**Utiliser l'état d'esprit pour consoler.** Dire à un élève qui échoue « ce n'est pas grave, tu as fait de ton mieux » sans l'aider à progresser revient à abandonner.
+
+**Le proclamer sans le vivre.** Beaucoup de personnes et d'organisations affirment avoir un état d'esprit de développement, mais réagissent aux erreurs avec sévérité, ou classent les gens selon leur talent.
+
+**Croire qu'on l'a une fois pour toutes.** Personne n'a un état d'esprit de développement pur. Tout le monde a des déclencheurs d'état d'esprit fixe.
+
+Dweck insiste sur le fait que l'état d'esprit de développement est un chemin, pas une étiquette.
+
+- Ce n'est pas l'optimisme ni l'effort pour l'effort.
+- L'objectif est l'apprentissage, avec de bonnes stratégies.
+- Personne n'en a un pur ; c'est un chemin.
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · déclencheurs
+**Semaine 1 : observer.** Chaque jour, notez une situation où vous avez réagi avec un état d'esprit fixe : éviter un défi, vous décourager, rejeter une critique, vous sentir menacé par la réussite d'un autre. Identifiez vos principaux déclencheurs.
+
+**Semaine 2 : nommer et répondre.** Donnez un nom à votre voix d'état d'esprit fixe. Quand elle se manifeste, répondez-lui par écrit avec un discours de développement. Ajoutez le mot « encore » à vos constats d'incapacité.
+
+**Semaine 3 : changer ses compliments.** Dans vos échanges avec vos enfants, vos collègues ou vos collaborateurs, remplacez les compliments sur le talent par des commentaires sur l'effort, les stratégies et les progrès.
+
+**Semaine 4 : choisir un défi.** Choisissez une activité que vous évitiez parce que vous ne vous sentiez pas doué. Commencez à l'apprendre, demandez du feedback, et notez vos progrès.
+
+Dweck rappelle que le changement est progressif, et que les rechutes sont normales.
+
+> À retenir | Repérer ses déclencheurs, nommer sa voix intérieure, changer ses compliments, choisir un défi évité.
+
+--- Cas pratique : la manager et l'équipe
+kw: talents · erreurs · progression
+Sarah dirige une équipe de développeurs. Elle a l'habitude de distinguer les « bons » développeurs, auxquels elle confie les projets importants, et les autres, qu'elle cantonne aux tâches simples. Les seconds progressent peu, et deux d'entre eux viennent de démissionner.
+
+**Le diagnostic.** En lisant Dweck, elle reconnaît chez elle un état d'esprit fixe sur les capacités de ses collaborateurs.
+
+**Changer de regard.** Elle décide de considérer chaque membre de l'équipe comme capable de progresser. Elle confie à deux développeurs moins expérimentés une partie d'un projet important, avec un accompagnement par un collègue senior.
+
+**Changer le feedback.** Lors des revues de code, elle commente les choix techniques et les améliorations, plutôt que de qualifier les personnes.
+
+**Accepter les erreurs.** Elle instaure des réunions où l'équipe analyse les incidents sans chercher de coupable, pour en tirer des leçons.
+
+**Montrer l'exemple.** Elle reconnaît devant l'équipe une erreur d'estimation qu'elle a commise, et explique ce qu'elle en a appris.
+
+Un an plus tard, plusieurs développeurs considérés comme moyens sont devenus des contributeurs clés, et l'équipe n'a plus connu de départ.
+
+> Question de réflexion | Quelle personne avez-vous classée comme « peu douée », et quelle chance de progresser pourriez-vous lui donner ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: réplications · effets modestes
+*Mindset* a eu un impact considérable, mais il a aussi fait l'objet de critiques.
+
+**Des effets plus modestes que prévu.** Plusieurs études récentes, de grande ampleur, ont montré que les interventions destinées à changer l'état d'esprit des élèves ont des effets réels mais souvent **modestes**, et plus marqués chez certains élèves, notamment ceux en difficulté. Certaines études n'ont pas trouvé d'effet. Le livre, écrit pour le grand public, présente les résultats de manière plus enthousiaste que ne le permet l'ensemble de la recherche actuelle.
+
+**Une dichotomie simplificatrice.** La distinction entre deux états d'esprit est claire et mémorable, mais la réalité est plus nuancée. Dweck elle-même insiste dans ses travaux ultérieurs sur le fait que chacun combine les deux.
+
+**Des exemples anecdotiques.** Les exemples de sportifs, de dirigeants et de célébrités sont choisis pour illustrer la thèse. Ils ne démontrent pas que l'état d'esprit explique leur réussite ou leur échec.
+
+**Le risque de culpabilisation.** En insistant sur l'effort et l'état d'esprit, on peut négliger les facteurs extérieurs, sociaux, économiques ou institutionnels, qui limitent les possibilités de progrès. On risque de rendre les personnes responsables de difficultés qui ne dépendent pas d'elles.
+
+**La récupération commerciale.** Le concept a été repris dans de nombreux programmes de formation et de développement personnel, parfois de manière superficielle.
+
+- Des effets réels mais souvent modestes.
+- Les obstacles extérieurs comptent aussi.
+
+--- Liens avec les autres livres
+kw: Ericsson · Collins · Clear · Dehaene
+**Avec Peak (Ericsson).** Ericsson montre que l'excellence vient de la pratique plus que du talent. Dweck explique pourquoi certaines personnes acceptent cet effort et d'autres non.
+
+**Avec De la performance à l'excellence (Collins).** Dweck cite explicitement Collins : les leaders de niveau 5 présentent les caractéristiques d'un état d'esprit de développement.
+
+**Avec Un rien peut tout changer (Clear).** Les habitudes fondées sur l'identité, et l'idée de progrès par petites étapes, rejoignent l'état d'esprit de développement.
+
+**Avec Apprendre ! (Dehaene).** Dehaene s'appuie sur Dweck pour expliquer l'importance d'une bonne relation à l'erreur dans l'apprentissage.
+
+**Avec Radical Candor (Scott).** Le feedback centré sur les actions et les progrès, plutôt que sur les personnes, est commun aux deux livres.
+
+> Parcours conseillé | Lisez ensuite Peak pour la pratique qui fait progresser, puis Apprendre ! pour les mécanismes du cerveau.

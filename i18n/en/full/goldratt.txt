@@ -1,0 +1,452 @@
+=== Context and thesis
+--- A novel to teach
+kw: physicist · novel · Socratic method
+Eliyahu Goldratt was an Israeli physicist. In the early 1980s, he became interested in production scheduling after a friend who ran a plant making chicken coops asked him for help. Goldratt developed scheduling software, then a more general way of thinking, which he called the **theory of constraints**.
+
+To spread his ideas, he chose an unusual form: a novel. Written with author Jeff Cox and published in 1984, *The Goal* tells the story of a plant manager who has to turn his site around in three months. The book became one of the best-selling management books of its time, and it is still used in many business and engineering schools.
+
+The choice of a novel is not a gimmick. Goldratt wanted readers to discover the ideas for themselves by following the hero's reasoning, rather than receiving ready-made rules. The mentor character, Jonah, never gives an answer: he asks questions and lets the hero search. Goldratt called this the Socratic method.
+
+The book also weaves together the hero's professional story and his personal life. His marriage goes through a crisis because he spends his days and nights at the plant. This narrative thread makes the book livelier, and it also serves the argument: the same principles of thinking apply to personal problems.
+
+The book has been revised several times. Later editions added chapters that formalize the approach in five steps and show its application beyond manufacturing.
+
+> À retenir | A novel that teaches through questions rather than rules. The reader discovers the ideas along with the hero.
+
+--- The plot in brief
+kw: Alex Rogo · three months · closure
+The hero, Alex Rogo, runs a parts manufacturing plant in a small industrial town in the United States. The plant belongs to a large corporation. It is behind on its orders, its inventory is overflowing, its costs are too high and it is losing money.
+
+One morning, the division head, Bill Peach, storms into the plant. An important order is several weeks late, and a customer is threatening to leave. Peach gives Alex an ultimatum: if the plant is not profitable again within three months, it will be closed.
+
+At a loss, Alex remembers a recent encounter in an airport with a former physics professor, Jonah. In that conversation, Jonah had asked him a few puzzling questions about his plant's productivity. Alex gets back in touch with him. Jonah, who is constantly traveling, agrees to help, but in his own way: through questions, brief phone calls and quick meetings.
+
+With his team, notably the plant controller Lou, the production manager Bob Donovan, the inventory control manager Stacey and Ralph, who handles the computer data, Alex gradually comes to understand why his plant works so poorly, and transforms the way he manages it.
+
+Meanwhile, his wife Julie, tired of his absences, leaves him for a time. Alex will have to apply to his marriage the same way of thinking he applies to his plant.
+
+By the end of the three months, the plant has become one of the best performers in the division. Alex is promoted to run the whole division, and he must then learn to apply what he has discovered on a larger scale.
+
+- A plant manager, a three-month ultimatum, a mentor who asks questions.
+- A team that discovers a new way of thinking together.
+
+--- A team around Alex
+kw: Lou · Bob · Stacey · Ralph
+The novel features a small team, each member representing a function of the plant and a way of seeing problems. Their evolution over the course of the book shows how an organization changes the way it thinks.
+
+**Lou, the plant controller**, is close to retirement. He knows the rules of cost accounting inside out, and at first he has the hardest time accepting the measures Jonah proposes. But he is also the one who ends up understanding most deeply why the usual metrics mislead. He becomes a valuable ally in explaining the new results to corporate management.
+
+**Bob Donovan, the production manager**, is a hands-on, energetic man used to handling emergencies. He is skeptical at first, then enthusiastic as soon as he sees concrete results. He embodies shop-floor culture, with its habits and its common sense.
+
+**Stacey, the inventory control manager**, knows the details of materials and parts. Later in the book, she is the one who spots the signs that the constraint is moving.
+
+**Ralph, who handles computing and data**, is a quiet character who is often overlooked. He proves essential: thanks to him, the team can analyze data, calculate times on the bottlenecks and build the scheduling system.
+
+Goldratt shows that the transformation is not the work of one man. Alex acts as a conductor, but it is the team, with its complementary skills and disagreements, that finds the solutions. The meetings where everyone contributes their point of view are among the most instructive scenes in the book.
+
+The book also shows that each person changes at their own pace. Those most attached to the old rules are not necessarily the most reluctant at the end: once convinced, they become the best advocates of the new ideas.
+
+> Question clé | On your team, who are Lou, Bob, Stacey and Ralph? What skill is missing to see the whole system?
+
+=== What is the goal?
+--- Jonah's question
+kw: making money · real productivity
+It all starts with a question from Jonah during their meeting at the airport. Alex boasts that he has installed robots in his plant, which have increased the productivity of certain steps. Jonah asks him: did the robots allow you to ship more products? Did they reduce inventory? Did they reduce staff or expenses? Alex has to admit they did not.
+
+So Jonah asks him the question that gives the book its title: what is the goal of your company?
+
+Alex searches. Quality? Productivity? Technology? Market share? After long reflection, he finally understands that all these things are only means. The goal of a manufacturing company, from its owners' point of view, is to **make money**, now and in the future.
+
+This answer seems trivial, but it has an important consequence: an action is productive only if it moves the company closer to that goal. A machine that produces faster is not productive if it makes parts that pile up in inventory. An improving metric is not progress if it does not translate into more money made.
+
+Alex realizes that his plant is full of activities that give the impression of being productive: the machines are running, the workers are busy, the efficiency metrics look good. And yet the plant does not deliver on time and is losing money.
+
+In later editions and books, Goldratt points out that other organizations have other goals. For a hospital or a nonprofit, the goal is not money. But the logic remains the same: first define the goal, then judge each action by whether or not it moves you closer to it.
+
+> Question clé | What is your organization's real goal? Do your current metrics measure that goal, or just activity?
+
+--- Three simple measures
+kw: throughput · inventory · operating expense
+To know whether you are moving toward the goal, Jonah proposes three measures, which he defines in a particular way.
+
+**Throughput**: the rate at which the system generates money through sales. Jonah insists on sales: a part that is produced but not sold generates no throughput. It is just inventory.
+
+**Inventory**: all the money the system has invested in things it intends to sell. This includes raw materials, work in process and finished goods, but also, in a broader definition, equipment.
+
+**Operating expense**: all the money the system spends to turn inventory into throughput. Wages, energy, rent, maintenance.
+
+With these three measures, the goal becomes clear: **increase throughput while simultaneously reducing both inventory and operating expense**.
+
+Alex and Lou, the controller, take time to accept these definitions, because they contradict traditional accounting. In the plant's accounting, a part that is produced and put into inventory is given value: it increases assets and improves apparent results. Producing a lot, even without selling, therefore seems profitable. With Jonah's measures, that inventory is instead a cost, tied-up money.
+
+Here Goldratt criticizes **cost accounting**, which allocates fixed costs across each part produced. This accounting encourages producing large quantities to lower the apparent unit cost, which inflates inventory. He later developed this criticism into an approach he called throughput accounting.
+
+> À retenir | Increase throughput, reduce inventory, reduce expenses. A part that is produced but not sold is not a gain.
+
+--- Misleading metrics
+kw: efficiency · unit cost · robots
+Having defined the goal and the three measures, Alex understands why his plant seemed well run according to its own metrics while losing money.
+
+**Resource efficiency.** The plant measures the utilization rate of every machine and every worker. A good foreman is one whose crews are always busy. This metric encourages nonstop production, even when the parts are not needed, which inflates inventory.
+
+**Unit cost.** Accounting calculates the cost of each part by allocating overhead. The more parts are produced, the lower the apparent unit cost. This encourages long runs and inventory.
+
+**Inventory valuation.** Parts in inventory are counted as assets. Increasing inventory therefore improves accounting results in the short term, even though it ties up money and slows the plant down.
+
+**Robot productivity.** The robots Alex installed improved the productivity of their stations, according to the metrics. But they are not located on a bottleneck, and their extra parts pile up in the plant. Throughput has not changed, while inventory and expenses have gone up.
+
+Alex understands that these metrics are not wrong in themselves: they measure exactly what they measure. The problem is that they measure local optimums, whereas the goal concerns the whole system. A plant where every station is efficient can be an inefficient plant.
+
+Goldratt often sums up this idea with a phrase: tell me how you measure me, and I will tell you how I will behave. People adapt their behavior to the metrics they are judged on. If the metrics reward being busy, people will stay busy, whether or not it serves the goal.
+
+- Maximum utilization is not a sign of effectiveness.
+- Unit cost encourages long runs and inventory.
+- People behave according to how they are measured.
+
+=== The bottleneck
+--- The hike and Herbie
+kw: scouts · slowness · gaps that accumulate
+One of the book's most famous passages takes place over a weekend. Alex accompanies his son and a group of scouts on a hike. The troop has to cover a certain distance during the day, in single file.
+
+Very quickly, the line stretches out. The boys in front move fast, those behind fall back, and the gaps grow. Alex, walking at the end, has to run to catch up with the group. He watches the scene and makes the connection with his plant.
+
+He first notices that one boy, Herbie, is slower than the others. He is a bit chubby, and his pack is very heavy. Everyone walking behind him is forced to go at his pace. However fast the boys in front go, the whole troop will not arrive before Herbie. **The speed of the group is the speed of its slowest member.**
+
+He then notices that the gaps accumulate. Each boy walks at a speed that varies a little. When one slows down, the one behind has to slow down too. But when one speeds up, the one behind cannot go faster than the one in front. Delays are passed back down the line, but gains are not. The line therefore inevitably grows longer.
+
+Alex then finds solutions. He puts Herbie at the head of the line, so that nobody passes him and the line stays together. Then he divides the contents of Herbie's pack among the other boys. Herbie moves faster, and the whole troop with him.
+
+Back at the plant, Alex understands that his plant works like the line of scouts. Parts go through a series of steps. The pace of the plant depends on the slowest step. He has to find his “Herbies.”
+
+> À retenir | The group moves at the speed of the slowest. Speeding up the others is pointless: you have to help Herbie.
+
+--- Dependent events and fluctuations
+kw: matches · dice · misleading averages
+During the same hike, Alex invents a little game with the scouts to understand what is happening. He sets several bowls in a row and gives each boy a die. Each one rolls his die and moves as many matches to the next bowl as the number he rolled, provided he has enough in his own bowl.
+
+On average, each roll gives three and a half. You might therefore expect the matches to move forward an average of three and a half per round through the whole chain. That is not what happens. Matches pile up between certain boys, and the last one receives far fewer than expected.
+
+The explanation is the combination of two phenomena that Jonah had already mentioned. **Dependent events**: each step depends on what the previous step has supplied. **Statistical fluctuations**: the capacity of each step varies from moment to moment. When a step rolls high but the previous step has not supplied enough material, it cannot take advantage of it. Its good performances are lost, while its poor ones are passed down the line.
+
+This game overturns a widespread idea in industry: that of a **balanced** plant, where every step has exactly the same capacity, matched to demand. Goldratt shows that such a plant is doomed to fail. Because of fluctuations, it will accumulate inventory and fail to deliver what is expected. The steps upstream of the bottleneck must have more capacity than it does, so they can catch up on their delays.
+
+For a manager, the lesson is important. Averages mislead. A plan built on the average capacity of each step will always underestimate the actual time, because variations do not cancel out in a chain.
+
+- In a chain, delays spread and gains are lost.
+- A perfectly balanced plant piles up inventory and delays.
+- A plan based on averages will be too optimistic.
+
+--- Finding the plant's bottlenecks
+kw: NCX-10 · heat treatment · queues
+Back at the plant, Alex and his team look for their Herbies. Jonah explains that two types of resources must be distinguished. A **bottleneck** is a resource whose capacity is equal to or less than the demand placed on it. The other resources have more capacity than is asked of them.
+
+To find the bottlenecks, the team first uses the computer data, then realizes that it is often enough to go and see where the piles of waiting parts build up. In front of a bottleneck, inventory stacks up.
+
+They identify two. The first is a very modern and very expensive numerically controlled machine, the NCX-10, which performs several operations. There is only one in the plant, and a large number of parts have to go through it. The second is the heat-treatment furnace, a long step that many parts go through.
+
+Jonah then asks them a decisive question: how much does an hour lost at the bottleneck cost? The team first calculates the machine's hourly cost according to the usual accounting, a modest amount. Jonah corrects them: an hour lost at a bottleneck is an hour lost for the whole plant. Since the bottleneck determines total throughput, every hour it loses reduces the sales of the entire plant. The real cost of an hour at the bottleneck is therefore the plant's total throughput divided by the number of hours the bottleneck operates.
+
+Conversely, an hour saved at a resource that is not a bottleneck is just a mirage. It changes nothing about throughput. It only produces more inventory upstream of the bottleneck.
+
+> À retenir | An hour lost at the bottleneck is an hour lost for the whole system. An hour saved elsewhere is a mirage.
+
+=== Exploit and relieve the bottleneck
+--- Never let the bottleneck wait
+kw: breaks · quality upstream · priorities
+Once the bottlenecks are identified, Alex and his team look for every way to get the most out of them. They discover that the bottleneck loses a lot of time.
+
+**Breaks.** The NCX-10 stops during operators' breaks and at shift changes. They organize relief so that it runs continuously.
+
+**Defective parts.** Some parts go through the bottleneck and are then rejected at quality control. Bottleneck time has been wasted on unusable parts. The team therefore moves quality control ahead of the bottleneck, so that it only works on good parts. They also take particular care with handling parts after the bottleneck, because a part damaged at that stage has consumed precious time.
+
+**Wrong priorities.** The bottleneck sometimes works on parts that are not needed right away, intended to build inventory, while urgent orders wait. The team sets clear priorities: the bottleneck processes parts for late orders first.
+
+**Waiting.** Sometimes the bottleneck sits idle because parts do not arrive. The team places a small safety stock in front of it so that it never runs out of work.
+
+**The furnace.** For heat treatment, parts were loaded in incomplete batches, or waited to be unloaded. The team organizes loading so that the furnace is always full and dead time between cycles is reduced.
+
+These changes cost almost nothing. They require neither investment nor hiring. Yet they quickly increase the plant's throughput.
+
+> Exercice | Identify the busiest step in your process. List every moment when it waits, works on something useless or redoes poorly prepared work.
+
+--- Recovering capacity
+kw: old machine · outsourcing · offloading
+Once the bottleneck is fully exploited, the team looks to increase its capacity. Here again, it finds simple solutions.
+
+**Bring back an old machine.** The plant once had older machines that performed the same operations as the NCX-10, but more slowly. They had been sold or scrapped because they were considered inefficient. One of these machines is still sitting in a corner. The team puts it back into service. It is slow, but any extra capacity at a bottleneck increases the throughput of the entire plant.
+
+**Outsource part of the work.** Some of the heat treatment can be given to an outside supplier, even if it costs more per part according to the usual accounting.
+
+**Offload the bottleneck.** Some parts do not need to go through the bottleneck. They can be processed differently, on other machines, even less efficient ones.
+
+**Reduce processing time on the bottleneck.** Some operations performed on the bottleneck could be done elsewhere, before or after.
+
+Jonah insists on a point that shocks Lou, the controller: these decisions increase the apparent unit cost of parts, but they increase the plant's throughput much more. With Jonah's measures, the calculation is clear: the gain in throughput far outweighs the increase in expenses.
+
+For a manager, the lesson is not to judge each decision by its local effect on costs, but by its effect on the whole system. A slightly less efficient resource, placed in the right spot, can be worth far more than it costs.
+
+- Put equipment considered obsolete back into service.
+- Accept a higher unit cost if throughput increases more.
+- Judge every decision by its effect on the whole system.
+
+--- The colored tags
+kw: red · green · clear priority
+To make sure the bottlenecks never run out of useful work, Alex's team invents a very simple system: colored tags.
+
+All parts that must go through a bottleneck get a red tag. The others get a green tag. The rule is clear to everyone in the plant: when an operator has a choice between several parts to process, they do the red ones first. Parts destined for the bottleneck therefore take priority at every upstream step, and they arrive on time.
+
+The team then adds refinements. Among the red parts, those for the latest orders go first. A board displays the list of priority orders for the bottleneck, updated daily.
+
+This system has several merits. It requires no investment. Everyone understands it, without special training. It makes what really matters visible throughout the shop. And it gives operators a simple rule for making decisions, without having to wait for a foreman's instructions.
+
+But the team also discovers its limits. After a while, some green parts, never a priority, end up missing at final assembly, which holds up orders. The priority system has created a new problem. Alex understands that favoring the bottleneck is not enough: you also have to control the amount of work released into the plant, so that the other parts are not forgotten. This is what will lead him to the idea of the rope.
+
+Goldratt thus shows a characteristic of any improvement: each solution solves a problem, but it can bring another to the surface. What matters is to keep observing and adjusting.
+
+> À retenir | A simple, visible rule beats a complex schedule. But every solution can create a new problem: keep observing.
+
+=== Subordinate everything else
+--- Stop producing for nothing
+kw: local efficiency · inventory · idle time
+After improving the bottleneck, Alex discovers a new problem. Resources that are not bottlenecks keep producing at maximum, in line with the plant's efficiency metrics. They make parts that pile up in front of the bottlenecks or end up in inventory. The plant fills up again.
+
+Jonah then states an idea that goes against all the plant's habits: **a resource that is not a bottleneck should not work at full capacity**. It should work at the pace the system needs, that is, at the pace of the bottleneck. The rest of the time, it should stay idle, or be used for other tasks such as maintenance or training.
+
+Goldratt distinguishes two notions. **Activating** a resource means making it run. **Utilizing** a resource means making it run in a way that moves the company toward the goal. Activating a resource beyond what the bottleneck can absorb produces nothing but inventory.
+
+This idea is hard to accept for several reasons. The plant's efficiency metrics are based on the utilization rate of people and machines. An idle worker looks expensive. Foremen are used to keeping everyone working all the time. And corporate management judges the plant on those same metrics.
+
+Alex takes the risk. He accepts that some workers and some machines will sometimes be idle. Inventory drops sharply. Delivery lead times shorten. And the plant finally delivers its orders on time.
+
+Goldratt draws a general conclusion: **a system in which every resource is optimized locally is an inefficient system**. The sum of local optimums is not the global optimum.
+
+> À retenir | A resource that is not a bottleneck should follow the bottleneck's pace, not its own maximum. The local optimum is not the global optimum.
+
+--- Drum, buffer, rope
+kw: rhythm · protection · release
+To organize production around the bottleneck, Goldratt proposes a mechanism he called “drum-buffer-rope.” He develops its logic in the book through Alex's reflections, drawing on the image of the hike, and later formalized it in other books.
+
+**The drum.** The bottleneck sets the pace for the whole system, like a drum beating time for a column of soldiers. Scheduling for the entire plant is built from the bottleneck's schedule.
+
+**The buffer.** In front of the bottleneck, you place enough work in reserve so that it never runs out of material, even if upstream steps run into problems. This buffer is measured in time rather than quantity: for example, a few days of work for the bottleneck.
+
+**The rope.** This is the link between the bottleneck and the release of materials into the plant. New materials are released into production only at the pace at which the bottleneck consumes them. The rope prevents upstream steps from overproducing and filling the plant with inventory.
+
+In the novel, Alex finds a simple version of this mechanism. The release of raw materials into production is now tied to the pace of the bottlenecks, using colored cards that flag priority parts.
+
+Goldratt points out that this mechanism has things in common with Toyota's kanban: in both cases, work in process is limited and overproduction avoided. But it differs on one point: instead of controlling every step, you control only the bottleneck and the entry to the system. This is simpler to set up in plants where products are numerous and varied.
+
+- The bottleneck sets the pace.
+- A time buffer protects it from disruptions.
+- The rope limits the release of materials to what it can absorb.
+
+--- Reducing batch sizes
+kw: transfer batches · lead times · flow
+Another of Alex's discoveries concerns batch size. The plant produced in large batches to limit the number of machine setups. Each setup was seen as lost time, and accounting encouraged long runs.
+
+Jonah helps the team reason differently. On a resource that is not a bottleneck, setup time costs nothing, since the resource has free time anyway. You can therefore do more setups and produce in smaller batches without reducing throughput. On the bottleneck, by contrast, every minute of setup is a minute of production lost for the whole plant. That is where setup times must be reduced first.
+
+Goldratt also distinguishes two types of batches. The **process batch** is the quantity produced between two setups. The **transfer batch** is the quantity moved from one step to the next. They do not have to be the same. A machine can produce a hundred parts in a row but pass them to the next step in packs of ten as soon as they are ready. The parts then move through the plant much faster.
+
+By halving batch sizes, Alex's team finds that the time parts take to go through the plant drops by almost half. Work-in-process inventory falls too. And the plant can respond to orders faster, which becomes a selling point. Later in the novel, the plant even accepts orders that competitors cannot deliver on time.
+
+This part echoes the flow principles described by Toyota: small batches shorten lead times and reveal problems. Goldratt gets there through different reasoning, centered on the bottleneck.
+
+> À retenir | On a bottleneck, every minute of setup counts. Elsewhere, it is free: produce in small batches and transfer quickly.
+
+--- Convincing headquarters
+kw: group metrics · audit · proof
+Alex's improvements have a paradoxical effect on the metrics corporate management tracks. By reducing inventory, the plant lowers the value of its assets. By letting some resources sit idle, it worsens its efficiency ratios. According to the usual reports, the plant seems to be doing worse, even though it is finally delivering on time and making money.
+
+Alex and Lou therefore face a new challenge: convincing corporate management. They know Bill Peach will judge the plant on the usual metrics. A division audit threatens to conclude that the results are not real.
+
+Lou plays a central role here. He rebuilds the plant's results using Jonah's three measures, and shows that throughput has risen sharply, inventory has fallen and expenses have stayed stable. He prepares simple explanations that link each change to the company's goal: making money.
+
+Alex understands that a real improvement is not enough. It must also be made understandable to those who make the decisions. The corporate executives are not acting in bad faith: they use the only metrics they have. They must therefore be given another way to read the results.
+
+The novel also shows the importance of customers. On-time deliveries and short lead times become visible from the outside. Satisfied customers place new orders, and those orders are proof that the accounting figures cannot dispute.
+
+For a manager, the lesson is clear: when you change the way you work, you also have to change the way you measure, and take the time to explain that change to those who judge the results.
+
+> Question clé | Are your best improvements visible in the metrics your management looks at? If not, how can you make them understandable?
+
+=== The five focusing steps
+--- The five-step process
+kw: identify · exploit · elevate
+At the end of the novel, Alex, now division manager, tries to formalize what he has learned so that he can apply it elsewhere. With his team, he arrives at a five-step process that Goldratt called the **five focusing steps**.
+
+**1. Identify the system's constraint.** Find what most limits the system's performance relative to its goal. It may be a machine, a scarce skill, a process, but also the market itself or an internal rule.
+
+**2. Decide how to exploit the constraint.** Get the most out of the constraint as it is, without investment: never let it wait, have it work only on what is useful, do not waste its time.
+
+**3. Subordinate everything else to that decision.** Organize all the other resources to support the constraint: make them work at its pace, protect it with a buffer, accept their partial idleness.
+
+**4. Elevate the constraint.** If the constraint still limits the system, increase its capacity: add a machine, hire, outsource, reorganize.
+
+**5. If the constraint has been broken, go back to step 1, without letting inertia become the constraint.** Once one constraint is removed, another appears elsewhere. You must find it and start again.
+
+Goldratt insists on the order of the steps. Many companies jump straight to the fourth step, investing to increase capacity, when they have not exploited the capacity they already have. Steps 2 and 3 are often the most profitable, because they cost almost nothing.
+
+> À retenir | Identify, exploit, subordinate, elevate, repeat. Exploit before investing.
+
+--- When the constraint moves
+kw: market · rules · inertia
+The novel shows that the constraint does not stay put. Once Alex's plant has improved its bottlenecks, new difficulties appear. Some parts that were not bottlenecks become ones, because production volume has increased. The team has to start the process again.
+
+Then, at one point, the plant becomes able to produce more than customers order. The constraint is no longer inside the plant: it is in the **market**. Alex then has to work with the sales team to find new orders. He discovers that his short lead times and reliability are powerful selling points that allow him to win customers.
+
+Goldratt stresses that in most organizations, the most common constraint is not physical. It is a **rule** or a **habit**: a policy of producing in large batches, an efficiency metric, an approval procedure, a way of measuring performance. These constraints are often harder to see because they seem normal. But removing them can have considerable effects.
+
+That is why the fifth step warns against **inertia**. A rule created to manage an old constraint can remain in place after that constraint has disappeared, and itself become the new constraint. For example, a rule requiring large batches to save time on a bottleneck machine can persist when that machine is no longer a bottleneck.
+
+For a manager, this means regularly asking: what limits our performance today? And the answer changes over time.
+
+- After each improvement, the constraint moves.
+- It can shift from the plant to the market.
+- The most common constraints are rules and habits.
+
+=== The way of thinking
+--- Think like a scientist
+kw: hypotheses · causes · effects
+Beyond production techniques, Goldratt wanted to pass on a way of thinking. Jonah presents himself as a physicist, and he approaches the plant the way a scientist approaches nature.
+
+The scientist starts by observing effects. He formulates hypotheses about their causes. He derives consequences he can check. If those consequences are observed, the hypothesis is strengthened. If not, it must be revised.
+
+In the novel, Alex learns to reason this way. Rather than accepting the usual explanations, such as a lack of staff, unwilling workers or mistakes by the sales department, he observes effects, looks for common causes and checks his hypotheses on the shop floor. He thus discovers that many apparently unrelated problems, delays, inventory, overtime, emergencies, have a single cause: production management that ignores bottlenecks.
+
+Goldratt insists that good answers are often **simple**. Once discovered, they seem obvious, and you wonder why nobody had found them before. What makes them hard to find are the implicit assumptions nobody questions, for example the idea that an idle machine is waste.
+
+In his later books, notably *It's Not Luck*, Goldratt formalized this way of thinking into logical tools he called the thinking processes: current reality trees, conflict clouds, future reality trees. These tools are used to analyze management, strategy and even personal problems.
+
+> Question clé | Which recurring problem on your team is explained by a cause nobody has checked? Which implicit assumption should be questioned?
+
+--- What to change, and how?
+kw: what · to what · how
+In the last part of the novel, Alex is promoted to head the division. He can no longer spend his days on a shop floor. He has to manage several plants, sales departments and engineering departments whose workings he barely knows. Jonah refuses to help him any further, and Alex faces a broader question: what is the method that allowed him to succeed, and how can he apply it to new situations?
+
+With his team, he thinks about what a manager needs to be able to do. They arrive at three questions, which Goldratt later placed at the heart of his approach.
+
+**What to change?** In an organization, visible problems are numerous. But many have a common cause. The manager's job is to find that root cause, the point where acting will have the greatest effect.
+
+**What to change to?** Once the cause is identified, you must imagine a solution that eliminates it without creating serious new problems. Goldratt insists on checking a solution's possible undesirable effects in advance.
+
+**How to cause the change?** Even a good solution fails if the people concerned do not accept it. You must therefore lead them to understand the problem and build the solution with them, the way Jonah does.
+
+Alex realizes that these three questions are more important than the production techniques he has learned. Bottlenecks, buffers and colored tags are only answers to a particular situation. The questions apply to every situation.
+
+Goldratt developed these ideas in *It's Not Luck*, the sequel to the novel, in which Alex applies the same approach to marketing, strategy and turning around struggling companies.
+
+- Find the common cause before acting.
+- Check a solution's undesirable effects in advance.
+- Build change with the people concerned.
+
+--- The mentor who asks questions
+kw: Jonah · discovery · ownership
+The relationship between Alex and Jonah is one of the book's main threads. Jonah almost never gives an answer. When Alex asks him what to do, he replies with a question, or gives him a lead and lets him search.
+
+Alex is sometimes exasperated. He has little time, the plant is under threat, and he would like ready-made solutions. But he gradually understands why Jonah works this way. A solution you discover yourself is better understood, better defended against skeptics and better suited to the real situation. A solution imposed from outside meets resistance and is abandoned at the first obstacle.
+
+Alex then applies the same method with his team. Rather than announcing his conclusions, he leads them to discover them. Meetings become collective thinking sessions where everyone brings their observations. The team takes ownership of the new rules, which allows it to convince foremen and workers.
+
+At the end of the book, when Alex becomes division manager, Jonah refuses to keep helping him. He wants Alex to learn to find the answers himself, and above all to understand the method that makes it possible to find them. Alex must then formalize that method with his team, which leads him to the five steps.
+
+For a manager, this narrative thread echoes an idea found in many management books: the leader's role is not to know everything, but to help others learn to think. It appears at Toyota, in the mentor-student relationship described by Liker and Rother.
+
+- A discovered solution is better defended than an imposed one.
+- The manager asks questions rather than providing answers.
+
+--- The personal thread
+kw: Julie · marriage · same logic
+The book also tells of the crisis Alex's marriage goes through. His wife Julie feels neglected. They left a big city for the small industrial town where the plant is located, where she has no friends. Alex comes home late, works weekends and forgets his family commitments. Julie ends up going to stay with her parents with the children.
+
+This narrative thread serves several purposes. First, it makes the book livelier and more human. Many readers recognize themselves in the tension between professional demands and personal life.
+
+Second, it shows that the way of thinking Jonah teaches applies beyond the plant. Alex ends up applying to his marriage the same approach he applies to his plant. He asks himself what the goal of their relationship is. He tries to understand the causes of their arguments rather than defending himself. With Julie, he takes time to reflect, and together they discover what matters to each of them.
+
+Julie, for her part, becomes a valuable sounding board. In several scenes, she helps Alex think through his work problems by asking common-sense questions he had not thought of. Their marriage is rebuilt through this dialogue.
+
+Finally, this thread illustrates a limitation of the hero at the start of the book: he is so absorbed by urgency that he never steps back. Only by slowing down, reflecting and asking the right questions does he manage to solve his problems, professional and personal alike.
+
+> Question clé | In your personal life, what is the “bottleneck” that limits everything else: time, energy, a habit?
+
+=== Beyond the factory
+--- Applying the theory of constraints
+kw: projects · services · healthcare
+The theory of constraints has spread well beyond manufacturing. Goldratt and his successors applied it to many fields.
+
+**Project management.** In *Critical Chain*, Goldratt applies his ideas to projects. He observes that projects almost always overrun their deadlines, even though each task is estimated with a safety margin. He explains that these margins are wasted, because people start at the last minute or fill the available time. He proposes removing the margin from each task and pooling it in a shared buffer at the end of the project, and limiting simultaneous work on several projects.
+
+**Services.** In a customer service department, a public agency or a professional firm, the bottleneck is often a scarce skill: an expert who approves files, a lawyer, a medical specialist. The same principles apply: never let them wait, give them only what only they can do, prepare the work upstream.
+
+**Healthcare.** In hospitals, bottlenecks can be operating rooms, intensive care beds or imaging tests. Several institutions have used the theory of constraints to reduce waiting times.
+
+**Distribution.** Goldratt also proposed methods for managing inventory in distribution networks, replenishing according to actual consumption rather than forecasts.
+
+**Personal work.** The same logic can be applied to how you organize yourself: identify what most limits your results, make the most of it and organize everything else accordingly.
+
+- In a project: pool the margins and limit multitasking.
+- In a service: protect the scarce expert's time.
+
+--- 30-day action plan
+kw: week by week · one constraint
+**Week 1: define the goal and the measures.** Write your team's goal in one sentence. Choose three measures equivalent to Jonah's: what is actually delivered to the customer, work in process, expenses. Measure them.
+
+**Week 2: find the constraint.** Observe where work piles up and waits. Identify the step, person or rule that most limits what your team delivers. Calculate what an hour lost there costs.
+
+**Week 3: exploit and subordinate.** List everything that makes the constraint lose time: waiting, interruptions, useless work, rework. Eliminate as much of it as possible. Organize the rest of the team to support it. Limit the work released to what the constraint can absorb.
+
+**Week 4: measure and repeat.** Compare the three measures with those from the first week. Check whether the constraint has moved. Spot a rule or metric that encourages local optimization, and discuss replacing it with the team.
+
+Goldratt reminds us that the fastest gains often come from steps 2 and 3, which require no investment. You must resist the temptation to add resources before exploiting the ones you have.
+
+> À retenir | One goal, three measures, one constraint. Exploit before investing, then look for the next constraint.
+
+--- Case study: the legal department
+kw: approval · scarce expert · lead times
+In a services company, all commercial contracts must be approved by the legal department before signature. The sales team complains: getting approval sometimes takes three weeks, and customers lose patience. The legal department has four lawyers, but only one, Claire, has the expertise needed for international contracts.
+
+The new sales director, Marc, has read *The Goal*. He proposes applying the five steps.
+
+**Identify.** Looking at the files waiting, the team finds that domestic contracts are approved within a few days. It is the international contracts that are waiting, in front of Claire.
+
+**Exploit.** The team discovers that Claire spends much of her time on tasks others could do: reviewing domestic contracts, answering simple questions, completing incomplete files. From now on, incomplete files are sent back to the sales reps before they reach her, and simple tasks are given to her colleagues.
+
+**Subordinate.** The sales reps use a standard international contract template, which reduces Claire's work to checking the modified clauses. Files are passed on in order of commercial priority.
+
+**Elevate.** A junior lawyer is trained in international contracts by working alongside Claire.
+
+**Repeat.** Three months later, approval time is down to a few days. The new constraint is now signature by senior management, which meets only once a week.
+
+> Question de réflexion | Who is the “Claire” in your organization: the scarce skill in front of which work piles up?
+
+=== Critical view and links
+--- Limits of the book
+kw: simplification · single bottleneck · novel
+*The Goal* is a very effective book for getting ideas across, but it has several limits.
+
+**A simplified situation.** The plant in the novel has clearly identifiable bottlenecks that are stable and few. In many real organizations, constraints move often, are hard to spot or are multiple. The available data are not always reliable enough to identify them.
+
+**A story that is too good.** Turning the plant around in three months, with a close-knit team and almost free solutions, is inspiring but idealized. Internal resistance, labor conflicts and mistakes are present, but quickly overcome.
+
+**The human dimension less developed.** The book focuses on the logic of flow and constraints. It says little about operator training, their participation in improvements or organizational culture, which Toyota's lean puts front and center.
+
+**A debate with lean.** Lean advocates sometimes criticize the theory of constraints for focusing on the bottleneck and ignoring waste elsewhere. Theory of constraints advocates criticize lean for trying to improve everywhere at once instead of concentrating effort where it counts. In practice, many companies combine the two approaches.
+
+**A dated novelistic form.** Some aspects of the novel, notably the characters' roles and the dialogue, reflect their time.
+
+- Reality is often messier than the plant in the novel.
+- Lean and the theory of constraints complement each other more than they conflict.
+
+--- Links with other books
+kw: Ohno · Womack · Grove · Kahneman
+**With Toyota Production System (Ohno).** Ohno and Goldratt both criticize overproduction and local efficiency. Ohno distinguishes “true” efficiency from apparent efficiency, just as Goldratt distinguishes utilizing from activating a resource.
+
+**With Lean Thinking (Womack and Jones).** Both approaches aim for flow and reduced inventory. Lean seeks to eliminate waste everywhere; the theory of constraints concentrates effort on the point that limits the system.
+
+**With High Output Management (Grove).** Grove uses the image of a breakfast factory to explain production, with the notion of a limiting step. Both books share a view of management as running a production system.
+
+**With Thinking, Fast and Slow (Kahneman).** The dice game shows how poorly our intuition grasps statistical fluctuations. The biases Kahneman describes explain why managers trust averages.
+
+**With Toyota Kata (Rother).** Both books teach a scientific way of thinking, through hypotheses and verification, passed on by a mentor who asks questions.
+
+> Parcours conseillé | Next, read Toyota Production System to compare two views of flow, then Toyota Kata for the scientific approach day to day.

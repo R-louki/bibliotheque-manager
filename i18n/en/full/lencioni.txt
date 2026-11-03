@@ -1,0 +1,481 @@
+=== Context and fable
+--- Lencioni and the fable genre
+kw: consultant · story · simple model
+Patrick Lencioni is an American consultant, founder of a firm specializing in teamwork and organizational health. Before founding his company, he worked in strategy consulting and in technology companies in the San Francisco area. He became famous for a series of books that present management ideas in the form of stories.
+
+*The Five Dysfunctions of a Team*, published in 2002, is his best-known book. It has been translated into many languages and has sold several million copies. In French it appeared under the title *Optimisez votre équipe*. It has become a classic of team-building retreats and management training.
+
+The book is built in two very unequal parts. The first, which takes up most of the book, is a fable: the story of a new leader trying to transform a dysfunctional executive team. The second, much shorter, presents the theoretical model and tools for applying it.
+
+The choice of a fable is not incidental. Lencioni explains that he wants readers to recognize themselves in the characters and situations. An abstract theory of teamwork is easily accepted and immediately forgotten. A story in which you see real people arguing, shutting down or dodging hits harder. The reader immediately thinks of their own leadership team or their own team.
+
+This approach explains the book's popularity, but also some of the criticism. The story is sometimes considered simplistic, with somewhat caricatured characters and predictable twists. But it does its job: it makes the model memorable and makes people want to apply it. The author even embraces the simplicity, arguing that teamwork is not complicated to understand, but very hard to practise.
+
+> À retenir | Teamwork is not hard to understand; it is hard to practise. The fable helps you recognize the dysfunctions in your own team.
+
+--- A brilliant team that fails
+kw: start-up · talent · disappointing results
+The fable takes place in a Silicon Valley technology company Lencioni calls DecisionTech. The company has everything going for it: substantial funding, promising technology, experienced and talented executives. Yet two years after its launch it is behind on its targets, losing ground to competitors and watching employee morale deteriorate.
+
+The board decides to replace the CEO, one of the founders, with an older, more low-key leader, Kathryn Petersen. She comes from a traditional manufacturing sector, which surprises many people in the company. The members of the executive team wonder what someone with no technology experience can teach them.
+
+The team she finds is made up of people who are highly competent in their fields. There is notably a brilliant marketing head who is very critical of her colleagues, a talented but distant chief technologist, a likeable sales head who does not keep his commitments, a rigorous chief financial officer, a quiet but clear-sighted customer support head, and an ambitious head of operations who resents not having been chosen as CEO.
+
+Kathryn observes for several weeks without changing anything. She attends meetings and notices that nobody really argues. Meetings are polite, boring and inconclusive. Real disagreements come out in the corridors, through acid remarks or alliances. Each person defends their department and personal objectives. Nobody feels responsible for the company's results as a whole.
+
+Kathryn's diagnosis is clear: the team has all the talent it needs, but it does not function as a team. It is made up of brilliant individuals who coexist without really working together. This observation will lead her to present her model.
+
+- Individual talent does not guarantee collective performance.
+- Polite meetings without conflict are a warning sign.
+- Each person defends their own turf instead of shared results.
+
+--- The off-sites and the outcome
+kw: retreats · resistance · departure
+Kathryn organizes a series of off-site meetings in a California wine region. She announces from the start that these days will be devoted to how the team works, not to operational matters, which irritates several members who feel they have better things to do.
+
+At the first off-site, she draws a five-level pyramid on the board and explains that each dysfunction feeds the next. Then she has the team work on the base of the pyramid: trust. She proposes simple exercises, such as telling one's personal story or sharing strengths and weaknesses. Resistance is strong. Some find the exercises pointless or embarrassing. But little by little, the members begin to discover one another.
+
+Over the off-sites, the team goes through tense moments. Conflicts that had been hidden finally break out. Kathryn does not suppress them: she encourages them, while making sure they are about ideas and not people. The team gradually learns to debate, make clear decisions and stick to them.
+
+The fable also contains hard moments. The marketing head, highly talented but unable to trust her colleagues and work as part of a team, ends up leaving the company at Kathryn's request. Her departure illustrates an important message of the book: a brilliant person who refuses to play as part of the team can do more harm than good. The head of operations, at first in opposition, eventually finds his place after a frank discussion.
+
+At the end of the fable, the company is not miraculously transformed, but it is making progress. The executive team works better, makes better decisions and begins to catch up. Lencioni shows that change is slow, uncomfortable and imperfect, but possible.
+
+> À retenir | Change runs through discomfort: bringing hidden conflicts to the surface, accepting departures and holding firm against resistance.
+
+--- The pyramid
+kw: five levels · cascade · order
+Lencioni's model is a pyramid of five dysfunctions. Each is the consequence of the level below and the cause of the level above. To solve a dysfunction, you therefore often have to start with the one beneath it.
+
+- **1. Absence of trust**: team members are unwilling to be vulnerable with one another.
+- **2. Fear of conflict**: without trust, the team avoids open, passionate debate about ideas and settles for surface harmony.
+- **3. Lack of commitment**: without real debate, members do not take ownership of decisions. They pretend to agree but do not commit.
+- **4. Avoidance of accountability**: without clear commitment, members hesitate to call each other on their obligations and behaviour.
+- **5. Inattention to results**: without mutual accountability, each person puts personal interests, status or department ahead of collective results.
+
+Lencioni also presents the pyramid in a positive light. A high-performing team is one whose members trust one another, engage in unfiltered debate about ideas, commit to decisions and plans of action, hold one another accountable for delivering on them, and focus on collective results.
+
+The order of the levels matters. You cannot build solid commitment if nobody dares voice disagreement. You cannot hold others accountable if decisions are vague. You cannot focus on results if nobody dares remind others of their commitments.
+
+Lencioni specifies that these dysfunctions are not five independent problems but a single system. A team that suffers from one level often suffers from the others. Work on the pyramid is therefore global, even if you start at the base.
+
+> À retenir | Trust, conflict, commitment, accountability, results: each level rests on the one before. You build from the bottom up.
+
+=== Absence of trust
+--- Trust through vulnerability
+kw: daring to show weaknesses · mistakes
+Lencioni gives the word trust a particular meaning. He is not talking about predictive trust, which consists in knowing that a colleague will do what they promised because you are used to working with them. He is talking about vulnerability-based trust: the confidence that the other team members have good intentions and that there is no risk in showing yourself as you are.
+
+In practice, this means team members are able to say things like "I was wrong", "I need help", "I don't know", "you're better than me at this" or "I'm sorry". These phrases seem simple, but they are very hard to say in a competitive professional setting, where people fear being judged or losing power.
+
+Lencioni explains that in a team without trust, members waste a great deal of energy protecting themselves. They hide their mistakes and weaknesses, hesitate to ask for help, interpret others' intentions negatively and dread meetings. They spend time managing their image instead of working.
+
+He stresses that vulnerability cannot be decreed. It requires team members to know one another as people, to understand their backgrounds and ways of working. It also requires that vulnerable behaviour is never punished. If someone admits a mistake and is later reproached for it, they will not do it again.
+
+The signs of a team without trust are easy to recognize:
+
+- Members hide their weaknesses and mistakes.
+- They hesitate to ask for help or to give feedback on others' work.
+- They jump to conclusions about others' intentions without checking.
+- They dread meetings and look for reasons to avoid spending time together.
+- They hold grudges.
+
+> Question clé | On your team, who has said "I was wrong" in front of the others in the past month? If nobody has, trust is probably low.
+
+--- Building trust
+kw: personal histories · profiles · strengths
+Lencioni proposes several tools for building trust, which he uses in his work with executive teams.
+
+**The personal histories exercise.** Each team member answers a few simple questions about their life: where they grew up, how many siblings they have, what their first job was, what important challenge they faced as a child. These questions are not intrusive, but they reveal unexpected aspects of each person. Lencioni says this exercise, which takes only an hour, often changes the way team members see one another.
+
+**The team effectiveness exercise.** Each member identifies, for each colleague, the single most important contribution they make to the team and one area in which they could improve. Then each person listens to what the others say about them. This exercise already requires a certain level of trust, but it accelerates it considerably.
+
+**Personality profiles.** Lencioni recommends using tools such as psychological type indicators to help members understand their different ways of operating. These tools are not for labelling people but for depersonalizing certain disagreements. Understanding that the other person prefers to think before speaking, or needs data before deciding, keeps you from attributing bad intentions to them.
+
+**360-degree feedback.** It allows each person to receive feedback from colleagues on their behaviour. Lencioni recommends not tying it to pay, so that it remains a development tool.
+
+**Shared experiences.** Ordeals lived through together, such as a difficult project brought to completion, also strengthen trust. But Lencioni warns that they are not enough, because many teams go through hardships without ever talking about what they experienced.
+
+- An hour of personal histories can change how members see one another.
+- Personality profiles help depersonalize differences.
+- Shared ordeals are not enough: you have to talk about them.
+
+--- The leader's role in trust
+kw: lead by example · never punish
+Lencioni insists on the decisive role of the leader in building trust. The leader must be the first to show vulnerability. If he never admits mistakes, never asks for help and hides his doubts, he cannot expect others to do so.
+
+In the fable, Kathryn sets the example several times. She admits to the team that she does not know the company's technology well, that she needs everyone's expertise and that she may be wrong. She also shares parts of her personal story during the personal histories exercise. This attitude gradually disarms resistance.
+
+The leader must also create an environment where vulnerability is not punished. If a team member admits a mistake, the leader must thank them for their honesty and then help them fix the problem, not humiliate them or use it against them later. Lencioni stresses that vulnerability must be sincere. Calculated vulnerability, used to manipulate others, destroys trust more surely than no vulnerability at all.
+
+He adds an important point: trust is not built once and for all. It can deteriorate at any moment, for example when a new member arrives, during a crisis or after a betrayal. The leader must therefore maintain trust constantly, regularly returning to the basic exercises and watching everyone's behaviour.
+
+Finally, Lencioni acknowledges that not everyone is capable of this vulnerability. Some people, by temperament or experience, find it very hard to lower their guard. The leader must help them, patiently. But if a person persistently refuses to trust others, they can prevent the whole team from progressing. That is the case of the marketing head in the fable.
+
+> À retenir | The leader must be the first to show vulnerability, and must never punish others' vulnerability. Trust has to be maintained continuously.
+
+=== Fear of conflict
+--- Productive conflict
+kw: debate of ideas · artificial harmony
+The second dysfunction is fear of conflict. Lencioni argues that every lasting relationship requires productive conflict. That is true in a couple, in a family, and in a team. Without conflict, decisions are worse, problems are not solved and relationships stay superficial.
+
+He carefully distinguishes two forms of conflict. **Productive conflict** is about ideas, concepts and decisions. It can be passionate, emotional and even heated, but it does not target people. It seeks the best solution in the shortest time. **Destructive conflict** is about people. It comes with personal attacks, political manoeuvring and grudges.
+
+Teams that fear conflict fall into what Lencioni calls **artificial harmony**. Meetings are calm and polite, but boring. Important subjects are avoided or treated superficially. Disagreements exist, but they are expressed outside meetings, as criticism in the corridors, private messages or alliances. Decisions are made without real debate and are not really supported.
+
+Lencioni represents conflict on a continuum. At one end is artificial harmony, where there is no conflict at all. At the other end are violent personal attacks. Most teams sit too close to artificial harmony. The ideal is in the middle, a little beyond the point where debates start to become uncomfortable, without crossing the line into personal attacks.
+
+He notes that trust is the precondition for productive conflict. When team members trust one another, they know that disagreements are not personal attacks. They can therefore debate vigorously without fear of damaging the relationship. Without trust, the slightest disagreement is perceived as a threat.
+
+- Conflict over ideas is necessary; conflict between people is destructive.
+- Surface harmony is more dangerous than a heated debate.
+- Trust makes productive conflict possible.
+
+--- Symptoms and their costs
+kw: corridors · boring meetings · things left unsaid
+Lencioni describes several symptoms of a team that fears conflict, and stresses their often underestimated costs.
+
+**Boring meetings.** Paradoxically, the absence of conflict makes meetings boring. Lencioni compares a good meeting to a film: without tension, stakes or disagreement, it does not hold attention. Participants get bored, check their phones and wait for it to end.
+
+**Debates behind the scenes.** Disagreements not voiced in meetings do not disappear. They move to the corridors, coffee breaks and private messages. This creates a climate of distrust and politics.
+
+**Taboo subjects.** The most important questions, those that could provoke conflict, are avoided. People talk about secondary subjects because they are uncontroversial. The company's real problems go unanswered.
+
+**Poor-quality decisions.** Without debate, decisions do not benefit from collective intelligence. Objections that could have improved the decision are never voiced.
+
+**Wasted time.** Unresolved issues keep coming back. The same discussions are held meeting after meeting, never concluded, because nobody dares say what they really think.
+
+Lencioni points out a paradox: many leaders avoid conflict to save time and preserve relationships. In reality they lose time, because issues keep coming back, and they damage relationships, because resentment builds up. Productive conflict is an investment: it costs a little discomfort in the moment but saves a great deal of time and brings clarity afterwards.
+
+In the fable, Kathryn observes that DecisionTech's meetings are deadly boring. She understands that this boredom is not a detail but the symptom of a deep problem.
+
+> Question clé | What is the most important subject your team avoids raising in meetings? Who talks about it instead, and where?
+
+--- Bringing conflict to the surface
+kw: mining · real-time permission · rules
+Lencioni proposes specific tools to help a team accept productive conflict.
+
+**Mining.** In meetings, one team member, often the leader, plays the role of "miner": actively seeking out buried disagreements and bringing them to the surface. He asks questions like: "Who doesn't share this view?", "What risks are we not seeing?", "What could go wrong?" He forces the team to confront delicate subjects rather than skirt around them.
+
+**Real-time permission.** When a debate starts to heat up, some members feel uncomfortable and try to calm it down. The leader can then step in to remind everyone that this kind of debate is useful. He says, for example: "What we're doing right now is exactly what we need." This intervention reassures people and encourages them to continue.
+
+**Conflict norms.** Lencioni recommends that the team define its own rules for debate together. What is acceptable? What is not? Can people raise their voices? Can they interrupt? These rules vary across cultures and people, but defining them together avoids misunderstandings.
+
+**Conflict-style tools.** Assessment instruments help each person understand their natural way of reacting to conflict: avoiding, accommodating, competing, compromising or collaborating. Understanding these differences helps the team handle disagreements better.
+
+Lencioni notes that the leader's role is delicate. He must encourage conflict without steering it. He must not step in too early to shield team members from disagreement, because that stops them from learning to handle it. But he must step in if the conflict drifts into personal attacks.
+
+- Assign someone to look for hidden disagreements in meetings.
+- Say explicitly that the current debate is useful.
+- Define the rules of debate together.
+
+--- Conflict at a distance
+kw: video calls · writing · taking turns
+Lencioni wrote his book at a time when executive teams almost always met in the same room. Today many teams work remotely or in hybrid mode, which makes productive conflict even harder. The book's principles still hold, but practices must be adapted.
+
+On video calls, non-verbal signals are reduced. It is hard to see whether a colleague disagrees, hesitates to speak or is disengaging. Silences are harder to interpret. The most reserved people find it even harder to speak up, and exchanges are often dominated by a few voices. The risk of artificial harmony increases.
+
+Writing poses other problems. Short messages are easily misread, and a disagreement expressed in writing can seem more aggressive than it was. Conversely, some people avoid expressing disagreement in writing for fear their message will be forwarded or kept. Important debates then slide into private messages, recreating the "corridors" Lencioni describes.
+
+A few practices can help:
+
+- **Go round the table** systematically on important decisions, asking each person for their view, including their level of disagreement.
+- **Ask for written input before the meeting** on delicate subjects. Each person writes their position in a shared document, which lets the more reserved speak and keeps the first speakers from influencing the others.
+- **Turn cameras on** for difficult discussions, so reactions can be seen.
+- **Keep sensitive subjects for voice**, and use writing for summaries and decisions.
+- **Appoint a "miner"** for each important meeting, tasked with surfacing disagreements.
+
+The leader's role is even more important at a distance. He must pay attention to silences, prompt those who are not speaking and check privately after the meeting that nobody has kept a disagreement to themselves.
+
+> À retenir | At a distance, silence does not mean agreement. Ask explicitly for disagreements, out loud and in writing before the meeting.
+
+=== Lack of commitment
+--- Clarity and buy-in
+kw: clear decisions · disagree then support
+The third dysfunction is lack of commitment. Lencioni defines commitment by two elements: **clarity** and **buy-in**. A committed team makes clear decisions and sticks to them, even when some members disagreed at first.
+
+Lencioni argues that two obstacles prevent commitment. The first is the **desire for consensus**. Many teams believe a decision is legitimate only if everyone agrees. But consensus is rarely possible on difficult subjects, and pursuing it at all costs leads to watered-down decisions or no decision at all. Lencioni explains that reasonable people do not need to get their way in order to support a decision. They only need to know that their opinion was heard and considered.
+
+The second obstacle is the **need for certainty**. Some teams hesitate to decide until they have all the information. But in an uncertain environment, that information never fully arrives. Lencioni argues that an imperfect decision made in time is often better than a perfect decision made too late. A team can change a decision if it turns out to be wrong, but the absence of a decision paralyses everyone.
+
+The link with the previous level is direct. Without productive conflict, team members do not voice their opinions. They therefore do not feel heard, and they do not buy into decisions. They nod in meetings, then do nothing or act in a different direction. Lencioni insists: you cannot commit to a decision you were not able to discuss.
+
+The signs of a lack of commitment are recognizable:
+
+- Ambiguous decisions that each person interprets in their own way.
+- Decisions endlessly revisited and re-discussed.
+- Opportunities missed through excessive analysis and hesitation.
+- A lack of confidence in the team's own direction.
+
+> À retenir | You don't need to get your way to support a decision, only to have been heard. And an imperfect decision is better than no decision.
+
+--- Tools for commitment
+kw: cascading · deadlines · worst case
+Lencioni proposes several tools for strengthening commitment.
+
+**Cascading messages.** At the end of each meeting, the team takes a few minutes to review the main decisions and agree on what should be communicated to each person's team. This exercise has two effects. It immediately reveals hidden disagreements or different interpretations of the same decision. It also ensures that all employees receive the same message, which strengthens the organization's consistency.
+
+**Deadlines.** Setting precise dates for decisions and sticking to them keeps issues from dragging on indefinitely. Lencioni recommends applying deadlines not only to final decisions but also to intermediate steps, such as gathering information or analysing options.
+
+**Contingency and worst-case scenario analysis.** For teams that struggle to decide for fear of being wrong, Lencioni recommends examining the worst possible scenario. What would happen if the decision were wrong? Often the team realizes the consequences would be manageable, which frees it to decide.
+
+**Low-risk exposure therapy.** For teams that tend to over-analyse, Lencioni recommends making quick decisions on low-stakes subjects. This lets them see that deciding fast does not lead to disaster, and builds confidence for bigger decisions.
+
+Lencioni insists that the leader must be comfortable with the idea of being wrong. If he demands certainty before deciding, the team will be paralysed. He must also push the team to conclude, to set deadlines and to stick to them, even when the debate has not been entirely exhausted.
+
+In the fable, Kathryn introduces cascading messages. The team is surprised to discover that its members do not understand decisions in the same way, even though they thought they agreed. This discovery makes them understand the importance of clarity.
+
+> Exercice | At the end of your next meeting, ask each person to say in one sentence what they will tell their team. Compare the answers.
+
+--- The leader and the decision
+kw: deciding · being wrong · revisiting
+Lencioni insists on the leader's role in commitment. In many teams, the leader waits for the group to reach consensus before deciding. When consensus does not come, the decision is postponed and the team gets bogged down. Lencioni argues that the leader must be ready to decide when the debate has been fully held and no consensus emerges.
+
+This responsibility is uncomfortable. Deciding means accepting that you will disappoint part of the team. It also means accepting that you may be wrong. Lencioni stresses that the leader must be comfortable with the idea that a decision may turn out to be wrong. It is better to make a decision and correct it later than not to decide. The team can learn from a bad decision; it learns nothing from no decision.
+
+He also insists on how to decide. The leader must explain the decision, show that he has heard the different points of view and say why he chose one option over another. He must also acknowledge the disagreement of those who did not get their way, without apologizing for it. This transparency allows everyone to support the decision even if they do not share it.
+
+A delicate question concerns revisiting decisions. Must a committed team stick to a decision no matter what? Lencioni says no. If new information comes to light, the team can revise its decision. But it must do so explicitly, in a meeting, not through individual workarounds. What destroys commitment is constant, underground second-guessing, not an openly acknowledged adjustment.
+
+In the fable, Kathryn decides several times when the team cannot agree. Each time she explains her reasons and then asks everyone to support the decision. She also agrees to revisit a decision when a team member brings new information to a meeting.
+
+- After real debate, the leader decides if no consensus emerges.
+- Explain the decision and acknowledge disagreement without apologizing.
+- A decision can be revisited, but openly and as a team.
+
+=== Avoidance of accountability
+--- Peer-to-peer accountability
+kw: calling out commitments · discomfort
+The fourth dysfunction is avoidance of accountability. Lencioni defines accountability precisely: team members' willingness to call each other on commitments and on behaviours that could hurt the team. He insists that this is accountability among peers, not just accountability to the boss.
+
+This point matters. In many organizations, only the manager reminds people of their commitments. Team members consider it is not their role to tell a colleague that they are not keeping their promises. Lencioni argues on the contrary that in a high-performing team, peer pressure is the most effective and fastest way to maintain high standards. People fear letting down their colleagues more than letting down their boss.
+
+He explains why peer accountability is hard. Reminding a colleague of their commitments is uncomfortable. You fear damaging the relationship, seeming arrogant or being criticized in return. So you prefer to avoid confrontation. Lencioni points out a paradox: it is often in the closest-knit teams, where members are friends, that accountability is hardest, because nobody wants to damage a friendship.
+
+Yet he argues that avoiding accountability damages relationships more than confrontation does. When a team member does not keep their commitments and nobody says anything, the others end up resenting them. Resentment builds up and relationships deteriorate.
+
+The link with the previous level is clear: you cannot hold others accountable for a commitment that was never clearly made. If decisions are vague, anyone can claim to have understood something else.
+
+The signs of a team that avoids accountability:
+
+- Resentment towards colleagues who do not have the same standards.
+- Mediocrity encouraged by the absence of feedback.
+- Missed deadlines and deliverables without consequence.
+- The leader becomes the sole source of discipline.
+
+> À retenir | In a high-performing team, it is peers, not just the boss, who call out commitments. Silence breeds more resentment than confrontation.
+
+--- Tools for accountability
+kw: public goals · reviews · rewards
+Lencioni proposes several tools for developing mutual accountability.
+
+**Publishing goals and standards.** A team that clearly displays its goals, each person's responsibilities and expected behaviours makes accountability easier. There is no longer any ambiguity about what was promised, and everyone can see where the others stand.
+
+**Simple, regular progress reviews.** The team meets regularly to review progress on goals. Each person presents their results in front of peers. Lencioni recommends simple, frequent reviews rather than complex, rare ones. The aim is not to judge but to make progress visible.
+
+**Team rewards.** When rewards are tied to team results rather than individual performance, everyone has an interest in the others keeping their commitments. Mutual accountability becomes natural. Lencioni does not recommend abolishing individual rewards, but adding a significant collective dimension.
+
+**The team effectiveness exercise**, already used for trust, can also serve accountability. It allows each member to tell colleagues what they expect of them and what they could improve.
+
+Lencioni clarifies the leader's role. The leader must encourage the team to hold one another accountable, and not be the sole source of discipline. But he must also be ready to step in when the team fails to do so. If a problem persists and peers do not address it, the leader must. He thereby shows that the standards are real.
+
+In the fable, Kathryn steps in several times to enforce commitments, notably with the sales head, who promises a lot and delivers little. Gradually, the other team members begin to do it themselves.
+
+- Display goals and each person's responsibilities.
+- Hold simple, frequent progress check-ins.
+- Tie a significant share of rewards to collective results.
+
+--- When someone won't play as a team
+kw: behaviour · conversation · departure
+Accountability is not only about results and deadlines. Lencioni insists on behaviour: how a team member conducts themselves in meetings, treats colleagues or respects shared rules. Such behaviour is often harder to address than results, because it touches on personality.
+
+Lencioni explains that a team must be able to tell one of its members that their behaviour is a problem: they interrupt, criticize others behind their backs, don't prepare for meetings or don't respect decisions. These remarks are easier to make if the team has defined expected behaviours together. People can then refer to those rules rather than to the person.
+
+What should be done when a team member persistently refuses to change? The fable gives a clear answer. The marketing head is the most technically talented person on the team. But she refuses the trust exercises, criticizes her colleagues and defends her ideas without listening to others. Kathryn speaks to her frankly several times, explains what she expects and gives her time to change. When nothing changes, she asks her to leave the company.
+
+This part of the book is often debated. It raises a difficult question: should a team keep a brilliant but toxic person? Lencioni says no. A single person who refuses to play as part of the team can keep the whole team from progressing. The other members observe what is tolerated, and if destructive behaviour goes without consequence, they conclude that the rules are not real.
+
+He insists, however, on the manner: the decision must come after frank conversations, clear expectations and a real opportunity to change. It must never come as a surprise to the person concerned. And it must be handled with respect, because the person is not bad; they are simply not right for this team.
+
+> Question clé | Is there behaviour on your team that everyone puts up with without saying anything? What do the others conclude when they see it tolerated?
+
+=== Inattention to results
+--- Ego, status and silos
+kw: individual interests · department · career
+The fifth dysfunction, at the top of the pyramid, is inattention to collective results. Lencioni defines results broadly: not just financial results, but all the results a team has set for itself. The dysfunction appears when team members place something else above those results.
+
+Lencioni identifies two main distractions. The first is **team status**. Some teams are content to belong to a prestigious group, such as an executive team, without really caring about their results. Simply being part of it is enough for them. Lencioni observes this in executive teams, but also in some non-profit organizations, where the nobility of the mission sometimes exempts them from measuring results.
+
+The second distraction is **individual status**: career, ego, personal recognition, or the interests of the department one leads. Lencioni insists on this last point. Members of an executive team are often also heads of departments. They tend to defend their department at the expense of the company. The sales head defends the salespeople's interests, the chief technologist the engineers', and nobody defends the company as a whole.
+
+The result is a well-known phenomenon: **silos**. Each department optimizes its own results, but the company as a whole deteriorates. Decisions that would be good for the company but unfavourable to a department are not made.
+
+The signs of this dysfunction:
+
+- The team stagnates or fails to grow.
+- It loses its best people, who look for more achievement-oriented environments.
+- Members focus on their careers and personal goals.
+- The team is easily distracted by secondary matters.
+
+The link with the previous level: without mutual accountability, nothing stops each person from putting their own interests first.
+
+> Question clé | If you asked the members of your leadership team which team comes first, the one they lead or the one they belong to, what would they answer?
+
+--- The "first team"
+kw: collective priority · loyalty
+To combat inattention to results, Lencioni develops an idea he explores further in later books: the "first team". For a member of an executive team, the first team is not the department they lead but the executive team itself. Their primary loyalty goes to the team they belong to with their peers, not to the one they manage.
+
+This idea is counter-intuitive. Many managers believe their role is to defend their team and represent it to senior management. They see themselves as ambassadors for their department. Lencioni argues that this attitude, natural as it is, leads to silos. For an organization to function, the members of the executive team must first feel responsible for the results of the whole.
+
+In practice, this means executive team members accept decisions unfavourable to their department if they are good for the organization. For example, accepting that part of their department's budget be reallocated to a higher-priority department. Or publicly supporting a decision they fought in a meeting, even if their department suffers.
+
+In the fable, Kathryn puts this question explicitly to her team. She asks them to consider the executive team their first team. The request meets resistance, particularly from the head of operations, who sees his personal ambitions threatened. But little by little, the team accepts the idea.
+
+Lencioni acknowledges that this loyalty is hard to practise. Managers are often assessed and rewarded on their department's results. They are under pressure from their own people, who expect them to stand up for them. For the first team to become a reality, goals, evaluations and rewards must be aligned with collective results.
+
+- For a leader, the executive team comes before the department they lead.
+- Supporting a decision unfavourable to your department is a sign of maturity.
+- Align evaluations and rewards with collective results.
+
+--- Making results visible
+kw: scoreboard · public declaration
+Lencioni proposes two main tools for focusing the team on results.
+
+**Public declaration of results.** Lencioni observes that teams that announce their goals publicly are more committed to achieving them. When you have declared in front of others what you are aiming for, you feel more obliged to succeed. He compares this to a sports coach who publicly announces his ambition for the season: it mobilizes the team and forces it to surpass itself.
+
+**Results-based rewards.** Tying rewards, financial or otherwise, to achieving collective results sends a clear message about what matters. Lencioni warns against rewards tied to effort or attendance, which divert attention from results.
+
+He also recommends using a shared **scoreboard** showing a few key indicators of the team's results. It must be simple, understandable by everyone and regularly updated. It lets everyone see at all times where the team stands and what remains to be done.
+
+The leader's role is central. He must show through his own behaviour that collective results come first. If he puts his own image, his relationship with the board or his pet projects first, the team will notice and do the same. He must also reward and recognize behaviour that contributes to collective results, even when it comes at a department's expense.
+
+Lencioni stresses that attention to results is the ultimate goal of the pyramid. Trust, conflict, commitment and accountability are not ends in themselves. They serve to get results. A team that trusts one another and debates well but does not get results has not succeeded.
+
+In the fable, Kathryn puts up a board of the company's main goals and reviews it with the team at every meeting. This board becomes the shared point of reference.
+
+> À retenir | A few collective results, displayed publicly and reviewed at every meeting. The rest of the pyramid serves this summit.
+
+=== Putting it into practice
+--- A fifteen-question diagnostic
+kw: questionnaire · score per level
+In his book, Lencioni offers a questionnaire for assessing a team. Here is an adapted version. Each team member scores the following statements from 1 (rarely) to 3 (usually), anonymously. Then calculate the average per level.
+
+**Trust**
+
+- Team members acknowledge their weaknesses and mistakes.
+- They ask for help without hesitation.
+- They know about one another's personal lives and talk about them easily.
+
+**Conflict**
+
+- Debates in meetings are passionate and open.
+- Important and delicate subjects are raised during meetings.
+- Members voice their opinions even at the risk of causing disagreement.
+
+**Commitment**
+
+- Meetings end with clear, specific decisions.
+- Members support decisions even if they initially disagreed.
+- Decisions are made on time, without waiting for all the information.
+
+**Accountability**
+
+- Members point out one another's counterproductive behaviour.
+- They remind one another of their commitments.
+- Performance standards are the same for everyone.
+
+**Results**
+
+- Members are willing to make sacrifices for the team.
+- They focus on collective results rather than personal interests.
+- The team knows and tracks its main goals.
+
+**Interpretation.** For each level, an average of 2.5 or more suggests it is probably not a problem. An average between 1.5 and 2.5 flags an area to watch. Below 1.5, the level must be addressed as a priority. Always start with the lowest problematic level of the pyramid.
+
+> Exercice | Have your team fill in this questionnaire anonymously, then present the results and discuss the weakest level.
+
+--- 30-day action plan
+kw: one level a week · off-site
+Here is a plan for a manager who wants to apply the model with their team.
+
+**Week 1: diagnosis and trust.** Have the questionnaire filled in anonymously. Share the results with the team, without looking for culprits. Hold a one-hour personal histories session: each person tells where they grew up, their first job and an important challenge from their childhood. Start with yourself, and be sincere.
+
+**Week 2: conflict.** At the team meeting, announce that you want franker debates. Define the rules of debate together. During the meeting, play the "miner": look for buried disagreements with direct questions. When a debate heats up, remind people that it is useful.
+
+**Week 3: commitment.** At the end of each meeting, do the cascading message exercise: each person says in one sentence what they will tell their team. Set clear deadlines for pending decisions. Make a quick decision on a secondary subject, to show that deciding fast is not dangerous.
+
+**Week 4: accountability and results.** Display the team's goals and each person's responsibilities. Hold a short progress review where each person presents their results in front of peers. Ask the first-team question: what is each person's priority? Create a scoreboard with three to five collective indicators.
+
+At the end of the month, redo the questionnaire and compare the results. Lencioni warns that progress is often slow and that there may be tense moments, especially when buried conflicts surface. That is normal and even necessary.
+
+> À retenir | One level of the pyramid a week, starting with trust. The tensions that appear are a sign that the work has begun.
+
+--- Running a one-day off-site
+kw: agenda · roles · follow-up
+Lencioni's book is often used as the basis for a team off-site. Here is a possible agenda for a day, inspired by the off-sites described in the fable.
+
+**Preparation.** One to two weeks beforehand, have the questionnaire filled in anonymously. Ask participants to read at least the theoretical part of the book. Choose a venue away from the office, free of interruptions. Announce the objective clearly: improving how the team works, not dealing with operational matters.
+
+**Morning: trust.** Open the day by presenting the pyramid and the questionnaire results. Then launch the personal histories exercise, for about an hour. Start yourself. Next, if the team already has some level of trust, do the effectiveness exercise: each person tells each colleague their most important contribution and one area to improve.
+
+**Late morning: conflict.** Present the conflict continuum and ask each person to place the team on it. Define the rules of debate together. Then choose a real subject the team avoids and debate it, with a designated "miner".
+
+**Afternoon: commitment and accountability.** Make a decision on the subject debated, or set a deadline. Do the cascading message exercise. Then define the team's collective goals for the quarter and each person's responsibilities.
+
+**End of day: results.** Build a simple scoreboard of three to five indicators. Ask the first-team question. Finish with a round of what each person takes away and a personal commitment.
+
+**Follow-up.** Lencioni insists on this point: an off-site without follow-up has little effect. Plan regular check-ins, for example fifteen minutes on collective functioning at every team meeting, and another off-site three to six months later.
+
+- Prepare with an anonymous questionnaire and an off-site venue.
+- Tackle a real avoided subject, not an artificial exercise.
+- Without regular follow-up, an off-site's effect fades within weeks.
+
+--- Case study: the siloed committee
+kw: hospital · departments · first team
+The executive committee of a private clinic brings together the managing director, the medical director, the director of nursing, the finance director, the HR manager and the director of technical services. The clinic is struggling: rising waiting times, patient complaints, tension between departments and a budget deficit.
+
+**Diagnosis.** The managing director has the questionnaire filled in anonymously. The results show low trust, a strong fear of conflict and inattention to collective results. Meetings are polite, but the real debates happen elsewhere. Each director defends their department's interests.
+
+**Trust.** During a one-day off-site away from the clinic, the managing director starts by sharing a mistake she made the previous year and what she learned from it. Then the team does the personal histories exercise. The medical director, known for being distant, tells how he chose medicine after a relative's illness. The others see him differently.
+
+**Conflict.** The managing director puts on the table the subject everyone avoids: the allocation of beds between departments. The debate is heated. The medical director and the director of nursing clash sharply. The managing director reminds them that this debate is exactly what they need.
+
+**Commitment.** A decision is made that fully satisfies nobody. At the end of the meeting, the cascading message exercise reveals that two directors understood it differently. They clarify immediately.
+
+**Accountability and results.** The team adopts three shared indicators: waiting time, patient satisfaction and budget balance. It reviews them at every meeting. The managing director asks each person to consider the executive committee their first team. The finance director accepts a reallocation of budget towards nursing care.
+
+> Question de réflexion | What is your team's equivalent of the bed-allocation debate: the subject everyone avoids?
+
+=== Critical view and connections
+--- The book's limits
+kw: simplicity · fable · little evidence
+Lencioni's book has been widely adopted, but it has its limits.
+
+**A highly simplified model.** The pyramid is easy to remember, but it simplifies reality. Dysfunctions do not always follow one another so neatly. A team can have strong trust and still fail to get results, for reasons that have nothing to do with group dynamics: a poor strategy, a difficult market, insufficient resources. The model does not take these external factors into account.
+
+**Little scientific grounding.** Lencioni draws on his experience as a consultant, not on systematic research. The model has not been rigorously validated. Some academic research on teams, such as Amy Edmondson's work on psychological safety, confirms the importance of trust and the right to make mistakes. But other elements of the model, such as the strict order of the levels, have not been demonstrated.
+
+**A sometimes caricatured fable.** The characters are fairly stereotyped and the plot predictable. Some readers find the story too simple for their situation. It should be read as an illustration, not as a transformation model to be followed to the letter.
+
+**A focus on executive teams.** The book is designed mainly for executive teams. The principles apply to other teams, but some tools, such as the notion of the first team, make less sense for an operational team.
+
+**Cultural and individual differences.** The book gives little room to cultural differences in expressing conflict or vulnerability. In some cultures, public disagreement with a superior is very badly perceived. The tools must be adapted, for example by relying more on writing or small-group discussions.
+
+**The risk of coercion.** Demanding vulnerability or conflict can become an additional pressure. If trust is not genuinely present, the exercises may be experienced as an awkward obligation.
+
+- The model is useful for reflection but does not replace an analysis of strategy.
+- Adapt the exercises to the team's culture and don't force vulnerability.
+
+--- Connections with other books
+kw: Scott · Grove · Collins · Covey
+**With Radical Candor (Kim Scott).** Radical candour is the individual tool that builds the first two levels of the pyramid. Caring personally builds trust; challenging directly opens the door to productive conflict. Kim Scott adds specific tools for giving and receiving feedback, which Lencioni barely addresses.
+
+**With High Output Management (Grove).** Grove's decision model, combining free discussion, clear decision and full support, corresponds exactly to Lencioni's conflict and commitment levels. Grove also describes the peer-group syndrome, which illustrates the avoidance of accountability.
+
+**With Good to Great (Collins).** Collins describes executive teams capable of vigorous debate followed by unified support for decisions. He insists on getting the right people on the team and the wrong people off, which echoes the marketing head's departure in the fable.
+
+**With The 7 Habits of Highly Effective People (Covey).** Covey's win-win thinking and pursuit of synergy extend Lencioni's vision of a team focused on collective results. Covey's emotional bank account is a good image of trust being built and lost.
+
+**With Thinking, Fast and Slow (Kahneman).** Kahneman explains why groups make poor decisions when nobody dares contradict: confirmation bias and groupthink. Productive conflict is a protection against these biases.
+
+> Parcours conseillé | After this book, read Radical Candor for individual feedback tools, or Good to Great for the link between team and strategy.

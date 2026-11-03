@@ -1,0 +1,294 @@
+id: morel
+t: Les Décisions absurdes
+o: Les Décisions absurdes
+a: Christian Morel
+y: 2002
+cat: Sciences humaines
+p: ≈ 300 p.
+c: --b5
+ol_title: Les décisions absurdes
+ol_author: Morel
+center: Les erreurs radicales et persistantes
+pitch: Pourquoi des personnes compétentes prennent ensemble des décisions contraires à leur but, et persistent : erreurs de raisonnement, de groupe et de sens.
+
+=== Contexte et thèse
+--- Un sociologue en entreprise
+kw: cadre dirigeant · sociologie · 2002
+Christian Morel est un sociologue français. Il a mené une carrière de cadre dirigeant dans de grandes entreprises industrielles, notamment dans le domaine des ressources humaines, tout en poursuivant des travaux de sociologie des organisations. Cette double expérience lui a donné un regard particulier sur la manière dont les décisions sont prises dans les entreprises et les institutions.
+
+*Les Décisions absurdes*, publié en 2002, part d'un constat. Dans les organisations, des personnes compétentes, informées et de bonne foi prennent parfois des décisions qui vont **directement à l'encontre du but qu'elles poursuivent**. Et souvent, elles **persistent** dans ces décisions pendant longtemps, malgré les signes évidents qu'elles se trompent.
+
+Morel ne parle pas des erreurs ordinaires, inévitables, ni des décisions malhonnêtes ou intéressées. Il s'intéresse à ce qu'il appelle les **erreurs radicales et persistantes** : des actions qui produisent l'inverse de ce qu'on cherche, et qui sont maintenues avec constance.
+
+Il étudie de nombreux cas, dans l'aviation, l'industrie, l'administration, la médecine, l'armée, mais aussi dans la vie quotidienne des entreprises. Il cherche à comprendre les mécanismes qui produisent ces décisions. Sa conclusion est que l'absurdité ne vient généralement pas de la bêtise ou de la mauvaise volonté des individus. Elle vient de mécanismes **cognitifs**, **collectifs** et **liés au sens**, qui peuvent toucher n'importe quelle organisation.
+
+Morel a prolongé ce travail dans d'autres livres, notamment *Les Décisions absurdes II*, consacré aux manières d'éviter ces erreurs, en s'inspirant des organisations à haute fiabilité.
+
+> À retenir | Des gens compétents prennent ensemble des décisions contraires à leur but, et persistent. L'absurdité vient de mécanismes, pas de la bêtise.
+
+--- Qu'est-ce qu'une décision absurde ?
+kw: contraire au but · persistance · bonne foi
+Morel précise ce qu'il entend par **décision absurde**.
+
+Une décision absurde est une action **radicalement contraire au but recherché**. Il ne s'agit pas d'une décision simplement imparfaite, ou qui aurait pu être meilleure. Il s'agit d'une décision qui produit l'inverse de ce que l'on veut obtenir. Par exemple, une mesure de sécurité qui augmente le risque, un outil de communication que personne ne peut utiliser, une règle destinée à gagner du temps qui en fait perdre beaucoup.
+
+La décision absurde est aussi **persistante**. Elle n'est pas corrigée rapidement. Elle est maintenue, parfois pendant des années, alors que ses effets négatifs sont visibles. Cette persistance est, selon Morel, l'un des aspects les plus intrigants du phénomène.
+
+Les personnes qui prennent ces décisions sont généralement **de bonne foi**. Elles ne cherchent pas à nuire. Elles ont souvent les compétences et les informations nécessaires pour bien décider. Et pourtant, elles se trompent ensemble, de manière durable.
+
+Morel distingue sa démarche de celle qui chercherait des coupables. Il ne s'agit pas de désigner un responsable, mais de comprendre les processus qui conduisent un groupe à ces erreurs. Cette approche est essentielle, selon lui, pour pouvoir les prévenir.
+
+Il donne aussi des exemples de la vie quotidienne : des formulaires administratifs incompréhensibles, des panneaux de signalisation contradictoires, des réunions qui aboutissent à une décision dont personne ne voulait.
+
+- L'action produit l'inverse de son but.
+- Elle est maintenue malgré ses effets.
+- Ses auteurs sont compétents et de bonne foi.
+
+=== Les erreurs de raisonnement
+--- La navette et les joints
+kw: Challenger · données · interprétation
+L'un des cas les plus étudiés par Morel est l'accident de la **navette spatiale Challenger**, qui a explosé peu après son décollage en janvier 1986, tuant ses sept astronautes.
+
+L'explosion a été causée par la défaillance de **joints d'étanchéité** sur l'un des propulseurs. Ces joints perdaient leur élasticité par temps froid. Le jour du lancement, la température était particulièrement basse.
+
+La veille, les ingénieurs du fabricant des propulseurs avaient exprimé leurs inquiétudes lors d'une téléconférence avec la NASA. Ils avaient recommandé de ne pas lancer la navette en dessous d'une certaine température. Mais les données qu'ils présentaient étaient mal organisées. Ils avaient notamment examiné les incidents survenus sur les joints lors des vols précédents, en ne regardant que les vols **où des problèmes avaient été constatés**. Sur ces seuls vols, le lien avec la température n'apparaissait pas clairement.
+
+Morel souligne que si l'on avait examiné **tous les vols**, y compris ceux sans incident, le lien entre le froid et les problèmes de joints serait devenu évident : presque tous les vols par temps chaud s'étaient bien passés, tandis que les vols par temps plus froid avaient presque tous présenté des anomalies.
+
+Sous la pression de la NASA, qui demandait des preuves, et dans un contexte où le lancement avait déjà été reporté plusieurs fois, la direction du fabricant a finalement donné son accord.
+
+Morel analyse ce cas comme une combinaison d'**erreurs de raisonnement** sur les données et de **mécanismes collectifs** : la pression du calendrier, l'inversion de la charge de la preuve, la séparation entre ingénieurs et décideurs.
+
+> À retenir | Regarder seulement les cas où il y a eu un problème peut masquer le lien qui saute aux yeux sur l'ensemble des cas.
+
+--- Les pièges cognitifs
+kw: raccourcis · simplifications
+Morel décrit plusieurs mécanismes de **raisonnement** qui conduisent à des décisions absurdes. Il s'appuie sur les travaux de psychologie cognitive, notamment ceux de Daniel Kahneman et Amos Tversky.
+
+**Les erreurs sur les données.** Comme dans le cas de Challenger, on peut tirer des conclusions fausses d'un échantillon incomplet, ou mal interpréter des statistiques. Morel souligne que beaucoup de décideurs sont mal formés au raisonnement statistique.
+
+**Les raisonnements simplistes.** Face à un problème complexe, on applique des règles simples qui ne conviennent pas. Par exemple, on suppose qu'une relation est linéaire alors qu'elle ne l'est pas.
+
+**Les raisonnements binaires.** On pense en termes de tout ou rien, alors que la réalité présente des degrés.
+
+**L'oubli de l'objectif.** Au fil de l'action, on perd de vue le but initial, et l'on se concentre sur des objectifs intermédiaires.
+
+**La confusion entre moyens et fins.** Une procédure, un indicateur ou un outil devient un but en soi, au détriment de ce qu'il devait servir.
+
+Morel cite aussi un accident aérien où un équipage, confronté à une panne de moteur, a arrêté le moteur qui fonctionnait correctement au lieu de celui qui était défaillant. Plusieurs indices auraient pu révéler l'erreur, mais l'équipage avait construit une interprétation de la situation, et les signaux suivants ont été lus à travers cette interprétation.
+
+Il souligne que ces erreurs ne viennent pas d'un manque d'intelligence. Elles viennent de mécanismes que nous partageons tous, et qui sont amplifiés par la pression, l'urgence et la complexité.
+
+- Des échantillons incomplets, des statistiques mal lues.
+- Des règles simples appliquées à des situations complexes.
+- Une première interprétation qui colore toutes les suivantes.
+
+--- Le cadre de référence erroné
+kw: modèle mental · persistance
+Morel insiste sur un mécanisme particulièrement important : le **cadre de référence erroné**.
+
+Quand une personne ou un groupe affronte une situation, il la comprend à travers un modèle mental, une représentation de la situation. Si ce modèle est faux, toutes les décisions qui en découlent risquent d'être fausses, même si elles sont logiques à l'intérieur du modèle.
+
+Le problème est que ce cadre est rarement remis en question. Les nouvelles informations sont interprétées pour s'y conformer. Celles qui le contredisent sont ignorées, minimisées ou expliquées autrement. Cette tendance explique la **persistance** des décisions absurdes : tant que le cadre n'est pas remis en cause, on continue à agir de la même manière.
+
+Morel donne l'exemple de l'accident aérien déjà évoqué. L'équipage avait identifié le mauvais moteur comme défaillant. Quand il l'a coupé, certains symptômes ont diminué par coïncidence, ce qui a semblé confirmer leur diagnostic. Les signaux suivants, qui auraient pu révéler l'erreur, ont été interprétés à travers ce diagnostic.
+
+Il évoque aussi des décisions d'entreprise où une stratégie fondée sur une analyse erronée du marché est maintenue malgré des résultats décevants, parce que chaque échec est expliqué par des facteurs extérieurs plutôt que par l'erreur de départ.
+
+Il souligne que remettre en cause un cadre de référence est difficile, parce que cela demande d'admettre que l'on s'est trompé dès le départ, ce qui a un coût psychologique et social.
+
+> Question clé | Quelle décision persistante de votre organisation reposerait-elle sur une hypothèse de départ jamais vérifiée ?
+
+=== Les mécanismes collectifs
+--- Le paradoxe d'Abilene
+kw: accord apparent · personne ne voulait
+Morel consacre une grande partie de son livre aux mécanismes **collectifs** qui produisent des décisions absurdes. L'un des plus connus est le **paradoxe d'Abilene**, décrit par un chercheur américain en management, Jerry Harvey.
+
+L'histoire est la suivante. Par une journée très chaude, au Texas, une famille est tranquillement installée sous un porche. Le beau-père propose d'aller dîner à Abilene, une ville située à plus de quatre-vingts kilomètres. Chacun, pensant que les autres en ont envie, accepte. Ils font le trajet dans une voiture sans climatisation, mangent un mauvais repas, et reviennent épuisés. De retour, ils découvrent que personne ne voulait y aller. Chacun avait accepté pour faire plaisir aux autres.
+
+Morel explique que ce paradoxe illustre un phénomène fréquent dans les organisations : un groupe prend une décision que **personne ne souhaite vraiment**, parce que chacun croit que les autres la souhaitent, et n'ose pas exprimer son désaccord.
+
+Il décrit les mécanismes qui expliquent ce phénomène. La peur d'être isolé, d'être perçu comme négatif ou de briser la cohésion du groupe. L'idée que les autres savent mieux. Le désir de ne pas faire perdre la face à celui qui a proposé l'idée.
+
+Morel souligne que ce paradoxe est différent du **conformisme**, où les individus adoptent réellement l'avis du groupe. Dans le paradoxe d'Abilene, chacun garde son avis, mais le cache.
+
+- Chacun accepte pour faire plaisir aux autres.
+- Le groupe décide ce que personne ne voulait.
+- Ce n'est pas du conformisme : chacun garde son avis, mais le tait.
+
+--- Experts et décideurs
+kw: séparation · charge de la preuve · silence
+Morel décrit un autre mécanisme collectif important : la **séparation entre experts et décideurs**.
+
+Dans beaucoup d'organisations, ceux qui ont la connaissance technique, les ingénieurs, les spécialistes, les opérateurs, ne sont pas ceux qui décident. Les décisions sont prises par des managers qui dépendent des informations transmises par les experts. Cette séparation crée plusieurs risques.
+
+**Les experts n'osent pas s'opposer.** Ils peuvent hésiter à contredire les décideurs, par crainte pour leur carrière, ou parce qu'ils pensent que ce n'est pas leur rôle.
+
+**Les décideurs comprennent mal les avertissements.** Les informations techniques, complexes et nuancées, sont simplifiées ou mal transmises. Les décideurs ne mesurent pas leur importance.
+
+**La charge de la preuve s'inverse.** Dans le cas de Challenger, la NASA a demandé aux ingénieurs de **prouver** que le lancement était dangereux, au lieu de leur demander de prouver qu'il était sûr. Les ingénieurs, qui n'avaient pas de preuve formelle, ont dû céder. Morel souligne que cette inversion est fréquente : on exige des preuves pour arrêter un projet, mais pas pour le poursuivre.
+
+**Le silence organisationnel.** Les personnes qui voient un problème ne le signalent pas, ou le signalent de manière trop discrète pour être entendue.
+
+Morel souligne que ces mécanismes ne viennent pas de la mauvaise volonté des individus, mais de l'organisation elle-même : ses hiérarchies, ses circuits d'information, ses habitudes.
+
+> À retenir | Quand ceux qui savent ne décident pas, l'avertissement se perd. Et quand on exige des preuves pour arrêter mais pas pour continuer, on continue.
+
+--- Le consensus apparent
+kw: réunions · unanimité · pas de contradicteur
+Morel analyse aussi le rôle des **réunions** et du **consensus** dans les décisions absurdes.
+
+Il observe que beaucoup d'organisations valorisent le consensus. Les décisions sont prises collectivement, en réunion, et l'on cherche l'accord de tous. Ce fonctionnement a des avantages : il implique les participants et facilite la mise en œuvre. Mais il peut aussi produire des décisions absurdes.
+
+Un **consensus apparent** peut cacher des désaccords profonds, que personne n'ose exprimer. Les participants les plus influents, ou ceux qui parlent en premier, orientent la discussion. Les autres se rallient, par habitude, par fatigue ou par prudence. Le groupe a l'impression d'être d'accord, alors que plusieurs membres ont des doutes.
+
+Morel cite des travaux sur ce que le psychologue Irving Janis a appelé la **pensée de groupe** : dans les groupes très soudés, la recherche de l'unanimité l'emporte sur l'analyse critique des options. Le groupe se croit invulnérable, rationalise ses choix, fait pression sur les dissidents, et ne voit pas les signaux d'alerte.
+
+Il souligne aussi le rôle des **décisions par défaut** : dans beaucoup de réunions, on ne décide pas vraiment. On laisse les choses continuer, parce que personne ne propose d'arrêter. La persistance des décisions absurdes vient souvent de cette absence de décision explicite.
+
+Morel recommande d'organiser la contradiction : désigner une personne chargée de critiquer la proposition, recueillir les avis individuels avant la discussion, demander explicitement les objections.
+
+- Un consensus apparent peut cacher des doutes non exprimés.
+- La pensée de groupe privilégie l'unanimité sur l'analyse.
+- Organiser la contradiction plutôt que l'espérer.
+
+=== La perte de sens
+--- Quand l'action se détache du but
+kw: processus autonome · règles · indicateurs
+Le troisième type de mécanisme décrit par Morel concerne le **sens**. Une décision absurde peut naître quand une action se détache progressivement de son but, jusqu'à devenir une fin en soi.
+
+Morel donne de nombreux exemples. Une procédure de sécurité est appliquée scrupuleusement, même quand elle ne protège plus de rien, ou qu'elle crée un nouveau risque. Un indicateur de performance est poursuivi pour lui-même, au détriment de ce qu'il devait mesurer. Un projet continue parce qu'il a été lancé, alors que ses raisons ont disparu.
+
+Il évoque l'image d'un film célèbre, *Le Pont de la rivière Kwaï*, où un officier britannique prisonnier des Japonais met tant de fierté et d'énergie à construire un pont pour ses geôliers qu'il en oublie que ce pont servira l'ennemi. Morel utilise cette histoire comme métaphore : le souci de bien faire une tâche peut faire oublier le but qu'elle sert.
+
+Il décrit aussi le phénomène des **solutions qui deviennent des problèmes**. Une règle est créée pour résoudre un problème. Le problème disparaît, mais la règle reste. Elle continue à être appliquée, parfois avec des effets négatifs, parce que personne ne se souvient de sa raison d'être.
+
+Morel souligne que la perte de sens est souvent liée à la **division du travail**. Quand chacun ne voit qu'une partie du processus, il perd de vue le but global, et applique ses propres règles sans se demander si elles servent encore.
+
+> Question clé | Quelle règle de votre organisation continue d'être appliquée alors que plus personne ne se souvient pourquoi elle existe ?
+
+--- L'escalade de l'engagement
+kw: coûts engagés · persévérer · justifier
+Morel analyse un mécanisme qui explique la **persistance** des décisions absurdes : l'**escalade de l'engagement**.
+
+Une fois qu'une décision a été prise et que des ressources y ont été investies, il devient de plus en plus difficile de l'abandonner, même quand elle se révèle mauvaise. Plusieurs raisons l'expliquent.
+
+**Les coûts déjà engagés.** On a déjà dépensé beaucoup d'argent, de temps et d'énergie. Abandonner donnerait l'impression de tout perdre. On continue donc, en espérant récupérer la mise, ce qui conduit à investir encore davantage dans un projet voué à l'échec. Les économistes parlent de l'**erreur des coûts irrécupérables**.
+
+**La justification.** Les personnes qui ont pris la décision veulent prouver qu'elles avaient raison. Abandonner reviendrait à reconnaître une erreur, avec un coût pour leur réputation et leur image d'elles-mêmes.
+
+**L'engagement public.** Une décision annoncée publiquement est plus difficile à abandonner, parce que cela reviendrait à se déjuger devant les autres.
+
+**L'inertie.** Une fois lancé, un projet crée ses propres structures, ses équipes, ses budgets, ses intérêts. Il continue par sa propre dynamique.
+
+Morel cite des exemples de grands projets industriels ou publics maintenus pendant des années malgré des dépassements de coûts considérables et des résultats décevants.
+
+Il souligne que, pour sortir de l'escalade, il faut pouvoir **changer d'avis sans perdre la face**, ce qui suppose une culture qui accepte l'erreur.
+
+- Ce qu'on a déjà dépensé pousse à dépenser encore.
+- Abandonner, c'est admettre une erreur.
+- Une culture qui accepte l'erreur permet de s'arrêter.
+
+=== Éviter les décisions absurdes
+--- Les leçons de la haute fiabilité
+kw: aviation · nucléaire · sous-marins
+Dans *Les Décisions absurdes II*, publié en 2012, Morel s'intéresse aux organisations qui parviennent à **éviter** les erreurs graves : les organisations dites à **haute fiabilité**. Il étudie notamment l'aviation civile, les centrales nucléaires, les sous-marins nucléaires, les porte-avions, certains services hospitaliers et les équipes de montagne.
+
+Il en tire plusieurs principes, qui s'opposent souvent aux habitudes des organisations ordinaires.
+
+**La collégialité.** Les décisions importantes ne reposent pas sur une seule personne. Dans l'aviation, par exemple, les deux pilotes vérifient mutuellement leurs actions, et le copilote est encouragé à contester le commandant s'il pense qu'il se trompe. Cette pratique est issue de l'analyse d'accidents où le copilote avait vu l'erreur sans oser la signaler.
+
+**La non-punition des erreurs signalées.** Dans plusieurs secteurs à haut risque, les personnes qui signalent spontanément une erreur ou un incident ne sont pas sanctionnées, sauf faute grave ou intentionnelle. Cela permet de recueillir de nombreuses informations sur les incidents, et d'en tirer des leçons avant qu'un accident ne se produise.
+
+**La préparation des décisions.** Les organisations fiables utilisent des briefings, des listes de vérification, des procédures écrites, pour éviter les oublis et les erreurs dans les moments critiques.
+
+**Le droit d'arrêter.** Toute personne qui constate un danger peut arrêter l'action, quel que soit son rang.
+
+> À retenir | Les organisations fiables décident à plusieurs, ne punissent pas l'erreur signalée, préparent les décisions et donnent à chacun le droit d'arrêter.
+
+--- Des pratiques pour tous
+kw: contradicteur · retour d'expérience
+Morel propose des pratiques qui peuvent être adaptées à toutes les organisations.
+
+**Organiser la contradiction.** Désigner, dans les réunions importantes, une personne chargée de chercher les failles d'une proposition. Recueillir les avis par écrit avant la discussion. Demander explicitement aux participants ce qui pourrait mal tourner.
+
+**Rapprocher experts et décideurs.** Associer les personnes qui ont la connaissance technique aux décisions, et s'assurer que leurs avertissements sont entendus et compris.
+
+**Inverser la charge de la preuve.** Pour les décisions à risque, exiger la preuve que l'action est sûre, plutôt que la preuve qu'elle est dangereuse.
+
+**Pratiquer le retour d'expérience.** Analyser régulièrement les incidents, les erreurs et les décisions passées, sans chercher de coupable, pour comprendre les mécanismes et éviter qu'ils se reproduisent.
+
+**Revenir régulièrement au but.** Se demander si les règles, les procédures et les indicateurs servent encore leur objectif initial. Supprimer ceux qui ne servent plus.
+
+**Prévoir des points d'arrêt.** Pour les grands projets, fixer à l'avance des moments où l'on décidera explicitement de continuer ou d'arrêter, selon des critères définis dès le départ.
+
+**Simplifier.** Les situations trop complexes favorisent les erreurs. Des procédures claires, des informations bien présentées et des organisations lisibles réduisent les risques.
+
+Morel souligne que ces pratiques demandent un changement culturel : accepter l'erreur, valoriser la contradiction, et reconnaître que la compétence individuelle ne suffit pas à garantir de bonnes décisions.
+
+- Un contradicteur désigné, des avis écrits avant la discussion.
+- Des points d'arrêt fixés à l'avance.
+- Un retour d'expérience sans coupable.
+
+=== Mettre en pratique
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · décisions
+**Semaine 1 : repérer.** Listez les décisions, règles ou projets de votre organisation qui semblent produire l'inverse de leur but, ou qui sont maintenus malgré des résultats décevants. Pour chacun, demandez-vous s'il s'agit d'une erreur de raisonnement, d'un mécanisme collectif ou d'une perte de sens.
+
+**Semaine 2 : les réunions.** Lors de vos prochaines réunions de décision, recueillez les avis individuels par écrit avant la discussion. Désignez un contradicteur. Demandez explicitement : qu'est-ce qui pourrait mal tourner ?
+
+**Semaine 3 : le sens.** Choisissez trois règles ou indicateurs importants. Pour chacun, retrouvez son but initial et vérifiez s'il le sert encore. Proposez de supprimer ou de modifier ceux qui ne le servent plus.
+
+**Semaine 4 : les points d'arrêt.** Pour un projet en cours, fixez une date et des critères clairs pour décider de continuer ou d'arrêter. Organisez un retour d'expérience sur une décision passée, sans chercher de coupable.
+
+> À retenir | Repérer l'absurde, organiser la contradiction, revenir au but, fixer des points d'arrêt.
+
+--- Cas pratique : le comité
+kw: projet · dépassements · arrêt
+Dans une entreprise industrielle, un projet de nouvelle ligne de production a été lancé il y a trois ans. Le budget a déjà doublé, les délais ont été repoussés à plusieurs reprises, et la demande pour le produit concerné a fortement baissé. Pourtant, le comité d'investissement continue d'approuver chaque nouvelle tranche de dépenses.
+
+La nouvelle directrice financière, Isabelle, a lu Morel. Elle reconnaît plusieurs mécanismes.
+
+**L'escalade de l'engagement.** Les membres du comité justifient chaque dépense par les sommes déjà investies.
+
+**Le consensus apparent.** En discutant individuellement avec les membres du comité, elle découvre que plusieurs d'entre eux doutent du projet, mais n'osent pas le dire devant le directeur général, qui l'a lancé.
+
+**La séparation entre experts et décideurs.** Les ingénieurs du projet ont signalé des difficultés techniques majeures, mais leurs rapports ont été résumés de manière rassurante.
+
+Isabelle propose un changement de méthode. Avant la prochaine réunion, chaque membre doit donner son avis par écrit et de manière anonyme. Les ingénieurs sont invités à présenter directement leur analyse. Le comité doit répondre à une question nouvelle : si nous n'avions encore rien dépensé, lancerions-nous ce projet aujourd'hui ?
+
+La réponse est clairement négative. Le projet est arrêté, et une partie des équipements est réaffectée à d'autres lignes.
+
+> Question de réflexion | Quel projet poursuivriez-vous encore si vous deviez le lancer aujourd'hui, sans tenir compte de ce qui a déjà été dépensé ?
+
+=== Regard critique et liens
+--- Limites du livre
+kw: cas choisis · après coup · complexité
+*Les Décisions absurdes* est un ouvrage apprécié, mais il présente quelques limites.
+
+**Le biais rétrospectif.** Il est plus facile de juger une décision absurde après coup, quand on connaît ses conséquences. Au moment de la décision, l'incertitude était souvent réelle. Morel en est conscient, mais certains cas peuvent paraître plus évidents qu'ils ne l'étaient sur le moment.
+
+**Des cas choisis.** Les exemples sont sélectionnés pour illustrer les mécanismes. On sait moins combien de décisions comparables, prises dans les mêmes conditions, se sont révélées bonnes.
+
+**Une classification imparfaite.** Les trois types de mécanismes, cognitifs, collectifs et de sens, se combinent souvent dans un même cas, et il est parfois difficile de les distinguer.
+
+**Les rapports de pouvoir.** Morel insiste sur les mécanismes involontaires et la bonne foi des décideurs. Certains critiques estiment que les intérêts, les luttes de pouvoir et les contraintes économiques jouent aussi un rôle important dans certaines décisions absurdes.
+
+**La transposition des pratiques de haute fiabilité.** Les pratiques de l'aviation ou du nucléaire ne sont pas toujours faciles à appliquer dans des organisations où les risques sont moins visibles et les erreurs moins immédiatement graves.
+
+- Le recul facilite le jugement.
+- Les intérêts et le pouvoir comptent aussi.
+
+--- Liens avec les autres livres
+kw: Kahneman · Lencioni · Marquet · Le Bon
+**Avec Système 1 / Système 2 (Kahneman).** Morel s'appuie sur les biais cognitifs décrits par Kahneman et Tversky pour expliquer les erreurs de raisonnement.
+
+**Avec Optimisez votre équipe (Lencioni).** La peur du conflit, que Lencioni place parmi les dysfonctionnements des équipes, est à l'origine du paradoxe d'Abilene et du consensus apparent.
+
+**Avec Turn the Ship Around! (Marquet).** Marquet décrit un sous-marin où un ordre erroné était relayé sans discussion. Ses solutions, donner l'autorité à ceux qui ont l'information et encourager la remise en question, rejoignent celles de Morel.
+
+**Avec Psychologie des foules (Le Bon).** Le Bon décrivait de manière intuitive les dérives des groupes ; Morel les analyse avec rigueur, dans des groupes de professionnels compétents.
+
+**Avec L'Esprit Toyota (Ohno).** L'arrêt de la ligne par l'opérateur et les cinq pourquoi sont des pratiques qui permettent de corriger les erreurs avant qu'elles ne deviennent persistantes.
+
+> Parcours conseillé | Lisez ensuite Système 1 / Système 2 pour les erreurs de raisonnement, puis Turn the Ship Around! pour une organisation qui ose contredire.

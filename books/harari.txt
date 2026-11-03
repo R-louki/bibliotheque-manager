@@ -1,0 +1,262 @@
+id: harari
+t: Sapiens
+o: Sapiens: A Brief History of Humankind
+a: Yuval Noah Harari
+y: 2011
+cat: Sciences humaines
+p: ≈ 500 p.
+c: --b3
+ol_author: Harari
+center: Une brève histoire de l'humanité
+pitch: Trois révolutions, cognitive, agricole et scientifique, et le pouvoir des fictions partagées qui permettent à des millions d'inconnus de coopérer.
+
+=== Contexte et thèse
+--- Un historien et une question immense
+kw: Jérusalem · cours · best-seller
+Yuval Noah Harari est un historien israélien, professeur à l'Université hébraïque de Jérusalem. Spécialiste à l'origine d'histoire médiévale et militaire, il a donné un cours d'introduction à l'histoire du monde, destiné aux étudiants de première année. Ce cours est devenu un livre, publié en hébreu en 2011, puis traduit en anglais en 2014 et dans des dizaines de langues. *Sapiens* est devenu un succès mondial.
+
+Le projet du livre est très ambitieux : raconter en quelques centaines de pages l'histoire de l'espèce humaine, depuis l'apparition des premiers humains jusqu'à aujourd'hui. Harari ne cherche pas à tout dire. Il propose une lecture d'ensemble, qui relie l'histoire, la biologie, l'économie, la psychologie et la philosophie.
+
+Il pose une question centrale : comment une espèce de primates sans importance particulière, *Homo sapiens*, est-elle devenue en quelques dizaines de milliers d'années la maîtresse de la planète ?
+
+Sa réponse s'organise autour de **trois grandes révolutions** : la **révolution cognitive**, il y a environ 70 000 ans, qui a donné aux humains la capacité de penser et de communiquer d'une manière nouvelle ; la **révolution agricole**, il y a environ 12 000 ans, qui a transformé leur mode de vie ; et la **révolution scientifique**, il y a environ 500 ans, qui leur a donné un pouvoir sans précédent sur le monde.
+
+Harari interroge aussi le sens de cette histoire. Les humains sont-ils plus heureux aujourd'hui qu'il y a dix mille ans ? Le progrès est-il réel ? Et que deviendra notre espèce ?
+
+> À retenir | Trois révolutions, cognitive, agricole, scientifique, expliquent comment un primate ordinaire est devenu maître de la planète.
+
+--- Un animal sans importance
+kw: plusieurs espèces · Néandertal · feu
+Harari rappelle d'abord que, pendant la plus grande partie de son histoire, l'être humain était un animal parmi d'autres, sans influence particulière sur son environnement.
+
+Le genre *Homo* est apparu en Afrique il y a environ deux millions et demi d'années. Pendant très longtemps, plusieurs espèces humaines ont coexisté sur la planète : les Néandertaliens en Europe et au Moyen-Orient, d'autres espèces en Asie, et *Homo sapiens* en Afrique de l'Est. Notre espèce n'était qu'une parmi d'autres.
+
+Ces humains avaient déjà des caractéristiques remarquables : un grand cerveau, la marche debout, l'usage d'outils, et surtout la maîtrise du **feu**, qui leur permettait de cuire leurs aliments, de se protéger et de modifier leur environnement. Mais ils restaient au milieu de la chaîne alimentaire. Ils chassaient de petits animaux, cueillaient des plantes, et se nourrissaient parfois des restes laissés par les grands prédateurs.
+
+Harari souligne que le grand cerveau humain a un coût important : il consomme beaucoup d'énergie, et oblige les petits à naître très immatures, ce qui exige des soins longs et une forte coopération sociale.
+
+Puis, il y a environ 70 000 ans, *Homo sapiens* commence à se répandre hors d'Afrique. En quelques dizaines de milliers d'années, il atteint l'Europe, l'Asie, l'Australie, puis l'Amérique. Les autres espèces humaines disparaissent, sans qu'on sache exactement comment. Harari évoque plusieurs hypothèses : un remplacement, une forme de métissage limité, des conflits.
+
+- Pendant longtemps, plusieurs espèces humaines ont coexisté.
+- L'humain était au milieu de la chaîne alimentaire.
+- Sapiens se répand il y a environ 70 000 ans, et les autres espèces disparaissent.
+
+=== La révolution cognitive
+--- Le pouvoir des fictions
+kw: langage · croire ensemble · coopération
+Harari explique le succès de *Homo sapiens* par la **révolution cognitive**, qui se serait produite il y a environ 70 000 à 30 000 ans. À cette époque, les sapiens commencent à produire des objets nouveaux : des bateaux, des lampes à huile, des arcs, des aiguilles, et surtout des objets d'art et des ornements.
+
+Selon Harari, ce changement est lié à une nouvelle forme de **langage**. Beaucoup d'animaux communiquent, mais le langage humain a deux particularités. Il permet d'abord de transmettre une grande quantité d'informations sur le monde et, surtout, sur les autres membres du groupe. Harari évoque l'hypothèse selon laquelle le langage aurait servi à échanger des informations sociales, des « commérages », ce qui permettait de savoir à qui faire confiance.
+
+Mais la particularité la plus importante est ailleurs : le langage humain permet de parler de choses qui **n'existent pas**. Les sapiens peuvent inventer des récits, des mythes, des esprits, des dieux, des nations. Et surtout, ils peuvent **croire ensemble** à ces fictions.
+
+Harari en fait la clé de son livre. Les fictions partagées permettent à un grand nombre d'inconnus de **coopérer**. Deux personnes qui ne se connaissent pas peuvent travailler ensemble si elles croient au même dieu, à la même nation, aux mêmes lois ou à la même monnaie. Aucun autre animal ne peut coopérer de manière aussi souple avec un aussi grand nombre d'individus.
+
+Il souligne que ce mot de fiction n'est pas péjoratif. Ces réalités imaginées ont des effets bien réels : elles organisent la vie de milliards de personnes.
+
+> À retenir | Sapiens peut croire ensemble à des choses qui n'existent pas. Ces fictions partagées permettent à des inconnus de coopérer.
+
+--- La limite des 150
+kw: groupe · confiance personnelle · mythes
+Harari s'appuie sur des travaux de sociologie et d'anthropologie pour expliquer pourquoi les fictions sont si importantes.
+
+Il cite l'idée selon laquelle un groupe humain peut fonctionner sur la base de relations personnelles jusqu'à environ **150 personnes**. Au-delà, il devient impossible de connaître personnellement chaque membre du groupe et de savoir à qui faire confiance. Ce seuil se retrouverait dans de nombreuses organisations humaines, des villages aux unités militaires.
+
+Chez les chimpanzés, les groupes dépassent rarement quelques dizaines d'individus. Au-delà, l'ordre social se désagrège et le groupe se divise.
+
+Les sapiens ont dépassé cette limite grâce aux fictions partagées. Une tribu, un royaume, une Église, une entreprise ou un État peuvent réunir des milliers ou des millions de personnes qui ne se connaissent pas, parce qu'elles partagent des croyances communes.
+
+Harari donne un exemple moderne : une entreprise comme Peugeot. Elle n'existe pas physiquement en tant que telle. Ses usines, ses voitures et ses employés existent, mais l'entreprise elle-même est une **fiction juridique**, créée par des lois et des contrats. Si toutes ses usines disparaissaient, elle continuerait d'exister, tant que les juristes et les tribunaux la reconnaissent. Et elle permet à des milliers de personnes de coopérer.
+
+Il souligne que ces fictions peuvent **changer rapidement**, ce qui permet aux humains de modifier leurs comportements sans attendre une évolution génétique. C'est ce qui explique la rapidité des transformations culturelles humaines.
+
+- Au-delà d'environ 150 personnes, la confiance personnelle ne suffit plus.
+- Les fictions permettent de coopérer à très grande échelle.
+- Elles changent vite, sans attendre l'évolution génétique.
+
+--- Les chasseurs-cueilleurs
+kw: vie variée · connaissances · extinctions
+Harari consacre une partie de son livre à la vie des **chasseurs-cueilleurs**, qui a représenté l'essentiel de l'histoire humaine.
+
+Il souligne que nous en savons peu, car ils ont laissé peu de traces. Mais les recherches archéologiques et l'étude des sociétés de chasseurs-cueilleurs actuelles permettent de formuler des hypothèses.
+
+Selon Harari, les chasseurs-cueilleurs avaient souvent une **vie variée**. Ils connaissaient de manière très détaillée leur environnement : les plantes, les animaux, les saisons. Ils travaillaient sans doute moins d'heures par jour que les paysans qui leur ont succédé. Leur alimentation était souvent plus diversifiée. Ils souffraient moins de certaines maladies infectieuses, qui se propagent plus facilement dans les populations denses et au contact des animaux domestiques.
+
+Il ne les idéalise pas pour autant. Leur vie était aussi marquée par la violence, la mortalité infantile élevée, et des périodes de disette.
+
+Harari souligne aussi un aspect sombre de cette période : l'**impact des sapiens sur les autres espèces**. Partout où les sapiens sont arrivés, de nombreuses grandes espèces animales ont disparu, notamment en Australie et en Amérique. Les chercheurs débattent du rôle exact des humains et du climat, mais Harari estime que les sapiens ont joué un rôle important dans ces extinctions. Il présente l'humain comme une espèce qui, bien avant l'industrie, a déjà profondément transformé son environnement.
+
+> Question clé | Notre image d'un passé humain en harmonie avec la nature résiste-t-elle à l'histoire des extinctions ?
+
+=== La révolution agricole
+--- Un piège plutôt qu'un progrès
+kw: blé · travail · population
+Il y a environ 12 000 ans, dans plusieurs régions du monde, les humains commencent à cultiver des plantes et à élever des animaux. C'est la **révolution agricole**.
+
+On présente souvent cette révolution comme un grand progrès. Harari propose une lecture plus critique. Il affirme que, pour la plupart des individus, la vie des premiers agriculteurs était probablement **plus difficile** que celle des chasseurs-cueilleurs. Ils travaillaient davantage, leur alimentation était moins variée, ils souffraient de nouvelles maladies, et ils dépendaient de quelques cultures, ce qui les exposait aux famines en cas de mauvaise récolte.
+
+Il propose une image provocante : ce ne sont pas les humains qui ont domestiqué le blé, mais le **blé qui a domestiqué les humains**. Le blé était une plante sauvage parmi d'autres. En quelques milliers d'années, il s'est répandu sur une grande partie de la planète, grâce aux humains qui ont consacré leur vie à le planter, l'arroser, le protéger et le récolter.
+
+Pourquoi alors les humains ont-ils adopté l'agriculture ? Harari explique que l'agriculture permettait de nourrir **plus de personnes** sur un même territoire. La population a augmenté. Mais chaque individu ne vivait pas forcément mieux. Une fois la population accrue, il n'était plus possible de revenir en arrière. Les humains étaient pris au **piège** : chaque génération héritait d'une situation qu'elle ne pouvait pas changer.
+
+Harari voit là une leçon générale : les changements qui augmentent la puissance collective ne rendent pas forcément les individus plus heureux.
+
+> À retenir | L'agriculture a multiplié les humains sans forcément améliorer leur vie. Un changement peut accroître la puissance sans accroître le bonheur.
+
+--- Ordres imaginés et écriture
+kw: hiérarchies · lois · bureaucratie
+Avec l'agriculture apparaissent les villages, puis les villes, les royaumes et les empires. Ces sociétés nouvelles rassemblent des milliers, puis des millions de personnes. Pour les organiser, il faut des **ordres imaginés** : des systèmes de croyances partagées qui définissent les règles, les rôles et les hiérarchies.
+
+Harari prend l'exemple du code de Hammurabi, rédigé en Mésopotamie vers 1750 avant notre ère, qui établit des règles et des peines différentes selon les classes sociales. Il le compare à la Déclaration d'indépendance américaine, qui affirme l'égalité des hommes. Pour Harari, les deux textes reposent sur des croyances partagées, et non sur des vérités naturelles. Il ne dit pas que les deux se valent, mais que ce sont des constructions humaines, qui n'existent que tant que les gens y croient.
+
+Il explique que ces ordres imaginés sont difficiles à changer pour trois raisons. Ils sont **intégrés dans le monde matériel**, par exemple dans l'architecture des maisons ou des villes. Ils façonnent **nos désirs**, qui nous paraissent personnels mais sont souvent culturels. Et ils sont **partagés par des millions de personnes**, si bien qu'un individu ne peut pas les changer seul.
+
+Les grandes sociétés ont aussi besoin de conserver une énorme quantité d'informations : impôts, propriétés, lois. Le cerveau humain n'est pas fait pour cela. D'où l'invention de l'**écriture**, d'abord en Mésopotamie, pour tenir des comptes. L'écriture permet le développement des administrations et des bureaucraties.
+
+Harari souligne enfin que les ordres imaginés ont presque toujours produit des **hiérarchies injustes**, fondées sur la naissance, le genre ou l'origine.
+
+- Les grandes sociétés reposent sur des ordres imaginés.
+- Ils sont durables car intégrés aux objets, aux désirs et aux croyances collectives.
+- L'écriture naît pour gérer l'information des administrations.
+
+=== L'unification de l'humanité
+--- Monnaie, empires, religions
+kw: confiance universelle · conquête · croyances
+Harari observe que l'histoire humaine tend vers une **unification** progressive. De multiples petites cultures isolées se sont peu à peu reliées, jusqu'à former aujourd'hui une civilisation mondiale. Il identifie trois forces principales de cette unification.
+
+**La monnaie.** Harari la présente comme le système de confiance mutuelle le plus universel jamais inventé. Une pièce ou un billet n'a pas de valeur en soi. Mais tout le monde accepte la monnaie, parce que tout le monde croit que les autres l'accepteront aussi. La monnaie permet à des personnes qui ne partagent ni la langue, ni la religion, ni les valeurs de faire des échanges. Harari note qu'elle permet de convertir presque n'importe quoi en presque n'importe quoi d'autre, ce qui facilite la coopération, mais peut aussi corroder les valeurs traditionnelles.
+
+**Les empires.** Harari définit un empire comme un ordre politique qui gouverne de nombreux peuples différents et dont les frontières sont flexibles. Il souligne que les empires ont souvent été brutaux. Mais ils ont aussi diffusé des langues, des lois, des idées et des techniques, et ont créé de vastes espaces culturels communs. Beaucoup d'éléments de nos cultures actuelles sont des héritages d'empires.
+
+**Les religions.** Les religions universelles, qui prétendent s'adresser à tous les humains, ont unifié des populations très diverses autour de croyances communes. Harari élargit la notion de religion à des idéologies modernes, comme le libéralisme, le communisme ou le nationalisme, qu'il considère comme des systèmes de croyances fondés sur des valeurs supposées supérieures.
+
+> Question clé | Quelle fiction partagée, monnaie, entreprise, nation, organise le plus votre vie quotidienne ?
+
+=== La révolution scientifique
+--- Admettre son ignorance
+kw: découverte · cartes vides · progrès
+Il y a environ 500 ans commence la **révolution scientifique**. Harari explique qu'elle repose sur un changement d'attitude profond : la capacité à **admettre son ignorance**.
+
+Avant cette époque, la plupart des traditions considéraient que tout ce qu'il était important de savoir était déjà connu, dans les textes sacrés ou chez les anciens sages. On cherchait la connaissance dans le passé. La science moderne part au contraire du principe que nous ne savons pas tout, que nos connaissances actuelles peuvent être fausses, et qu'il faut chercher de nouvelles connaissances par l'observation et l'expérience.
+
+Harari illustre ce changement par l'évolution des **cartes** du monde. Les cartes médiévales représentaient un monde complet, même pour les régions inconnues, remplies de détails imaginaires. À partir du XVIe siècle, les cartographes européens commencent à laisser des **espaces vides** pour les régions inexplorées. Ces espaces vides expriment une reconnaissance de l'ignorance, et invitent à l'exploration.
+
+Cette attitude nouvelle a une conséquence décisive : la croyance au **progrès**. Si l'on peut découvrir de nouvelles connaissances, on peut aussi développer de nouvelles capacités, et améliorer la condition humaine. Les problèmes qui paraissaient éternels, comme la maladie, la pauvreté ou la famine, deviennent des problèmes techniques que l'on peut résoudre.
+
+Harari souligne que la science moderne se distingue aussi par l'usage des **mathématiques** et par la recherche de pouvoir : on cherche des connaissances pour pouvoir agir sur le monde.
+
+- La science commence par admettre ce que l'on ne sait pas.
+- Les cartes laissent des espaces vides à explorer.
+- L'ignorance reconnue ouvre la voie à la croyance au progrès.
+
+--- Science, empire et capital
+kw: financement · expéditions · crédit
+Harari affirme que la révolution scientifique ne s'explique pas seulement par la curiosité intellectuelle. Elle s'est développée grâce à une alliance avec deux autres forces : l'**empire** et le **capitalisme**.
+
+**La science et l'empire.** Les grandes expéditions européennes, qui ont permis de découvrir de nouvelles terres, de nouvelles espèces et de nouveaux peuples, étaient souvent financées par des États qui cherchaient à étendre leur pouvoir. Les savants accompagnaient les navires, cartographiaient les territoires, étudiaient les plantes et les langues. Ces connaissances servaient à mieux conquérir et administrer. Harari souligne que la science a ainsi été mise au service de la domination coloniale.
+
+**La science et le capital.** Le capitalisme repose sur une idée nouvelle : la confiance dans l'avenir. Si l'on croit que l'économie va croître, on peut prêter de l'argent aujourd'hui, en étant remboursé plus tard avec des intérêts. Ce **crédit** finance les entreprises, les explorations et les recherches, qui produisent la croissance, ce qui justifie à son tour la confiance. Harari décrit ce cycle comme une boucle vertueuse, mais fragile, car elle repose sur la croyance en une croissance continue.
+
+Il évoque aussi la **révolution industrielle**, qui a permis de transformer l'énergie de manière inédite, et la **société de consommation**, qui encourage chacun à consommer toujours davantage.
+
+Harari conclut que la science moderne, l'empire et le capitalisme forment un moteur puissant, qui a transformé la planète en quelques siècles. Mais ce moteur a aussi un coût, pour les peuples colonisés, pour les animaux et pour l'environnement.
+
+> À retenir | La science moderne a grandi avec l'empire et le capital : connaître pour conquérir, et prêter en croyant à la croissance.
+
+=== Bonheur et avenir
+--- Sommes-nous plus heureux ?
+kw: attentes · biochimie · sens
+Harari pose une question rarement traitée par les historiens : **les humains sont-ils plus heureux aujourd'hui qu'autrefois ?**
+
+Il reconnaît des progrès considérables. L'espérance de vie a fortement augmenté, la mortalité infantile a chuté, les famines et les épidémies sont beaucoup moins fréquentes, et les guerres entre grandes puissances ont reculé depuis la Seconde Guerre mondiale.
+
+Mais il souligne que le bonheur ne dépend pas seulement des conditions matérielles. Il évoque plusieurs approches.
+
+**Les attentes.** Les études suggèrent que le bonheur dépend de l'écart entre les conditions de vie et les attentes. Quand les conditions s'améliorent, les attentes augmentent aussi, si bien que le bonheur ne progresse pas autant qu'on pourrait l'espérer.
+
+**La biochimie.** Certains chercheurs considèrent que le bonheur dépend largement de facteurs biologiques. Chaque personne aurait un niveau de bien-être relativement stable, qui varie peu en fonction des événements extérieurs.
+
+**Le sens.** D'autres estiment que le bonheur dépend du sens que l'on donne à sa vie. Harari remarque, de manière provocante, que ce sens repose souvent lui-même sur des fictions partagées.
+
+**L'approche bouddhiste.** Il évoque enfin une perspective issue du bouddhisme, selon laquelle la souffrance vient de la recherche incessante de sensations agréables, et le bonheur véritable passe par la compréhension de soi.
+
+Il conclut que les historiens ont longtemps négligé cette question, et qu'il est difficile d'affirmer que le progrès matériel a rendu les humains plus heureux.
+
+> Question clé | Vos conditions de vie se sont-elles améliorées plus vite que vos attentes ?
+
+--- La fin d'Homo sapiens ?
+kw: biotechnologies · IA · dieux
+Dans le dernier chapitre, Harari s'interroge sur l'**avenir** de l'espèce humaine.
+
+Il observe que la science donne aux humains un pouvoir de plus en plus grand sur la vie elle-même. Les **biotechnologies** permettent de modifier les organismes vivants, et peut-être un jour les humains eux-mêmes. Les technologies **cyborgs** combinent le corps humain et les machines. Et l'**intelligence artificielle** pourrait créer des formes d'intelligence non humaines.
+
+Harari suggère que ces technologies pourraient, à terme, transformer profondément *Homo sapiens*, au point de créer de nouvelles formes d'êtres qui ne seraient plus vraiment humains. Il emploie l'image d'humains qui deviennent des dieux, capables de créer la vie et de modifier leur propre nature.
+
+Il souligne le paradoxe de cette situation. Les humains n'ont jamais été aussi puissants. Mais ils ne savent pas vraiment ce qu'ils veulent faire de ce pouvoir. Ils restent insatisfaits, irresponsables envers les autres espèces et l'environnement, et guidés par des désirs qu'ils comprennent mal.
+
+Il conclut son livre par une question : que voulons-nous devenir ? Il estime qu'il s'agit peut-être de la question la plus importante pour l'humanité.
+
+Harari a développé ces réflexions dans ses livres suivants, notamment *Homo Deus*, consacré à l'avenir de l'humanité.
+
+- Les technologies pourraient transformer l'espèce humaine.
+- Les humains sont très puissants, mais ne savent pas ce qu'ils veulent.
+- La question essentielle : que voulons-nous devenir ?
+
+=== Mettre en pratique
+--- Ce que le livre apprend aux managers
+kw: fictions d'entreprise · récits · coopération
+*Sapiens* n'est pas un livre de management, mais il éclaire plusieurs aspects de la vie des organisations.
+
+**Les organisations sont des fictions partagées.** Une entreprise, une marque, une stratégie, une culture d'entreprise n'existent que parce que des personnes y croient ensemble. Cela ne les rend pas moins réelles, mais cela souligne l'importance des **récits** qui leur donnent du sens. Un dirigeant qui ne raconte pas une histoire convaincante sur l'organisation et son avenir aura du mal à mobiliser.
+
+**La confiance au-delà des relations personnelles.** Dans une petite équipe, la confiance repose sur les relations personnelles. Dans une grande organisation, elle repose sur des règles, des valeurs, des symboles partagés. Comprendre ce passage aide à penser la croissance d'une organisation.
+
+**Le piège du progrès.** La révolution agricole montre qu'un changement qui augmente la production collective ne rend pas forcément les individus plus heureux. Une organisation peut améliorer ses résultats tout en dégradant la vie de ses membres.
+
+**Admettre son ignorance.** La révolution scientifique est née de la reconnaissance de ce que l'on ne sait pas. Les organisations qui admettent leurs lacunes et cherchent à apprendre progressent davantage que celles qui croient tout savoir.
+
+> Exercice | Écrivez en quelques phrases le récit que votre organisation raconte sur elle-même. Est-il partagé par les personnes qui y travaillent ?
+
+--- Plan d'action sur 30 jours
+kw: semaine par semaine · regard d'historien
+**Semaine 1 : repérer les fictions.** Chaque jour, identifiez une réalité imaginée qui organise votre vie : une institution, une monnaie, une entreprise, une règle. Notez comment elle permet à des inconnus de coopérer.
+
+**Semaine 2 : le récit de votre équipe.** Écrivez l'histoire de votre équipe ou de votre organisation : d'où elle vient, ce qu'elle cherche à accomplir, ce qui la rend unique. Partagez-la et recueillez les réactions.
+
+**Semaine 3 : le progrès et le bonheur.** Pour un changement récent dans votre travail, une nouvelle méthode, un nouvel outil, demandez-vous s'il a amélioré la production, et s'il a amélioré la vie des personnes. Les deux ne vont pas toujours ensemble.
+
+**Semaine 4 : admettre son ignorance.** Dressez la carte de ce que votre équipe ne sait pas : sur ses clients, sur son marché, sur ses propres pratiques. Choisissez un espace vide à explorer.
+
+> À retenir | Repérer les fictions qui nous relient, soigner le récit commun, distinguer puissance et bien-être, cartographier son ignorance.
+
+=== Regard critique et liens
+--- Limites du livre
+kw: généralisations · spécialistes · ton
+*Sapiens* a connu un immense succès, mais il a aussi suscité des critiques, notamment de la part d'historiens, d'anthropologues et de biologistes.
+
+**Des généralisations audacieuses.** Le livre couvre des dizaines de milliers d'années en quelques centaines de pages. Il procède par grandes synthèses, qui simplifient des débats scientifiques complexes. Certains spécialistes estiment que plusieurs affirmations sont présentées avec plus d'assurance que ne le permettent les connaissances actuelles.
+
+**La révolution cognitive discutée.** L'idée d'une révolution cognitive soudaine, il y a environ 70 000 ans, est contestée par de nombreux chercheurs, qui pensent que les capacités cognitives modernes se sont développées plus progressivement.
+
+**Une vision discutée de l'agriculture.** L'idée que l'agriculture a été un piège est stimulante, mais elle simplifie une réalité très variable selon les régions et les époques.
+
+**Le ton provocateur.** Harari aime les formules frappantes, comme le blé qui domestique l'homme. Elles rendent le livre vivant, mais peuvent donner l'impression de vérités définitives là où il s'agit d'interprétations.
+
+**Le relativisme des valeurs.** En présentant les droits humains, les nations ou les religions comme des fictions, Harari a été accusé par certains de relativiser des valeurs importantes. Lui-même insiste sur le fait que fiction ne veut pas dire illusion sans importance.
+
+- Une grande synthèse, avec des simplifications.
+- Des thèses stimulantes, discutées par les spécialistes.
+
+--- Liens avec les autres livres
+kw: Le Bon · Kahneman · Taleb · Sinek
+**Avec Psychologie des foules (Le Bon).** Le Bon décrivait la force des croyances et des images dans les mouvements collectifs. Harari montre comment les croyances partagées organisent l'histoire humaine à grande échelle.
+
+**Avec Système 1 / Système 2 (Kahneman).** Les biais de notre esprit, notre goût des histoires et notre difficulté à penser les probabilités, expliquent en partie la puissance des fictions.
+
+**Avec Le Cygne noir (Taleb).** Taleb insiste sur l'imprévisibilité de l'histoire et sur notre tendance à reconstruire après coup des récits cohérents, une critique que l'on peut adresser aux grandes synthèses historiques.
+
+**Avec Commencer par pourquoi (Sinek).** Sinek explique que les organisations mobilisent par un récit de sens. Harari montre que cette capacité à croire ensemble est au cœur de la coopération humaine.
+
+**Avec Vivre (Csikszentmihalyi).** La question du bonheur, posée par Harari à l'échelle de l'histoire, est traitée par Csikszentmihalyi à l'échelle de l'expérience individuelle.
+
+> Parcours conseillé | Lisez ensuite Le Cygne noir pour l'imprévisibilité de l'histoire, puis Psychologie des foules pour la force des croyances collectives.

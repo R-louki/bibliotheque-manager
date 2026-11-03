@@ -1,0 +1,455 @@
+=== Context and thesis
+--- Kim Scott and Silicon Valley
+kw: Google · Apple · executive coach
+Kim Scott had a varied career before becoming one of the most listened-to voices on management. After studying Russian literature, she worked in Eastern Europe, notably in Russia, then founded a software company that failed. She then joined Google, where she led sales and operations teams for advertising products such as AdSense, and later YouTube and DoubleClick. She then moved to Apple, where she taught in the internal management training programme. She has also advised many technology companies.
+
+*Radical Candor* was born of frustration. Over her career, Kim Scott noticed that most of the managers she met were neither mean nor incompetent. They failed for a much more ordinary reason: they did not dare tell their team members what was wrong. Out of kindness, fear of conflict or lack of method, they let problems settle in, until it was too late.
+
+The book presents itself as a practical guide. It mixes personal stories, often about the author's own mistakes, simple conceptual frameworks and concrete tools: how to ask for feedback, how to hold a career conversation, how to organize meetings. It is aimed first at managers, but many readers also use it in their relationships with peers or with their own bosses.
+
+A word on the title is in order. "Candor" means frankness, sincerity. The title is sometimes misread as an invitation to brutality. Kim Scott insists on the contrary: candour has value only when it comes with genuine care for the person. It is the combination of the two that makes the book original.
+
+> À retenir | The book starts from an observation: most managers fail not out of meanness, but because they are too nice to say what is wrong.
+
+--- The founding story
+kw: Sheryl Sandberg · a presentation · a verbal tic
+In the book, Kim Scott recounts the episode that made her understand what useful feedback could be. She had just presented her business's results to Google's founders and its CEO. The meeting had gone well: the numbers were excellent, and she was rather pleased with herself.
+
+On the way out, her boss at the time, Sheryl Sandberg, suggested they walk together for a bit. She began by pointing out what had worked well in the presentation, specifically and sincerely. Then she remarked that Kim had said "um" very often during the meeting. Kim Scott waved the remark away, explaining that it was just an unimportant tic. Her boss persisted and offered her the help of a speaking coach. Kim Scott brushed it off again.
+
+That is when Sheryl Sandberg changed her tone. She told her, in substance, that she could see the gentle approach was not working with her, so she would be more direct: the tic made her sound less smart than she was. The moment was uncomfortable, but it worked. Kim Scott finally understood that the problem was real, accepted the coaching and improved markedly.
+
+What struck Kim Scott was that this candour did not hurt her. She knew her boss sincerely cared about her and her career. She had seen it many times. The direct message therefore came from someone she trusted, which made it acceptable and even precious. She also realized that she herself did not talk this way to her own team.
+
+This story contains the book's two ingredients: personal care built over time, and the courage to say things clearly. It also shows that the degree of directness sometimes has to be adapted to the person: a gentle message that is not heard has achieved nothing.
+
+- Start with what works, specifically and sincerely.
+- If the message is not heard, be more direct rather than giving up.
+- Trust built beforehand makes candour acceptable.
+
+--- Two dimensions
+kw: care personally · challenge directly
+The book's central framework rests on two axes. The first is **caring personally**: sincerely caring about the person, beyond their work. The second is **challenging directly**: saying clearly what you think, including when it is unpleasant, and accepting being challenged yourself.
+
+Caring personally does not mean becoming friends with all your team members or prying into their private lives. Kim Scott speaks rather of being fully yourself at work and taking an interest in others as whole human beings, with their ambitions, constraints and emotions. She questions the old rule that one should stay strictly professional. In her view, that distance prevents the trust that candour requires.
+
+Challenging directly does not mean imposing your point of view. It means telling people when their work is not good enough, when a decision seems wrong, or when a behaviour is a problem. It also means accepting being challenged in return. Kim Scott insists: challenging others is often the best way to show you care about them, because it proves you take them seriously.
+
+Crossing these two axes gives four quadrants, developed in the next branch. The target quadrant, radical candour, combines strong personal care and strong direct challenge. The word "radical" refers to the root of things: it means saying what is really at stake, without beating around the bush.
+
+Kim Scott makes an essential point: the quadrants describe behaviours, not people. Nobody is permanently in one quadrant. Anyone can be candid one day and manipulative the next, depending on fatigue, stress or the relationship. The framework is not for judging others, but for examining your own behaviour and improving.
+
+> À retenir | Radical candour combines sincere care and direct challenge. The quadrants describe behaviours, never people.
+
+=== The four quadrants
+--- Radical candour
+kw: clarity · respect · progress
+The radical candour quadrant is where you care about the person and tell them clearly what you think. It is the behaviour the book seeks to develop in the manager, but also across the whole team.
+
+In practice, radical candour looks like this: a manager notices that a team member presented a poorly prepared file to a client. He takes them aside the same day, tells them what he observed, explains why it matters, and offers to help prepare next time. He does it because he wants this person to succeed, and the person knows it because the manager has shown it on other occasions.
+
+Kim Scott insists on an often-forgotten point: radical candour is not only about criticism. It is also about praise. Specific, sincere praise is also a form of candour. Telling someone what they did remarkably well, and why, helps them repeat that behaviour. Conversely, vague or automatic compliments are worthless.
+
+She also stresses that radical candour is not a matter of tone. It can be gentle or firm, depending on the person and the situation. What matters is that the message is clear and that the person feels it comes from good intentions. The measure of success is not what you say but what the other person hears. A perfectly worded message that is badly received is not yet radical candour.
+
+Finally, radical candour is contagious. When a manager practises it, and above all accepts it for himself, the team learns to tell each other things. Problems are spotted earlier, disagreements are voiced openly, and trust grows.
+
+- It applies to praise as much as to criticism.
+- The tone can vary; clarity and good intent remain.
+- Quality is measured by what the other person hears, not by what you say.
+
+--- Ruinous empathy
+kw: too nice · silence · damage
+Ruinous empathy is the quadrant where you care about the person but do not dare challenge them. Kim Scott argues that it is the most common mistake among managers, and the most costly in the long run. You say nothing so as not to hurt, you sugar-coat a criticism until it becomes incomprehensible, or you settle for vague praise that conveys no information.
+
+She tells of a personal mistake that illustrates this quadrant. At her company, she had hired a likeable person, liked by everyone, whose work was consistently poor. For months she avoided telling him clearly what was wrong. She encouraged him, told him it was not a big deal, fixed his mistakes herself. The rest of the team, who had to compensate, began to suffer. In the end she had to fire him. He then asked her why nobody had told him anything sooner. She understood that by trying to be kind, she had been unfair to him and to the whole team.
+
+Ruinous empathy has several consequences:
+
+- **The person does not improve**, because they do not know what to work on.
+- **The team suffers**, because it has to compensate and sees that problems are not addressed.
+- **The manager loses credibility**, because his praise no longer means anything.
+- **The problem eventually blows up**, often brutally: dismissal, conflict, departure.
+
+Kim Scott explains that this behaviour often stems from a misdirected good intention. You want to be liked, you fear demotivating people, you were raised with the idea that you must be pleasant. But real empathy consists in helping the other person succeed, which requires telling them the truth. Silence is not a form of kindness.
+
+> Question clé | Is there someone on your team you have not told something important for weeks? What will happen if you wait another three months?
+
+--- Obnoxious aggression
+kw: brutality · humiliation · fear
+Obnoxious aggression is the quadrant where you challenge the person without caring about them. You say things frankly, but in a way that hurts, humiliates or belittles. It is the behaviour of the boss who criticizes in public, ridicules people and talks about the person rather than their actions.
+
+Kim Scott makes a surprising remark: if you must choose between ruinous empathy and obnoxious aggression, the second is often less harmful to performance, because at least people know what is wrong. That is probably why some brutal managers get results, and why brutality is sometimes confused with high standards. But it is obviously not a model to follow. Aggression creates fear, stops people from taking risks and drives away the best.
+
+She also stresses that people who fall into this quadrant are not necessarily mean. Often they are tired, stressed or rushed, and forget to show that they care. Sometimes they were trained in a culture where people talked like that. It also happens that a manager, after being accused of being too harsh, swings into ruinous empathy to make amends, then returns to brutality when problems pile up.
+
+The solution is not to challenge less, but to care more. That can come through simple gestures: explaining why you are making a remark, acknowledging what works, choosing an appropriate time and place, asking the person how they experienced the exchange.
+
+Kim Scott also recommends never personalizing criticism. Saying "you're careless" attacks the person. Saying "this report contains three numerical errors the client noticed" describes a fact. The second phrasing is just as frank, but it leaves the person room to correct without feeling rejected.
+
+- Brutality conveys information but destroys trust.
+- The solution is to add care, not to remove candour.
+- Criticize actions and their effects, never the person.
+
+--- Manipulative insincerity
+kw: hypocrisy · flattery · politics
+Manipulative insincerity is the quadrant where you neither care about the person nor challenge them. You say what suits you, flatter to their face and criticize behind their back, avoid difficult subjects out of calculation. It is the quadrant of office politics and hypocritical relationships.
+
+Kim Scott describes this behaviour as the worst of the four. It deprives people of useful information, like ruinous empathy, and it destroys trust, like obnoxious aggression. It creates an environment where everyone distrusts everyone else, where real problems are never raised openly and where energy goes into self-protection rather than work.
+
+She explains that most people fall into this quadrant not out of malice, but out of fatigue or fear. When you are exhausted, when you want to be liked at all costs or when you feel threatened, you tend to say what the other person wants to hear. She admits to having behaved this way herself: praising a presentation she found mediocre simply because she did not have the energy to discuss it.
+
+She also describes a particular form of insincerity: the compliment meant to avoid a conversation. For example, saying "that's great" to close a discussion quickly. This kind of praise, which she likens to a form of polite contempt, is often perceived as such by the person receiving it.
+
+To get out of this quadrant, you must act on both axes. First, ask yourself why you are avoiding the truth: fatigue, fear, self-interest? Then go back to basics: take a real interest in the person and accept the discomfort of a frank conversation. Kim Scott recommends that managers take care of themselves. An exhausted manager slides easily into insincerity.
+
+> À retenir | Flattering to someone's face and criticizing behind their back is the most destructive behaviour. It usually comes from fatigue or fear, rarely from malice.
+
+=== Everyday feedback
+--- Start by asking
+kw: opening question · silence · reward
+Kim Scott gives advice that surprises many managers: before giving feedback, ask for it. The reason is simple. If a manager starts by criticizing others without accepting criticism himself, he creates a power relationship, not a relationship of trust. By asking first, he shows he is ready to hear what he will ask others to hear.
+
+She proposes a precise method. First, prepare a question that calls for a real answer. Questions like "any comments?" almost always produce "no, all good". She recommends a phrasing that assumes there is something to say, for example: "What could I do, or stop doing, that would make it easier to work with me?"
+
+Next, embrace the silence. After asking the question, stop talking and wait. Kim Scott advises counting silently to six, or even more. Silence is uncomfortable, and most people end up saying something to break it. That is often when the useful feedback comes.
+
+Then, listen to understand, not to defend yourself. If the criticism is surprising or unfair, do not argue. Ask questions to understand what the other person observed. The goal is not to agree, but to gather the information.
+
+Finally, reward the candour. If you want people to keep telling the truth, you must show them it is worth it. The best reward is to act on the criticism. If you disagree, explain why frankly, and thank them for the information anyway. If you punish candour, even through a mere change of tone, it disappears.
+
+- Ask a question that assumes an answer: "what could I do differently?"
+- Stay quiet and let the silence do its work.
+- Act on what you hear, or explain why you won't.
+
+--- Giving useful praise
+kw: specific · sincere · in public
+Kim Scott pays particular attention to praise, which is often neglected. She observes that many managers think their role is to criticize, and that compliments are mere politeness. That is a mistake. Well-given praise is a powerful tool: it shows people what to keep doing and strengthens the trust needed to accept criticism.
+
+Good praise has several characteristics:
+
+- **It is specific.** "Good job" says nothing. "The way you structured the presentation around three scenarios let the client grasp the stakes immediately" says exactly what worked.
+- **It is sincere.** It is not meant to soften a criticism to come or to please. It expresses genuine appreciation.
+- **It is about the action, not the person.** Saying "you're brilliant" is less useful than describing what the person did remarkably. That makes the behaviour repeatable.
+- **It is given quickly**, while the situation is still fresh in people's minds.
+
+Kim Scott recommends praising in public when the person is comfortable with it. Public praise recognizes the person in front of peers and shows the whole team what excellent work looks like. But she notes that some people do not like being singled out. So you have to adapt.
+
+She warns against a very widespread technique: the "sandwich", which places a criticism between two compliments. This method is often perceived as manipulative. People learn to ignore the compliments while waiting for the criticism, or remember only the compliments and miss the message. It is better to separate praise and criticism clearly, and to give both sincerely.
+
+Finally, Kim Scott stresses that balance matters. A team that receives only criticism becomes demotivated. A team that receives only praise does not improve. The manager must notice both and give both, in a proportion where praise often dominates.
+
+> Exercice | This week, give three specific pieces of praise: describe the action, its effect and why it matters. Note how people react.
+
+--- Giving criticism
+kw: humble · helpful · immediate · in private
+For criticism, Kim Scott offers a list of principles that, in English, form an easy-to-remember acronym: humble, helpful, immediate, in person, public praise and private criticism, and don't personalize.
+
+**Humbly.** The person criticizing may be wrong. Present your observation as a point of view, not as an absolute truth. That opens the discussion instead of closing it. A phrasing like "here's what I observed, tell me if I'm wrong" invites the other person to respond.
+
+**With the intent to help.** Criticism must aim to help the person improve, not to vent or to prove you are right. If you cannot say how the criticism helps, better to wait.
+
+**Immediately.** The longer you wait, the less valuable the criticism becomes. The person has forgotten the details and wonders why you did not say anything sooner. Kim Scott recommends quick exchanges of two or three minutes, right after the event. She calls these "impromptu" conversations, which avoid turning every criticism into a formal meeting.
+
+**In person.** Written criticism is often misinterpreted. Tone is absent, and the reader imagines the worst. It is better to speak face to face, or at least by video, so you can watch the reaction and adjust.
+
+**In private.** Criticizing in front of others humiliates. Do it one-on-one, even briefly. Praise, by contrast, can be public.
+
+**Without attacking personality.** Talk about actions and their effects, not character traits. "You're disorganized" is an attack. "The last three reports arrived after the agreed date, and the client noticed" is an observation.
+
+Kim Scott adds a nuance: you must know when criticism needs to become more formal. If a problem persists despite several quick exchanges, a longer, more structured conversation is needed, and sometimes clear consequences.
+
+> À retenir | Useful criticism is humble, meant to help, comes quickly, is given face to face and in private, and is about actions, never about the person.
+
+--- Measuring what is heard
+kw: reaction · emotions · adjust
+Kim Scott insists on a principle that changes how we think about feedback: radical candour is measured not by what you say, but by what the other person hears. You can phrase criticism with great care and still be perceived as aggressive. You can also believe you were clear when the other person understood nothing. The only judge is how it lands.
+
+That means watching the person's reaction during the exchange. Kim Scott describes several possible reactions and how to respond.
+
+- **Anger.** Don't respond with anger. Acknowledge the emotion, let the person express themselves, and offer to resume the conversation later if needed.
+- **Tears.** Don't panic or water down the message. Offer a tissue, allow a moment, show that you understand it is hard. Kim Scott recommends keeping a box of tissues in your office, which shows that emotions are accepted.
+- **Denial.** If the person refuses to admit the problem, give specific examples and, if necessary, be more direct, as in the Sheryl Sandberg story.
+- **Apparent indifference.** Check that the message was understood by asking the person to restate what they took away.
+
+She stresses that you must not abandon the message for fear of the reaction. Emotions are normal, and they do not mean the criticism was badly delivered. They often show that the person is taking the subject seriously. The manager must welcome the emotion while holding on to the message.
+
+Finally, Kim Scott recommends adjusting your approach over time. Each person reacts differently. Some prefer a very direct message, others need more context. The manager gets to know each person and adapts the form, without ever giving up the substance. That is what makes radical candour a relational skill, not just a technique.
+
+> Question clé | After your last piece of criticism, could the person have restated exactly what you meant? If you don't know, ask them.
+
+=== Relationships and careers
+--- Getting to know each person
+kw: motivations · whole life · trust
+To practise radical candour, you must build personal care. Kim Scott argues that you cannot care about someone you do not know. The manager must therefore get to know each team member: what motivates them, what they want to do with their life, what worries them.
+
+She does not, however, recommend becoming everyone's friend. It is rather about showing a sincere interest in the other as a person. That comes through simple gestures: taking time to chat, remembering important events in their life, taking an interest in what they do outside work if they want to talk about it. It also comes through attention to difficult moments: an illness, a bereavement, a birth.
+
+Kim Scott stresses that this care must be authentic. Artificial gestures, such as an automatically sent birthday card, fool nobody. What counts is the quality of the relationship, built through everyday exchanges.
+
+She also insists that the manager must be himself. You cannot ask others to be authentic if you are playing a role. She tells how she long believed she had to hide her emotions at work, and discovered that her teams trusted her more when she showed herself as she was, with her doubts and mistakes.
+
+Finally, she warns against a drift: using the relationship to manipulate. Taking an interest in someone solely to get more work or loyalty out of them is not personal care, it is insincerity. People always sense it.
+
+To build this knowledge, Kim Scott offers specific tools, notably the career conversations described below. She also suggests devoting part of one-on-ones to subjects not directly related to current work.
+
+- You cannot care about someone you don't know.
+- Care must be sincere, never a tool for manipulation.
+- Being yourself at work allows others to be themselves too.
+
+--- Rapid growth, steady growth
+kw: superstars · rock stars · two trajectories
+Kim Scott proposes a very useful distinction for managing careers. She observes that high performers do not all follow the same trajectory. Some are on a **rapid-growth trajectory**: they learn fast, want new challenges, seek to advance quickly. Others are on a **steady-growth trajectory**: they excel in their role, deepen it, and are not necessarily looking to change jobs or climb the hierarchy.
+
+She gives these two profiles vivid names: "superstars" and "rock stars". Both are valuable, and a team needs both. Superstars bring innovation and the energy of change. Rock stars bring stability, memory and deep expertise.
+
+The common mistake is to treat everyone as a superstar. Rock stars are pushed into management responsibilities they do not want, or regarded as less ambitious and therefore less important. They feel undervalued and may leave. Conversely, a superstar kept too long in the same role gets bored and leaves too.
+
+Kim Scott insists that these trajectories are not permanent labels. The same person can be on a rapid trajectory at one point in life and a steady one at another, for example after the birth of a child, during a period of fragile health, or simply because their priorities change. The manager must recognize these shifts without judging them.
+
+She suggests managing each profile appropriately:
+
+- **For superstars**: new challenges, learning opportunities, preparing their successor in their current role.
+- **For rock stars**: recognition, autonomy, the chance to become go-to experts or trainers, without forcing them to change.
+- **For people who are struggling**: clear feedback and real support, then, if the situation does not improve, a decision.
+
+> À retenir | A team needs superstars and rock stars. Don't confuse a lack of hierarchical ambition with a lack of value.
+
+--- Career conversations
+kw: life story · dreams · 18-month plan
+Kim Scott describes a tool she developed with a colleague at Google: a series of three career conversations, held with each team member over several weeks. Their aim is to understand what motivates the person and help them progress towards their goals.
+
+**First conversation: life story.** The manager asks the person to tell their story, from their earliest memories or school years to today. The interest is less in the facts than in the choices: why did they choose that course of study, why did they change jobs? These choices reveal their values and what motivates them. This conversation lasts about an hour.
+
+**Second conversation: dreams.** The manager asks the person what they would like to be doing at the peak of their career, or what they would like to have accomplished in life. He encourages them to imagine several possibilities, even very far from their current job. He then explores with them the skills needed to realize those dreams, and how their current role could help them acquire them.
+
+**Third conversation: the 18-month plan.** The manager and team member identify together what the person needs to learn in the next eighteen months to move towards their dreams. They list learning priorities, people who could help, and assignments that would allow them to grow. The manager commits to supporting the plan.
+
+Kim Scott tells how one of her team members dreamed of one day running his own company. Rather than seeing it as a threat, she helped him acquire skills useful for that project in his current role, which made him more effective and more engaged. The manager does not promise to make dreams come true, but shows that he takes them seriously.
+
+This tool has a double effect: it strengthens trust, which makes candour possible, and it aligns the person's development with the team's needs.
+
+> Exercice | Schedule the first "life story" conversation with a team member. Above all, ask "why did you make that choice?" at each stage of their story.
+
+--- Taking care of yourself
+kw: energy · limits · consistency
+Kim Scott ends the section on relationships with a chapter few management books include: the care the manager must take of himself. Her argument is simple. You cannot care about others if you are exhausted, and you cannot be candid if your nerves are frayed.
+
+She explains that slides into ruinous empathy, obnoxious aggression or manipulative insincerity often happen when the manager is tired or stressed. An exhausted manager no longer has the energy for a difficult conversation and avoids the subject. Or he explodes and becomes aggressive. Or he says whatever is convenient to avoid trouble.
+
+She therefore recommends protecting certain basic habits: sleep, physical activity, time with family or friends, time to think. She tells how she blocked out time in her calendar for these activities, with the same rigour as for an important meeting. That way she avoided sacrificing them to every emergency.
+
+She also stresses that the manager must accept not being perfect. Everyone makes mistakes, everyone slips from one quadrant to another at times. What matters is acknowledging it, apologizing if necessary and returning to radical candour. Team members forgive a great deal from a manager who admits mistakes.
+
+Finally, Kim Scott talks about the role of personal life in a manager's balance. She herself went through difficult periods, including health and family problems, during which she had to scale back her professional ambitions. She encourages managers to respect their own limits, and to do the same for their team members.
+
+- Fatigue makes you slide into the wrong quadrants.
+- Protect your basic habits like important appointments.
+- Admitting mistakes builds more trust than a show of perfection.
+
+=== Getting results together
+--- Listening and clarifying
+kw: quiet ideas · space · giving shape
+The third part of the book addresses a different question: how to get results together, without arbitrary authority. Kim Scott observes that the best teams are neither those where the boss gives orders nor those where everyone decides everything. They are those that follow a collaborative process, which she represents as a cycle of several steps. The first two are listening and clarifying.
+
+**Listening.** The best ideas often come from the quietest people, or those furthest from the top. The manager must create an environment where they can speak up. Kim Scott distinguishes two listening styles. "Quiet" listening consists of asking a question and letting the other person talk at length. "Loud" listening consists of stating a strong opinion to provoke a reaction. Both can work, depending on the temperament of the manager and the team. What matters is getting the ideas out.
+
+She also recommends concrete ways of collecting ideas: suggestion boxes, open meetings, anonymous surveys, times set aside for questions. She cites Google's all-hands meetings, where employees could put questions directly to the founders.
+
+**Clarifying.** A nascent idea is often fragile and muddled. It must be given time and space to develop before being subjected to critical debate. Kim Scott compares this step to protecting a young shoot. Criticize too early and you kill ideas before they are ripe. The manager must help the person sharpen their idea, articulate it clearly and gather evidence to support it.
+
+She recommends giving people time to think, including yourself. She advised blocking out "thinking time" in one's calendar to be able to reflect without interruption.
+
+> À retenir | Good ideas often come from the quietest people. Listen actively, then protect nascent ideas before submitting them to debate.
+
+--- Debating and deciding
+kw: ego-free debate · decision-maker · facts
+The next steps of the cycle are debate and decision.
+
+**Debating.** Once an idea has been clarified, it must be tested against other points of view. Debate reveals flaws, improves the idea and allows a choice between options. Kim Scott insists that debate must be about ideas, not people. She recommends clearly separating debate from decision: you can hold debate meetings at which no decision is made, which lets everyone speak freely without immediate stakes.
+
+She also proposes rules for debates: leave your ego at the door, change your position if the arguments are better, avoid dragging the debate on indefinitely. She sometimes suggests asking participants to argue the position opposite to their own, to better understand the other side's arguments.
+
+**Deciding.** Once the debate is over, a decision must be made. Kim Scott recommends that the decision be made by the person closest to the facts, not systematically by the manager. The manager's role is to make sure the decision gets made, not necessarily to make it himself. The closer to the ground decisions are made, the faster and more relevant they are.
+
+She also describes the pitfalls of deciding. The first is letting debate drag on without conclusion, out of fear of deciding. The second is deciding too fast, without letting the debate run its course. The third is the decision made by the most senior person simply because they have the authority, even if they know the subject poorly.
+
+Kim Scott recommends holding decision meetings separate from debate meetings. They are shorter, more formal, and their purpose is clear: settle a decision and communicate it.
+
+- Separate debate meetings from decision meetings.
+- Debate ideas, not people.
+- The decision belongs to the person closest to the facts, not necessarily the boss.
+
+--- Persuading, executing, learning
+kw: emotion · credibility · loop
+The last steps of the cycle turn a decision into results.
+
+**Persuading.** A decision is not implemented simply because it has been made. You must convince those who did not take part in the debate, and sometimes those who did but disagreed. Kim Scott draws on classical rhetoric and its three levers: the speaker's credibility, the logic of the arguments and emotion. A well-explained decision, which shows that objections were heard and which also speaks to the team's values, is accepted far more readily.
+
+She notes that persuasion must be adapted to the audience. People who took part in the debate need to know their arguments were taken into account. People who did not need to understand the context and the reasons for the decision.
+
+**Executing.** Kim Scott insists that the manager must protect the team's time so that execution is possible. If team members spend all their time in meetings, they cannot make progress on the work. She recommends limiting meetings and reserving time for deep work. She also recommends that the manager take part in execution in one way or another, to stay in touch with the reality of the work.
+
+**Learning.** Once the decision has been executed, the results must be examined. Was the decision right? Was it well executed? What could have been done differently? This step improves future decisions. It requires a culture where mistakes can be acknowledged without punishment.
+
+Then the cycle starts again. Kim Scott stresses that the manager must make sure the cycle turns quickly, without skipping steps. Skipping listening leads to disconnected decisions. Skipping debate leads to avoidable mistakes. Skipping learning leads to repeating the same mistakes.
+
+> À retenir | Listen, clarify, debate, decide, persuade, execute, learn. Skipping a step always costs you later.
+
+=== Tools and rituals
+--- The one-on-one
+kw: team member's agenda · listening
+Kim Scott takes up and extends the one-on-one described by Andy Grove. She makes it the central tool of radical candour, because it provides a regular space to build the relationship and exchange feedback.
+
+She keeps the key principle: the one-on-one belongs to the team member. They set the agenda, and the manager listens. She recommends that the manager keep part of the meeting to ask for feedback on himself, with a question prepared in advance. She also recommends leaving room for subjects not directly related to current work, such as career or personal concerns.
+
+She gives several practical tips:
+
+- **Don't cancel one-on-ones.** Cancelling them regularly sends a clear message: the person is not a priority. If you have to cancel, reschedule quickly.
+- **Listen more than you talk.** The manager should talk less than half the time.
+- **Take notes** to remember the topics discussed and the commitments made.
+- **Follow up on commitments.** If the manager promises to do something, he must do it and report back at the next one-on-one.
+- **Vary the setting** from time to time: a walk, a coffee or a meal can encourage a freer conversation.
+
+Kim Scott also recommends not using the one-on-one for project status updates. That can be done in other meetings or in writing. The one-on-one should serve what cannot be done elsewhere: the relationship, feedback, career, delicate problems.
+
+Finally, she stresses that the quality of the one-on-one depends on trust. At first, team members do not dare raise difficult subjects. Over time, and if the manager shows that he listens and acts, the exchanges become franker and more useful.
+
+> Exercice | During your next one-on-one, talk less than half the time and keep five minutes to ask for feedback on yourself.
+
+--- Team meetings
+kw: staff meeting · debate · decision
+Kim Scott describes several types of meetings that correspond to the steps of the collaborative cycle.
+
+**The weekly staff meeting.** It brings together the manager and direct reports. Kim Scott recommends three parts: a review of key metrics, to know where the team stands; a sharing of the week's important information; and a discussion of decisions to be made or subjects to debate. This meeting should give the team a shared view of the situation.
+
+**The debate meeting.** It is devoted to an important subject requiring in-depth discussion. No decision is made. Kim Scott recommends appointing a facilitator who makes sure all points of view are heard, and ending with a summary of the arguments. This allows free debate without the pressure of an immediate decision.
+
+**The decision meeting.** It often follows a debate meeting. It is short and its purpose is clear: make a decision. The participants are those who need to understand the decision and those with the authority to make it. Kim Scott recommends that facts and arguments be presented concisely, and that the decision be announced clearly at the end.
+
+**The all-hands meeting.** It brings together the whole organization, or a large part of it. It serves to share important information and answer employees' questions. Kim Scott sees it as a large-scale listening tool, provided leaders answer frankly, including uncomfortable questions.
+
+She insists that every meeting must have a clear purpose and that participants must know in advance what type of meeting it is. A meeting that mixes debate, decision and information often becomes confusing and frustrating.
+
+- Always announce the type of meeting: information, debate or decision.
+- Don't mix debate and decision in the same session.
+- An all-hands is only worth something if leaders answer frankly.
+
+--- Listening beyond your team
+kw: skip-levels · surveys · measuring
+Kim Scott proposes several tools to help a manager receive feedback beyond direct reports, particularly when managing other managers.
+
+**Skip-level meetings.** The manager meets regularly with the reports of his own reports, without their direct managers present. He asks them what works and what could be improved in the organization. Kim Scott recommends preparing these meetings carefully: explaining their purpose, guaranteeing that what is said will not be used against anyone, and sharing the main points constructively with the managers concerned.
+
+**Surveys.** Regular questionnaires, anonymous or not, measure teams' perception of the quality of management. Kim Scott recommends simple questions and sharing results openly. What matters is not the score but the discussion it enables and the actions that follow.
+
+**Feedback boards.** She describes an original practice: displaying publicly, for example on a whiteboard in your office, the feedback you have received and what you are doing about it. This shows that the manager takes feedback seriously and accepts being criticized.
+
+**One-on-ones with peers.** The manager can also ask peers for feedback, using the same techniques as with team members: a prepared question, silence, listening.
+
+Kim Scott stresses that all these tools share one condition: you must act on what you learn. If employees give feedback and nothing changes, they soon stop. The manager's credibility depends on showing the changes that resulted from the feedback.
+
+> À retenir | The higher you rise, the less people dare tell you the truth. Deliberately create channels to hear it, and show what changes because of them.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · ask first
+Here is a progressive four-week plan for establishing radical candour.
+
+**Week 1: ask.** Prepare your feedback question, for example: "What could I do or stop doing that would make it easier to work with me?" Ask it of each of your direct reports. Count to six in the silence. Note what you hear. Act on at least one point, and let people know.
+
+**Week 2: praise.** Give at least one specific piece of praise a day: the action, its effect, why it matters. Give it in public for those who like that. Avoid vague compliments. Observe the effect on the team.
+
+**Week 3: criticism.** Identify a situation where you have been in ruinous empathy: a problem you have not raised. Prepare the conversation: specific facts, effects, intent to help. Have it in private and in person. For new situations during the week, give quick criticism of two or three minutes right after the event.
+
+**Week 4: relationships and decisions.** Schedule the first career conversation, on life story, with a team member. Review your meetings: do you separate debate and decision? Hold a debate meeting with no decision on an important subject.
+
+At the end of the month, ask your team your feedback question again. Compare with what you heard in the first week. Kim Scott stresses that radical candour takes hold slowly: trust takes time to build but is quickly destroyed. Consistency matters more than intensity.
+
+> À retenir | Start by asking, not by criticizing. Trust builds slowly; consistency matters more than intensity.
+
+--- Self-assessment grid
+kw: four quadrants · ten questions
+Score each statement from 1 (not at all true) to 5 (completely true). Be honest: the grid is for you alone.
+
+**Asking**
+
+- I have asked each of my team members for feedback on myself this month.
+- When I receive criticism, I listen to understand before defending myself.
+
+**Praise**
+
+- My praise describes specific actions and their effects.
+- I give more praise than criticism, without my praise being automatic.
+
+**Criticism**
+
+- There is no significant problem I am avoiding raising with a team member.
+- I give criticism quickly, in private and face to face.
+- I criticize actions and effects, never personality.
+
+**Relationships and career**
+
+- I know the motivations and ambitions of each of my team members.
+- I distinguish superstars from rock stars and manage them differently.
+
+**Decisions**
+
+- In my team, debate and decision are clearly separated.
+
+**Interpretation.** Beyond the total, look at where your lowest scores are. If they concern criticism, you are probably prone to ruinous empathy. If they concern relationships, you risk obnoxious aggression when you criticize. If they concern asking for feedback, you risk creating a one-way relationship. Start with the weakest category.
+
+Kim Scott also recommends asking your team which quadrant they most often place you in. The gap between your perception and theirs is valuable feedback in itself.
+
+- Low scores point to the quadrant you slide towards.
+- Your team is the best judge of your candour.
+
+--- Case study: the boss who was too nice
+kw: ruinous empathy · taking back control
+Claire leads a team of eight in the marketing department of a mid-sized company. She is liked by everyone, attentive and available. Yet her team's results are disappointing, and two of her best people complain about having to make up for others' work.
+
+**The diagnosis.** Reading *Radical Candor*, Claire recognizes herself in ruinous empathy. One of her team members, Julien, regularly turns in mediocre work. She has known for months, but has never been clear with him. She fixes his mistakes herself or hands them to others. She often tells him it's fine, so as not to discourage him.
+
+**Asking first.** Before talking to Julien, Claire asks the whole team for feedback. After an uncomfortable silence, one team member finally says she has the impression that Claire avoids conflict and that some problems are never dealt with. Claire thanks her, acknowledges the problem in front of the team and announces that she will change.
+
+**The conversation with Julien.** Claire prepares the conversation. She chooses three specific examples of recent work and describes their effects on clients and the team. She begins by acknowledging her own responsibility: she should have raised it sooner. Julien is first surprised, then upset. Claire welcomes his reaction without withdrawing the message. They agree on an improvement plan with regular check-ins.
+
+**Praise.** Claire realizes her compliments were vague and automatic. She starts giving specific praise, which particularly motivates her two best people, who finally feel recognized.
+
+**Careers.** She holds career conversations and discovers that a team member she thought unambitious is a rock star deeply attached to her expertise, and that another is a bored superstar.
+
+Three months later, Julien has improved on some points, but not all. Claire decides with him on a move to a role better suited to his strengths.
+
+> Question de réflexion | Who would be your "Julien"? What does it cost you, and him, to have said nothing for weeks?
+
+=== Critical view and connections
+--- The book's limits
+kw: culture · power · misuse
+*Radical Candor* has been enormously influential, but it has also drawn criticism, some of which the author herself acknowledges.
+
+**The risk of misuse.** Some have read the title as permission to be brutal. Managers have justified aggressive behaviour in the name of radical candour, forgetting personal care. Kim Scott recognized this problem and stressed, in later editions and talks, that candour without care is just aggression.
+
+**Power dynamics.** The book assumes that a team member can criticize their manager as easily as the reverse. In reality, the power relationship makes such candour much riskier for the team member. Likewise, people from minority groups may be judged more harshly when they are frank. Kim Scott devoted a later book, *Just Work*, to discrimination and bias at work, partly in response to these criticisms.
+
+**Cultural differences.** Direct candour is valued in some professional cultures, notably American or Dutch, and seen as rude in others. The book says little about these differences. Erin Meyer's work on national cultures can help adapt the form of feedback to each context.
+
+**A particular context.** The examples come mainly from Silicon Valley, from fast-growing companies with highly skilled, highly mobile employees. Some advice is harder to apply in more traditional organizations, very hierarchical ones or those under heavy regulatory constraints.
+
+**A simple framework.** The two-axis model is very useful for reflection, but it simplifies complex situations. Some difficult relationships involve factors the framework does not take into account, such as mental health problems, long-standing conflicts or legal issues.
+
+- Without personal care, candour becomes aggression.
+- Take power dynamics and cultural differences into account.
+
+--- Connections with other books
+kw: Grove · Lencioni · Goldsmith · Covey
+**With High Output Management (Grove).** Kim Scott explicitly acknowledges her debt to Grove, notably for the one-on-one and the logic of meetings. The two books complement each other: Grove brings structure and processes, Kim Scott brings the relational and emotional dimension.
+
+**With The Five Dysfunctions of a Team (Lencioni).** Lencioni's pyramid starts with trust and the acceptance of conflict. That is precisely what radical candour seeks to build. Kim Scott's collaborative cycle, with its debate and decision steps, corresponds to the upper levels of the pyramid: commitment and mutual accountability.
+
+**With What Got You Here Won't Get You There (Goldsmith).** Goldsmith shows how to gather feedback on your own behaviour and turn it into lasting change. His "feedforward" method extends Kim Scott's recommendation: ask first, listen without defending yourself, say thank you.
+
+**With The 7 Habits of Highly Effective People (Covey).** Covey's fifth habit, "seek first to understand, then to be understood", is very close to the listening Kim Scott describes. Covey's "emotional bank account" illustrates personal care well: accumulated trust later makes difficult conversations possible.
+
+**With Good to Great (Collins).** Collins describes great companies' ability to confront the brutal facts. He recommends creating a climate where the truth is heard, through questions rather than answers and through debates without blame. It is the collective version of radical candour.
+
+> Parcours conseillé | After this book, read The Five Dysfunctions of a Team to move from the individual relationship to group dynamics.
