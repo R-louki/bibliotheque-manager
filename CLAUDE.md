@@ -35,7 +35,7 @@ Test local : `cd bibliotheque-manager && python3 -m http.server 8765`.
 ## État au 3 novembre 2026
 Fait : étapes 1–3 (appli, apprentissage, communauté), étape 4 (EN/AR de l'interface, des métadonnées, cartes et quiz ; connexion Google en ligne).
 
-**En cours — traduction intégrale des fiches (demande : « la traduction en anglais, arabe concerne aussi les livres, tout »)**
+**Terminé — traduction intégrale des fiches (demande : « la traduction en anglais, arabe concerne aussi les livres, tout »)**
 - Faits (EN + AR) — 40/40 : womack-lean, liker, goldratt, ohno, rother-shook, rother-kata, drucker-eff, grove, scott, lencioni, collins, sinek, covey, goldsmith, kahneman, christensen, ocean, drucker-mgmt, zhuo, marquet, doerr, horowitz, mcchrystal, carnegie, patterson, voss, cialdini, newport, clear, dehaene, brown, young, ericsson, dweck, harari, frankl, lebon, taleb, csikszentmihalyi, morel.
 - Reste à faire — 0.
 - Méthode : lire `books/<id>.txt`, écrire `i18n/en/full/<id>.txt` puis `i18n/ar/full/<id>.txt`, lancer `build.py`, publier (un commit par livre : « Texte complet traduit (EN, AR) : <titre original> »).
