@@ -1,0 +1,446 @@
+=== Context and thesis
+--- Sinek and his idea
+kw: TED talk · golden circle · leaders
+Simon Sinek is a British-American author and speaker. He first worked in advertising in New York before starting his own marketing consultancy. He says that in the mid-2000s he went through a period of discouragement: he was successful, but he had lost his passion for his work. Trying to understand why, he began to look at what set apart the people and organizations that inspire others.
+
+He expressed his central idea as a simple diagram, the golden circle, which he presented in a talk in 2009. Posted online, that talk became one of the most watched in the history of the series. The same year he published *Start with Why*, which develops his argument.
+
+The book's starting question is simple: why are some people and organizations more innovative, more influential and more profitable than others? Why do they command greater loyalty from customers and employees? And why, among those that succeed, do so few manage to repeat their success over time?
+
+Sinek argues that inspiring leaders and organizations all have one thing in common: they think, act and communicate in the same way, which is the opposite of how most others do. They start by explaining why they do what they do, before explaining how they do it and what they do. In his view, this seemingly small difference has considerable effects.
+
+The book is aimed at business leaders, but also at anyone who has to bring others along: managers, entrepreneurs, nonprofit leaders, teachers, politicians. It is written in an accessible style, with many examples drawn from American business history and public life.
+
+> À retenir | Inspiring leaders start by explaining why they act, before saying how and what. This reversal changes everything.
+
+--- Misleading assumptions
+kw: data · certainties · decisions
+Sinek opens the book with a reflection on how we make decisions. He argues that many of our actions rest on assumptions we believe to be true but which are sometimes false. And when the assumptions are false, even well-thought-out decisions produce poor results.
+
+He tells an anecdote about American car executives visiting a Japanese factory. They watched the assembly line and were surprised not to see the step that, in their own plants, consisted of fitting the doors with a rubber mallet at the end of the line. The Japanese explained that the doors were designed to fit from the start. The Americans fixed problems at the end of the process; the Japanese avoided them at the design stage. Both factories made cars, but one started from a better assumption.
+
+Sinek uses this story to show that many organizations "fit their doors with a mallet." They treat the symptoms of their problems with short-term tactics instead of designing their action around a clear understanding of what they want to achieve.
+
+He also notes that we place great weight on data and analysis, believing they will let us make good decisions. They are useful, but not enough. Many companies have excellent data and still make bad decisions, because they do not know why they exist. Data tells them what customers want, but not what they should become.
+
+Finally, Sinek notes that many important decisions, in life as in business, involve a measure of intuition. We say a decision feels right, without always being able to explain it. He suggests this intuition is linked to the "why," an idea he develops later in the book.
+
+- Many decisions rest on assumptions that have never been checked.
+- Short-term tactics treat symptoms, not causes.
+- Data tells you what customers want, not what you should become.
+
+--- Manipulate or inspire
+kw: two ways to influence
+Sinek argues that there are only two ways to influence other people's behaviour: manipulation and inspiration. The word manipulation is not necessarily negative here. It covers all the techniques that push people to act without deep buy-in: a low price, a promotion, pressure, fear.
+
+Most companies use manipulation. They try to win customers by cutting prices, piling on special offers, playing on the fear of missing out or highlighting novelty. These techniques work. They generate sales. But they have a cost, and they do not create loyalty.
+
+Inspiration is different. It makes people act because they want to, not because they are induced to. Inspired people are not drawn by a price or a promotion, but by a shared belief. They buy, work or commit because they recognize themselves in what the organization stands for.
+
+Sinek stresses that inspiration has more lasting effects. Inspired customers stay loyal even when a competitor offers a better price. Inspired employees stay with the company even when they are offered a better salary elsewhere. They become ambassadors who recommend the organization to those around them.
+
+He does not claim manipulation is always bad. For a one-off transaction it is often effective. Someone who needs a product only once will choose the cheapest, and that is normal. But to build a lasting relationship, whether with customers, employees or partners, you need inspiration.
+
+> À retenir | Manipulation produces transactions; inspiration produces loyalty. Both work, but only the second lasts.
+
+=== The traps of manipulation
+--- Price and promotions
+kw: dependence · margins · race
+The first manipulation technique Sinek describes is price. Lowering your price to attract customers is the simplest and most widespread technique. It almost always works in the short term. But Sinek compares it to a drug: it gives an immediate high but creates dependence. Once customers are used to low prices, it is very hard to raise them. And competitors can always cut their prices further.
+
+Sinek observes that companies that bet everything on price often end up sacrificing their margins, then the quality of their products, then their relationships with suppliers and employees. They enter a race with no finish line, whose only winner is whoever can survive on the thinnest margins.
+
+He then describes promotions, which work on the same principle. Special offers, temporary discounts, free gifts with purchase or rewards programs attract customers, but often for a single transaction. He cites the American car industry, which made massive use of rebates and promotions to prop up sales. These promotions ended up becoming permanent, and customers learned to wait for the next offer before buying.
+
+Sinek also explains that promotions can erode a brand's perceived value. When a product is always on sale, customers eventually see its normal price as too high. They buy only during promotions.
+
+He does not recommend abandoning these techniques entirely. Rather, he recommends understanding their cost and not making them the basis of the customer relationship. A company that knows why it exists can also use promotions, but it does not depend on them.
+
+- Low prices create a dependence that is hard to reverse.
+- Permanent promotions teach customers to wait for the next one.
+- These tactics have a hidden cost in margin, quality and brand.
+
+--- Fear, aspiration and novelty
+kw: pressure · dream · surface innovation
+Sinek describes other manipulation techniques, all as widespread as price.
+
+**Fear.** Fear pushes people to act, often irrationally. Companies use it to sell insurance, security products or IT solutions: if you don't buy, you risk losing a lot. Politicians use it to win votes too. Sinek acknowledges that fear is effective, but it does not create buy-in. As soon as the threat disappears, so does the behaviour.
+
+**Aspiration.** The opposite of fear, aspiration promises people they can become what they desire: thinner, richer, more attractive. Sinek observes that aspiration works well for one-off behaviours but poorly for lasting ones. He cites the weight-loss industry: many people buy these products, but few use them for long.
+
+**Peer pressure.** Companies highlight the number of people who already use their product, or the celebrities who endorse it. The message is simple: everyone's doing it, why not you? This technique works, but it does not create a genuine relationship with the customer.
+
+**Novelty.** Companies constantly add new features to their products to grab attention. Sinek distinguishes novelty from innovation. True innovation changes the way we live or work. Novelty is just a surface difference that competitors can copy quickly. He gives the example of mobile phones before the smartphone: every manufacturer kept adding features without really changing how people used them.
+
+Sinek stresses that all these techniques have one thing in common: they say nothing about what the organization stands for. They focus on what the customer gets, not on what the organization believes.
+
+> Question clé | Among the arguments you use to persuade customers or colleagues, which rely on price, fear or novelty? Which truly express what you believe?
+
+--- The hidden cost of transactions
+kw: loyalty · trust · stress
+Sinek argues that manipulation has a hidden cost that does not show up in immediate results. That cost is the loss of loyalty.
+
+He distinguishes two behaviours that look like loyalty but are very different. The first is **repeat business**: customers come back because it is convenient, because it is cheaper or because they have no other choice. The second is **loyalty**: customers come back because they are attached to the organization, even when a competitor offers something better or cheaper. Manipulation techniques produce repeat business, but not loyalty.
+
+Sinek shows that this difference has important consequences. A company that relies only on repeat business is vulnerable. As soon as a competitor offers a better price or promotion, customers leave. It must therefore keep investing in new techniques to hold on to them. A company with loyal customers is more stable, because its customers stay even in hard times.
+
+He adds that manipulation also has a cost for employees. In an organization that runs on short-term incentives, employees are under constant pressure. They must hit sales targets, multiply promotions and keep chasing new customers. Sinek observes that this creates stress, fatigue and weak attachment to the company.
+
+Finally, he points out that manipulation works especially badly in difficult situations. When the company goes through a crisis, customers and employees who were held only by incentives leave. Those held by a shared belief stay and help it get through.
+
+For a manager, the lesson also applies to team motivation. Bonuses, contests and pressure produce short-term results. But for lasting commitment, people need to understand and share the purpose of their work.
+
+- Repeat business is not loyalty: it vanishes as soon as a better offer appears.
+- Manipulation wears down employees too.
+- In a crisis, only those who share a belief stay.
+
+=== The golden circle
+--- Why, how, what
+kw: three circles · start from the centre
+The heart of the book is a diagram made of three concentric circles, which Sinek calls the golden circle. At the centre is **why**, in the middle **how**, on the outside **what**.
+
+- **What**: what the organization does, its products or services. Every organization knows what it does. It is easy to describe.
+- **How**: the way the organization does what it does, what sets it apart from competitors. Some organizations know this. People speak of a value proposition, a proprietary process or a competitive advantage.
+- **Why**: the reason the organization exists, its belief, its cause. Very few organizations know clearly why they do what they do. Sinek specifies that making money is not a why. It is a result. The why is a belief that goes beyond that.
+
+Most organizations communicate from the outside in: they start with what they do, then perhaps explain how they do it. They rarely talk about why. Inspiring organizations do the opposite: they start with why, then explain how, and finally what.
+
+Sinek argues that this order is not just a communication technique. It is a way of thinking and acting. An organization that starts with why makes its decisions according to its belief, hires people who share that belief and chooses its products according to it.
+
+He also specifies that the why should not be invented to win people over. It is discovered, often by looking at the history of the organization and its founders. An organization's why is often tied to the reasons it was created. With time and success, it tends to be forgotten.
+
+> À retenir | Why, how, what. Most communicate from the outside in; those who inspire start from the centre.
+
+--- The Apple example
+kw: challenging the status quo · secondary products
+Sinek illustrates the golden circle with the example of Apple, made famous by his talk. He imagines two ways of presenting a computer.
+
+The first follows the usual order, from the outside in. It starts with what: we make great computers. Then how: they are beautifully designed, simple to use and user-friendly. Then the conclusion: want to buy one? The pitch is clear, but it does not stand out from competitors'.
+
+The second follows the order of the golden circle. It starts with why: in everything we do, we believe in challenging the status quo and thinking differently. Then how: we do this by making products that are beautifully designed, simple to use and user-friendly. Then what: we just happen to make great computers. Want to buy one?
+
+Sinek observes that the second version is far more persuasive, even though it contains exactly the same information. The difference lies in the order. In the second version, the customer is not just buying a computer; they are buying into a belief.
+
+He uses this example to explain why Apple was able to diversify successfully into very different sectors, such as digital music players and phones. Customers bought these products because they shared the company's belief, not just because the products were good. By contrast, competitors that had defined their identity by their product, such as computer makers, struggled to diversify: they were seen as "computer companies," not as champions of a belief.
+
+Sinek acknowledges that Apple made excellent products. But he argues that quality alone cannot explain the exceptional loyalty of its customers. Other companies also made quality products without inspiring the same devotion.
+
+- Same information, different order: the effect is very different.
+- An identity founded on a belief makes it possible to diversify.
+- Quality is necessary, but it does not explain loyalty on its own.
+
+--- The brain and decision-making
+kw: emotional brain · decision · gut feeling
+Sinek argues that the golden circle matches the way the human brain works. He relies on a simplified distinction between two major parts of the brain.
+
+The newest part, the **neocortex**, corresponds to the level of what. It is responsible for rational thought, analysis and language. It lets us understand facts, figures and product features.
+
+The older parts, which Sinek groups under the name **limbic brain**, correspond to the levels of how and why. They are responsible for feelings such as trust and loyalty, and they play an important role in decisions. But they have no capacity for language.
+
+Sinek draws from this an explanation for many behaviours. When we communicate through what, we address the rational part of the brain. People can understand a lot of information, but that does not necessarily drive them to act. When we communicate through why, we address the part that controls decisions and behaviour. People can then be moved, even if they cannot explain why.
+
+This would explain the phenomenon of the gut decision. We often say a decision "feels right" without being able to justify it. According to Sinek, this is because the part of our brain that makes the decision has no access to language. We then look for rational arguments to justify a decision already made.
+
+It should be stressed that this account is highly simplified. Neuroscientists have criticized the idea of a limbic brain separate from the neocortex, and decision processes are far more complex. The value of this part of the book lies mainly in reminding us that human decisions are not purely rational, something confirmed by much research, notably that of Daniel Kahneman.
+
+> À retenir | Human decisions are not purely rational. Facts inform, but shared beliefs drive action. Sinek's biological explanation, however, remains highly simplified.
+
+--- Clarity, discipline, consistency
+kw: clear why · disciplined how · aligned what
+Sinek argues that knowing your why is not enough to inspire. You also need three qualities, which correspond to the three circles.
+
+**Clarity of why.** The organization must know clearly why it does what it does. That means taking the time to reflect on its purpose and being able to express it simply. A fuzzy why cannot inspire anyone. Sinek notes that many leaders are unable to answer clearly the question "why does your company exist?"
+
+**Discipline of how.** The values and principles that guide action must be applied consistently. Sinek recommends phrasing these values as verbs rather than nouns. For example, instead of "integrity," it is better to say "always do the right thing." Verbs are actions, and you can check whether you live by them. Nouns remain abstract.
+
+**Consistency of what.** Everything the organization does, its products, its marketing, its hiring, its decisions, must be consistent with its why. The what is the visible proof of the belief. If the organization says it believes in something and does the opposite, it loses credibility.
+
+Sinek stresses that consistency is particularly important, because it is what allows others to believe the why. People do not see the organization's belief directly. They see what it does and infer what it believes. If actions are inconsistent, the message gets blurred.
+
+He gives the example of companies that claim to put customers at the centre but whose customer service is hard to reach. Or companies that talk about innovation but punish mistakes. The gap between words and deeds destroys trust more surely than saying nothing at all.
+
+> Exercice | Write three of your team's values as action verbs. For each, find a recent example where you lived by it, and one where you didn't.
+
+=== Trust and buy-in
+--- Trust and belonging
+kw: shared values · tribe · symbols
+Sinek devotes part of the book to trust. He argues that trust arises when we believe others share our values and beliefs. We trust those who are like us, not in appearance but in what they believe.
+
+He links this idea to the human need to belong. Human beings need to feel they belong to a group. We feel comfortable with people who share our values, and we feel safe when surrounded by them. Sinek gives the example of a traveller abroad who hears someone speaking their language: they immediately feel close to that person, even though they don't know them.
+
+Inspiring organizations create this sense of belonging. Their customers do not just buy their products; they identify with them. Products become symbols that let people show others what they believe. Sinek cites the example of bikers who tattoo the logo of a famous motorcycle brand on their bodies. They are not celebrating a product, but a way of life and values they identify with.
+
+He applies the same logic to employees. Inspiring organizations are those where employees feel they belong to something bigger than themselves. They do not come to work just for a salary, but to take part in a cause. Sinek argues that such employees are more engaged, more innovative and more loyal.
+
+Finally, he stresses that trust cannot be imposed. You cannot ask people to trust you. You can only create the conditions for them to do so, by being clear about your why, disciplined in your how and consistent in your what.
+
+- We trust those who share our beliefs.
+- Products and brands become symbols of belonging.
+- Trust cannot be decreed; it grows out of consistency.
+
+--- The law of diffusion of innovations
+kw: innovators · early adopters · tipping point
+Sinek draws on a classic sociological model, the law of diffusion of innovations, developed by the researcher Everett Rogers. This model describes how a new idea or product spreads through a population. It distinguishes five groups:
+
+- **Innovators**, about 2.5% of the population, who adopt new things first, out of a love of discovery.
+- **Early adopters**, about 13.5%, who quickly see the value of a new idea and adopt it early.
+- **The early majority**, about 34%, who wait until the idea has proven itself.
+- **The late majority**, about 34%, more sceptical, who adopt once most others have.
+- **Laggards**, about 16%, who adopt last, often because they have to.
+
+Sinek argues that it is very hard to win over the majority directly. To achieve mass-market success, you must first win over the innovators and early adopters. It is they who, by their example, then bring the majority along. He places the tipping point at around 15 to 18% of the population: once that threshold is reached, adoption accelerates.
+
+He adds that innovators and early adopters do not buy just for the product. They are drawn by the why, by what the product represents. They are willing to pay more, put up with imperfections and defend the product to others, because they share the organization's belief.
+
+Sinek gives the example of a digital video recorder launched in the late 1990s. The product was technically remarkable and ahead of its competitors. But the company talked about its features, the what, rather than a belief. It failed to win over the early adopters, and the product stalled, even though the technology later spread widely thanks to other players.
+
+> À retenir | Mass success begins with a convinced minority. These early adopters are drawn not by the product, but by what it represents.
+
+--- The Wright brothers and the dream
+kw: cause · resources · rallying speech
+Sinek uses two stories to show the power of the why.
+
+**The race to fly.** At the start of the twentieth century, several teams were trying to build the first powered aircraft capable of flight. One was led by Samuel Pierpont Langley, a respected scientist with substantial funding from the US government, excellent connections and a first-rate team. The press followed him closely. The other team was the brothers Wilbur and Orville Wright, who ran a bicycle shop in Ohio. They had no funding, no university degrees and no connections.
+
+Yet it was the Wright brothers who succeeded, in December 1903. Sinek explains the difference by the why. Langley was after fame and recognition. The Wright brothers were convinced that flight would change the world. They attracted people who shared this belief and who worked relentlessly despite repeated failures. After the Wright brothers' success, Langley gave up his research: he did not want to come second.
+
+**Martin Luther King's speech.** In August 1963, about 250,000 people gathered in Washington to hear Martin Luther King. Sinek points out that no invitation had been sent to each of them, and there was no social media. People came because they shared the same belief. He notes that the speech is not called "I have a plan" but "I have a dream." Martin Luther King spoke about what he believed, and those who shared those beliefs recognized themselves in his words.
+
+Sinek adds that the people who came did not come for him, but for themselves, for what they believed. A leader who inspires does not ask people to follow them. They give people a reason to rally around a cause that is also their own.
+
+- Resources do not guarantee success; a shared belief mobilizes more.
+- Inspiring leaders talk about what they believe, not about their plan.
+- We follow a leader because their cause is also ours.
+
+=== The leader and the organization
+--- Hiring for the why
+kw: beliefs · skills · culture
+Sinek argues that inspiring organizations hire first for people who share their why. Skills matter, but they can be learned. Belief, on the other hand, is not easily passed on.
+
+He cites the example of an American low-cost airline known for the exceptional quality of its service and the enthusiasm of its employees. Its founder explained that he hired for attitude and trained for skills. The airline was not looking for experienced airline staff, but for people who shared its belief: making air travel accessible and enjoyable for everyone. Once hired, these people were trained in the technical skills.
+
+Sinek observes that people who share an organization's why work with more enthusiasm and commitment. They take initiative, look for solutions to problems and stay loyal in hard times. By contrast, people who do not share the why work for their pay. They may be competent, but they do not go beyond what is asked.
+
+He offers an image: many people are willing to work for a company, but only some work for a cause. The leaders' role is to find these people and give them the means to contribute.
+
+To apply this principle, Sinek recommends talking about the why from the job advertisement and the interview onward. Rather than describing only the position and the skills required, explain what the organization believes. Candidates who share that belief will recognize themselves, and the others will drop out on their own.
+
+He warns, however, against one pitfall: hiring only people who think the same way. Sharing a why does not mean having the same opinions on everything. An organization needs diversity of thinking, provided the core beliefs are shared.
+
+> Exercice | Reread your latest job posting. Does it say why your team exists, or only what the position requires?
+
+--- Why-types and how-types
+kw: visionary · builder · duo
+Sinek observes that many inspiring organizations were built by duos: one person who carries the why, and one who carries the how.
+
+**Why-types** are visionaries. They are optimistic, have a strong belief and imagine a future others cannot yet see. But they do not always know how to make their vision real. They can be disorganized, inattentive to detail or poor at management.
+
+**How-types** are builders. They are pragmatic and know how to organize and execute. They can turn a vision into concrete reality. But without a why-type, they risk building efficient organizations without a soul.
+
+Sinek gives the example of the Disney brothers. Walt was the visionary who dreamed up stories and worlds. Roy was the builder who managed the company's finances and organization. Without Walt there would have been no vision; without Roy, the vision would never have been funded or carried out.
+
+He stresses that these duos only work if both people share the same why. The how-type must believe in the why-type's vision, or they will distort it. The why-type must trust the how-type, or they will interfere in every detail.
+
+For a manager, this distinction is useful on two levels. First, to know yourself: am I more of a why-type or a how-type? Second, to build your team: who around me can complement my strengths? A visionary manager needs an organized deputy; an organized manager needs someone who helps keep the vision in view.
+
+- Inspiring organizations often have a visionary and a builder.
+- The duo works only if both share the same belief.
+- Identify your profile and look for the one that complements it.
+
+--- The organization's megaphone
+kw: amplify · pass on · levels
+Sinek describes the structure of an inspiring organization by taking the golden circle into three dimensions. He imagines a cone seen from the side. At the top of the cone is the leader, who carries the why. In the middle are the managers, who translate the why into how. At the base are the employees, who carry out the what.
+
+This cone works like a megaphone. The leader's why is amplified by the whole organization. Every employee, in what they do every day, expresses the organization's belief. The bigger the organization, the more powerful the megaphone, as long as the why stays clear.
+
+Sinek stresses that the leader's role is not to do everything, but to keep the why clear and pass it on. The leader must talk about it constantly, embody it in decisions and make sure managers understand and translate it. Managers, for their part, must turn the why into processes, values and concrete behaviours.
+
+He insists on the role of customer-facing employees. They are the ones who carry the why to the outside world. If a customer has a bad experience with an employee, they do not perceive the organization's belief, whatever management says. Sinek cites the example of employees in an inspiring organization who take the initiative to help a customer because they know what the organization is trying to achieve, even if no rule provides for it.
+
+For a middle manager, this image is particularly useful. Their role is not just to pass on instructions from above, but to translate the organization's purpose into concrete meaning for their team. They must be able to explain to their people why their work matters and how it contributes to the belief of the whole.
+
+> À retenir | The organization amplifies the why like a megaphone. The middle manager translates it into concrete meaning for their team.
+
+--- Announcing change through the why
+kw: project · meeting · resistance
+Sinek's ideas apply very concretely to a situation every manager knows: presenting a change to the team. Most announcements follow the usual order, from the outside in. They start with what will change: a new tool, a new structure, a new procedure. Then they explain how it will happen: the timeline, the training, the steps. Sometimes, at the end, they briefly mention why.
+
+This approach often provokes resistance. People first hear what they will lose or have to learn. They do not understand the purpose of the change and interpret it as a constraint imposed from above. They then ask about practical details, which makes the manager think they oppose the project, when they are simply trying to understand.
+
+Sinek recommends reversing the order. The manager starts by explaining why the change is needed, linking it to the team's purpose. For example: "We exist so that our customers get a reliable answer quickly. Today we don't manage that often enough: one customer in four waits more than three days." Then they explain how the change will help: "We're going to bring all requests into a single tool, so that none of them gets lost." Finally, they set out the what: the dates, the training, what changes for each person.
+
+A few tips for applying this method:
+
+- **Link the change to something that matters to the team**, not just to a management decision.
+- **Be honest about the difficulties.** A credible why acknowledges what the change costs.
+- **Leave time for questions** after the why, before going into the what.
+- **Repeat the why** throughout the change, especially in difficult moments.
+- **Show the first concrete effects**, which prove the change really serves the why.
+
+> Exercice | For your next change project, write the announcement in three paragraphs: why, how, what. Have a colleague review it before you present it.
+
+=== When the why gets lost
+--- The split that comes with success
+kw: growth · what takes over · forgetting
+Sinek argues that many organizations lose their why as they grow. He describes the phenomenon as a split that appears gradually.
+
+At first, an organization is small and its founder is everywhere. The why is clear because it is embodied by that person, who makes all the decisions and is in contact with every employee and many customers. With success, the organization grows. The founder can no longer be everywhere. Decisions are made by others, who do not always share the same belief. Processes multiply. The what takes up more and more room, and the why fades.
+
+Sinek represents this with a curve. At first, the organization's growth and the clarity of its why rise together. At some point, growth continues but the why starts to blur. The gap between the two widens. That is the split.
+
+He observes that this often happens when the organization achieves a major success: an IPO, rapid growth, a dominant position. Success draws attention to results, and leaders begin to focus on the what: figures, market share, products. They forget why they started.
+
+The signs of an organization losing its why are many: employees talk about their work in terms of tasks rather than mission, decisions are made purely on financial criteria, innovation slows, customer loyalty declines and the organization relies more and more on manipulation techniques such as promotions or price cuts.
+
+Sinek stresses that this is not inevitable. The organizations that keep their why as they grow are those where the leader keeps talking about it, managers pass it on and decisions remain consistent with it.
+
+- Success and growth tend to make people forget the why.
+- Growing reliance on promotions is often a symptom.
+- The why survives if it is repeated and embodied at every level.
+
+--- Succession and loss of meaning
+kw: after the founder · continuity
+Sinek pays particular attention to succession, when the founder leaves the organization. That is often when the why gets lost.
+
+He gives the example of a large American retail chain. According to Sinek, its founder was driven by the belief that you should serve people: your customers, your employees and the communities where you set up. Low prices were not an end in themselves but a way of serving ordinary people. After his death in the early 1990s, the company kept growing, but according to Sinek it gradually confused the means with the end. Low prices became the main goal, at the expense of employees and suppliers. The company then faced criticism and disputes over how it treated its workers.
+
+Sinek explains that successors chosen for their management skills, without sharing the founder's why, can move the organization forward in the short term but take it away from what made it strong. He therefore recommends choosing successors first for their commitment to the why, and only then for their skills.
+
+He also stresses the importance of making the why independent of the founder. As long as the why exists only in one person's head, it disappears with them. It must therefore be written down, passed on, built into hiring and training processes, and carried by several people.
+
+Sinek also discusses organizations that rediscover their why after losing it, often through the return of a founder or the arrival of a leader who understands it. He cites Steve Jobs's return to the head of Apple in 1997, after a difficult period in which the company had scattered its efforts and lost sight of what made it different.
+
+For a manager taking over from a well-liked predecessor, the lesson is useful: understand what made the team strong before trying to transform it.
+
+> Question clé | If your organization's founder or long-time leader left tomorrow, would the why survive? Where is it written down, and who else carries it?
+
+--- The celery test
+kw: consistency · choices · decisions
+Sinek offers a simple tool to check whether an organization is consistent with its why: the celery test.
+
+He imagines the following situation. You are at a dinner, and several people give you advice on improving your business. One says you absolutely must buy chocolate sweets. Another recommends rice milk. A third talks about cream-filled biscuits. A fourth advises celery. All this advice comes from respected, successful people. If you follow it all, you go to the supermarket, buy everything, spend a lot of money, and still don't know whether it will help.
+
+Now imagine you know your why. For example, you want to help people live healthy lives. You go to the supermarket and buy only the rice milk and the celery. You spend less money, and you are sure your purchases are consistent with your belief. Above all, when other shoppers see your basket, they immediately understand what you believe. Those who share that belief will come to you.
+
+Sinek uses this image to show that the why is a decision filter. An organization that knows its why can quickly sort opportunities, advice and projects. It does only what is consistent with its belief. It thus saves resources and becomes easier for customers and employees to read.
+
+He stresses that the celery test is not only for big strategic decisions. It also applies to everyday decisions: which partner to choose, which product to launch, which person to hire, what message to put out. Every decision is an opportunity to show, or to blur, the why.
+
+> Exercice | Take the last five requests or opportunities your team received. Put them through the celery test: which are consistent with your why?
+
+=== Putting it into practice
+--- Finding your why
+kw: stories · high points · statement
+In a later book co-written with two colleagues, Sinek developed a method for finding your why. Here is a simplified version, applicable to a person or a team.
+
+**For a person.** The why is found in the past, not the future. First gather stories: moments in your life when you felt particularly proud, useful or happy, and difficult moments that marked you. For each story, note what happened and how you felt. Then tell these stories to someone you trust, who helps you spot the common themes. Finally, express your why in one simple sentence, following this model: to contribute an action, so that an effect is produced. For example: to help people understand complex subjects, so that they can make better decisions.
+
+**For a team.** Bring together a few team members, preferably people who have been there a long time and like it. Ask them to recount moments when they were particularly proud of their work, and why. Spot the common themes. Then formulate the team's why together, using the same sentence model. Then test it with other team members: do they recognize themselves in it?
+
+Sinek gives a few criteria to check that the statement is right:
+
+- It is simple and clear, understandable by everyone.
+- It talks about contributing to others, not about results for oneself.
+- It is lasting: it does not depend on a particular product or market.
+- It energizes the people who read it.
+
+He specifies that you should not look for the perfect wording. What matters is having a sentence that guides decisions and can evolve over time.
+
+> À retenir | The why is discovered in stories from the past, not in projections. One simple sentence: to contribute something, so that an effect is produced.
+
+--- 30-day action plan
+kw: discover · formulate · apply
+**Week 1: the diagnosis.** Ask five members of your team why, in their view, the team exists. Don't ask what it does, but why. Note their answers. Are they consistent? Do the same exercise for yourself: why do you do this job?
+
+**Week 2: discovery.** Run a two-hour workshop with a few team members to gather stories of moments of pride. Spot the common themes. Draft a first version of the team's why. Do the same for yourself, with the help of someone you trust.
+
+**Week 3: translation.** Translate the why into how: three to five values, phrased as action verbs. For each, give a concrete example of behaviour. Present the why and the values to the whole team and gather their reactions.
+
+**Week 4: consistency.** Put your projects, meetings, communication and hiring through the celery test. Identify one activity inconsistent with the why and stop it. Start introducing your team to others by starting from the why rather than the what.
+
+Sinek insists on repetition. The why is useful only if it is brought up regularly: in meetings, in decisions, when welcoming newcomers. A why written once and then forgotten in a drawer is useless.
+
+> À retenir | Diagnose, discover, translate, check consistency. Then repeat the why constantly.
+
+--- Self-assessment grid
+kw: clarity · discipline · consistency
+Rate each statement from 1 (not at all true) to 5 (completely true), for yourself or for your team.
+
+**Clarity of why**
+
+- I can explain in one sentence why my team exists, without talking about what it produces.
+- My team members would give an answer close to mine.
+- This why talks about what we bring to others, not just about our results.
+
+**Discipline of how**
+
+- Our values are phrased as concrete actions that can be checked.
+- We turn down opportunities when they do not match our values.
+
+**Consistency of what**
+
+- Our projects and priorities pass the celery test.
+- The way we hire and welcome newcomers reflects our why.
+- Outsiders perceive our belief through what we do.
+
+**Inspiration rather than manipulation**
+
+- We win over customers or partners without relying on low prices or pressure.
+- I present changes by starting with why.
+
+**Interpretation.** If your lowest scores concern clarity, start with the method for discovering the why: it is the foundation of everything else. If clarity is good but consistency is weak, your why risks remaining a slogan: put your activities through the celery test and stop those that don't fit. If inspiration is weak, look at how you communicate: do you start from what or from why?
+
+Sinek points out that it is useful to have several team members fill in this grid. The gaps between their answers are a good indicator of how clear the why is: if it is truly clear, the answers will be close.
+
+- Clarity is measured by how closely the team's answers converge.
+- Good clarity with weak consistency signals a slogan.
+
+--- Case study: a nonprofit
+kw: volunteers · consistency · revival
+A homework-help nonprofit has been running for fifteen years in a working-class neighbourhood. It was founded by a retired primary school teacher, who led it until she stepped down three years ago. Since then, the nonprofit has struggled to recruit volunteers, fewer families come, and funders are asking questions.
+
+**The diagnosis.** The new chair, Thomas, asks the volunteers why the nonprofit exists. The answers vary: "doing homework with the children," "getting grants," "keeping the kids busy after school." None mentions a common purpose. He realizes the why was lost when the founder left.
+
+**Discovery.** He organizes an evening where the longest-serving volunteers share their moments of pride. The stories are similar: a child who regains confidence and dares to raise a hand in class, a mother who discovers her son can read, a pupil who went on to university and comes back to help. The common theme emerges: restoring children's confidence in their ability to learn, so that they dare to aim higher.
+
+**Translation.** The volunteers phrase three values as verbs: encourage every step forward, believe in every child, involve the families.
+
+**Consistency.** The nonprofit puts its activities through the celery test. It stops a childcare activity that took up many volunteers but did not match the why. It creates moments to celebrate progress, with parents present.
+
+**Communication.** Volunteer recruitment notices now start with the why. So do grant applications. In the first months, little changes. Then volunteer applications rise, parents come back, and a funder cites the nonprofit as an example.
+
+> Question de réflexion | If you asked five people on your team why it exists, would you get the same answer?
+
+=== Critical view and links
+--- Limits of the book
+kw: neuroscience · survivorship bias · slogans
+*Start with Why* has had a considerable impact, but it has several limitations.
+
+**Highly simplified neuroscience.** The biological explanation of the golden circle rests on an outdated view of the brain that sharply separates an emotional brain from a rational one. Current neuroscience shows far more complex interactions between these regions. The general idea that emotions play an important role in decisions is sound. But the precise correspondence between the circles and brain regions has not been demonstrated.
+
+**Examples chosen after the fact.** Sinek relies on examples of organizations that succeeded and explains their success by their why. But he does not show how many organizations had a clear why and failed. This survivorship bias makes it hard to know whether the why is really the cause of success. Apple's success, for example, is also explained by the quality of its products, its design, its ecosystem and its strategic choices.
+
+**The risk of the slogan.** The concept has sometimes been used superficially. Many companies have written an attractive "purpose statement" without changing their practices. A why that is not consistent with actions becomes a mere communication tool, which is exactly the opposite of what Sinek recommends.
+
+**A leader-centred view.** The book gives a central role to the leader or founder who carries the why. It says less about how a why can emerge collectively or evolve over time.
+
+**A repetitive approach.** Several readers note that the book repeats the same idea a great deal. The central message fits in a few pages, and the 2009 talk already gives its essence.
+
+**Execution left out.** A clear why is not enough. You also need a strategy, processes and rigorous execution. Other books in this library, such as those by Collins or Grove, usefully complement this dimension.
+
+- Keep the central idea; be wary of the biological explanation.
+- A why without consistent action is just a slogan.
+
+--- Links with other books
+kw: Collins · Covey · Kahneman · Grove
+**With Good to Great (Collins).** The passion circle in Collins's Hedgehog Concept is close to Sinek's why. But Collins adds two other indispensable circles: what you can be the best at and the economic engine. A strong belief is not enough if it does not rest on a real advantage and a viable model.
+
+**With The 7 Habits of Highly Effective People (Covey).** Covey's second habit, "begin with the end in mind," and the idea of a personal mission statement are individual versions of the why. Covey invites each person to write their personal mission statement from their deepest values, which echoes Sinek's method for finding your why.
+
+**With Thinking, Fast and Slow (Kahneman).** Kahneman offers a much more solid scientific basis for the idea that our decisions are not purely rational. He also shows the dangers of appealing stories constructed after the fact, which invites us to read Sinek's examples with caution.
+
+**With High Output Management (Grove).** Grove describes cultural values as an effective mode of control when situations are complex and uncertain. It is a more analytical way of saying what Sinek argues: a shared belief guides behaviour better than rules or incentives.
+
+**With Blue Ocean Strategy (Kim and Mauborgne).** Sinek criticizes the race on price and features. Kim and Mauborgne offer a method for escaping that race by creating a new offering. The two books complement each other: the why gives direction, the blue ocean gives the tools to stand out.
+
+> Parcours conseillé | Next, read The 7 Habits of Highly Effective People to apply the why to your personal life, or Good to Great to test it against economic reality.
