@@ -1,0 +1,327 @@
+=== Context and thesis
+--- An undercover psychologist
+kw: research · salespeople · observation
+Robert Cialdini is a professor of social psychology at Arizona State University. He says that for a long time he considered himself an easy mark for salespeople, fundraisers and solicitors. He regularly found himself buying things he didn't need or giving money to causes he barely knew. He wanted to understand why.
+
+In addition to his laboratory experiments, he carried out an original investigation. For several years, he went undercover in organizations whose business is persuasion: he took sales training courses, worked in advertising agencies, and observed fundraisers, recruiters and sales reps. He wanted to discover, from the inside, which techniques work.
+
+He found that, despite the wide variety of techniques used, almost all rested on a small number of **psychological principles**. These principles are mental shortcuts we all use, most of the time wisely. But they can be exploited to make us say yes without thinking.
+
+*Influence*, published in 1984, presents six of these principles. The book has become a reference in psychology, marketing and management. A new edition, published in 2021, adds a seventh.
+
+Cialdini writes for two audiences. He wants to help readers **recognize** influence techniques so they can better defend themselves. And he acknowledges that these principles can also be used honestly, to persuade people of useful things.
+
+> À retenir | Hundreds of persuasion techniques rest on a few universal psychological principles.
+
+--- Automatic responses
+kw: shortcuts · trigger · click, whirr
+Cialdini begins with an observation from the animal world. He describes experiments on certain birds in which maternal behavior is triggered almost entirely by a particular sound made by the chicks. If the sound is present, the mother cares for whatever produces it, even a decoy. If it is absent, she may ignore, or even attack, her own chick.
+
+He explains that such **automatic behaviors** are common in animals. A specific signal triggers a sequence of actions, without thought. Cialdini compares this to a tape that starts playing at the click of a button.
+
+Human beings also partly work this way. We live in a very complex world, with an enormous amount of information and many decisions to make. We cannot think through every decision in detail. So we use **shortcuts**: if many people are doing something, it's probably a good idea; if an expert recommends it, it's probably true; if it's rare, it's probably valuable.
+
+These shortcuts are generally useful. They save us time and most often lead us to good decisions. But they create a vulnerability: someone only has to produce the trigger signal artificially to obtain our agreement.
+
+Cialdini tells the story of a jeweler who couldn't sell her turquoise jewelry. Before leaving on a trip, she left a note to cut the price in half. Her employee misread it and doubled the price. The jewelry sold out immediately. The customers, not knowing much about turquoise, had used a shortcut: expensive means good quality.
+
+- We use shortcuts to decide quickly.
+- They are generally useful, but exploitable.
+- Producing the signal is enough to trigger the response.
+
+--- Contrast
+kw: perception · comparison · order
+Before presenting his six principles, Cialdini describes a perceptual mechanism that often accompanies them: the **contrast principle**.
+
+Our perception of something depends on what we saw just before. A classic experiment shows this: if you put one hand in cold water and the other in hot water, then both into lukewarm water, the first hand feels the water as hot and the second as cold. The same water feels different depending on what came before.
+
+Salespeople use this principle constantly. In a clothing store, they first offer the most expensive item, such as a suit. Accessories such as a tie or a shirt then seem inexpensive by comparison. In real estate, an agent may first show overpriced, mediocre homes, so that the one he really wants to sell looks like a bargain.
+
+Cialdini also cites a well-known letter from a student to her parents. She announces a series of disasters: a fire, an accident, a relationship with an unsavory man, a pregnancy. Then she concludes that none of it is true, but that she has bad grades, and she wanted them to see those grades in the proper perspective.
+
+Contrast is powerful because it is almost invisible. It doesn't distort the information; it only changes the point of comparison.
+
+> Question clé | In your recent purchasing decisions, what did you compare the price to? Had that point of comparison been chosen by the seller?
+
+=== Reciprocity
+--- Returning what you receive
+kw: debt · gift · obligation
+The first principle is **reciprocity**. We feel obliged to repay what others have given us. If someone gives us a gift, does us a favor or invites us, we feel the need to return it.
+
+Cialdini explains that this principle exists in every human society. It probably played an essential role in evolution: it makes cooperation, exchange and the division of labor possible, because you can give without risk, knowing you will be repaid.
+
+But the principle can be exploited. Cialdini recounts how, in the 1970s, members of a religious movement collected money in airports by first offering passersby a flower and insisting they keep it. Passersby, even annoyed ones, felt obliged to give something in return. Many threw the flower away right afterward, but the fundraising worked.
+
+He highlights three features of the principle. First, it works **even if you don't like** the person who gave. Second, it can be triggered by an **unsolicited gift**: no one asks our opinion, yet we feel obligated. Finally, it can prompt **unequal exchanges**: a small gift can elicit a much larger return.
+
+Cialdini cites commercial examples: free samples in supermarkets, small gifts sent with donation requests, invitations offered by suppliers.
+
+> À retenir | A gift, even an unrequested one, creates a debt. And the debt can be repaid far beyond its value.
+
+--- Reciprocal concessions
+kw: rejection then retreat · moderate request
+Cialdini describes a subtle variant of the reciprocity principle: **reciprocal concessions**.
+
+If someone makes a concession to us, we feel obliged to make a concession in return. This rule is useful: it makes compromise possible. But it can also be exploited through the **rejection-then-retreat** technique, also known as the door-in-the-face technique.
+
+It works like this: you first make a large request that the other person will probably refuse. Then you make a more moderate request, which is actually the one you wanted. The other person perceives this second request as a concession and feels obliged to make one in turn by accepting it.
+
+Cialdini says he himself fell for this technique. A young Boy Scout offered to sell him tickets to a show. Cialdini declined. The boy then offered him chocolate bars, which were much cheaper. Cialdini, who doesn't particularly like chocolate, bought two.
+
+He also describes an experiment run by his team. Students asked passersby whether they would volunteer to chaperone a group of juvenile delinquents on a day trip to the zoo. Few agreed. But if they first asked for a much heavier commitment, two hours a week for two years, and then, after the refusal, the zoo trip, far more people agreed.
+
+Cialdini notes that this technique has an additional advantage: people who agree often feel more satisfied, because they feel they have obtained a concession.
+
+- A concession calls for a concession.
+- Ask for a lot, then less, to get what you wanted.
+- Defense: judge each request on its own merits.
+
+=== Commitment and consistency
+--- The need to be consistent
+kw: staying true · appearing stable
+The second principle is **commitment and consistency**. Once we have taken a position or made a choice, we feel strong pressure, both internal and social, to act consistently with that commitment.
+
+Cialdini explains that consistency is valued in most cultures. A consistent person is seen as reliable, rational and honest. An inconsistent person seems indecisive, unreliable, even hypocritical. So we try to remain consistent, with others and with ourselves.
+
+Consistency also has a practical advantage: it saves us from having to rethink every decision. Once we have decided, we apply the decision without questioning it. But this shortcut can lead us to persist in bad decisions.
+
+Cialdini cites an experiment at a racetrack. Bettors were more confident of their horse's chances just after placing their bet than just before. The mere act of committing had changed their perception.
+
+He also describes an experiment on a beach. A confederate puts down his towel and radio, then walks away. Another confederate steals the radio. Few neighbors react. But if the first confederate has asked a neighbor to watch his things, and the neighbor agreed, that neighbor almost always intervenes. His commitment obliges him to act.
+
+> À retenir | Once committed, we act to stay consistent, even when the situation has changed.
+
+--- The foot in the door
+kw: small yes · written · public · effort
+Cialdini describes several techniques that exploit the consistency principle.
+
+**The foot in the door.** You start with a small request that is easy to accept. Then you make a larger request consistent with the first. Cialdini reports an experiment conducted in a residential neighborhood in the United States. Researchers asked homeowners to install a large, unattractive sign in their yard promoting safe driving. Most refused. But homeowners who, a few weeks earlier, had agreed to display a tiny sticker on the same theme agreed far more often. The first commitment had changed their self-image: they saw themselves as safety-conscious citizens.
+
+Cialdini identifies the features that make a commitment particularly powerful:
+
+- **Active**: a commitment made through action, and especially in writing, is stronger than a mere verbal agreement.
+- **Public**: a commitment made in front of others is harder to back out of.
+- **Effortful**: a commitment that required effort is stronger. This is one explanation for harsh initiation rites in some groups.
+- **Freely chosen**: a commitment we believe we made of our own accord is stronger than one obtained under pressure or for a reward.
+
+He also describes the **lowball** technique used by some car dealers: you get the customer to agree to an attractive price, then withdraw the advantage, citing an error. Many customers stick with their decision because they have already committed.
+
+- A small yes prepares a big yes.
+- Written, public and effortful commitments are the strongest.
+- Defense: heed your unease, and ask whether you would make the same choice again.
+
+=== Social proof
+--- Doing what others do
+kw: uncertainty · similarity · canned laughter
+The third principle is **social proof**. To decide what is correct, we look at what others are doing, especially when we are uncertain.
+
+Cialdini explains that this shortcut is often useful. If many people choose a restaurant, it is probably good. If everyone runs out of a building, you had better do the same. But the shortcut can be exploited.
+
+He cites the example of **canned laughter** in television shows. Viewers know it is artificial and often find it annoying. Yet studies show that it makes audiences laugh more. Producers also use recorded applause, staged queues and testimonials from satisfied customers.
+
+Cialdini highlights two conditions that strengthen social proof. The first is **uncertainty**: the more ambiguous a situation, the more we look to others. The second is **similarity**: we follow above all the example of people who resemble us.
+
+He also describes a more troubling phenomenon. Studies have shown that after certain suicides received heavy media coverage, the number of suicides and even road accidents rose in the following days, notably among people resembling the profile of the person who had been covered. Cialdini sees this as an effect of social proof on people in a state of great vulnerability.
+
+> Question clé | What recent decision did you make mainly because others had made it?
+
+--- Pluralistic ignorance
+kw: bystanders · no one acts · singling out
+Cialdini devotes a large part of this chapter to a tragic phenomenon: **bystander inaction**.
+
+He recalls a case that shook the United States in 1964: the murder of a young woman in New York, reportedly witnessed by several neighbors who did not intervene. The accounts of the time exaggerated the number of witnesses and their passivity, but the case triggered a great deal of research in psychology.
+
+This research revealed a surprising effect: **the more bystanders there are, the less each one intervenes**. Two mechanisms explain it. First, **diffusion of responsibility**: everyone thinks someone else will act. Second, **pluralistic ignorance**: in an ambiguous situation, everyone looks to others to know whether it is an emergency. Since everyone appears calm, each concludes there is no emergency.
+
+Cialdini draws practical advice from this. If you need help in public, don't make a general appeal. **Single out a specific person**: "You, in the blue jacket, call an ambulance." This removes the uncertainty and the diffusion of responsibility.
+
+He says he used this advice himself after a car accident and got help immediately.
+
+The phenomenon can also be seen in organizations. When a problem concerns everyone, no one deals with it. When a task is assigned to a specific person, it gets done.
+
+- The more bystanders, the less each one acts.
+- Everyone waits for the others to react.
+- Single out a specific person.
+
+=== Liking and authority
+--- Those we like
+kw: similarity · compliments · parties
+The fourth principle is **liking**. We say yes more readily to people we like.
+
+Cialdini cites the example of home sales parties, where a hostess invites her friends to discover products. Guests buy less because of the products than because of their friendship with the hostess. The professional salesperson has almost nothing to do: liking does the work.
+
+He identifies several factors that increase liking.
+
+**Physical attractiveness.** People considered attractive are perceived as more competent, honest and intelligent. Studies show effects in elections, trials and hiring.
+
+**Similarity.** We like people who resemble us: in their opinions, background, style and tastes. Salespeople often look for common ground with their customers.
+
+**Compliments.** We like those who compliment us, even when we know the compliments are self-serving.
+
+**Contact and cooperation.** We like things and people that are familiar to us, and above all those with whom we have cooperated toward a common goal.
+
+**Association.** We associate people with the good or bad news they bring and with the things they are linked to. That is why advertising associates products with celebrities or pleasant moments.
+
+Cialdini cites a car salesman, famous for his sales records, who sent all his former customers a card every month with a simple message of friendship.
+
+> À retenir | We say yes to those we like. Defense: separate the seller from what is being sold.
+
+--- Obedience to authority
+kw: Milgram · titles · uniforms
+The fifth principle is **authority**. We have a strong tendency to obey people who represent authority, even when their requests seem questionable to us.
+
+Cialdini presents Stanley Milgram's experiments, conducted in the early 1960s. Volunteers believed they were taking part in a study on learning. A researcher asked them to deliver increasingly strong electric shocks to another participant, who was in fact a confederate and received no shocks. Despite the confederate's screams and pleas, a majority of volunteers went all the way, simply because the researcher told them to continue.
+
+Cialdini explains that obedience to authority is generally useful. It allows societies to function, and authorities often know more than we do. But it can become dangerous when we obey without thinking.
+
+He describes the **symbols of authority** that trigger this obedience, even when the authority is false:
+
+- **Titles**: doctor, professor, expert. Experiments have shown that nurses followed dangerous prescriptions given over the phone by a stranger claiming to be a physician.
+- **Clothing**: uniforms, lab coats, suits.
+- **Trappings**: luxury cars, impressive offices.
+
+Cialdini cites examples of medical errors in which caregivers carried out a doctor's obviously mistaken instructions without questioning them.
+
+To defend yourself, he suggests two questions: is this person really an expert on this subject? And do they have an interest in convincing me?
+
+- We obey symbols of authority, even false ones.
+- Titles, uniforms, signs of status.
+- Ask: is this a real expert, and what is their interest?
+
+=== Scarcity
+--- What is rare is desirable
+kw: loss · limited time · limited quantity
+The sixth principle is **scarcity**. Things seem more valuable to us when they are rare or hard to obtain.
+
+Cialdini explains that this principle rests on two mechanisms. First, a shortcut: what is rare is generally valuable. Second, a psychological reaction: when our freedom of choice is threatened, we want more of what we risk losing. Psychologists call this **reactance**.
+
+Salespeople use this principle in many ways: **limited quantities** (only a few items left in stock), **limited time** (offer valid until Sunday), **exclusivity** (access reserved for a few customers).
+
+Cialdini reports a simple experiment. Participants tasted cookies presented in a jar. When the jar held only two cookies, they rated them as more desirable than when it held ten. And the cookies were rated even higher when the jar went from ten to two before their eyes, as if others had taken them.
+
+He stresses that scarcity is especially strong when it is **new** and when it results from **competition**. Auctions, sales with queues, and property listings with several interested buyers play on both levers.
+
+He also notes that scarcity of information matters: information presented as exclusive or censored seems more convincing.
+
+> À retenir | Rare, limited, threatened: we want more of what we might lose.
+
+--- Scarcity and loss
+kw: loss aversion · emotion · stopping
+Cialdini develops an aspect of scarcity that echoes the work of behavioral economics: **fear of loss**.
+
+Studies show that people are more motivated by the prospect of losing something than by the prospect of gaining something of equal value. An offer framed in terms of loss ("you'll lose 50 euros if you don't do this") is more persuasive than the same offer framed in terms of gain.
+
+Cialdini cites examples from health, where messages emphasizing what a person risks losing by not having a screening are more effective than those emphasizing the screening's benefits.
+
+He also explains that scarcity triggers an **emotional** reaction that disrupts reasoning. Faced with something rare, our arousal rises and we think less clearly. That is why scarcity techniques are often combined with time pressure.
+
+To defend yourself, Cialdini suggests recognizing this arousal as an alarm signal. When we feel a rising urge to get something before it's too late, we should stop and ask why we want it. If it is to use it, its value does not depend on its scarcity: a rare cookie doesn't taste better. If it is to own it, scarcity may matter, but we should be aware of it.
+
+- Losses motivate more than gains.
+- Scarcity excites and clouds judgment.
+- Ask: do I want to use it, or to own it?
+
+=== Unity and defense
+--- The seventh principle: unity
+kw: shared identity · we · family
+In the 2021 edition, Cialdini adds a seventh principle: **unity**. We say yes more readily to people we perceive as part of **our group**, our "we."
+
+He distinguishes unity from liking. Liking rests on similarity or appreciation: "she's like me," "I like her." Unity rests on a **shared identity**: "she's one of us." It is about family, origin, religion, nation, sports team, company.
+
+Cialdini explains that unity can arise in two ways. Through **kinship** or place of origin: we naturally favor members of our family, region and community. And through **acting together**: singing, dancing, marching, working together and overcoming hardships together create a sense of belonging.
+
+He cites examples where appeals to shared identity have a strong effect: a message beginning "As a parent…" or "As a member of our community…", campaigns that invite people to act "for our family."
+
+He stresses that this principle is very powerful, and can be used positively, to create cooperation, or negatively, to exclude others.
+
+> Question clé | Which "we" do you appeal to when you try to persuade? Which "we" do you let yourself be persuaded by?
+
+--- Defending yourself without refusing everything
+kw: false signal · detect · react
+Cialdini ends his book with a reflection on defending against influence techniques.
+
+He first stresses that mental shortcuts are **indispensable**. We cannot analyze every decision in detail. Systematically refusing to use social proof, authority or reciprocity would make life impossible and would often lead us to worse decisions.
+
+So the problem is not the principles themselves but their **dishonest exploitation**. Cialdini distinguishes two situations. In the first, someone uses a principle honestly: they present real testimonials, real expertise, real scarcity. There is nothing wrong with that. In the second, someone fabricates the signal: fake testimonials, false expertise, false scarcity. It is this cheating that must be fought.
+
+For each principle, he proposes a defensive question:
+
+- **Reciprocity**: is this a real gift, or a sales technique?
+- **Commitment**: if I could go back in time, would I make the same choice?
+- **Social proof**: are the others really informed, or is the evidence fabricated?
+- **Liking**: do I like the product, or only the person?
+- **Authority**: is this a real expert, and do they have an interest in convincing me?
+- **Scarcity**: do I really want this thing, or just to get it before others do?
+
+Cialdini also calls for **exposing** people who use these techniques dishonestly, for example by refusing to buy their products.
+
+- Shortcuts are indispensable.
+- Fight the cheating, not the principles.
+- A defensive question for each principle.
+
+=== Putting it into practice
+--- 30-day action plan
+kw: week by week · spot · use
+**Week 1: spot.** Each day, identify in your environment, ads, websites, meetings, an influence technique and the principle it rests on. Note the ones that have the most effect on you.
+
+**Week 2: defend yourself.** Before each purchase or commitment decision, ask yourself the defensive question that matches the principle being used. Wait twenty-four hours before any decision presented as urgent.
+
+**Week 3: use honestly.** In your work, apply one principle honestly: give before asking, show real testimonials, highlight real expertise, get a small commitment before a bigger request.
+
+**Week 4: single out and commit.** In your team, replace general requests ("could someone…") with requests addressed to a specific person. Have important commitments put in writing.
+
+Cialdini reminds us that knowing these principles is a power, and that it must be used ethically.
+
+> À retenir | Spot, defend yourself, then use honestly. The line is whether the signal is true.
+
+--- Case study: the fundraising drive
+kw: nonprofit · letters · results
+An environmental protection nonprofit is seeing its donations decline. Its head of fundraising, Amina, decides to apply Cialdini's principles, honestly.
+
+**Reciprocity.** Rather than sending bare donation requests, the nonprofit first sends its supporters a small free practical guide to reducing their waste, without asking for anything. The donation request arrives a few weeks later.
+
+**Commitment.** She invites supporters to sign a simple petition first, then, a few weeks later, to become regular donors.
+
+**Social proof.** The letters state how many people in the same town already support the organization. These are real figures.
+
+**Authority.** A well-known scientist who genuinely supports the organization explains the importance of its work in a short text.
+
+**Unity.** The messages emphasize local action, "in our region," rather than distant causes.
+
+**Scarcity.** Amina avoids false urgency. She mentions only a real deadline: the end of a campaign in which a partner matches donations.
+
+Six months later, the number of regular donors has risen markedly.
+
+> Question de réflexion | Which of these principles could you use honestly in your work this week?
+
+=== Critical view and connections
+--- Limits of the book
+kw: replication · ethics · culture
+*Influence* is a classic, but it has several limits.
+
+**The robustness of some studies.** Since the 2010s, social psychology has gone through a replication crisis: some famous experiments did not produce the same results when repeated. Cialdini's main principles remain widely accepted, but the size of some effects is debated.
+
+**The risk of manipulative use.** The book is read as much by people who want to defend themselves as by people who want to influence. Despite Cialdini's warnings, it has fed aggressive marketing practices, such as false urgency on shopping websites.
+
+**American examples.** The examples come mainly from the United States. The strength of the principles may vary across cultures: social proof and unity, for instance, are particularly strong in more collectivist cultures.
+
+**A list that is not exhaustive.** The six, then seven principles do not cover every mechanism of influence. Other authors have described additional effects, such as framing and anchoring.
+
+**The bystander story.** The story of the 1964 murder, used to illustrate bystander inaction, has since been widely challenged: the number of witnesses and their passivity had been exaggerated by the press of the time.
+
+- Sound principles, sometimes debated effects.
+- A double-edged body of knowledge.
+
+--- Connections with other books
+kw: Kahneman · Carnegie · Voss · Le Bon
+**With Thinking, Fast and Slow (Kahneman).** Cialdini's automatic responses correspond to Kahneman's System 1: fast, intuitive, susceptible to shortcuts.
+
+**With How to Win Friends and Influence People (Carnegie).** Several of Carnegie's tips, sincere appreciation, interest in others, getting small agreements, rest on the principles of liking, reciprocity and commitment.
+
+**With Never Split the Difference (Voss).** Voss uses loss aversion, anchoring and liking in his negotiation techniques.
+
+**With The Crowd (Le Bon).** Social proof and unity shed light on the collective behaviors Le Bon described at the end of the nineteenth century.
+
+**With Atomic Habits (Clear).** Clear uses social proof and group identity to build good habits: join a group where the desired behavior is the norm.
+
+> Parcours conseillé | Read Thinking, Fast and Slow next to understand the mechanisms of fast thinking, then Never Split the Difference for negotiation.
