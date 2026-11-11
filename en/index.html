@@ -618,6 +618,13 @@ html[dir="rtl"] #hall .h-n{letter-spacing:0;direction:ltr;text-align:right}
   #hall .h-hint{display:none}
 }
 @media (min-width:900px) and (min-aspect-ratio:1/1) and (max-height:700px){#hall{--cw:170px;--ch:200px}#hall h2.h-h{font-size:44px}#hall .h-p{font-size:16px}}
+@media (max-width:480px){
+  #home.hallmode .homehead .eyebrow{display:none}
+  #home.hallmode .homehead h1{font-size:15px;max-width:13ch}
+  #home.hallmode .homeacts{gap:6px}
+  #home.hallmode #langHome select{font-size:12px;padding:6px 8px;max-width:96px}
+  #hall .h-hint{top:calc(88px + env(safe-area-inset-top,0px))}
+}
 @media (prefers-reduced-motion:reduce){#hall *{animation-duration:.01s!important;animation-iteration-count:1!important;transition:none!important}}
 </style>
 <script src="../vendor/supabase.js"></script>
