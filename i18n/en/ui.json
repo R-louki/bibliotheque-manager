@@ -168,6 +168,18 @@
   [
    "(\\d+) %",
    "$1%"
+  ],
+  [
+   "Voir les (\\d+) livres",
+   "See all $1 books"
+  ],
+  [
+   "Thèmes · (\\d+)",
+   "Themes · $1"
+  ],
+  [
+   "(\\d+) livres",
+   "$1 books"
   ]
  ],
  "dict": {
@@ -543,6 +555,30 @@
   "Histoire": "History",
   "Bientôt : cette section est en préparation.": "Coming soon: this section is being prepared.",
   "Filtrer par section": "Filter by section",
-  "Des livres à forte valeur ajoutée (management, sciences, histoire…) en cartes mentales et en lectures guidées. Créez votre compte gratuit pour retrouver votre avancement et vos marque-pages sur tous vos appareils.": "High-value books (management, science, history…) as mind maps and guided readings. Create your free account to keep your progress and bookmarks on all your devices."
+  "Des livres à forte valeur ajoutée (management, sciences, histoire…) en cartes mentales et en lectures guidées. Créez votre compte gratuit pour retrouver votre avancement et vos marque-pages sur tous vos appareils.": "High-value books (management, science, history…) as mind maps and guided readings. Create your free account to keep your progress and bookmarks on all your devices.",
+  "Décider, diriger, progresser.": "Decide, lead, grow.",
+  "Comprendre, avec rigueur. En cadrage avec vous.": "Understand with rigor. Being scoped with you.",
+  "Sciences, technologies, médecine, bien-être.": "Science, technology, medicine, well-being.",
+  "Des faits, des sources, du recul.": "Facts, sources, perspective.",
+  "Section en préparation": "Section in preparation",
+  "Bientôt": "Soon",
+  "À définir": "To be defined",
+  "Glissez": "Swipe",
+  "Thèmes précédents": "Previous themes",
+  "Thèmes suivants": "Next themes",
+  "Thèmes": "Themes",
+  "← Sections": "← Sections",
+  "Sections": "Sections",
+  "Sections de la bibliothèque": "Library sections",
+  "Sciences": "Science",
+  "Technologies": "Technology",
+  "Médecine": "Medicine",
+  "Bien-être": "Well-being",
+  "Antiquité": "Antiquity",
+  "Moyen Âge": "Middle Ages",
+  "Époque moderne": "Early modern era",
+  "XXe siècle": "20th century",
+  "Civilisations": "Civilizations",
+  "1 livre": "1 book"
  }
 }

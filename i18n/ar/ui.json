@@ -168,6 +168,18 @@
   [
    "(\\d+) %",
    "$1%"
+  ],
+  [
+   "Voir les (\\d+) livres",
+   "عرض الكتب ($1)"
+  ],
+  [
+   "Thèmes · (\\d+)",
+   "المواضيع · $1"
+  ],
+  [
+   "(\\d+) livres",
+   "$1 كتب"
   ]
  ],
  "dict": {
@@ -544,6 +556,30 @@
   "Histoire": "التاريخ",
   "Bientôt : cette section est en préparation.": "قريبًا: هذا القسم قيد الإعداد.",
   "Filtrer par section": "التصفية حسب القسم",
-  "Des livres à forte valeur ajoutée (management, sciences, histoire…) en cartes mentales et en lectures guidées. Créez votre compte gratuit pour retrouver votre avancement et vos marque-pages sur tous vos appareils.": "كتب عالية القيمة (إدارة، علوم، تاريخ…) في شكل خرائط ذهنية وقراءات موجّهة. أنشئ حسابك المجاني لتجد تقدّمك وعلاماتك على جميع أجهزتك."
+  "Des livres à forte valeur ajoutée (management, sciences, histoire…) en cartes mentales et en lectures guidées. Créez votre compte gratuit pour retrouver votre avancement et vos marque-pages sur tous vos appareils.": "كتب عالية القيمة (إدارة، علوم، تاريخ…) في شكل خرائط ذهنية وقراءات موجّهة. أنشئ حسابك المجاني لتجد تقدّمك وعلاماتك على جميع أجهزتك.",
+  "Décider, diriger, progresser.": "قرّر، قُد، وتقدّم.",
+  "Comprendre, avec rigueur. En cadrage avec vous.": "الفهم بدقّة. قيد التحديد معك.",
+  "Sciences, technologies, médecine, bien-être.": "العلوم والتقنيات والطب والعافية.",
+  "Des faits, des sources, du recul.": "وقائع ومصادر ونظرة متأنية.",
+  "Section en préparation": "القسم قيد الإعداد",
+  "Bientôt": "قريبًا",
+  "À définir": "قيد التحديد",
+  "Glissez": "اسحب",
+  "Thèmes précédents": "المواضيع السابقة",
+  "Thèmes suivants": "المواضيع التالية",
+  "Thèmes": "المواضيع",
+  "← Sections": "الأقسام →",
+  "Sections": "الأقسام",
+  "Sections de la bibliothèque": "أقسام المكتبة",
+  "Sciences": "العلوم",
+  "Technologies": "التقنيات",
+  "Médecine": "الطب",
+  "Bien-être": "العافية",
+  "Antiquité": "العصور القديمة",
+  "Moyen Âge": "العصور الوسطى",
+  "Époque moderne": "العصر الحديث",
+  "XXe siècle": "القرن العشرون",
+  "Civilisations": "الحضارات",
+  "1 livre": "كتاب واحد"
  }
 }

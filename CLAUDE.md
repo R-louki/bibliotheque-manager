@@ -21,6 +21,14 @@ Ce fichier sert de mémoire du projet pour reprendre le travail dans une nouvell
 - `i18n/<lang>/books/<id>.json` — titres, mots-clés, quiz traduits (40/40 faits).
 - `i18n/<lang>/full/<id>.txt` — **texte complet traduit** (même format que `books/` sans l'en-tête). Doit avoir exactement le même nombre de branches et de nœuds que la fiche FR, dans le même ordre. Les labels d'encadrés restent en français (`> À retenir |` …) : l'interface les traduit.
 
+## Sections et accueil immersif
+- Chaque fiche peut avoir `section: Business | Islamiques | Scientifiques | Histoire` (défaut : Business, voir `build.py`). `cat` reste la sous-catégorie ; `catId` (FR, ajouté par `build.py`) sert aux icônes.
+- L'accueil est un « hall » plein écran (`#hall` dans `template.html`, bloc « Accueil immersif ») : une scène illustrée par section, glissement entre sections, carrousel de thèmes. Toucher un thème ou « Voir les N livres » ouvre la liste existante (mode `browse`, filtres `sec`/`cat`) ; « ← Sections » revient au hall.
+- Les sections sans livre affichent des thèmes provisoires (`H_PH`) ; ils s'effacent dès qu'un livre y est ajouté. Textes et noms traduits via `i18n/*/ui.json`.
+- Format libre : pas de nombre de branches ni de durée imposés (le temps de lecture vient du nombre de mots). Le futur champ `format: parcours` est prévu pour les textes longs.
+- Section Islamiques : à cadrer avec le propriétaire (sources, école, ton) avant tout livre.
+- Pour tester en local sans compte : ouvrir la page puis masquer `#auth` dans la console.
+
 ## Construire et publier
 ```bash
 git clone -b sources https://github.com/R-louki/bibliotheque-manager build

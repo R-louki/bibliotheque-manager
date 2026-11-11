@@ -112,7 +112,7 @@ def parse_body(path):
 
 def translate_books(lang):
     bs = copy.deepcopy(books)
-    for b in bs: b["bodyLang"] = "fr"
+    for b in bs: b["bodyLang"] = "fr"; b["catId"] = b["cat"]   # catId = catégorie d'origine (FR), stable pour les icônes
     if lang == "fr": return bs, {"dict": {}, "pats": []}, 0
     ui, bt = load_tr(lang)
     n = 0
