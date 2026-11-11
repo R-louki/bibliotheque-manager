@@ -56,6 +56,7 @@ def parse(path):
                     t.append(bl.get("text", "")); t.extend(bl.get("items", []))
         return len(re.findall(r"\w+", " ".join(t)))
     meta["y"] = int(meta["y"])
+    meta.setdefault("section", "Business")   # Business | Islamiques | Scientifiques | Histoire
     meta["branches"] = branches
     meta["words"] = words_of(branches)
     return meta
@@ -88,9 +89,9 @@ import shutil, copy
 import os
 SITE = pathlib.Path(os.environ.get("SITE_DIR", str(ROOT.parent / "bibliotheque-manager")))
 CFG = {"url": "https://tujlyauskqaqwgeppdnj.supabase.co", "key": "sb_publishable_ZogShztsynruEKwqF-oM8w_bcPMn3m-", "google": True}
-DESC = {"fr": "{n} livres de management, de compétences et de sciences humaines en cartes mentales, avec quiz et suivi de progression sur tous vos appareils.",
-        "en": "{n} books on management, skills and the human sciences as mind maps, with quizzes and progress tracking on all your devices.",
-        "ar": "{n} كتابًا في الإدارة والمهارات والعلوم الإنسانية في شكل خرائط ذهنية، مع اختبارات ومتابعة للتقدّم على جميع أجهزتك."}
+DESC = {"fr": "{n} livres à forte valeur ajoutée (management, sciences, histoire…) en cartes mentales, avec quiz et suivi de progression sur tous vos appareils.",
+        "en": "{n} high-value books (management, science, history…) as mind maps, with quizzes and progress tracking on all your devices.",
+        "ar": "{n} كتابًا عالي القيمة (إدارة، علوم، تاريخ…) في شكل خرائط ذهنية، مع اختبارات ومتابعة للتقدّم على جميع أجهزتك."}
 
 def load_tr(lang):
     d = ROOT / "i18n" / lang
@@ -105,7 +106,8 @@ nfull = {}
 def parse_body(path):
     txt = path.read_text(encoding="utf-8")
     tmp = "y: 0\n" + txt
-    q = pathlib.Path("/tmp/_pb.txt"); q.write_text(tmp, encoding="utf-8")
+    import tempfile
+    q = pathlib.Path(tempfile.gettempdir()) / "_pb.txt"; q.write_text(tmp, encoding="utf-8")
     return parse(q)["branches"]
 
 def translate_books(lang):

@@ -1,46 +1,174 @@
 {
  "pages": "≈ \\1 pp.",
- "cats": {"Fondamentaux": "Fundamentals", "Équipes": "Teams", "Stratégie": "Strategy", "Leadership": "Leadership", "Développement personnel": "Personal growth", "Décision": "Decision-making", "Lean manufacturing": "Lean manufacturing", "Compétences": "Skills", "Apprendre": "Learning", "Sciences humaines": "Human sciences"},
+ "cats": {
+  "Fondamentaux": "Fundamentals",
+  "Équipes": "Teams",
+  "Stratégie": "Strategy",
+  "Leadership": "Leadership",
+  "Développement personnel": "Personal growth",
+  "Décision": "Decision-making",
+  "Lean manufacturing": "Lean manufacturing",
+  "Compétences": "Skills",
+  "Apprendre": "Learning",
+  "Sciences humaines": "Human sciences"
+ },
  "pats": [
-  ["(\\d+) min", "$1 min"],
-  ["(\\d+) / (\\d+) lus", "$1 / $2 read"],
-  ["(\\d+) j", "$1 d"],
-  ["(\\d+) livres? lus? sur (\\d+)", "$1 of $2 books read"],
-  ["(\\d+) par mois", "$1 per month"],
-  ["(\\d+) branches · (\\d+) idées", "$1 branches · $2 ideas"],
-  ["(\\d+) questions sur les idées clés", "$1 questions on the key ideas"],
-  ["Badges · (\\d+) sur (\\d+)", "Badges · $1 of $2"],
-  ["Question (\\d+) sur (\\d+)", "Question $1 of $2"],
-  ["Carte (\\d+) sur (\\d+)", "Card $1 of $2"],
-  ["(\\d+) sur (\\d+)", "$1 of $2"],
-  ["Parution (\\d+)", "Published $1"],
-  ["Livre (≈ .+)", "Book $1"],
-  ["Tout voir · (\\d+)", "See all · $1"],
-  ["Objectif de (.+)", "Goal for $1"],
-  ["Encore (\\d+) livres? pour atteindre votre objectif\\. Une série se construit avec au moins une minute de lecture par jour\\.", "$1 more book(s) to reach your goal. A streak is built with at least one minute of reading a day."],
-  ["Terminer les (\\d+) livres", "Finish all $1 books"],
-  ["Tous les livres \\((\\d+)\\)", "All books ($1)"],
-  ["Couverture : (.+)", "Cover: $1"],
-  ["Carte mentale de (.+)", "Mind map of $1"],
-  ["Quiz · (.+)", "Quiz · $1"],
-  ["(.+) : replier", "$1: collapse"],
-  ["(.+) : déplier", "$1: expand"],
-  ["Terminé le (.+)", "Finished on $1"],
-  ["Meilleur score :? (\\d+) / (\\d+) · réussi ✓", "Best score $1 / $2 · passed ✓"],
-  ["Meilleur score :? (\\d+) / (\\d+)", "Best score $1 / $2"],
-  ["(\\d+) cartes? à revoir et (\\d+) nouvelles? aujourd'hui\\.", "$1 card(s) to review and $2 new today."],
-  ["(\\d+) cartes? à revoir aujourd'hui\\.", "$1 card(s) to review today."],
-  ["(\\d+) nouvelles? aujourd'hui\\.", "$1 new card(s) today."],
-  ["Révision terminée\\. (\\d+) cartes? connues? du premier coup\\. Les cartes reviendront à intervalles de plus en plus espacés\\.", "Review complete. $1 card(s) known on the first try. Cards will come back at increasingly spaced intervals."],
-  ["(\\d+) passages? trouvés? dans les fiches", "$1 passage(s) found in the summaries"],
-  ["Les (\\d+) premiers résultats sont affichés\\. Précisez votre recherche pour affiner\\.", "Showing the first $1 results. Refine your search to narrow them down."],
-  ["\\((\\d+) % de la fiche\\)\\.", "($1% of the summary)."],
-  ["Compte créé\\. Ouvrez le lien de confirmation envoyé à (.+), puis revenez ici pour vous connecter\\.", "Account created. Open the confirmation link sent to $1, then come back here to sign in."],
-  ["Si un compte existe pour (.+), un lien de réinitialisation vient d'être envoyé\\.", "If an account exists for $1, a reset link has just been sent."],
-  ["Le club « (.+) » lit « (.+) » et compte (\\d+) membres?\\.", "The club “$1” is reading “$2” and has $3 member(s)."],
-  ["Le club « (.+) » lit un livre de la bibliothèque et compte (\\d+) membres?\\.", "The club “$1” is reading a book from the library and has $2 member(s)."],
-  ["(\\d+) membres?", "$1 member(s)"],
-  ["(\\d+) %", "$1%"]
+  [
+   "(\\d+) min",
+   "$1 min"
+  ],
+  [
+   "(\\d+) / (\\d+) lus",
+   "$1 / $2 read"
+  ],
+  [
+   "(\\d+) j",
+   "$1 d"
+  ],
+  [
+   "(\\d+) livres? lus? sur (\\d+)",
+   "$1 of $2 books read"
+  ],
+  [
+   "(\\d+) par mois",
+   "$1 per month"
+  ],
+  [
+   "(\\d+) branches · (\\d+) idées",
+   "$1 branches · $2 ideas"
+  ],
+  [
+   "(\\d+) questions sur les idées clés",
+   "$1 questions on the key ideas"
+  ],
+  [
+   "Badges · (\\d+) sur (\\d+)",
+   "Badges · $1 of $2"
+  ],
+  [
+   "Question (\\d+) sur (\\d+)",
+   "Question $1 of $2"
+  ],
+  [
+   "Carte (\\d+) sur (\\d+)",
+   "Card $1 of $2"
+  ],
+  [
+   "(\\d+) sur (\\d+)",
+   "$1 of $2"
+  ],
+  [
+   "Parution (\\d+)",
+   "Published $1"
+  ],
+  [
+   "Livre (≈ .+)",
+   "Book $1"
+  ],
+  [
+   "Tout voir · (\\d+)",
+   "See all · $1"
+  ],
+  [
+   "Objectif de (.+)",
+   "Goal for $1"
+  ],
+  [
+   "Encore (\\d+) livres? pour atteindre votre objectif\\. Une série se construit avec au moins une minute de lecture par jour\\.",
+   "$1 more book(s) to reach your goal. A streak is built with at least one minute of reading a day."
+  ],
+  [
+   "Terminer les (\\d+) livres",
+   "Finish all $1 books"
+  ],
+  [
+   "Tous les livres \\((\\d+)\\)",
+   "All books ($1)"
+  ],
+  [
+   "Couverture : (.+)",
+   "Cover: $1"
+  ],
+  [
+   "Carte mentale de (.+)",
+   "Mind map of $1"
+  ],
+  [
+   "Quiz · (.+)",
+   "Quiz · $1"
+  ],
+  [
+   "(.+) : replier",
+   "$1: collapse"
+  ],
+  [
+   "(.+) : déplier",
+   "$1: expand"
+  ],
+  [
+   "Terminé le (.+)",
+   "Finished on $1"
+  ],
+  [
+   "Meilleur score :? (\\d+) / (\\d+) · réussi ✓",
+   "Best score $1 / $2 · passed ✓"
+  ],
+  [
+   "Meilleur score :? (\\d+) / (\\d+)",
+   "Best score $1 / $2"
+  ],
+  [
+   "(\\d+) cartes? à revoir et (\\d+) nouvelles? aujourd'hui\\.",
+   "$1 card(s) to review and $2 new today."
+  ],
+  [
+   "(\\d+) cartes? à revoir aujourd'hui\\.",
+   "$1 card(s) to review today."
+  ],
+  [
+   "(\\d+) nouvelles? aujourd'hui\\.",
+   "$1 new card(s) today."
+  ],
+  [
+   "Révision terminée\\. (\\d+) cartes? connues? du premier coup\\. Les cartes reviendront à intervalles de plus en plus espacés\\.",
+   "Review complete. $1 card(s) known on the first try. Cards will come back at increasingly spaced intervals."
+  ],
+  [
+   "(\\d+) passages? trouvés? dans les fiches",
+   "$1 passage(s) found in the summaries"
+  ],
+  [
+   "Les (\\d+) premiers résultats sont affichés\\. Précisez votre recherche pour affiner\\.",
+   "Showing the first $1 results. Refine your search to narrow them down."
+  ],
+  [
+   "\\((\\d+) % de la fiche\\)\\.",
+   "($1% of the summary)."
+  ],
+  [
+   "Compte créé\\. Ouvrez le lien de confirmation envoyé à (.+), puis revenez ici pour vous connecter\\.",
+   "Account created. Open the confirmation link sent to $1, then come back here to sign in."
+  ],
+  [
+   "Si un compte existe pour (.+), un lien de réinitialisation vient d'être envoyé\\.",
+   "If an account exists for $1, a reset link has just been sent."
+  ],
+  [
+   "Le club « (.+) » lit « (.+) » et compte (\\d+) membres?\\.",
+   "The club “$1” is reading “$2” and has $3 member(s)."
+  ],
+  [
+   "Le club « (.+) » lit un livre de la bibliothèque et compte (\\d+) membres?\\.",
+   "The club “$1” is reading a book from the library and has $2 member(s)."
+  ],
+  [
+   "(\\d+) membres?",
+   "$1 member(s)"
+  ],
+  [
+   "(\\d+) %",
+   "$1%"
+  ]
  ],
  "dict": {
   "Bibliothèque du Manager": "The Manager's Library",
@@ -408,6 +536,13 @@
   "Compétences": "Skills",
   "Sciences humaines": "Human sciences",
   "Management": "Management",
-  "Leadership": "Leadership"
+  "Leadership": "Leadership",
+  "Business": "Business",
+  "Islamiques": "Islamic",
+  "Scientifiques": "Science",
+  "Histoire": "History",
+  "Bientôt : cette section est en préparation.": "Coming soon: this section is being prepared.",
+  "Filtrer par section": "Filter by section",
+  "Des livres à forte valeur ajoutée (management, sciences, histoire…) en cartes mentales et en lectures guidées. Créez votre compte gratuit pour retrouver votre avancement et vos marque-pages sur tous vos appareils.": "High-value books (management, science, history…) as mind maps and guided readings. Create your free account to keep your progress and bookmarks on all your devices."
  }
 }

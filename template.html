@@ -537,11 +537,13 @@ html[dir="rtl"] .side{justify-items:start;text-align:left}
   <div class="homeresume" id="homeResume" hidden></div>
   <label for="q" hidden>Rechercher</label>
   <div class="searchbox"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q" type="search" placeholder="Titre, auteur ou idée…" autocomplete="off"></div>
-  <div class="chips" id="chips" role="group" aria-label="Filtrer par thème"></div>
+  <div class="chips" id="chips" role="group" aria-label="Filtrer par section"></div>
+  <div class="chips subchips" id="subchips" role="group" aria-label="Filtrer par thème" hidden></div>
   <section class="results" id="results" hidden aria-live="polite"><h2 class="sectitle" id="resTitle"></h2><div class="results" id="resList"></div></section>
   <div class="rails" id="rails"></div>
   <div class="shelf" id="shelf" hidden></div>
   <p class="empty" id="empty" hidden>Aucun livre ne correspond à cette recherche.</p>
+  <p class="empty" id="soon" hidden>Bientôt : cette section est en préparation.</p>
   <footer>Fiches originales rédigées pour cette bibliothèque ; elles ne remplacent pas les livres. Couvertures : <a href="https://openlibrary.org" target="_blank" rel="noopener" style="color:inherit">Open Library</a>.</footer>
 </div>
 
@@ -643,7 +645,7 @@ html[dir="rtl"] .side{justify-items:start;text-align:left}
     <div class="authlang" id="langAuth"></div>
     <div class="eyebrow">Cartes mentales · Management & leadership</div>
     <h1>Bibliothèque du Manager</h1>
-    <p class="lede">Les grands livres de management et de lean en cartes mentales et en lectures de 45 minutes. Créez votre compte gratuit pour retrouver votre avancement et vos marque-pages sur tous vos appareils.</p>
+    <p class="lede">Des livres à forte valeur ajoutée (management, sciences, histoire…) en cartes mentales et en lectures guidées. Créez votre compte gratuit pour retrouver votre avancement et vos marque-pages sur tous vos appareils.</p>
     <div class="authcard">
       <div class="authtabs" role="tablist">
         <button type="button" role="tab" id="tabUp" aria-selected="true">Créer un compte</button>
@@ -1414,14 +1416,24 @@ try { read = new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch (e)
 const saveRead = () => { try { localStorage.setItem(KEY, JSON.stringify([...read])); } catch (e) {} onLocalChange(); };
 
 /* ---------- Accueil ---------- */
-const cats = ["Tous", ...new Set(BOOKS.map(b => b.cat))];
-let cat = "Tous", q = "";
-cats.forEach(c => {
+const SECTIONS = window.SECTIONS || ["Business", "Islamiques", "Scientifiques", "Histoire"];
+BOOKS.forEach(b => { if (!b.section) b.section = "Business"; });
+let sec = "Tous", cat = "Tous", q = "";
+const inSec = b => sec === "Tous" || b.section === sec;
+const catsOf = () => [...new Set(BOOKS.filter(inSec).map(b => b.cat))];
+function mkChip(label, key, on, fn) {
   const el = document.createElement("button");
-  el.className = "chip"; el.type = "button"; el.textContent = c; el.setAttribute("aria-pressed", c === cat);
-  el.onclick = () => { cat = c; [...$("chips").children].forEach(x => x.setAttribute("aria-pressed", x.textContent === c)); filter(); };
-  $("chips").appendChild(el);
-});
+  el.className = "chip"; el.type = "button"; el.textContent = label; el.dataset.key = key; el.setAttribute("aria-pressed", on);
+  el.onclick = fn; return el;
+}
+function renderChips() {
+  const box = $("chips"), sub = $("subchips"); box.textContent = ""; sub.textContent = "";
+  ["Tous", ...SECTIONS].forEach(s => box.appendChild(mkChip(s, s, s === sec, () => { sec = s; cat = "Tous"; renderChips(); filter(); })));
+  const cs = sec === "Tous" ? [] : catsOf();
+  sub.hidden = cs.length < 2;
+  if (cs.length >= 2) ["Tous", ...cs].forEach(c => sub.appendChild(mkChip(c, c, c === cat, () => { cat = c; renderChips(); filter(); })));
+}
+renderChips();
 BOOKS.forEach(b => {
   const el = document.createElement("button");
   el.type = "button"; el.className = "bookrow"; el.id = "row-" + b.id; el.style.setProperty("--c", `var(${b.c})`);
@@ -1451,24 +1463,27 @@ function bookStatus(b) {
 }
 function renderRails() {
   const box = $("rails"); if (!box) return;
-  const groups = cats.filter(c => c !== "Tous").map(c => ({ c, books: BOOKS.filter(b => b.cat === c) }));
+  const groups = catsOf().map(c => ({ c, books: BOOKS.filter(b => inSec(b) && b.cat === c) }));
   const started = BOOKS.filter(b => !read.has(b.id) && pos[b.id] && pos[b.id].pct >= 2);
   const card = b => { const [cls, txt] = bookStatus(b); const rt = typeof ratingTxt === "function" ? ratingTxt(b.id) : ""; return `<button type="button" class="bcard" data-b="${b.id}">${coverSVG(b)}<span class="t">${esc(b.t)}</span><span class="m ${cls}">${esc(txt)}</span>${rt ? `<span class="m rt">${rt}</span>` : ""}</button>`; };
   box.innerHTML = (started.length ? `<section class="rail"><h2>Continuer</h2><div class="railrow">${started.map(card).join("")}</div></section>` : "")
     + groups.map(g => `<section class="rail"><h2><span>${esc(g.c)}</span><button type="button" data-cat="${esc(g.c)}">Tout voir · ${g.books.length}</button></h2><div class="railrow">${g.books.map(card).join("")}</div></section>`).join("");
 }
-document.addEventListener("click", e => { const c = e.target.closest("[data-cat]"); if (!c) return; cat = c.dataset.cat; [...$("chips").children].forEach(x => x.setAttribute("aria-pressed", x.textContent === cat)); filter(); window.scrollTo(0, 0); });
+document.addEventListener("click", e => { const c = e.target.closest("[data-cat]"); if (!c) return; cat = c.dataset.cat; renderChips(); filter(); window.scrollTo(0, 0); });
 function filter() {
   let n = 0; const term = fold(q.trim());
   const listMode = !!term || cat !== "Tous";
   $("rails").hidden = listMode; $("shelf").hidden = !listMode;
-  const hits = term.length >= 3 ? INDEX.filter(x => (cat === "Tous" || x.b.cat === cat) && x.norm.includes(term)) : [];
+  const okB = b => inSec(b) && (cat === "Tous" || b.cat === cat);
+  const hits = term.length >= 3 ? INDEX.filter(x => okB(x.b) && x.norm.includes(term)) : [];
   const hitBooks = new Set(hits.map(x => x.b.id));
   BOOKS.forEach(b => {
-    const show = (cat === "Tous" || b.cat === cat) && (!term || b.hay.includes(term) || hitBooks.has(b.id));
+    const show = okB(b) && (!term || b.hay.includes(term) || hitBooks.has(b.id));
     $("row-" + b.id).hidden = !show; if (show) n++;
   });
-  $("empty").hidden = !listMode || n > 0;
+  const secEmpty = sec !== "Tous" && !BOOKS.some(inSec);
+  $("soon").hidden = !secEmpty; $("empty").hidden = !listMode || n > 0 || secEmpty;
+  if (!listMode && typeof pos !== "undefined") renderRails();
   renderResults(term, hits);
 }
 function renderResults(term, hits) {

@@ -25,7 +25,7 @@ def build(site, index_html):
     icon(180).save(ic / "apple-touch-icon.png")
     manifest = {
         "name": "Bibliothèque du Manager", "short_name": "Bibliothèque",
-        "description": "Livres de management en cartes mentales et lectures de 45 minutes.",
+        "description": "Livres à forte valeur ajoutée en cartes mentales et lectures guidées.",
         "lang": "fr", "start_url": "./", "scope": "./", "display": "standalone",
         "background_color": "#f4f5f0", "theme_color": "#2c5a4c",
         "icons": [
