@@ -1,7 +1,7 @@
 {
   "name": "Bibliothèque du Manager",
   "short_name": "Bibliothèque",
-  "description": "Livres de management en cartes mentales et lectures de 45 minutes.",
+  "description": "Livres à forte valeur ajoutée en cartes mentales et lectures guidées.",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",
