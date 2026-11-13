@@ -180,6 +180,10 @@
   [
    "(\\d+) livres",
    "$1 books"
+  ],
+  [
+   "(\\d+) versets",
+   "$1 verses"
   ]
  ],
  "dict": {
@@ -579,6 +583,15 @@
   "Époque moderne": "Early modern era",
   "XXe siècle": "20th century",
   "Civilisations": "Civilizations",
-  "1 livre": "1 book"
+  "1 livre": "1 book",
+  "Le Coran": "The Qur'an",
+  "Ouvrir le Coran": "Open the Qur'an",
+  "Riwaya de Qalun · 114 sourates": "Qalun recitation · 114 surahs",
+  "Chercher une sourate…": "Search a surah…",
+  "Réduire le texte": "Smaller text",
+  "Agrandir le texte": "Larger text",
+  "Le Coran — données indisponibles": "The Qur'an — data unavailable",
+  "Tafsir indisponible.": "Tafsir unavailable.",
+  "Version de test privée : texte du Complexe du Roi Fahd (riwaya de Qalun), pas encore relu par un lecteur de Qalun. À ne pas publier avant relecture et accord sur les licences.": "Private test version: text from the King Fahd Complex (Qalun recitation), not yet reviewed by a Qalun reader. Do not publish before review and licence clearance."
  }
 }

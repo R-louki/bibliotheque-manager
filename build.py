@@ -93,6 +93,37 @@ DESC = {"fr": "{n} livres à forte valeur ajoutée (management, sciences, histoi
         "en": "{n} high-value books (management, science, history…) as mind maps, with quizzes and progress tracking on all your devices.",
         "ar": "{n} كتابًا عالي القيمة (إدارة، علوم، تاريخ…) في شكل خرائط ذهنية، مع اختبارات ومتابعة للتقدّم على جميع أجهزتك."}
 
+# ---- Coran (riwaya de Qalun) : version PRIVÉE. N'est incluse que si WITH_QURAN=1 ; sinon le dossier est supprimé du site
+# pour qu'un « git add -A » ne puisse pas le publier par erreur (licences et relecture encore en attente).
+QURAN_ON = os.environ.get("WITH_QURAN") == "1"
+QURAN_CFG = {"on": QURAN_ON, "preview": True} if QURAN_ON else None
+QFONT = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap">\n'
+
+def build_quran(site):
+    qd = site / "quran"
+    if qd.exists(): shutil.rmtree(qd)
+    if not QURAN_ON: return "désactivé (WITH_QURAN non défini) — dossier quran/ retiré du site"
+    src = ROOT / "quran"
+    data = json.loads((src / "qalun.json").read_text(encoding="utf-8"))
+    hmap = json.loads((src / "map_to_hafs.json").read_text(encoding="utf-8"))
+    (qd / "s").mkdir(parents=True)
+    index = {"basmala": data["basmala"], "riwaya": data["riwaya"], "source": data["source"]["texte"], "verification": data["verification"]["limite"],
+             "surahs": []}
+    for sh in data["surahs"]:
+        n = sh["n"]; ay = []
+        for i, a in enumerate(sh["ayat"]):
+            ay.append({"n": a["n"], "t": a["t"], "p": a["p"], "h": hmap[n - 1][i]})
+        (qd / "s" / f"{n:03d}.json").write_text(json.dumps({"n": n, "name": sh["name"], "ayat": ay}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        index["surahs"].append({"n": n, "name": sh["name"], "count": len(ay), "page": sh["ayat"][0]["p"]})
+    (qd / "index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    for key in ("muyassar", "saadi"):
+        t = json.loads((src / "tafsir" / f"{key}.json").read_text(encoding="utf-8"))
+        (qd / "t" / key).mkdir(parents=True)
+        (qd / "t" / "index.json").write_text(json.dumps({"muyassar": json.loads((src / "tafsir" / "muyassar.json").read_text(encoding="utf-8"))["info"], "saadi": json.loads((src / "tafsir" / "saadi.json").read_text(encoding="utf-8"))["info"]}, ensure_ascii=False), encoding="utf-8")
+        for s, arr in enumerate(t["t"], 1):
+            (qd / "t" / key / f"{s:03d}.json").write_text(json.dumps(arr, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    return "activé (privé) : %d sourates, %d versets" % (len(index["surahs"]), sum(x["count"] for x in index["surahs"]))
+
 def load_tr(lang):
     d = ROOT / "i18n" / lang
     ui = json.loads((d / "ui.json").read_text(encoding="utf-8")) if (d / "ui.json").exists() else {"dict": {}, "pats": [], "cats": {}}
@@ -166,8 +197,8 @@ def page(lang, out_html, root):
         "<link rel=\"alternate\" hreflang=\"fr\" href=\"" + root + "\"><link rel=\"alternate\" hreflang=\"en\" href=\"" + root + "en/\"><link rel=\"alternate\" hreflang=\"ar\" href=\"" + root + "ar/\">\n"
         "<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n<meta name=\"apple-mobile-web-app-title\" content=\"" + title + "\">\n"
         "<style>html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px/1.4 system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>\n"
-        + head + sep + "\n<script src=\"" + root + "vendor/supabase.js\"></script>\n"
-        "<script>window.SUPA_CFG=" + json.dumps(CFG) + ";window.LANG=" + json.dumps(lang) + ";window.SITE_ROOT=" + json.dumps(root) + ";window.I18N=" + json.dumps(ui, ensure_ascii=False).replace("</", "<\\/") + ";</script>\n</head>\n<body>\n" + body.lstrip("\n") + "\n</body>\n</html>\n")
+        + (QFONT if QURAN_ON else "") + head + sep + "\n<script src=\"" + root + "vendor/supabase.js\"></script>\n"
+        "<script>window.SUPA_CFG=" + json.dumps(CFG) + ";window.QURAN=" + json.dumps(QURAN_CFG) + ";window.LANG=" + json.dumps(lang) + ";window.SITE_ROOT=" + json.dumps(root) + ";window.I18N=" + json.dumps(ui, ensure_ascii=False).replace("</", "<\\/") + ";</script>\n</head>\n<body>\n" + body.lstrip("\n") + "\n</body>\n</html>\n")
 
 TR_UI = {}
 pages = {}
@@ -185,6 +216,7 @@ if SITE.exists():
     src = pathlib.Path("/tmp/claude-0/-home-claude/23635339-aa1c-5e6c-bc9b-58e1161d2c2a/scratchpad/sb/package/dist/umd")
     for f in src.glob("*.js"): shutil.copy(f, v / f.name)
     (SITE / ".nojekyll").write_text("")
+    print("Coran :", build_quran(SITE))
     sys.path.insert(0, str(ROOT)); import pwa
     print("PWA", pwa.build(SITE, pages["fr"] + pages["en"] + pages["ar"]))
     print("SITE OK", len(pages["fr"])//1024, "Ko")
