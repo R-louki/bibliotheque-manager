@@ -626,9 +626,52 @@ html[dir="rtl"] #hall .h-n{letter-spacing:0;direction:ltr;text-align:right}
   #hall .h-hint{top:calc(88px + env(safe-area-inset-top,0px))}
 }
 @media (prefers-reduced-motion:reduce){#hall *{animation-duration:.01s!important;animation-iteration-count:1!important;transition:none!important}}
+
+/* ===== Coran (riwaya de Qalun) — version privée ===== */
+#quran{--qfs:30px;max-width:820px}
+:root[data-device="phone"] #quran{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))}
+.qtop{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;display:flex;align-items:center;gap:8px;padding:10px 0;margin-bottom:10px;background:var(--paper);border-bottom:1px solid var(--line)}
+:root[data-device="tablet"] .qtop,:root[data-device="desktop"] .qtop{top:calc(52px + env(safe-area-inset-top,0px))}
+.qtop .ttl{flex:1;min-width:0;font-family:var(--display);font-size:1.05rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.qbtn{font:inherit;font-family:var(--mono);font-size:13px;min-width:40px;min-height:40px;padding:0 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);cursor:pointer}
+.qbtn:hover{border-color:var(--muted)}.qbtn[disabled]{opacity:.4;cursor:default}
+.qbanner{font:12.5px/1.6 var(--body);color:var(--ochre);border:1px dashed var(--line);border-radius:10px;padding:10px 12px;margin:0 0 14px;background:var(--card)}
+.qresume{display:flex;align-items:center;justify-content:space-between;gap:12px;border:1px solid var(--line);border-inline-start:4px solid var(--ochre);border-radius:10px;padding:12px 14px;margin-bottom:14px;background:var(--card)}
+.qresume b{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-weight:400;font-size:1.3rem}
+#qFilter{width:100%;font:inherit;font-size:16px;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);margin-bottom:12px}
+.qlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px}
+.qrow{display:flex;align-items:center;gap:12px;text-align:start;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);cursor:pointer;font:inherit;min-height:56px;transition:border-color .2s,transform .2s}
+.qrow:hover{border-color:var(--accent);transform:translateY(-1px)}
+.qrow .no{flex:none;width:34px;height:34px;border-radius:50%;border:1px solid var(--accent);color:var(--accent);display:flex;align-items:center;justify-content:center;font-family:var(--mono);font-size:12.5px}
+.qrow .nm{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-size:1.25rem;line-height:1.3}
+.qrow .ct{margin-inline-start:auto;font-family:var(--mono);font-size:11.5px;color:var(--muted);white-space:nowrap}
+.qsurah{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-weight:400;font-size:2rem;text-align:center;margin:6px 0 0;direction:rtl}
+.qmeta{text-align:center;font:12.5px var(--mono);color:var(--muted);margin:2px 0 8px}
+.qbsm{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-size:calc(var(--qfs) * .95);text-align:center;margin:8px 0 14px;direction:rtl}
+.qtext{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-size:var(--qfs);line-height:2.35;text-align:justify;text-align-last:center;direction:rtl}
+.qv{cursor:pointer;border-radius:8px;padding:0 2px;transition:background .2s}
+.qv:hover{background:var(--accent-soft)}.qv.on{background:var(--accent-soft);box-shadow:0 0 0 2px var(--accent) inset}
+.qn{display:inline-block;min-width:1.75em;height:1.75em;line-height:1.75em;border:1px solid var(--accent);color:var(--accent);border-radius:50%;font-size:.5em;text-align:center;vertical-align:middle;margin:0 .3em;font-family:var(--body)}
+.qpg{display:block;text-align:center;font:11px var(--mono);color:var(--muted);margin:8px 0;border-top:1px dashed var(--line);padding-top:6px;direction:rtl}
+.qnav{display:flex;justify-content:space-between;gap:8px;margin:22px 0 6px}
+.qsrc{margin-top:22px;font:12px/1.7 var(--body);color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
+.qsheet{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--card);border-top:1px solid var(--line);box-shadow:0 -10px 30px rgba(0,0,0,.18);border-radius:18px 18px 0 0;padding:12px 16px calc(16px + env(safe-area-inset-bottom,0px));max-height:56vh;overflow:auto;transform:translateY(105%);visibility:hidden;transition:transform .35s cubic-bezier(.2,.8,.2,1),visibility 0s .35s}
+:root[data-device="phone"] .qsheet{bottom:calc(62px + env(safe-area-inset-bottom,0px));padding-bottom:16px}
+.qsheet.open{transform:none;visibility:visible;transition-delay:0s}
+html[dir="rtl"] #qBack{transform:scaleX(-1)}
+:root[data-device="tablet"] .qsheet,:root[data-device="desktop"] .qsheet{left:50%;right:auto;width:min(820px,calc(100% - 32px));bottom:12px;border-radius:18px;border:1px solid var(--line);transform:translate(-50%,calc(100% + 40px));max-height:50vh}
+:root[data-device="tablet"] .qsheet.open,:root[data-device="desktop"] .qsheet.open{transform:translate(-50%,0)}
+.qsh{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px}
+.qsh b{font-family:var(--display);font-weight:400;font-size:1rem;flex:1;min-width:0}
+.qsh select{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:transparent;color:var(--ink);min-height:40px}
+.qtf{font-family:"Noto Naskh Arabic","Amiri",serif;font-size:calc(var(--qfs) * .68);line-height:2;direction:rtl;max-width:760px;margin:0 auto;white-space:pre-line}
+.qtf .part{margin:0 0 12px}.qtf .pn{display:block;color:var(--accent);font:12.5px var(--mono);margin-bottom:2px;direction:ltr;text-align:right}
+.qtf .src{font:12px/1.6 var(--body);color:var(--muted);margin-top:8px;border-top:1px dashed var(--line);padding-top:8px;white-space:normal;direction:ltr}
+@media (min-width:900px){.qtext{--qfs:34px}}
+@media (prefers-reduced-motion:reduce){.qsheet{transition:none}}
 </style>
 <script src="./vendor/supabase.js"></script>
-<script>window.SUPA_CFG={"url": "https://tujlyauskqaqwgeppdnj.supabase.co", "key": "sb_publishable_ZogShztsynruEKwqF-oM8w_bcPMn3m-", "google": true};window.LANG="fr";window.SITE_ROOT="./";window.I18N={"dict": {}, "pats": []};</script>
+<script>window.SUPA_CFG={"url": "https://tujlyauskqaqwgeppdnj.supabase.co", "key": "sb_publishable_ZogShztsynruEKwqF-oM8w_bcPMn3m-", "google": true};window.QURAN=null;window.LANG="fr";window.SITE_ROOT="./";window.I18N={"dict": {}, "pats": []};</script>
 </head>
 <body>
 <nav class="appnav" id="appnav" aria-label="Navigation principale">
@@ -684,6 +727,14 @@ html[dir="rtl"] #hall .h-n{letter-spacing:0;direction:ltr;text-align:right}
 <div id="dash" class="wrap" hidden>
   <header class="pagehead"><div class="eyebrow">Progression</div><h1>Votre progression</h1></header>
   <div id="dashBody"></div>
+</div>
+
+<div id="quran" class="wrap" hidden>
+  <div class="qtop"><button type="button" class="qbtn" id="qBack" aria-label="Retour">←</button><span class="ttl" id="qTitle">Le Coran</span><button type="button" class="qbtn" id="qMinus" aria-label="Réduire le texte" hidden>أ−</button><button type="button" class="qbtn" id="qPlus" aria-label="Agrandir le texte" hidden>أ+</button></div>
+  <div class="qbanner" id="qBanner" hidden>Version de test privée : texte du Complexe du Roi Fahd (riwaya de Qalun), pas encore relu par un lecteur de Qalun. À ne pas publier avant relecture et accord sur les licences.</div>
+  <div id="qList" hidden><div id="qResume" class="qresume" hidden></div><input id="qFilter" type="search" dir="auto" placeholder="Chercher une sourate…" autocomplete="off"><div class="qlist" id="qRows"></div></div>
+  <div id="qRead" hidden><h2 class="qsurah" id="qName"></h2><div class="qmeta" id="qMeta"></div><div class="qbsm" id="qBsm"></div><div class="qtext" id="qText"></div><div class="qnav"><button type="button" class="qbtn" id="qNext">←</button><button type="button" class="qbtn" id="qPrev">→</button></div><div class="qsrc" id="qSrc"></div></div>
+  <div class="qsheet" id="qSheet" role="dialog" aria-live="polite" aria-label="Tafsir"><div class="qsh"><b id="qSt"></b><select id="qTs" aria-label="Tafsir"></select><button type="button" class="qbtn" id="qCl" aria-label="Fermer">✕</button></div><div class="qtf" id="qTb"></div></div>
 </div>
 
 <div id="learn" class="wrap" hidden>
@@ -955,7 +1006,7 @@ const dayKey = (d = new Date()) => d.getFullYear() + "-" + String(d.getMonth() +
 const MONTHS = LANG === "fr" ? ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"] : Array.from({ length: 12 }, (_, i) => new Date(2020, i, 1).toLocaleDateString(LOCALE, { month: "long" }));
 
 /* ---------- Vues ---------- */
-const VIEWS = ["home", "learn", "dash", "notebook", "admin", "book"];
+const VIEWS = ["home", "learn", "dash", "notebook", "admin", "book", "quran"];
 function showView(v) {
   VIEWS.forEach(x => $(x).hidden = x !== v);
   $("appnav").hidden = v === "book";
@@ -964,7 +1015,7 @@ function showView(v) {
   if (v === "notebook") renderNotebook();
   if (v === "learn") { renderLearn(); if (typeof loadClubs === "function" && session) loadClubs().then(() => { if (!$("learn").hidden) renderLearn(); }); }
   if (v === "admin") renderAdmin();
-  if (v !== "book") { try { history.replaceState(null, "", v === "home" ? location.pathname + location.search : "#" + ({ dash: "progression", notebook: "carnet", learn: "apprendre", admin: "admin" })[v]); } catch (e) {} }
+  if (v !== "book") { try { history.replaceState(null, "", v === "home" ? location.pathname + location.search : "#" + ({ dash: "progression", notebook: "carnet", learn: "apprendre", admin: "admin", quran: "coran" })[v]); } catch (e) {} }
   window.scrollTo(0, 0);
 }
 
@@ -1614,6 +1665,7 @@ function setHomeMode(m) {
 }
 function openTheme(name, catName) { sec = name; cat = catName || "Tous"; q = ""; $("q").value = ""; setHomeMode("browse"); renderChips(); filter(); window.scrollTo(0, 0); }
 function hallSectionCards(name) {
+  if (name === "Islamiques" && window.QURAN && window.QURAN.on) return [{ name: "القرآن الكريم", icon: "star", n: 114, sub: "Riwaya de Qalun · 114 sourates", cat: "__quran__" }].concat((H_PH.Islamiques || []).slice(0, 2).map(([nm, ic]) => ({ name: nm, icon: ic, n: 0, cat: "Tous" })));
   const bs = BOOKS.filter(b => b.section === name);
   if (bs.length) {
     const m = new Map();
@@ -1647,14 +1699,15 @@ function buildHall() {
       + '<div class="h-info"><div class="h-ttl"><div class="h-n"></div><h2 class="h-h"></h2><p class="h-p"></p><div class="h-row"><button type="button" class="h-cta"></button><button type="button" class="h-chip" hidden></button></div></div>'
       + '<div class="h-lab"><span></span><span class="h-nv"><button type="button" aria-label="Thèmes précédents">‹</button><button type="button" aria-label="Thèmes suivants">›</button></span></div><div class="h-strip" tabindex="0" role="group" aria-label="Thèmes"></div></div>';
     sl.querySelector(".h-n").textContent = "0" + (i + 1) + " / 0" + n; sl.querySelector(".h-h").textContent = name; sl.querySelector(".h-p").textContent = d.tag;
-    const cta = sl.querySelector(".h-cta"); cta.textContent = nb ? "Voir les " + nb + " livres" : "Section en préparation"; cta.onclick = () => openTheme(name, "Tous");
+    const qOn = name === "Islamiques" && window.QURAN && window.QURAN.on;
+    const cta = sl.querySelector(".h-cta"); cta.textContent = qOn ? "Ouvrir le Coran" : nb ? "Voir les " + nb + " livres" : "Section en préparation"; cta.onclick = () => qOn ? openQuran() : openTheme(name, "Tous");
     const cards = hallSectionCards(name); sl.querySelector(".h-lab span").textContent = "Thèmes · " + cards.length;
     const st = sl.querySelector(".h-strip");
     cards.forEach((c, k) => {
       const b = document.createElement("button"); b.type = "button"; b.className = "h-card" + (c.n ? "" : " dash"); b.style.setProperty("--a", d.a[k % 2]); b.style.setProperty("--b", d.a[(k + 1) % 2]);
       b.innerHTML = '<div class="h-im"><svg viewBox="0 0 48 48" aria-hidden="true" style="animation-delay:' + (-k * .6) + 's">' + (H_IC[c.icon] || H_IC.comp) + '</svg></div><div class="h-tx"><b></b><span></span></div>';
-      b.querySelector("b").textContent = c.name; b.querySelector("span").textContent = c.n ? c.n + (c.n > 1 ? " livres" : " livre") : "Bientôt";
-      b.onclick = () => openTheme(name, c.cat); st.appendChild(b);
+      b.querySelector("b").textContent = c.name; b.querySelector("span").textContent = c.sub ? c.sub : c.n ? c.n + (c.n > 1 ? " livres" : " livre") : "Bientôt";
+      b.onclick = () => c.cat === "__quran__" ? openQuran() : openTheme(name, c.cat); st.appendChild(b);
     });
     st.addEventListener("scroll", () => hallCoverflow(st), { passive: true });
     const nb2 = sl.querySelectorAll(".h-nv button"); nb2[0].onclick = () => st.scrollBy({ left: -st.clientWidth * .4, behavior: "smooth" }); nb2[1].onclick = () => st.scrollBy({ left: st.clientWidth * .4, behavior: "smooth" });
@@ -1690,6 +1743,101 @@ function renderHallChip() {
 $("hallSearch").onclick = () => { sec = "Tous"; cat = "Tous"; setHomeMode("browse"); renderChips(); filter(); $("q").focus(); };
 $("backHall").onclick = () => { sec = "Tous"; cat = "Tous"; q = ""; $("q").value = ""; renderChips(); filter(); setHomeMode("hall"); window.scrollTo(0, 0); };
 buildHall();
+
+/* ---------- Coran (riwaya de Qalun) — version privée : liste des sourates, lecture, tafsir au toucher ---------- */
+const QON = !!(window.QURAN && window.QURAN.on);
+const QBASE = new URL((window.SITE_ROOT || "./") + "quran/", location.href).href;
+const QK = { pos: "quran-pos", fs: "quran-fs" };
+const QC = {}, QT = {};
+let QIDX = null, QTI = null, QSURAH = null, QCUR = null, QBUILT = false, QFS = 30;
+const qnum = n => String(n).replace(/\d/g, d => "٠١٢٣٤٥٦٧٨٩"[d]);
+const qpad = n => String(n).padStart(3, "0");
+const qfold = s => s.normalize("NFD").replace(/[ً-ٰٟۖ-ۭ]/g, "").replace(/[أإآٱ]/g, "ا").replace(/ى/g, "ي").replace(/ة/g, "ه");
+async function qget(path) { const r = await fetch(QBASE + path); if (!r.ok) throw new Error(path); return r.json(); }
+function qsave() { try { localStorage.setItem(QK.pos, JSON.stringify(QCUR)); } catch (e) {} }
+function qload() { try { return JSON.parse(localStorage.getItem(QK.pos) || "null"); } catch (e) { return null; } }
+function qView(w) {
+  $("qList").hidden = w !== "list"; $("qRead").hidden = w !== "read";
+  $("qMinus").hidden = $("qPlus").hidden = w !== "read"; $("qSheet").classList.remove("open");
+  $("qBanner").hidden = !(window.QURAN && window.QURAN.preview);
+}
+function qSetFs(v) { QFS = Math.max(22, Math.min(54, v)); $("quran").style.setProperty("--qfs", QFS + "px"); try { localStorage.setItem(QK.fs, QFS); } catch (e) {} }
+function openQuran(s, v) { if (!QON) return; showView("quran"); if (s) qOpenSurah(s, v); else qShowList(); }
+async function qShowList() {
+  try { if (!QIDX) QIDX = await qget("index.json"); } catch (e) { $("qTitle").textContent = "Le Coran — données indisponibles"; return; }
+  qView("list"); $("qTitle").textContent = "Le Coran";
+  if (!QBUILT) {
+    QBUILT = true; const rows = $("qRows");
+    QIDX.surahs.forEach(s => {
+      const b = document.createElement("button"); b.type = "button"; b.className = "qrow"; b.dataset.n = s.n; b.dataset.f = qfold(s.name);
+      b.innerHTML = '<span class="no"></span><span class="nm"></span><span class="ct"></span>';
+      b.querySelector(".no").textContent = s.n; b.querySelector(".nm").textContent = s.name; b.querySelector(".ct").textContent = s.count + " versets";
+      b.onclick = () => qOpenSurah(s.n); rows.appendChild(b);
+    });
+    $("qFilter").oninput = e => { const t = qfold(e.target.value.trim()); rows.querySelectorAll(".qrow").forEach(r => r.hidden = !!t && !r.dataset.f.includes(t) && r.dataset.n !== t); };
+  }
+  const p = qload(), box = $("qResume");
+  if (p && p.s && QIDX.surahs[p.s - 1]) {
+    box.hidden = false; box.innerHTML = '<div><div class="eyebrow">Reprendre la lecture</div><b></b></div><button type="button" class="qbtn">Continuer</button>';
+    box.querySelector("b").textContent = QIDX.surahs[p.s - 1].name + " · " + qnum(p.v || 1); box.querySelector("button").onclick = () => qOpenSurah(p.s, p.v);
+  } else box.hidden = true;
+  window.scrollTo(0, 0);
+}
+async function qOpenSurah(n, v) {
+  n = Math.max(1, Math.min(114, +n || 1));
+  try { if (!QIDX) QIDX = await qget("index.json"); QSURAH = QC[n] || (QC[n] = await qget("s/" + qpad(n) + ".json")); } catch (e) { return; }
+  qView("read"); const S = QSURAH, info = QIDX.surahs[n - 1];
+  $("qTitle").textContent = "القرآن الكريم"; $("qName").textContent = "سورة " + S.name;
+  $("qMeta").textContent = qnum(S.ayat.length) + " آية · صفحة " + qnum(parseInt(info.page, 10));
+  $("qBsm").textContent = n === 9 ? "" : QIDX.basmala;
+  const x = $("qText"); x.textContent = ""; let lastPg = null;
+  S.ayat.forEach((a, i) => {
+    const pg = parseInt(a.p, 10);
+    if (pg !== lastPg && i > 0) { const d = document.createElement("span"); d.className = "qpg"; d.textContent = "صفحة " + qnum(pg); x.appendChild(d); }
+    lastPg = pg;
+    const sp = document.createElement("span"); sp.className = "qv"; sp.dataset.i = i; sp.appendChild(document.createTextNode(a.t + " "));
+    const e = document.createElement("span"); e.className = "qn"; e.textContent = qnum(a.n); sp.appendChild(e); x.appendChild(sp); x.appendChild(document.createTextNode(" "));
+  });
+  $("qPrev").disabled = n <= 1; $("qNext").disabled = n >= 114; $("qPrev").dataset.n = n - 1; $("qNext").dataset.n = n + 1;
+  $("qSrc").textContent = "Source : " + QIDX.source + ". " + QIDX.verification;
+  QCUR = { s: n, v: v || 1 }; qsave(); window.scrollTo(0, 0);
+  if (v && v > 1) { const el = x.querySelector('.qv[data-i="' + (v - 1) + '"]'); if (el) setTimeout(() => el.scrollIntoView({ block: "center" }), 60); }
+}
+async function qTafsirData(key, n) {
+  const k = key + n; if (QT[k]) return QT[k];
+  QT[k] = await qget("t/" + key + "/" + qpad(n) + ".json"); return QT[k];
+}
+async function qShowTafsir(i) {
+  const S = QSURAH, a = S.ayat[i]; if (!a) return;
+  QCUR = { s: S.n, v: a.n }; qsave();
+  document.querySelectorAll("#qText .qv.on").forEach(e => e.classList.remove("on")); const el = document.querySelector('#qText .qv[data-i="' + i + '"]'); if (el) el.classList.add("on");
+  if (!QTI) { try { QTI = await qget("t/index.json"); } catch (e) { QTI = {}; } const sel = $("qTs"); sel.textContent = ""; Object.keys(QTI).forEach(k => { const o = document.createElement("option"); o.value = k; o.textContent = QTI[k].name; sel.appendChild(o); }); }
+  const key = $("qTs").value || "muyassar", info = QTI[key] || {};
+  $("qSt").textContent = "تفسير الآية " + qnum(a.n) + " – سورة " + S.name; $("qSheet").classList.add("open");
+  const body = $("qTb"); body.textContent = "…";
+  let arr; try { arr = await qTafsirData(key, S.n); } catch (e) { body.textContent = "Tafsir indisponible."; return; }
+  if (!QSURAH || QSURAH !== S || !$("qSheet").classList.contains("open")) return;
+  body.textContent = ""; const hs = a.h && a.h.length ? a.h : [a.n];
+  hs.forEach(h => {
+    const d = document.createElement("div"); d.className = "part"; let t = (arr[h - 1] || "").trim(), lab = "";
+    if (hs.length > 1) lab = "الآية " + qnum(h) + " في عدّ حفص";
+    else if (h !== a.n) lab = "رقم هذه الآية في عدّ حفص: " + qnum(h);
+    if (!t) { let j = h - 1; while (j >= 1 && !(arr[j - 1] || "").trim()) j--; if (j >= 1) { t = arr[j - 1].trim(); lab = "ضمن تفسير الآية " + qnum(j) + " (عدّ حفص)"; } else t = "لا يوجد تفسير مستقل لهذه الآية في هذا المصدر."; }
+    if (lab) { const l = document.createElement("span"); l.className = "pn"; l.textContent = lab; d.appendChild(l); }
+    d.appendChild(document.createTextNode(t)); body.appendChild(d);
+  });
+  const s = document.createElement("div"); s.className = "src"; s.textContent = (info.name || key) + " — " + (info.author || "") + " · Texte tel quel, non reformulé. Licence à confirmer."; body.appendChild(s);
+}
+if (QON) {
+  try { const f = +localStorage.getItem(QK.fs); if (f) QFS = f; } catch (e) {} qSetFs(QFS);
+  $("qBack").onclick = () => { if (!$("qRead").hidden) qShowList(); else goHome(); };
+  $("qMinus").onclick = () => qSetFs(QFS - 2); $("qPlus").onclick = () => qSetFs(QFS + 2);
+  $("qPrev").onclick = e => qOpenSurah(+e.currentTarget.dataset.n); $("qNext").onclick = e => qOpenSurah(+e.currentTarget.dataset.n);
+  $("qText").addEventListener("click", e => { const v = e.target.closest(".qv"); if (v) qShowTafsir(+v.dataset.i); });
+  $("qCl").onclick = () => { $("qSheet").classList.remove("open"); document.querySelectorAll("#qText .qv.on").forEach(e => e.classList.remove("on")); };
+  $("qTs").onchange = () => { const on = document.querySelector("#qText .qv.on"); if (on) qShowTafsir(+on.dataset.i); };
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && $("qSheet").classList.contains("open")) $("qCl").click(); });
+}
 function filter() {
   let n = 0; const term = fold(q.trim());
   const listMode = !!term || cat !== "Tous";
@@ -2134,7 +2282,7 @@ function frError(e) {
   if (s.includes("fetch") || s.includes("network")) return "Connexion impossible. Vérifiez votre accès à internet puis réessayez.";
   return "Une erreur est survenue. Réessayez dans un instant.";
 }
-function showAuth(show) { $("auth").hidden = !show; document.body.style.overflow = show ? "hidden" : ""; }
+function showAuth(show) { if (window.QURAN && window.QURAN.on && /^(localhost|127\.0\.0\.1)$/.test(location.hostname)) show = false; /* aperçu privé local : pas de compte requis */ $("auth").hidden = !show; document.body.style.overflow = show ? "hidden" : ""; }
 if (sb) {
   if (CFG.google) { $("googleBtn").hidden = false; $("orLine").hidden = false; }
   $("googleBtn").onclick = async () => { const { error } = await sb.auth.signInWithOAuth({ provider: "google", options: { redirectTo: location.origin + location.pathname } }); if (error) authMsg("La connexion avec Google n'est pas disponible pour le moment. Utilisez votre e-mail.", true); };
