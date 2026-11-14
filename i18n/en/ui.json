@@ -592,6 +592,8 @@
   "Agrandir le texte": "Larger text",
   "Le Coran — données indisponibles": "The Qur'an — data unavailable",
   "Tafsir indisponible.": "Tafsir unavailable.",
-  "Version de test privée : texte du Complexe du Roi Fahd (riwaya de Qalun), pas encore relu par un lecteur de Qalun. À ne pas publier avant relecture et accord sur les licences.": "Private test version: text from the King Fahd Complex (Qalun recitation), not yet reviewed by a Qalun reader. Do not publish before review and licence clearance."
+  "Comprendre, avec rigueur.": "Understand with rigor.",
+  "Texte de la riwaya de Qalun d'après les données du Complexe du Roi Fahd, comparé à son mushaf imprimé. Il n'a pas encore été relu par un lecteur de Qalun : merci de signaler toute erreur à": "Qalun recitation text based on the King Fahd Complex data, checked against its printed mushaf. It has not yet been reviewed by a Qalun reader: please report any error to",
+  "Texte reproduit tel quel, non reformulé.": "Text reproduced as is, not reworded."
  }
 }

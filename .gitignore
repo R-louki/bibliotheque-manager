@@ -1,5 +1,6 @@
 __pycache__/
 bibliotheque-du-manager.html
 
-# Coran (riwaya de Qalun) : données et tafsirs NON publiés tant que les licences ne sont pas confirmées
-/quran/
+# Outils de vérification du Coran (chemins locaux) : non versionnés
+/quran/tools/
+/quran/*.pdf

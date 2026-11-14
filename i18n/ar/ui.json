@@ -593,6 +593,8 @@
   "Agrandir le texte": "تكبير الخط",
   "Le Coran — données indisponibles": "القرآن الكريم — البيانات غير متاحة",
   "Tafsir indisponible.": "التفسير غير متاح.",
-  "Version de test privée : texte du Complexe du Roi Fahd (riwaya de Qalun), pas encore relu par un lecteur de Qalun. À ne pas publier avant relecture et accord sur les licences.": "نسخة تجريبية خاصة: النص من مجمع الملك فهد (رواية قالون)، لم يراجعه بعد قارئ برواية قالون. لا تُنشر قبل المراجعة وتوضيح التراخيص."
+  "Comprendre, avec rigueur.": "الفهم بدقّة.",
+  "Texte de la riwaya de Qalun d'après les données du Complexe du Roi Fahd, comparé à son mushaf imprimé. Il n'a pas encore été relu par un lecteur de Qalun : merci de signaler toute erreur à": "نص رواية قالون وفق بيانات مجمع الملك فهد، وقد قورن بمصحفه المطبوع. لم يراجعه بعد قارئ برواية قالون، فنرجو الإبلاغ عن أي خطأ إلى",
+  "Texte reproduit tel quel, non reformulé.": "النص منقول كما هو دون إعادة صياغة."
  }
 }

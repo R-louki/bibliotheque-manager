@@ -93,16 +93,16 @@ DESC = {"fr": "{n} livres à forte valeur ajoutée (management, sciences, histoi
         "en": "{n} high-value books (management, science, history…) as mind maps, with quizzes and progress tracking on all your devices.",
         "ar": "{n} كتابًا عالي القيمة (إدارة، علوم، تاريخ…) في شكل خرائط ذهنية، مع اختبارات ومتابعة للتقدّم على جميع أجهزتك."}
 
-# ---- Coran (riwaya de Qalun) : version PRIVÉE. N'est incluse que si WITH_QURAN=1 ; sinon le dossier est supprimé du site
-# pour qu'un « git add -A » ne puisse pas le publier par erreur (licences et relecture encore en attente).
-QURAN_ON = os.environ.get("WITH_QURAN") == "1"
-QURAN_CFG = {"on": QURAN_ON, "preview": True} if QURAN_ON else None
-QFONT = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap">\n'
+# ---- Coran (riwaya de Qalun) : inclus par défaut. WITH_QURAN=0 le retire (le dossier quran/ est alors supprimé du site).
+QURAN_ON = os.environ.get("WITH_QURAN", "1") != "0"      # WITH_QURAN=0 pour construire sans le Coran
+QURAN_CFG = {"on": QURAN_ON} if QURAN_ON else None
+# Scheherazade New (SIL OFL) couvre tous les signes du texte de Qalun (Amiri Quran n'a pas U+065E ni U+06D2)
+QFONT = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap">\n'
 
 def build_quran(site):
     qd = site / "quran"
     if qd.exists(): shutil.rmtree(qd)
-    if not QURAN_ON: return "désactivé (WITH_QURAN non défini) — dossier quran/ retiré du site"
+    if not QURAN_ON: return "désactivé (WITH_QURAN=0) — dossier quran/ retiré du site"
     src = ROOT / "quran"
     data = json.loads((src / "qalun.json").read_text(encoding="utf-8"))
     hmap = json.loads((src / "map_to_hafs.json").read_text(encoding="utf-8"))
@@ -122,7 +122,7 @@ def build_quran(site):
         (qd / "t" / "index.json").write_text(json.dumps({"muyassar": json.loads((src / "tafsir" / "muyassar.json").read_text(encoding="utf-8"))["info"], "saadi": json.loads((src / "tafsir" / "saadi.json").read_text(encoding="utf-8"))["info"]}, ensure_ascii=False), encoding="utf-8")
         for s, arr in enumerate(t["t"], 1):
             (qd / "t" / key / f"{s:03d}.json").write_text(json.dumps(arr, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    return "activé (privé) : %d sourates, %d versets" % (len(index["surahs"]), sum(x["count"] for x in index["surahs"]))
+    return "activé : %d sourates, %d versets" % (len(index["surahs"]), sum(x["count"] for x in index["surahs"]))
 
 def load_tr(lang):
     d = ROOT / "i18n" / lang
