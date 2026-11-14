@@ -12,6 +12,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Bibliothèque du Manager">
 <style>html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px/1.4 system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap">
 <title>Bibliothèque du Manager</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -637,18 +638,18 @@ html[dir="rtl"] #hall .h-n{letter-spacing:0;direction:ltr;text-align:right}
 .qbtn:hover{border-color:var(--muted)}.qbtn[disabled]{opacity:.4;cursor:default}
 .qbanner{font:12.5px/1.6 var(--body);color:var(--ochre);border:1px dashed var(--line);border-radius:10px;padding:10px 12px;margin:0 0 14px;background:var(--card)}
 .qresume{display:flex;align-items:center;justify-content:space-between;gap:12px;border:1px solid var(--line);border-inline-start:4px solid var(--ochre);border-radius:10px;padding:12px 14px;margin-bottom:14px;background:var(--card)}
-.qresume b{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-weight:400;font-size:1.3rem}
+.qresume b{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-weight:400;font-size:1.3rem}
 #qFilter{width:100%;font:inherit;font-size:16px;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);margin-bottom:12px}
 .qlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px}
 .qrow{display:flex;align-items:center;gap:12px;text-align:start;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);cursor:pointer;font:inherit;min-height:56px;transition:border-color .2s,transform .2s}
 .qrow:hover{border-color:var(--accent);transform:translateY(-1px)}
 .qrow .no{flex:none;width:34px;height:34px;border-radius:50%;border:1px solid var(--accent);color:var(--accent);display:flex;align-items:center;justify-content:center;font-family:var(--mono);font-size:12.5px}
-.qrow .nm{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-size:1.25rem;line-height:1.3}
+.qrow .nm{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:1.25rem;line-height:1.3}
 .qrow .ct{margin-inline-start:auto;font-family:var(--mono);font-size:11.5px;color:var(--muted);white-space:nowrap}
-.qsurah{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-weight:400;font-size:2rem;text-align:center;margin:6px 0 0;direction:rtl}
+.qsurah{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-weight:400;font-size:2rem;text-align:center;margin:6px 0 0;direction:rtl}
 .qmeta{text-align:center;font:12.5px var(--mono);color:var(--muted);margin:2px 0 8px}
-.qbsm{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-size:calc(var(--qfs) * .95);text-align:center;margin:8px 0 14px;direction:rtl}
-.qtext{font-family:"Amiri Quran","Noto Naskh Arabic",serif;font-size:var(--qfs);line-height:2.35;text-align:justify;text-align-last:center;direction:rtl}
+.qbsm{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:calc(var(--qfs) * .95);text-align:center;margin:8px 0 14px;direction:rtl}
+.qtext{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:var(--qfs);line-height:2.35;text-align:justify;text-align-last:center;direction:rtl}
 .qv{cursor:pointer;border-radius:8px;padding:0 2px;transition:background .2s}
 .qv:hover{background:var(--accent-soft)}.qv.on{background:var(--accent-soft);box-shadow:0 0 0 2px var(--accent) inset}
 .qn{display:inline-block;min-width:1.75em;height:1.75em;line-height:1.75em;border:1px solid var(--accent);color:var(--accent);border-radius:50%;font-size:.5em;text-align:center;vertical-align:middle;margin:0 .3em;font-family:var(--body)}
@@ -671,7 +672,7 @@ html[dir="rtl"] #qBack{transform:scaleX(-1)}
 @media (prefers-reduced-motion:reduce){.qsheet{transition:none}}
 </style>
 <script src="./vendor/supabase.js"></script>
-<script>window.SUPA_CFG={"url": "https://tujlyauskqaqwgeppdnj.supabase.co", "key": "sb_publishable_ZogShztsynruEKwqF-oM8w_bcPMn3m-", "google": true};window.QURAN=null;window.LANG="fr";window.SITE_ROOT="./";window.I18N={"dict": {}, "pats": []};</script>
+<script>window.SUPA_CFG={"url": "https://tujlyauskqaqwgeppdnj.supabase.co", "key": "sb_publishable_ZogShztsynruEKwqF-oM8w_bcPMn3m-", "google": true};window.QURAN={"on": true};window.LANG="fr";window.SITE_ROOT="./";window.I18N={"dict": {}, "pats": []};</script>
 </head>
 <body>
 <nav class="appnav" id="appnav" aria-label="Navigation principale">
@@ -731,7 +732,7 @@ html[dir="rtl"] #qBack{transform:scaleX(-1)}
 
 <div id="quran" class="wrap" hidden>
   <div class="qtop"><button type="button" class="qbtn" id="qBack" aria-label="Retour">←</button><span class="ttl" id="qTitle">Le Coran</span><button type="button" class="qbtn" id="qMinus" aria-label="Réduire le texte" hidden>أ−</button><button type="button" class="qbtn" id="qPlus" aria-label="Agrandir le texte" hidden>أ+</button></div>
-  <div class="qbanner" id="qBanner" hidden>Version de test privée : texte du Complexe du Roi Fahd (riwaya de Qalun), pas encore relu par un lecteur de Qalun. À ne pas publier avant relecture et accord sur les licences.</div>
+  <div class="qbanner" id="qBanner" hidden>Texte de la riwaya de Qalun d'après les données du Complexe du Roi Fahd, comparé à son mushaf imprimé. Il n'a pas encore été relu par un lecteur de Qalun : merci de signaler toute erreur à <a href="mailto:pro.loukil@gmail.com?subject=Coran%20Qalun%20%E2%80%94%20erreur%20signal%C3%A9e" style="color:inherit">pro.loukil@gmail.com</a>.</div>
   <div id="qList" hidden><div id="qResume" class="qresume" hidden></div><input id="qFilter" type="search" dir="auto" placeholder="Chercher une sourate…" autocomplete="off"><div class="qlist" id="qRows"></div></div>
   <div id="qRead" hidden><h2 class="qsurah" id="qName"></h2><div class="qmeta" id="qMeta"></div><div class="qbsm" id="qBsm"></div><div class="qtext" id="qText"></div><div class="qnav"><button type="button" class="qbtn" id="qNext">←</button><button type="button" class="qbtn" id="qPrev">→</button></div><div class="qsrc" id="qSrc"></div></div>
   <div class="qsheet" id="qSheet" role="dialog" aria-live="polite" aria-label="Tafsir"><div class="qsh"><b id="qSt"></b><select id="qTs" aria-label="Tafsir"></select><button type="button" class="qbtn" id="qCl" aria-label="Fermer">✕</button></div><div class="qtf" id="qTb"></div></div>
@@ -1647,7 +1648,7 @@ const H_CATIC = { "Fondamentaux": "fond", "Équipes": "equ", "Stratégie": "str"
 const H_TI = {Business:'<svg viewBox="0 0 26 26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22V12M11 22V6M18 22V14M3 22h20"/></svg>',Islamiques:'<svg viewBox="0 0 26 26" fill="currentColor"><path d="M15 3.6A10.4 10.4 0 1 0 15 22.4A9.4 9.4 0 1 1 15 3.6Z"/><path d="M20 6.5l1 2.6 2.7.1-2.1 1.7.7 2.7-2.3-1.5-2.3 1.5.7-2.7-2.1-1.7 2.7-.1z"/></svg>',Scientifiques:'<svg viewBox="0 0 26 26" fill="none" stroke="currentColor" stroke-width="1.6"><ellipse cx="13" cy="13" rx="10" ry="4"/><ellipse cx="13" cy="13" rx="10" ry="4" transform="rotate(60 13 13)"/><ellipse cx="13" cy="13" rx="10" ry="4" transform="rotate(120 13 13)"/></svg>',Histoire:'<svg viewBox="0 0 26 26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 22h20M5 10h16M4 7l9-4 9 4M8 10v9M13 10v9M18 10v9"/></svg>'};
 const H_DEF = {
   Business: { tag: "Décider, diriger, progresser.", bg: "#1f4a3d", a: ["#2c5a4c", "#3f7d69"] },
-  Islamiques: { tag: "Comprendre, avec rigueur. En cadrage avec vous.", bg: "#123a37", a: ["#1d4f4a", "#2a6f66"] },
+  Islamiques: { tag: "Comprendre, avec rigueur.", bg: "#123a37", a: ["#1d4f4a", "#2a6f66"] },
   Scientifiques: { tag: "Sciences, technologies, médecine, bien-être.", bg: "#1d3552", a: ["#28466b", "#3a64a0"] },
   Histoire: { tag: "Des faits, des sources, du recul.", bg: "#5e2b21", a: ["#7a3b2e", "#a8553f"] }
 };
@@ -1665,7 +1666,7 @@ function setHomeMode(m) {
 }
 function openTheme(name, catName) { sec = name; cat = catName || "Tous"; q = ""; $("q").value = ""; setHomeMode("browse"); renderChips(); filter(); window.scrollTo(0, 0); }
 function hallSectionCards(name) {
-  if (name === "Islamiques" && window.QURAN && window.QURAN.on) return [{ name: "القرآن الكريم", icon: "star", n: 114, sub: "Riwaya de Qalun · 114 sourates", cat: "__quran__" }].concat((H_PH.Islamiques || []).slice(0, 2).map(([nm, ic]) => ({ name: nm, icon: ic, n: 0, cat: "Tous" })));
+  if (name === "Islamiques" && window.QURAN && window.QURAN.on) return [{ name: "القرآن الكريم", icon: "star", n: 114, sub: "Riwaya de Qalun · 114 sourates", cat: "__quran__" }];
   const bs = BOOKS.filter(b => b.section === name);
   if (bs.length) {
     const m = new Map();
@@ -1759,7 +1760,7 @@ function qload() { try { return JSON.parse(localStorage.getItem(QK.pos) || "null
 function qView(w) {
   $("qList").hidden = w !== "list"; $("qRead").hidden = w !== "read";
   $("qMinus").hidden = $("qPlus").hidden = w !== "read"; $("qSheet").classList.remove("open");
-  $("qBanner").hidden = !(window.QURAN && window.QURAN.preview);
+  $("qBanner").hidden = !QON;
 }
 function qSetFs(v) { QFS = Math.max(22, Math.min(54, v)); $("quran").style.setProperty("--qfs", QFS + "px"); try { localStorage.setItem(QK.fs, QFS); } catch (e) {} }
 function openQuran(s, v) { if (!QON) return; showView("quran"); if (s) qOpenSurah(s, v); else qShowList(); }
@@ -1799,7 +1800,7 @@ async function qOpenSurah(n, v) {
     const e = document.createElement("span"); e.className = "qn"; e.textContent = qnum(a.n); sp.appendChild(e); x.appendChild(sp); x.appendChild(document.createTextNode(" "));
   });
   $("qPrev").disabled = n <= 1; $("qNext").disabled = n >= 114; $("qPrev").dataset.n = n - 1; $("qNext").dataset.n = n + 1;
-  $("qSrc").textContent = "Source : " + QIDX.source + ". " + QIDX.verification;
+  $("qSrc").textContent = "Source : " + QIDX.source + ". Tafsirs : al-Muyassar (Complexe du Roi Fahd) et as-Sa'di, reproduits tels quels. " + QIDX.verification + " Les textes et polices appartiennent à leurs auteurs et éditeurs ; si vous êtes titulaire de droits et souhaitez un retrait, écrivez à pro.loukil@gmail.com.";
   QCUR = { s: n, v: v || 1 }; qsave(); window.scrollTo(0, 0);
   if (v && v > 1) { const el = x.querySelector('.qv[data-i="' + (v - 1) + '"]'); if (el) setTimeout(() => el.scrollIntoView({ block: "center" }), 60); }
 }
@@ -1826,7 +1827,7 @@ async function qShowTafsir(i) {
     if (lab) { const l = document.createElement("span"); l.className = "pn"; l.textContent = lab; d.appendChild(l); }
     d.appendChild(document.createTextNode(t)); body.appendChild(d);
   });
-  const s = document.createElement("div"); s.className = "src"; s.textContent = (info.name || key) + " — " + (info.author || "") + " · Texte tel quel, non reformulé. Licence à confirmer."; body.appendChild(s);
+  const s = document.createElement("div"); s.className = "src"; s.textContent = (info.name || key) + " — " + (info.author || "") + " · Texte reproduit tel quel, non reformulé."; body.appendChild(s);
 }
 if (QON) {
   try { const f = +localStorage.getItem(QK.fs); if (f) QFS = f; } catch (e) {} qSetFs(QFS);
