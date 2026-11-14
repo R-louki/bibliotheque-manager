@@ -99,9 +99,14 @@ QURAN_CFG = {"on": QURAN_ON} if QURAN_ON else None
 # Scheherazade New (SIL OFL) couvre tous les signes du texte de Qalun (Amiri Quran n'a pas U+065E ni U+06D2)
 # La police est hébergée sur le site (sous-ensemble WOFF2 de Scheherazade New, SIL OFL) : plus de dépendance à Google Fonts,
 # donc les signes propres à Qalun s'affichent même hors ligne ou si Google est bloqué.
+# Police principale : KFGQPC Qaloon (Complexe du Roi Fahd). Sa licence (intégrée au fichier, voir quran/fonts/KFGQPC-LICENSE.txt)
+# autorise l'usage, la copie et la distribution gratuits, mais interdit toute modification : le fichier TTF est donc servi
+# tel quel (ni sous-ensemble, ni conversion). Le texte officiel utilise un codage propre à cette police (ex. ألف الوصل de « اهدنا »).
+# Scheherazade New ne reste qu'en secours.
 def qfont(root):
-    return ('<style>@font-face{font-family:"Scheherazade New";src:url("' + root + 'quran/fonts/ScheherazadeNew-Quran.woff2") format("woff2");font-display:swap}</style>\n'
-            '<link rel="preload" as="font" type="font/woff2" crossorigin href="' + root + 'quran/fonts/ScheherazadeNew-Quran.woff2">\n')
+    return ('<style>@font-face{font-family:"KFGQPC Qaloon";src:url("' + root + 'quran/fonts/KFGQPC-Qaloon-v0.10.ttf") format("truetype");font-display:swap}'
+            '@font-face{font-family:"Scheherazade New";src:url("' + root + 'quran/fonts/ScheherazadeNew-Quran.woff2") format("woff2");font-display:swap}</style>\n'
+            '<link rel="preload" as="font" type="font/ttf" crossorigin href="' + root + 'quran/fonts/KFGQPC-Qaloon-v0.10.ttf">\n')
 
 def build_quran(site):
     qd = site / "quran"
