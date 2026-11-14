@@ -699,6 +699,7 @@ html[dir="rtl"] .qmpanel{animation-name:qminr}
 .qmbody{flex:1;overflow:auto;padding:12px 14px 18px;display:grid;gap:12px;align-content:start}
 .qmrow{display:flex;align-items:center;justify-content:space-between;gap:10px;font:14px var(--body)}
 .qmgrp{display:flex;gap:6px}
+.qmrow[hidden],.qmnote[hidden]{display:none}
 .qmbody h3{margin:6px 0 0;font:11.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .qbtn.wide{width:100%;text-align:center;font-family:var(--body);font-size:14px}
 .qmlist{display:grid;gap:6px}
@@ -796,6 +797,8 @@ html[dir="rtl"] .qmpanel{animation-name:qminr}
       <div class="qmbody">
         <div class="qmrow"><span>Taille du texte</span><span class="qmgrp"><button type="button" class="qbtn" id="qmMinus" aria-label="Réduire le texte">أ−</button><button type="button" class="qbtn" id="qmPlus" aria-label="Agrandir le texte">أ+</button></span></div>
         <div class="qmrow"><span>Affichage</span><button type="button" class="qbtn" id="qmMode"></button></div>
+        <div class="qmrow" id="qmFsRow" hidden><span>Plein écran</span><button type="button" class="qbtn" id="qmFs" aria-label="Plein écran">⛶</button></div>
+        <p class="qmnote" id="qmInstall" hidden>Pour ne plus voir la barre d'adresse, installez l'application : menu du navigateur, puis « Installer » ou « Ajouter à l'écran d'accueil ».</p>
         <div class="qmrow"><span>Aller à la page</span><label class="qpnum"><input id="qpNum" type="number" min="1" max="604" inputmode="numeric" aria-label="Numéro de page"><span>/ ٦٠٤</span></label></div>
         <input type="range" id="qpRange" min="1" max="604" step="1" dir="rtl" aria-label="Aller à la page">
         <h3>Signets</h3>
@@ -2039,22 +2042,35 @@ if (QON) {
   $("qmMode").onclick = () => { qmClose(); qModeFn(); };
   $("qmOpen").onclick = qmOpen; $("qmClose").onclick = $("qmBack").onclick = qmClose; $("qpBm").onclick = qbmToggle; $("qmAddBm").onclick = qbmToggle;
   $("qmExit").onclick = () => { qmClose(); goHome(); };
+  // Dans le navigateur la barre d'adresse mange de la place : plein écran sur demande (impossible sur iPhone), ou installer l'appli
+  const qIsApp = matchMedia("(display-mode: standalone)").matches || matchMedia("(display-mode: fullscreen)").matches || navigator.standalone;
+  $("qmFsRow").hidden = qIsApp || !(document.fullscreenEnabled && document.documentElement.requestFullscreen);
+  $("qmInstall").hidden = qIsApp;
+  $("qmFs").onclick = async () => { try { if (document.fullscreenElement) await document.exitFullscreen(); else await document.documentElement.requestFullscreen({ navigationUI: "hide" }); } catch (e) {} qmClose(); };
+  document.addEventListener("fullscreenchange", () => setTimeout(qpRefit, 200));
   $("qPrev").onclick = e => qOpenSurah(+e.currentTarget.dataset.n); $("qNext").onclick = e => qOpenSurah(+e.currentTarget.dataset.n);
   $("qText").addEventListener("click", e => { const v = e.target.closest(".qv"); if (v) qShowTafsir(+v.dataset.i); });
   const pv = $("qpView");
   pv.addEventListener("click", e => { if (QP.suppress) { e.stopPropagation(); e.preventDefault(); return; } const v = e.target.closest(".qv"); if (v) qTafsirFor(+v.dataset.s, { n: +v.dataset.n, h: JSON.parse(v.dataset.h) }); }, true);
-  pv.addEventListener("pointerdown", e => { if (QP.busy || e.target.closest("button,input")) return; QP.drag = { x: e.clientX, y: e.clientY, t: Date.now(), on: false, dx: 0 }; });
-  addEventListener("pointermove", e => {
-    const d = QP.drag; if (!d || QP.busy) return; const dx = e.clientX - d.x, dy = e.clientY - d.y;
-    if (!d.on) { if (Math.abs(dx) > 10 && Math.abs(dx) > Math.abs(dy) * 1.2) d.on = true; else if (Math.abs(dy) > 12) { QP.drag = null; return; } }
+  // Glissement horizontal : événements tactiles sur téléphone/tablette (fiables avec le défilement natif), souris sur ordinateur
+  const dragStart = (x, y) => { if (QP.busy) { QP.drag = null; return; } QP.drag = { x, y, t: Date.now(), on: false, dx: 0 }; };
+  const dragMove = (x, y) => {
+    const d = QP.drag; if (!d || QP.busy) return false; const dx = x - d.x, dy = y - d.y;
+    if (!d.on) { if (Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy) * 1.1) d.on = true; else if (Math.abs(dy) > 14) { QP.drag = null; return false; } }
     if (d.on) { const lim = (QP.p === 1 && dx < 0) || (QP.p === 604 && dx > 0) ? .25 : 1; d.dx = dx * lim; qpLayout(d.dx, false); }
-  });
-  const end = () => {
-    const d = QP.drag; QP.drag = null; if (!d || !d.on) return; QP.suppress = true; setTimeout(() => QP.suppress = false, 60);
-    const W = pv.clientWidth, fast = Math.abs(d.dx) / Math.max(1, Date.now() - d.t) > .5;
-    if (Math.abs(d.dx) > W * .18 || (fast && Math.abs(d.dx) > 30)) qpMove(d.dx > 0 ? 1 : -1); else qpLayout(0, true);
+    return d.on;
   };
-  addEventListener("pointerup", end); addEventListener("pointercancel", end);
+  const end = () => {
+    const d = QP.drag; QP.drag = null; if (!d || !d.on) return; QP.suppress = true; setTimeout(() => QP.suppress = false, 350);
+    const W = pv.clientWidth, fast = Math.abs(d.dx) / Math.max(1, Date.now() - d.t) > .4;
+    if (Math.abs(d.dx) > W * .12 || (fast && Math.abs(d.dx) > 24)) qpMove(d.dx > 0 ? 1 : -1); else qpLayout(0, true);
+  };
+  pv.addEventListener("touchstart", e => { if (e.touches.length !== 1 || e.target.closest("button,input")) { QP.drag = null; return; } dragStart(e.touches[0].clientX, e.touches[0].clientY); }, { passive: true });
+  pv.addEventListener("touchmove", e => { if (e.touches.length !== 1) return; if (dragMove(e.touches[0].clientX, e.touches[0].clientY) && e.cancelable) e.preventDefault(); }, { passive: false });
+  pv.addEventListener("touchend", end); pv.addEventListener("touchcancel", end);
+  pv.addEventListener("pointerdown", e => { if (e.pointerType !== "mouse" || e.target.closest("button,input")) return; dragStart(e.clientX, e.clientY); });
+  addEventListener("pointermove", e => { if (e.pointerType === "mouse") dragMove(e.clientX, e.clientY); });
+  addEventListener("pointerup", e => { if (e.pointerType === "mouse") end(); });
   $("qpNext").onclick = () => qpMove(1); $("qpPrev").onclick = () => qpMove(-1);
   $("qpNum").onchange = e => qpOpen(+e.target.value);
   let rt; $("qpRange").oninput = e => { clearTimeout(rt); const v = +e.target.value; $("qpNum").value = v; rt = setTimeout(() => qpOpen(v), 140); };
