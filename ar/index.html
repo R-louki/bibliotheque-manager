@@ -12,7 +12,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="مكتبة المدير">
 <style>html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px/1.4 system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap">
+<style>@font-face{font-family:"Scheherazade New";src:url("../quran/fonts/ScheherazadeNew-Quran.woff2") format("woff2");font-display:swap}</style>
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../quran/fonts/ScheherazadeNew-Quran.woff2">
 <title>مكتبة المدير</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -668,6 +669,23 @@ html[dir="rtl"] #qBack{transform:scaleX(-1)}
 .qtf{font-family:"Noto Naskh Arabic","Amiri",serif;font-size:calc(var(--qfs) * .68);line-height:2;direction:rtl;max-width:760px;margin:0 auto;white-space:pre-line}
 .qtf .part{margin:0 0 12px}.qtf .pn{display:block;color:var(--accent);font:12.5px var(--mono);margin-bottom:2px;direction:ltr;text-align:right}
 .qtf .src{font:12px/1.6 var(--body);color:var(--muted);margin-top:8px;border-top:1px dashed var(--line);padding-top:8px;white-space:normal;direction:ltr}
+/* mode pages */
+.qpbar{display:flex;align-items:center;gap:8px;margin-bottom:8px;direction:ltr}
+.qpinfo{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;text-align:center;font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;line-height:1.35}
+.qpinfo b{font-weight:400;font-size:1.2rem}.qpinfo span{font:11.5px var(--mono);color:var(--muted)}
+.qpnum{display:flex;align-items:center;gap:4px;font:12px var(--mono);color:var(--muted);white-space:nowrap}
+.qpnum input{width:62px;font:inherit;font-size:15px;color:var(--ink);padding:8px 6px;border:1px solid var(--line);border-radius:8px;background:var(--card);text-align:center;min-height:40px}
+.qpview{position:relative;overflow:hidden;height:calc(100dvh - 262px);min-height:380px;touch-action:pan-y;user-select:none;-webkit-user-select:none;direction:ltr}
+:root[data-device="tablet"] .qpview,:root[data-device="desktop"] .qpview{height:calc(100dvh - 292px)}
+#quran.qpmode{padding-top:8px}#quran.qpmode .qtop{padding:6px 0;margin-bottom:6px}
+#qpRange{height:24px}
+.qpane{position:absolute;inset:0;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;will-change:transform;direction:rtl}
+.qpbody{height:calc(100% - 26px);padding:12px 14px 0;overflow:hidden}
+.qpt{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;line-height:1.95;text-align:justify;text-align-last:center;direction:rtl}
+.qph{text-align:center;border:1px solid var(--accent);border-radius:8px;padding:0 12px;margin:0 0 6px;color:var(--accent);background:var(--accent-soft);font-size:.8em;line-height:1.9}
+.qpb{text-align:center;margin:0 0 6px;font-size:.92em}
+.qpfoot{position:absolute;left:0;right:0;bottom:4px;text-align:center;font:12px var(--mono);color:var(--muted);pointer-events:none}
+#qpRange{width:100%;margin:12px 0 0;accent-color:var(--accent)}
 @media (min-width:900px){.qtext{--qfs:34px}}
 @media (prefers-reduced-motion:reduce){.qsheet{transition:none}}
 </style>
@@ -731,10 +749,15 @@ html[dir="rtl"] #qBack{transform:scaleX(-1)}
 </div>
 
 <div id="quran" class="wrap" hidden>
-  <div class="qtop"><button type="button" class="qbtn" id="qBack" aria-label="Retour">←</button><span class="ttl" id="qTitle">Le Coran</span><button type="button" class="qbtn" id="qMinus" aria-label="Réduire le texte" hidden>أ−</button><button type="button" class="qbtn" id="qPlus" aria-label="Agrandir le texte" hidden>أ+</button></div>
+  <div class="qtop"><button type="button" class="qbtn" id="qBack" aria-label="Retour">←</button><span class="ttl" id="qTitle">Le Coran</span><button type="button" class="qbtn" id="qMode" aria-label="Changer le mode d'affichage" hidden>الصفحات</button><button type="button" class="qbtn" id="qMinus" aria-label="Réduire le texte" hidden>أ−</button><button type="button" class="qbtn" id="qPlus" aria-label="Agrandir le texte" hidden>أ+</button></div>
   <div class="qbanner" id="qBanner" hidden>Texte de la riwaya de Qalun d'après les données du Complexe du Roi Fahd, comparé à son mushaf imprimé. Il n'a pas encore été relu par un lecteur de Qalun : merci de signaler toute erreur à <a href="mailto:pro.loukil@gmail.com?subject=Coran%20Qalun%20%E2%80%94%20erreur%20signal%C3%A9e" style="color:inherit">pro.loukil@gmail.com</a>.</div>
   <div id="qList" hidden><div id="qResume" class="qresume" hidden></div><input id="qFilter" type="search" dir="auto" placeholder="Chercher une sourate…" autocomplete="off"><div class="qlist" id="qRows"></div></div>
   <div id="qRead" hidden><h2 class="qsurah" id="qName"></h2><div class="qmeta" id="qMeta"></div><div class="qbsm" id="qBsm"></div><div class="qtext" id="qText"></div><div class="qnav"><button type="button" class="qbtn" id="qNext">←</button><button type="button" class="qbtn" id="qPrev">→</button></div><div class="qsrc" id="qSrc"></div></div>
+  <div id="qPager" hidden>
+    <div class="qpbar"><button type="button" class="qbtn" id="qpNext" aria-label="Page suivante">‹</button><div class="qpinfo"><b id="qpSurah"></b><span id="qpJuz"></span></div><label class="qpnum"><input id="qpNum" type="number" min="1" max="604" inputmode="numeric" aria-label="Numéro de page"><span>/ ٦٠٤</span></label><button type="button" class="qbtn" id="qpPrev" aria-label="Page précédente">›</button></div>
+    <div class="qpview" id="qpView"><div class="qpane" id="qpA"></div><div class="qpane" id="qpB"></div><div class="qpane" id="qpC"></div></div>
+    <input type="range" id="qpRange" min="1" max="604" step="1" dir="rtl" aria-label="Aller à la page">
+  </div>
   <div class="qsheet" id="qSheet" role="dialog" aria-live="polite" aria-label="Tafsir"><div class="qsh"><b id="qSt"></b><select id="qTs" aria-label="Tafsir"></select><button type="button" class="qbtn" id="qCl" aria-label="Fermer">✕</button></div><div class="qtf" id="qTb"></div></div>
 </div>
 
@@ -1750,7 +1773,7 @@ const QON = !!(window.QURAN && window.QURAN.on);
 const QBASE = new URL((window.SITE_ROOT || "./") + "quran/", location.href).href;
 const QK = { pos: "quran-pos", fs: "quran-fs" };
 const QC = {}, QT = {};
-let QIDX = null, QTI = null, QSURAH = null, QCUR = null, QBUILT = false, QFS = 30;
+let QIDX = null, QTI = null, QSURAH = null, QCUR = null, QBUILT = false, QFS = 30, QVIEW = "list", QTAFCUR = null;
 const qnum = n => String(n).replace(/\d/g, d => "٠١٢٣٤٥٦٧٨٩"[d]);
 const qpad = n => String(n).padStart(3, "0");
 const qfold = s => s.normalize("NFD").replace(/[ً-ٰٟۖ-ۭ]/g, "").replace(/[أإآٱ]/g, "ا").replace(/ى/g, "ي").replace(/ة/g, "ه");
@@ -1758,9 +1781,10 @@ async function qget(path) { const r = await fetch(QBASE + path); if (!r.ok) thro
 function qsave() { try { localStorage.setItem(QK.pos, JSON.stringify(QCUR)); } catch (e) {} }
 function qload() { try { return JSON.parse(localStorage.getItem(QK.pos) || "null"); } catch (e) { return null; } }
 function qView(w) {
-  $("qList").hidden = w !== "list"; $("qRead").hidden = w !== "read";
-  $("qMinus").hidden = $("qPlus").hidden = w !== "read"; $("qSheet").classList.remove("open");
-  $("qBanner").hidden = !QON;
+  $("qList").hidden = w !== "list"; $("qRead").hidden = w !== "read"; $("qPager").hidden = w !== "pager";
+  $("qMinus").hidden = $("qPlus").hidden = $("qMode").hidden = w === "list"; $("qSheet").classList.remove("open");
+  $("qMode").textContent = w === "pager" ? "السورة" : "الصفحات"; QVIEW = w; $("quran").classList.toggle("qpmode", w === "pager");
+  $("qBanner").hidden = !QON || w === "pager";
 }
 function qSetFs(v) { QFS = Math.max(22, Math.min(54, v)); $("quran").style.setProperty("--qfs", QFS + "px"); try { localStorage.setItem(QK.fs, QFS); } catch (e) {} }
 function openQuran(s, v) { if (!QON) return; showView("quran"); if (s) qOpenSurah(s, v); else qShowList(); }
@@ -1773,14 +1797,14 @@ async function qShowList() {
       const b = document.createElement("button"); b.type = "button"; b.className = "qrow"; b.dataset.n = s.n; b.dataset.f = qfold(s.name);
       b.innerHTML = '<span class="no"></span><span class="nm"></span><span class="ct"></span>';
       b.querySelector(".no").textContent = s.n; b.querySelector(".nm").textContent = s.name; b.querySelector(".ct").textContent = s.count + " versets";
-      b.onclick = () => qOpenSurah(s.n); rows.appendChild(b);
+      b.onclick = () => qpOpen(parseInt(s.page, 10)); rows.appendChild(b);
     });
     $("qFilter").oninput = e => { const t = qfold(e.target.value.trim()); rows.querySelectorAll(".qrow").forEach(r => r.hidden = !!t && !r.dataset.f.includes(t) && r.dataset.n !== t); };
   }
   const p = qload(), box = $("qResume");
   if (p && p.s && QIDX.surahs[p.s - 1]) {
     box.hidden = false; box.innerHTML = '<div><div class="eyebrow">Reprendre la lecture</div><b></b></div><button type="button" class="qbtn">Continuer</button>';
-    box.querySelector("b").textContent = QIDX.surahs[p.s - 1].name + " · " + qnum(p.v || 1); box.querySelector("button").onclick = () => qOpenSurah(p.s, p.v);
+    box.querySelector("b").textContent = QIDX.surahs[p.s - 1].name + " · " + (p.p ? "صفحة " + qnum(p.p) : qnum(p.v || 1)); box.querySelector("button").onclick = () => p.p ? qpOpen(p.p) : qOpenSurah(p.s, p.v);
   } else box.hidden = true;
   window.scrollTo(0, 0);
 }
@@ -1796,28 +1820,32 @@ async function qOpenSurah(n, v) {
     const pg = parseInt(a.p, 10);
     if (pg !== lastPg && i > 0) { const d = document.createElement("span"); d.className = "qpg"; d.textContent = "صفحة " + qnum(pg); x.appendChild(d); }
     lastPg = pg;
-    const sp = document.createElement("span"); sp.className = "qv"; sp.dataset.i = i; sp.appendChild(document.createTextNode(a.t + " "));
+    const sp = document.createElement("span"); sp.className = "qv"; sp.dataset.i = i; sp.dataset.s = n; sp.dataset.n = a.n; sp.appendChild(document.createTextNode(a.t + " "));
     const e = document.createElement("span"); e.className = "qn"; e.textContent = qnum(a.n); sp.appendChild(e); x.appendChild(sp); x.appendChild(document.createTextNode(" "));
   });
   $("qPrev").disabled = n <= 1; $("qNext").disabled = n >= 114; $("qPrev").dataset.n = n - 1; $("qNext").dataset.n = n + 1;
   $("qSrc").textContent = "Source : " + QIDX.source + ". Tafsirs : al-Muyassar (Complexe du Roi Fahd) et as-Sa'di, reproduits tels quels. " + QIDX.verification + " Les textes et polices appartiennent à leurs auteurs et éditeurs ; si vous êtes titulaire de droits et souhaitez un retrait, écrivez à pro.loukil@gmail.com.";
-  QCUR = { s: n, v: v || 1 }; qsave(); window.scrollTo(0, 0);
+  QCUR = { s: n, v: v || 1, p: parseInt(S.ayat[(v || 1) - 1].p, 10) }; qsave(); window.scrollTo(0, 0);
   if (v && v > 1) { const el = x.querySelector('.qv[data-i="' + (v - 1) + '"]'); if (el) setTimeout(() => el.scrollIntoView({ block: "center" }), 60); }
 }
 async function qTafsirData(key, n) {
   const k = key + n; if (QT[k]) return QT[k];
   QT[k] = await qget("t/" + key + "/" + qpad(n) + ".json"); return QT[k];
 }
-async function qShowTafsir(i) {
-  const S = QSURAH, a = S.ayat[i]; if (!a) return;
-  QCUR = { s: S.n, v: a.n }; qsave();
-  document.querySelectorAll("#qText .qv.on").forEach(e => e.classList.remove("on")); const el = document.querySelector('#qText .qv[data-i="' + i + '"]'); if (el) el.classList.add("on");
+function qHl() {
+  document.querySelectorAll("#quran .qv.on").forEach(e => e.classList.remove("on"));
+  if (QTAFCUR) document.querySelectorAll('#quran .qv[data-s="' + QTAFCUR.sn + '"][data-n="' + QTAFCUR.a.n + '"]').forEach(e => e.classList.add("on"));
+}
+async function qShowTafsir(i) { const S = QSURAH, a = S && S.ayat[i]; if (a) qTafsirFor(S.n, a); }
+async function qTafsirFor(sn, a) {
+  const S = { n: sn, name: QIDX.surahs[sn - 1].name }; QTAFCUR = { sn, a };
+  QCUR = { s: sn, v: a.n, p: (QCUR && QCUR.s === sn && QCUR.p) || (QVIEW === "pager" ? QP.p : undefined) }; qsave(); qHl();
   if (!QTI) { try { QTI = await qget("t/index.json"); } catch (e) { QTI = {}; } const sel = $("qTs"); sel.textContent = ""; Object.keys(QTI).forEach(k => { const o = document.createElement("option"); o.value = k; o.textContent = QTI[k].name; sel.appendChild(o); }); }
   const key = $("qTs").value || "muyassar", info = QTI[key] || {};
   $("qSt").textContent = "تفسير الآية " + qnum(a.n) + " – سورة " + S.name; $("qSheet").classList.add("open");
   const body = $("qTb"); body.textContent = "…";
   let arr; try { arr = await qTafsirData(key, S.n); } catch (e) { body.textContent = "Tafsir indisponible."; return; }
-  if (!QSURAH || QSURAH !== S || !$("qSheet").classList.contains("open")) return;
+  if (!QTAFCUR || QTAFCUR.a !== a || !$("qSheet").classList.contains("open")) return;
   body.textContent = ""; const hs = a.h && a.h.length ? a.h : [a.n];
   hs.forEach(h => {
     const d = document.createElement("div"); d.className = "part"; let t = (arr[h - 1] || "").trim(), lab = "";
@@ -1829,15 +1857,110 @@ async function qShowTafsir(i) {
   });
   const s = document.createElement("div"); s.className = "src"; s.textContent = (info.name || key) + " — " + (info.author || "") + " · Texte reproduit tel quel, non reformulé."; body.appendChild(s);
 }
+/* --- Mode « pages » : le mushaf page par page (604), glissement horizontal, sens de lecture arabe (la page suivante est à gauche) --- */
+const QP = { p: 1, panes: [], busy: false, drag: null, suppress: false }, QPC = new Map();
+async function qpData(p) {
+  if (QPC.has(p)) return QPC.get(p);
+  const d = await qget("p/" + qpad(p) + ".json"); QPC.set(p, d); if (QPC.size > 40) QPC.delete(QPC.keys().next().value); return d;
+}
+let QPS = 1;      // échelle choisie par le lecteur par rapport à la taille qui fait tenir la page entière
+function qpFit(pane) {
+  const body = pane.querySelector(".qpbody"), t = pane.querySelector(".qpt"); if (!body || !t) return;
+  let fs = 40; t.style.fontSize = fs + "px";
+  while (fs > 12 && body.scrollHeight > body.clientHeight + 1) { fs -= 1; t.style.fontSize = fs + "px"; }
+  if (QPS !== 1) { t.style.fontSize = Math.round(fs * QPS * 10) / 10 + "px"; }
+  body.style.overflowY = body.scrollHeight > body.clientHeight + 1 ? "auto" : "hidden";
+}
+function qpBuild(pane, d) {
+  pane.textContent = ""; if (!d) { pane.dataset.page = ""; return; }
+  pane.dataset.page = d.p;
+  const body = document.createElement("div"); body.className = "qpbody"; const t = document.createElement("div"); t.className = "qpt";
+  d.items.forEach(it => {
+    if (it.k === "h") { const h = document.createElement("div"); h.className = "qph"; h.textContent = "سورة " + it.name; t.appendChild(h); }
+    else if (it.k === "b") { const b = document.createElement("div"); b.className = "qpb"; b.textContent = QIDX.basmala; t.appendChild(b); }
+    else {
+      const sp = document.createElement("span"); sp.className = "qv"; sp.dataset.s = it.s; sp.dataset.n = it.n; sp.dataset.h = JSON.stringify(it.h);
+      sp.appendChild(document.createTextNode(it.t + " "));
+      if (it.z) { const e = document.createElement("span"); e.className = "qn"; e.textContent = qnum(it.n); sp.appendChild(e); }
+      t.appendChild(sp); t.appendChild(document.createTextNode(" "));
+    }
+  });
+  body.appendChild(t); pane.appendChild(body);
+  const f = document.createElement("div"); f.className = "qpfoot"; f.textContent = qnum(d.p); pane.appendChild(f);
+  qpFit(pane); qHl();
+}
+async function qpRender(pane, p) { if (p < 1 || p > 604) return qpBuild(pane, null); try { qpBuild(pane, await qpData(p)); } catch (e) { qpBuild(pane, null); } }
+function qpLayout(dx, anim) {
+  const tr = anim ? "transform .28s cubic-bezier(.2,.8,.2,1)" : "none";
+  [[QP.panes[0], "calc(100% + " + dx + "px)"], [QP.panes[1], dx + "px"], [QP.panes[2], "calc(-100% + " + dx + "px)"]].forEach(([p, x]) => { p.style.transition = tr; p.style.transform = "translateX(" + x + ")"; });
+}
+function qpInfo(d) {
+  const f = d.items.find(i => i.k === "h" || i.k === "v"), sn = f ? f.s : 1, fv = d.items.find(i => i.k === "v");
+  $("qpSurah").textContent = "سورة " + QIDX.surahs[sn - 1].name; $("qpJuz").textContent = "الجزء " + qnum(d.j || 1);
+  $("qpNum").value = d.p; $("qpRange").value = d.p; $("qpPrev").disabled = d.p <= 1; $("qpNext").disabled = d.p >= 604;
+  if (fv && !QTAFCUR) { QCUR = { s: fv.s, v: fv.n, p: d.p }; qsave(); }
+  else if (QCUR) { QCUR.p = d.p; qsave(); }
+}
+async function qpOpen(p, hl) {
+  p = Math.max(1, Math.min(604, Math.round(+p) || 1));
+  try { if (!QIDX) QIDX = await qget("index.json"); } catch (e) { return; }
+  qView("pager"); QP.p = p; QP.busy = false;
+  if (!QP.panes.length) QP.panes = [$("qpA"), $("qpB"), $("qpC")];
+  qpLayout(0, false); window.scrollTo(0, 0);
+  const d = await qpData(p).catch(() => null); if (!d) return;
+  qpBuild(QP.panes[1], d); qpInfo(d);
+  qpRender(QP.panes[0], p - 1); qpRender(QP.panes[2], p + 1);
+  if (hl) { QTAFCUR = { sn: hl.s, a: { n: hl.n, h: hl.h || [] } }; qHl(); }
+}
+async function qpMove(dir) {
+  if (QP.busy) return; const t = QP.p + dir;
+  if (t < 1 || t > 604) { qpLayout(0, true); return; }
+  QP.busy = true; const W = $("qpView").clientWidth; qpLayout(dir > 0 ? W : -W, true);
+  await new Promise(r => setTimeout(r, 290));
+  const [pr, cu, ne] = QP.panes; QP.panes = dir > 0 ? [cu, ne, pr] : [ne, pr, cu]; QP.p = t; qpLayout(0, false);
+  qpRender(dir > 0 ? QP.panes[2] : QP.panes[0], dir > 0 ? t + 1 : t - 1);
+  try { qpInfo(await qpData(t)); } catch (e) {}
+  QP.busy = false;
+}
+function qpRefit() { if (QVIEW === "pager") QP.panes.forEach(qpFit); }
 if (QON) {
   try { const f = +localStorage.getItem(QK.fs); if (f) QFS = f; } catch (e) {} qSetFs(QFS);
-  $("qBack").onclick = () => { if (!$("qRead").hidden) qShowList(); else goHome(); };
-  $("qMinus").onclick = () => qSetFs(QFS - 2); $("qPlus").onclick = () => qSetFs(QFS + 2);
+  $("qBack").onclick = () => { if (QVIEW !== "list") qShowList(); else goHome(); };
+  try { const s = +localStorage.getItem("quran-qps"); if (s) QPS = s; } catch (e) {}
+  const qpScale = k => { QPS = Math.max(.75, Math.min(1.9, Math.round(QPS * k * 100) / 100)); try { localStorage.setItem("quran-qps", QPS); } catch (e) {} qpRefit(); };
+  $("qMinus").onclick = () => { if (QVIEW === "pager") qpScale(1 / 1.1); else qSetFs(QFS - 2); };
+  $("qPlus").onclick = () => { if (QVIEW === "pager") qpScale(1.1); else qSetFs(QFS + 2); };
+  $("qMode").onclick = () => {
+    if (QVIEW === "pager") { const c = QCUR || { s: 1, v: 1 }; qOpenSurah(c.s, c.v); }
+    else { const c = QCUR || { s: 1, v: 1 }; const a = QSURAH && QSURAH.ayat[(c.v || 1) - 1]; qpOpen(a ? parseInt(a.p, 10) : (c.p || 1), c.v ? { s: c.s, n: c.v } : null); }
+  };
   $("qPrev").onclick = e => qOpenSurah(+e.currentTarget.dataset.n); $("qNext").onclick = e => qOpenSurah(+e.currentTarget.dataset.n);
   $("qText").addEventListener("click", e => { const v = e.target.closest(".qv"); if (v) qShowTafsir(+v.dataset.i); });
-  $("qCl").onclick = () => { $("qSheet").classList.remove("open"); document.querySelectorAll("#qText .qv.on").forEach(e => e.classList.remove("on")); };
-  $("qTs").onchange = () => { const on = document.querySelector("#qText .qv.on"); if (on) qShowTafsir(+on.dataset.i); };
-  document.addEventListener("keydown", e => { if (e.key === "Escape" && $("qSheet").classList.contains("open")) $("qCl").click(); });
+  const pv = $("qpView");
+  pv.addEventListener("click", e => { if (QP.suppress) { e.stopPropagation(); e.preventDefault(); return; } const v = e.target.closest(".qv"); if (v) qTafsirFor(+v.dataset.s, { n: +v.dataset.n, h: JSON.parse(v.dataset.h) }); }, true);
+  pv.addEventListener("pointerdown", e => { if (QP.busy || e.target.closest("button,input")) return; QP.drag = { x: e.clientX, y: e.clientY, t: Date.now(), on: false, dx: 0 }; });
+  addEventListener("pointermove", e => {
+    const d = QP.drag; if (!d || QP.busy) return; const dx = e.clientX - d.x, dy = e.clientY - d.y;
+    if (!d.on) { if (Math.abs(dx) > 10 && Math.abs(dx) > Math.abs(dy) * 1.2) d.on = true; else if (Math.abs(dy) > 12) { QP.drag = null; return; } }
+    if (d.on) { const lim = (QP.p === 1 && dx < 0) || (QP.p === 604 && dx > 0) ? .25 : 1; d.dx = dx * lim; qpLayout(d.dx, false); }
+  });
+  const end = () => {
+    const d = QP.drag; QP.drag = null; if (!d || !d.on) return; QP.suppress = true; setTimeout(() => QP.suppress = false, 60);
+    const W = pv.clientWidth, fast = Math.abs(d.dx) / Math.max(1, Date.now() - d.t) > .5;
+    if (Math.abs(d.dx) > W * .18 || (fast && Math.abs(d.dx) > 30)) qpMove(d.dx > 0 ? 1 : -1); else qpLayout(0, true);
+  };
+  addEventListener("pointerup", end); addEventListener("pointercancel", end);
+  $("qpNext").onclick = () => qpMove(1); $("qpPrev").onclick = () => qpMove(-1);
+  $("qpNum").onchange = e => qpOpen(+e.target.value);
+  let rt; $("qpRange").oninput = e => { clearTimeout(rt); const v = +e.target.value; $("qpNum").value = v; rt = setTimeout(() => qpOpen(v), 140); };
+  let rz; addEventListener("resize", () => { clearTimeout(rz); rz = setTimeout(qpRefit, 160); });
+  $("qCl").onclick = () => { $("qSheet").classList.remove("open"); QTAFCUR = null; qHl(); };
+  $("qTs").onchange = () => { if (QTAFCUR) qTafsirFor(QTAFCUR.sn, QTAFCUR.a); };
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape" && $("qSheet").classList.contains("open")) { $("qCl").click(); return; }
+    if (QVIEW !== "pager" || $("quran").hidden || /^(INPUT|TEXTAREA|SELECT)$/.test((e.target || {}).nodeName)) return;
+    if (e.key === "ArrowLeft" || e.key === "PageDown") qpMove(1); if (e.key === "ArrowRight" || e.key === "PageUp") qpMove(-1);
+  });
 }
 function filter() {
   let n = 0; const term = fold(q.trim());
