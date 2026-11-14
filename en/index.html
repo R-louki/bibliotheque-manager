@@ -12,8 +12,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="The Manager's Library">
 <style>html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px/1.4 system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
-<style>@font-face{font-family:"Scheherazade New";src:url("../quran/fonts/ScheherazadeNew-Quran.woff2") format("woff2");font-display:swap}</style>
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../quran/fonts/ScheherazadeNew-Quran.woff2">
+<style>@font-face{font-family:"KFGQPC Qaloon";src:url("../quran/fonts/KFGQPC-Qaloon-v0.10.ttf") format("truetype");font-display:swap}@font-face{font-family:"Scheherazade New";src:url("../quran/fonts/ScheherazadeNew-Quran.woff2") format("woff2");font-display:swap}</style>
+<link rel="preload" as="font" type="font/ttf" crossorigin href="../quran/fonts/KFGQPC-Qaloon-v0.10.ttf">
 <title>The Manager's Library</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -639,18 +639,18 @@ html[dir="rtl"] #hall .h-n{letter-spacing:0;direction:ltr;text-align:right}
 .qbtn:hover{border-color:var(--muted)}.qbtn[disabled]{opacity:.4;cursor:default}
 .qbanner{font:12.5px/1.6 var(--body);color:var(--ochre);border:1px dashed var(--line);border-radius:10px;padding:10px 12px;margin:0 0 14px;background:var(--card)}
 .qresume{display:flex;align-items:center;justify-content:space-between;gap:12px;border:1px solid var(--line);border-inline-start:4px solid var(--ochre);border-radius:10px;padding:12px 14px;margin-bottom:14px;background:var(--card)}
-.qresume b{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-weight:400;font-size:1.3rem}
+.qresume b{font-family:"KFGQPC Qaloon","Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-weight:400;font-size:1.3rem}
 #qFilter{width:100%;font:inherit;font-size:16px;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);margin-bottom:12px}
 .qlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px}
 .qrow{display:flex;align-items:center;gap:12px;text-align:start;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);cursor:pointer;font:inherit;min-height:56px;transition:border-color .2s,transform .2s}
 .qrow:hover{border-color:var(--accent);transform:translateY(-1px)}
 .qrow .no{flex:none;width:34px;height:34px;border-radius:50%;border:1px solid var(--accent);color:var(--accent);display:flex;align-items:center;justify-content:center;font-family:var(--mono);font-size:12.5px}
-.qrow .nm{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:1.25rem;line-height:1.3}
+.qrow .nm{font-family:"KFGQPC Qaloon","Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:1.25rem;line-height:1.3}
 .qrow .ct{margin-inline-start:auto;font-family:var(--mono);font-size:11.5px;color:var(--muted);white-space:nowrap}
-.qsurah{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-weight:400;font-size:2rem;text-align:center;margin:6px 0 0;direction:rtl}
+.qsurah{font-family:"KFGQPC Qaloon","Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-weight:400;font-size:2rem;text-align:center;margin:6px 0 0;direction:rtl}
 .qmeta{text-align:center;font:12.5px var(--mono);color:var(--muted);margin:2px 0 8px}
-.qbsm{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:calc(var(--qfs) * .95);text-align:center;margin:8px 0 14px;direction:rtl}
-.qtext{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:var(--qfs);line-height:2.35;text-align:justify;text-align-last:center;direction:rtl}
+.qbsm{font-family:"KFGQPC Qaloon","Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:calc(var(--qfs) * .95);text-align:center;margin:8px 0 14px;direction:rtl}
+.qtext{font-family:"KFGQPC Qaloon","Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;font-size:var(--qfs);line-height:2.35;text-align:justify;text-align-last:center;direction:rtl}
 .qv{cursor:pointer;border-radius:8px;padding:0 2px;transition:background .2s}
 .qv:hover{background:var(--accent-soft)}.qv.on{background:var(--accent-soft);box-shadow:0 0 0 2px var(--accent) inset}
 .qn{display:inline-block;min-width:1.75em;height:1.75em;line-height:1.75em;border:1px solid var(--accent);color:var(--accent);border-radius:50%;font-size:.5em;text-align:center;vertical-align:middle;margin:0 .3em;font-family:var(--body)}
@@ -671,7 +671,7 @@ html[dir="rtl"] #qBack{transform:scaleX(-1)}
 .qtf .src{font:12px/1.6 var(--body);color:var(--muted);margin-top:8px;border-top:1px dashed var(--line);padding-top:8px;white-space:normal;direction:ltr}
 /* mode pages */
 .qpbar{display:flex;align-items:center;gap:8px;margin-bottom:8px;direction:ltr}
-.qpinfo{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;text-align:center;font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;line-height:1.35}
+.qpinfo{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;text-align:center;font-family:"KFGQPC Qaloon","Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;line-height:1.35}
 .qpinfo b{font-weight:400;font-size:1.2rem}.qpinfo span{font:11.5px var(--mono);color:var(--muted)}
 .qpnum{display:flex;align-items:center;gap:4px;font:12px var(--mono);color:var(--muted);white-space:nowrap}
 .qpnum input{width:62px;font:inherit;font-size:15px;color:var(--ink);padding:8px 6px;border:1px solid var(--line);border-radius:8px;background:var(--card);text-align:center;min-height:40px}
@@ -681,7 +681,7 @@ html[dir="rtl"] #qBack{transform:scaleX(-1)}
 #qpRange{height:24px}
 .qpane{position:absolute;inset:0;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;will-change:transform;direction:rtl}
 .qpbody{height:calc(100% - 26px);padding:12px 14px 0;overflow:hidden}
-.qpt{font-family:"Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;line-height:1.95;text-align:justify;text-align-last:center;direction:rtl}
+.qpt{font-family:"KFGQPC Qaloon","Scheherazade New","Noto Naskh Arabic","Amiri Quran",serif;line-height:1.95;text-align:justify;text-align-last:center;direction:rtl}
 .qph{text-align:center;border:1px solid var(--accent);border-radius:8px;padding:0 12px;margin:0 0 6px;color:var(--accent);background:var(--accent-soft);font-size:.8em;line-height:1.9}
 .qpb{text-align:center;margin:0 0 6px;font-size:.92em}
 .qpfoot{position:absolute;left:0;right:0;bottom:4px;text-align:center;font:12px var(--mono);color:var(--muted);pointer-events:none}
