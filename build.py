@@ -97,7 +97,11 @@ DESC = {"fr": "{n} livres à forte valeur ajoutée (management, sciences, histoi
 QURAN_ON = os.environ.get("WITH_QURAN", "1") != "0"      # WITH_QURAN=0 pour construire sans le Coran
 QURAN_CFG = {"on": QURAN_ON} if QURAN_ON else None
 # Scheherazade New (SIL OFL) couvre tous les signes du texte de Qalun (Amiri Quran n'a pas U+065E ni U+06D2)
-QFONT = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap">\n'
+# La police est hébergée sur le site (sous-ensemble WOFF2 de Scheherazade New, SIL OFL) : plus de dépendance à Google Fonts,
+# donc les signes propres à Qalun s'affichent même hors ligne ou si Google est bloqué.
+def qfont(root):
+    return ('<style>@font-face{font-family:"Scheherazade New";src:url("' + root + 'quran/fonts/ScheherazadeNew-Quran.woff2") format("woff2");font-display:swap}</style>\n'
+            '<link rel="preload" as="font" type="font/woff2" crossorigin href="' + root + 'quran/fonts/ScheherazadeNew-Quran.woff2">\n')
 
 def build_quran(site):
     qd = site / "quran"
@@ -106,7 +110,46 @@ def build_quran(site):
     src = ROOT / "quran"
     data = json.loads((src / "qalun.json").read_text(encoding="utf-8"))
     hmap = json.loads((src / "map_to_hafs.json").read_text(encoding="utf-8"))
+    import re
     (qd / "s").mkdir(parents=True)
+    if (src / "fonts").exists(): shutil.copytree(src / "fonts", qd / "fonts")
+    # ---- pages du mushaf (604) : chaque verset est placé sur sa page ; un verset à cheval sur deux pages est coupé
+    # au prorata des lignes occupées sur chaque page (les données du Complexe donnent page et lignes par verset, pas par mot)
+    (qd / "p").mkdir()
+    maxline = {}
+    for sh in data["surahs"]:
+        for a in sh["ayat"]:
+            pg = [int(x) for x in re.findall(r"\d+", a["p"])]
+            if len(pg) == 1: maxline[pg[0]] = max(maxline.get(pg[0], 0), a["l"][1])
+            else: maxline[pg[-1]] = max(maxline.get(pg[-1], 0), a["l"][1])
+    pages = {p: {"p": p, "j": None, "items": []} for p in range(1, 605)}
+    nsplit = 0
+    for sh in data["surahs"]:
+        for i, a in enumerate(sh["ayat"]):
+            pg = [int(x) for x in re.findall(r"\d+", a["p"])]; first, last = pg[0], pg[-1]
+            plist = list(range(first, last + 1))
+            if a["n"] == 1:
+                pages[first]["items"].append({"k": "h", "s": sh["n"], "name": sh["name"]})
+                if sh["n"] != 9: pages[first]["items"].append({"k": "b"})
+            words = a["t"].split(" ")
+            if len(plist) == 1: segs = [(first, words)]
+            else:
+                nsplit += 1
+                wts = []
+                for ix, p in enumerate(plist):
+                    tot = maxline.get(p, 15)
+                    wts.append(max(1, tot - a["l"][0] + 1) if ix == 0 else (max(1, a["l"][1]) if ix == len(plist) - 1 else tot))
+                W, cum, segs, tw = len(words), 0, [], sum(wts)
+                for ix, p in enumerate(plist):
+                    if ix == len(plist) - 1: cnt = W - cum
+                    else: cnt = min(max(1, round(W * wts[ix] / tw)), W - cum - (len(plist) - ix - 1))
+                    segs.append((p, words[cum:cum + cnt])); cum += cnt
+            for ix, (p, ws) in enumerate(segs):
+                pages[p]["items"].append({"k": "v", "s": sh["n"], "n": a["n"], "t": " ".join(ws), "a": ix == 0, "z": ix == len(segs) - 1, "h": hmap[sh["n"] - 1][i]})
+                if pages[p]["j"] is None: pages[p]["j"] = a["j"]
+    for p, pg in pages.items():
+        assert pg["items"], f"page {p} vide"
+        (qd / "p" / f"{p:03d}.json").write_text(json.dumps(pg, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     index = {"basmala": data["basmala"], "riwaya": data["riwaya"], "source": data["source"]["texte"], "verification": data["verification"]["limite"],
              "surahs": []}
     for sh in data["surahs"]:
@@ -197,7 +240,7 @@ def page(lang, out_html, root):
         "<link rel=\"alternate\" hreflang=\"fr\" href=\"" + root + "\"><link rel=\"alternate\" hreflang=\"en\" href=\"" + root + "en/\"><link rel=\"alternate\" hreflang=\"ar\" href=\"" + root + "ar/\">\n"
         "<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n<meta name=\"apple-mobile-web-app-title\" content=\"" + title + "\">\n"
         "<style>html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px/1.4 system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>\n"
-        + (QFONT if QURAN_ON else "") + head + sep + "\n<script src=\"" + root + "vendor/supabase.js\"></script>\n"
+        + (qfont(root) if QURAN_ON else "") + head + sep + "\n<script src=\"" + root + "vendor/supabase.js\"></script>\n"
         "<script>window.SUPA_CFG=" + json.dumps(CFG) + ";window.QURAN=" + json.dumps(QURAN_CFG) + ";window.LANG=" + json.dumps(lang) + ";window.SITE_ROOT=" + json.dumps(root) + ";window.I18N=" + json.dumps(ui, ensure_ascii=False).replace("</", "<\\/") + ";</script>\n</head>\n<body>\n" + body.lstrip("\n") + "\n</body>\n</html>\n")
 
 TR_UI = {}
