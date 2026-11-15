@@ -1089,7 +1089,12 @@ const MONTHS = LANG === "fr" ? ["janvier", "février", "mars", "avril", "mai", "
 
 /* ---------- Vues ---------- */
 const VIEWS = ["home", "learn", "dash", "notebook", "admin", "book", "quran"];
+/* Navigation : toute vue autre que l'accueil (livre, Coran, onglets) ajoute UNE entrée d'historique ; le bouton « retour » du téléphone
+   ramène alors à l'accueil au lieu de quitter l'application. */
+let NAVBACK = false;
+function navEnter() { try { if (!(history.state && history.state.child)) history.pushState({ child: 1 }, "", location.href); } catch (e) {} }
 function showView(v) {
+  if (v !== "home") navEnter();
   VIEWS.forEach(x => $(x).hidden = x !== v);
   $("appnav").hidden = v === "book";
   document.querySelectorAll("#appnav .tabs [data-view]").forEach(a => a.setAttribute("aria-current", a.dataset.view === v ? "page" : "false"));
@@ -1097,7 +1102,7 @@ function showView(v) {
   if (v === "notebook") renderNotebook();
   if (v === "learn") { renderLearn(); if (typeof loadClubs === "function" && session) loadClubs().then(() => { if (!$("learn").hidden) renderLearn(); }); }
   if (v === "admin") renderAdmin();
-  if (v !== "book") { try { history.replaceState(null, "", v === "home" ? location.pathname + location.search : "#" + ({ dash: "progression", notebook: "carnet", learn: "apprendre", admin: "admin", quran: "coran" })[v]); } catch (e) {} }
+  if (v !== "book") { try { history.replaceState(v === "home" ? null : history.state, "", v === "home" ? location.pathname + location.search : "#" + ({ dash: "progression", notebook: "carnet", learn: "apprendre", admin: "admin", quran: "coran" })[v]); } catch (e) {} }
   window.scrollTo(0, 0);
 }
 
@@ -2346,7 +2351,7 @@ function renderBody(blocks, bi, ni) {
 }
 function openBook(id, keepScroll) {
   const b = BOOKS.find(x => x.id === id); if (!b) return;
-  curBook = b;
+  curBook = b; navEnter();
   stopSpeech(); $("prefs").hidden = true; $("prefBtn").setAttribute("aria-pressed", "false");
   VIEWS.forEach(x => $(x).hidden = x !== "book"); $("appnav").hidden = true;
   $("bkCover").innerHTML = coverSVG(b);
@@ -2367,7 +2372,7 @@ function openBook(id, keepScroll) {
   const idx = BOOKS.indexOf(b), prev = BOOKS[idx - 1], next = BOOKS[idx + 1];
   $("endnav").innerHTML = `${prev ? `<button class="btn" type="button" data-b="${prev.id}">← ${esc(prev.t)}</button>` : "<span></span>"}<button class="btn primary" type="button" id="endRead"></button>${next ? `<button class="btn" type="button" data-b="${next.id}">${esc(next.t)} →</button>` : ""}`;
   syncBook(); syncMarks(); showResume(); refreshAllHl(); renderQuizBox(); renderMap(true); renderSide(); renderBookRating(); renderReviews();
-  try { history.replaceState(null, "", "#" + b.id); } catch (e) {}
+  try { history.replaceState(history.state, "", "#" + b.id); } catch (e) {}
   if (!keepScroll) window.scrollTo(0, 0);
   onScroll();
 }
@@ -2422,7 +2427,7 @@ function resumeBook(id) { openBook(id); const p = pos[id]; if (p && p.node) setT
 document.addEventListener("click", e => {
   const hlm = e.target.closest("mark.hl"); if (hlm && curBook && !$("book").hidden) { const s = getSelection(); if (!s || s.isCollapsed) { openNote(curBook.id, hlm.dataset.hl); return; } }
   const go = e.target.closest("[data-go]"); if (go) { const [bid, nid] = go.dataset.go.split("|"); openBook(bid); if (nid) setTimeout(() => goTo(nid), 60); return; }
-  const vw = e.target.closest("[data-view]"); if (vw) { if (vw.dataset.view === "home") { const wasHome = !$("home").hidden && !curBook; goHome(); if (wasHome) { sec = "Tous"; cat = "Tous"; q = ""; $("q").value = ""; renderChips(); filter(); setHomeMode("hall"); } } else { if (curBook) goHome(); showView(vw.dataset.view); } return; }
+  const vw = e.target.closest("[data-view]"); if (vw) { if (vw.dataset.view === "home") { const wasHome = !$("home").hidden && !curBook; goHome(); if (wasHome) { sec = "Tous"; cat = "Tous"; q = ""; $("q").value = ""; renderChips(); filter(); setHomeMode("hall"); } } else { if (curBook) goHome(true); showView(vw.dataset.view); } return; }
   const t = e.target.closest("[data-t]"); if (t) { e.preventDefault(); goTo(t.dataset.t); return; }
   const bb = e.target.closest("[data-b]"); if (bb) openBook(bb.dataset.b);
   const mk = e.target.closest("[data-mark]"); if (mk) toggleMark(mk.dataset.mark);
@@ -2439,8 +2444,19 @@ function syncBook() {
   $("bkPdf").textContent = f ? "Lire mon PDF" : "Ajouter mon PDF"; $("bkPdf").classList.toggle("has", !!f);
   $("bkPdfName").textContent = f ? f.name : ""; $("bkPdfRm").hidden = !f;
 }
-function goHome() { if (typeof flushPos === "function") flushPos(); stopSpeech(); hideSelNow(); $("prefs").hidden = true; curBook = null; syncHome(); showView("home"); }
+function goHome(keepEntry) {   // keepEntry : on enchaîne aussitôt sur une autre vue, l'entrée d'historique est conservée
+  const child = !keepEntry && !!(history.state && history.state.child);
+  if (typeof flushPos === "function") flushPos(); stopSpeech(); hideSelNow(); $("prefs").hidden = true; curBook = null; syncHome(); showView("home");
+  if (child) { NAVBACK = true; try { history.back(); } catch (e) { NAVBACK = false; } }   // retire l'entrée d'historique de la vue quittée
+}
 $("backHome").onclick = goHome;
+// Bouton « retour » du téléphone (ou geste de retour) : on quitte la vue courante sans sortir de l'application
+addEventListener("popstate", () => {
+  if (NAVBACK) { NAVBACK = false; return; }
+  if (!$("home").hidden) return;
+  if (typeof flushPos === "function") flushPos(); stopSpeech(); hideSelNow(); $("prefs").hidden = true; curBook = null; syncHome(); showView("home");
+  try { trClose(); } catch (e) {}
+});
 function onScroll() {
   if ($("book").hidden) return;
   const r = $("reading").getBoundingClientRect(); const h = r.height - innerHeight * 0.6;
@@ -2838,7 +2854,7 @@ async function renderAdmin() {
   box.querySelectorAll(".rvitem").forEach((el, k) => { const r = last[k], b = BOOKS.find(x => x.id === r.book_id); el.querySelector("strong").textContent = names[r.user_id] || "Lecteur"; el.querySelector(".rvdate").textContent = (b ? b.t + " · " : "") + fmtDate(r.updated_at); el.querySelector("p").textContent = r.body || ""; });
   box.querySelectorAll("[data-admdel]").forEach(b => b.onclick = () => confirmBtn(b, "Confirmer", async () => { await sb.from("reviews").delete().eq("id", b.dataset.admdel); renderAdmin(); loadRatings(); }));
 }
-$("adminBtn").onclick = () => { $("acctSheet").hidden = true; if (curBook) goHome(); showView("admin"); };
+$("adminBtn").onclick = () => { $("acctSheet").hidden = true; if (curBook) goHome(true); showView("admin"); };
 
 /* ---------- Démarrage ---------- */
 $("langHome").innerHTML = langSelect("langSelH"); $("langAuth").innerHTML = langSelect("langSelA");
