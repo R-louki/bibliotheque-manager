@@ -360,6 +360,20 @@ mark.hl.has-note{box-shadow:inset 0 -2px 0 var(--ochre)}
 .selbar{position:fixed;z-index:35;left:50%;transform:translateX(-50%);bottom:calc(18px + env(safe-area-inset-bottom,0px));display:flex;gap:6px;background:var(--ink);border-radius:999px;padding:6px;box-shadow:0 10px 24px -8px rgb(0 0 0 / .45)}
 .selbar button{font-family:var(--mono);font-size:13px;border:0;border-radius:999px;padding:9px 14px;background:transparent;color:var(--paper);cursor:pointer;white-space:nowrap}
 .selbar button:first-child{background:var(--ochre);color:#fff}
+/* Traduction en français au toucher d'une phrase (pages EN/AR) */
+.trhint{font:12.5px/1.6 var(--body);color:var(--muted);border:1px dashed var(--line);border-radius:10px;padding:8px 12px;margin:0 0 14px;max-width:var(--measure,66ch)}
+.trsheet{position:fixed;left:0;right:0;bottom:0;z-index:36;background:var(--card);border-top:1px solid var(--line);box-shadow:0 -10px 30px rgba(0,0,0,.18);border-radius:18px 18px 0 0;padding:12px 16px calc(16px + env(safe-area-inset-bottom,0px));max-height:46vh;overflow:auto;direction:ltr;text-align:left}
+:root[data-device="tablet"] .trsheet,:root[data-device="desktop"] .trsheet{left:50%;right:auto;width:min(760px,calc(100% - 32px));bottom:12px;transform:translateX(-50%);border-radius:18px;border:1px solid var(--line)}
+.trh{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.trh b{font:11.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);flex:1}
+.trh button{font:inherit;font-family:var(--mono);font-size:15px;min-width:40px;min-height:40px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);cursor:pointer;padding:0 10px}
+.trh button[disabled]{opacity:.35;cursor:default}
+.trsrc{font:13px/1.6 var(--body);color:var(--muted);margin:0 0 8px;padding-bottom:8px;border-bottom:1px dashed var(--line)}
+.trsrc[dir="rtl"]{text-align:right}
+.trfr{font:17px/1.65 var(--body);color:var(--ink)}
+.trnote{font:12px/1.5 var(--body);color:var(--ochre);margin-top:8px}
+::highlight(trh){background:var(--accent-soft);color:inherit}
+#book.trbar .readwrap{padding-bottom:300px}
 .sheet{position:fixed;inset:0;z-index:55;background:rgb(0 0 0 / .35);display:flex;align-items:flex-end;justify-content:center}
 .sheetin{width:min(600px,100%);background:var(--card);border-radius:16px 16px 0 0;padding:18px max(16px,env(safe-area-inset-right,0px)) calc(18px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));display:grid;gap:12px;max-height:90vh;overflow:auto}
 .sheethead{display:flex;justify-content:space-between;align-items:center;gap:10px}
@@ -847,6 +861,7 @@ html[dir="rtl"] .qmpanel{animation-name:qminr}
     <div class="prow"><span>Taille du texte</span><div class="seg" data-pref="size"><button type="button" data-v="15">A−</button><button type="button" data-v="17">A</button><button type="button" data-v="19">A+</button><button type="button" data-v="21">A++</button></div></div>
     <div class="prow"><span>Thème</span><div class="seg" data-pref="theme"><button type="button" data-v="auto">Auto</button><button type="button" data-v="light">Clair</button><button type="button" data-v="sepia">Sépia</button><button type="button" data-v="dark">Sombre</button></div></div>
     <div class="prow"><span>Largeur du texte</span><div class="seg" data-pref="width"><button type="button" data-v="58">Étroite</button><button type="button" data-v="66">Normale</button><button type="button" data-v="80">Large</button></div></div>
+    <div class="prow" id="prTr" hidden><span>Traduction en français au toucher</span><div class="seg" data-pref="tr"><button type="button" data-v="1">Activée</button><button type="button" data-v="0">Désactivée</button></div></div>
   </div>
   <div class="wrap wide">
     <div class="bookhead">
@@ -919,6 +934,13 @@ html[dir="rtl"] .qmpanel{animation-name:qminr}
 <div class="selbar" id="selbar" hidden>
   <button type="button" id="selHl">Surligner</button>
   <button type="button" id="selNote">Surligner + note</button>
+</div>
+
+<div class="trsheet" id="trSheet" hidden role="dialog" aria-live="polite" aria-label="Traduction en français">
+  <div class="trh"><b>Traduction en français</b><button type="button" id="trPrev" aria-label="Phrase précédente">‹</button><button type="button" id="trNext" aria-label="Phrase suivante">›</button><button type="button" id="trCl" aria-label="Fermer">✕</button></div>
+  <p class="trsrc" id="trSrc"></p>
+  <div class="trfr" id="trFr" lang="fr"></div>
+  <div class="trnote" id="trNote" hidden>Les phrases de ce paragraphe ne se correspondent pas une à une : voici le paragraphe entier en français.</div>
 </div>
 
 <div class="player" id="player" hidden role="region" aria-label="Lecture audio">
@@ -1158,7 +1180,7 @@ function applyPrefs() {
   if (pr.theme && pr.theme !== "auto") root.setAttribute("data-theme", pr.theme); else root.removeAttribute("data-theme");
   const meta = document.querySelector('meta[name="theme-color"]');
   if (meta) meta.content = getComputedStyle(root).getPropertyValue("--paper").trim() || "#f4f5f0";
-  const cur = { size: String(+pr.size || 17), theme: pr.theme || "auto", width: String(+pr.width || 66) };
+  const cur = { size: String(+pr.size || 17), theme: pr.theme || "auto", width: String(+pr.width || 66), tr: pr.tr === 0 ? "0" : "1" };
   document.querySelectorAll("#prefs .seg").forEach(seg => seg.querySelectorAll("button").forEach(btn => btn.setAttribute("aria-pressed", btn.dataset.v === cur[seg.dataset.pref])));
   TTS.rate = +pr.rate || 1; const pl = $("plRate"); if (pl) pl.textContent = TTS.rate.toString().replace(".", ",") + "×";
 }
@@ -1204,6 +1226,69 @@ function refreshNodeHl(nodeId) {
   const c = el.querySelector(".hlcount"); if (c) c.textContent = list.length ? `✎ ${list.length} surlignage${list.length > 1 ? "s" : ""}` : "";
 }
 function refreshAllHl() { if (!curBook) return; document.querySelectorAll("#reading .node").forEach(n => refreshNodeHl(n.id)); }
+/* ---------- Traduction en français au toucher d'une phrase (pages EN/AR) ----------
+   Les textes EN/AR sont des traductions de la fiche française, bloc par bloc (même suite de paragraphes, listes et encadrés dans les 871 nœuds).
+   On affiche donc la phrase française correspondante, prise dans notre propre texte (frtext/<livre>.json), sans traduction automatique ni service externe. */
+const FRC = {}; let TRS = null;
+const trOn = () => (ext.prefs || {}).tr !== 0;
+async function frText(id) {
+  if (FRC[id]) return FRC[id];
+  const r = await fetch(new URL((window.SITE_ROOT || "./") + "frtext/" + id + ".json", location.href)); if (!r.ok) throw new Error("frtext");
+  return (FRC[id] = await r.json());
+}
+const plainFr = s => s.replace(/\*\*(.+?)\*\*/g, "$1").replace(/\*(.+?)\*/g, "$1");
+function sentSpans(t) {   // coupe après . ! ? … ؟ suivi d'un espace (même règle que le contrôle d'alignement)
+  const out = []; const re = /[.!?…؟]\s+/g; let st = 0, m;
+  while ((m = re.exec(t))) { out.push([st, m.index + 1]); st = m.index + m[0].length; }
+  if (st < t.length) out.push([st, t.length]);
+  return out.filter(([a, b]) => t.slice(a, b).trim());
+}
+function caretAt(x, y) {
+  if (document.caretPositionFromPoint) { const p = document.caretPositionFromPoint(x, y); return p ? [p.offsetNode, p.offset] : null; }
+  if (document.caretRangeFromPoint) { const r = document.caretRangeFromPoint(x, y); return r ? [r.startContainer, r.startOffset] : null; }
+  return null;
+}
+function textRange(el, a, b) {   // Range couvrant les caractères [a, b[ du texte de el
+  const tw = document.createTreeWalker(el, NodeFilter.SHOW_TEXT), r = document.createRange(); let pos = 0, started = false, n;
+  while ((n = tw.nextNode())) {
+    const L = n.nodeValue.length;
+    if (!started && a < pos + L) { r.setStart(n, a - pos); started = true; }
+    if (started && b <= pos + L) { r.setEnd(n, b - pos); return r; }
+    pos += L;
+  }
+  return started ? r : null;
+}
+function trHighlight(r) { try { if (window.CSS && CSS.highlights && window.Highlight) { if (r) CSS.highlights.set("trh", new Highlight(r)); else CSS.highlights.delete("trh"); } } catch (e) {} }
+function trClose() { $("trSheet").hidden = true; $("book").classList.remove("trbar"); trHighlight(null); TRS = null; }
+function trRender() {
+  const S = TRS; if (!S) return; const [a, b] = S.sp[S.k];
+  $("trSrc").textContent = S.text.slice(a, b).trim(); $("trSrc").dir = RTL ? "rtl" : "ltr";
+  if (S.aligned) { const [x, y] = S.fsp[S.k]; $("trFr").textContent = S.frT.slice(x, y).trim(); } else $("trFr").textContent = S.frT;
+  $("trNote").hidden = S.aligned; $("trPrev").disabled = !S.aligned || S.k <= 0; $("trNext").disabled = !S.aligned || S.k >= S.sp.length - 1;
+  trHighlight(textRange(S.el, a, b));
+}
+$("reading").addEventListener("click", async e => {
+  if (LANG === "fr" || !curBook || curBook.bodyLang !== LANG || !trOn()) return;
+  if (e.target.closest("a,button,mark,.noderow,h2,h3,.kw,.langnote,.trhint")) return;
+  const sel = getSelection(); if (sel && !sel.isCollapsed) return;
+  const blk = e.target.closest("[data-fr]"); if (!blk) return;
+  const li = e.target.closest("li"), el = li && blk.contains(li) ? li : (blk.querySelector(":scope > .ctx") || blk);
+  const c = caretAt(e.clientX, e.clientY); if (!c || !el.contains(c[0])) return;
+  const pre = document.createRange(); pre.setStart(el, 0); pre.setEnd(c[0], c[1]);
+  const off = pre.toString().length, text = el.textContent, sp = sentSpans(text); if (!sp.length) return;
+  let k = sp.findIndex(([a, b]) => off >= a && off <= b); if (k < 0) k = sp.length - 1;
+  const [bi, ni, bk] = blk.dataset.fr.split(".").map(Number), mi = li ? +li.dataset.li : -1;
+  let data; try { data = await frText(curBook.id); } catch (err) { return; }
+  const fb = data[bi] && data[bi][ni] && data[bi][ni][bk]; if (!fb) return;
+  const raw = fb.t === "ul" ? fb.i[mi] : fb.x; if (raw == null) return;
+  const frT = plainFr(raw), fsp = sentSpans(frT);
+  TRS = { el, text, sp, k, frT, fsp, aligned: fsp.length === sp.length };
+  trRender(); $("trSheet").hidden = false; $("book").classList.add("trbar");
+});
+$("trPrev").onclick = () => { if (TRS && TRS.k > 0) { TRS.k--; trRender(); } };
+$("trNext").onclick = () => { if (TRS && TRS.k < TRS.sp.length - 1) { TRS.k++; trRender(); } };
+$("trCl").onclick = trClose;
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !$("trSheet").hidden) trClose(); });
 let selPending = null, selTimer = null, selHideTimer = null;
 document.addEventListener("selectionchange", () => { clearTimeout(selTimer); selTimer = setTimeout(checkSel, 150); });
 function nodeOf(x) { return x ? (x.nodeType === 1 ? x : x.parentElement).closest("#reading .node") : null; }
@@ -2267,11 +2352,13 @@ function updateSide(pct) {
 }
 
 /* ---------- Lecture ---------- */
-function renderBody(blocks) {
-  return blocks.map(bl => {
-    if (bl.type === "p") return `<p>${inline(bl.text)}</p>`;
-    if (bl.type === "ul") return `<ul>${bl.items.map(i => `<li>${inline(i)}</li>`).join("")}</ul>`;
-    if (bl.type === "callout") return `<div class="callout"><b>${esc(bl.label || "À retenir")}</b>${inline(bl.text)}</div>`;
+function renderBody(blocks, bi, ni) {
+  // data-fr = « branche.nœud.bloc » : repère pour retrouver la phrase française correspondante (pages EN/AR)
+  return blocks.map((bl, k) => {
+    const at = ` data-fr="${bi}.${ni}.${k}"`;
+    if (bl.type === "p") return `<p${at}>${inline(bl.text)}</p>`;
+    if (bl.type === "ul") return `<ul${at}>${bl.items.map((i, m) => `<li data-li="${m}">${inline(i)}</li>`).join("")}</ul>`;
+    if (bl.type === "callout") return `<div class="callout"${at}><b>${esc(bl.label || "À retenir")}</b><span class="ctx">${inline(bl.text)}</span></div>`;
     return "";
   }).join("");
 }
@@ -2286,12 +2373,13 @@ function openBook(id, keepScroll) {
   $("bkFacts").innerHTML = `<span><b>${esc(b.a)}</b></span><span>Parution ${b.y}</span><span>Livre ${esc(b.p)}</span><span>Lecture de la fiche <b>${b.min} min</b></span><span>${b.branches.length} branches · ${b.branches.reduce((s, x) => s + x.nodes.length, 0)} idées</span>`;
   MM.collapsed = initialCollapsed(b); MM.bookId = null;
   $("toc").innerHTML = b.branches.map((br, i) => `<a href="#b-${i}" style="--bc:var(${BCOL[i % BCOL.length]})" data-t="b-${i}">${esc(br.title)}</a>`).join("");
-  $("reading").innerHTML = `<span id="reading-top"></span>` + (LANG !== "fr" && b.bodyLang !== LANG ? `<p class="langnote">${T("Le texte complet de cette fiche est pour l'instant disponible en français. Le titre, la carte mentale et le quiz sont traduits ; la traduction intégrale arrive progressivement.")}</p>` : "") + b.branches.map((br, i) => `
+  trClose(); $("prTr").hidden = !(LANG !== "fr" && b.bodyLang === LANG);
+  $("reading").innerHTML = `<span id="reading-top"></span>` + (LANG !== "fr" && b.bodyLang === LANG && trOn() ? `<p class="trhint">${T("Touchez une phrase pour voir sa traduction en français.")}</p>` : "") + (LANG !== "fr" && b.bodyLang !== LANG ? `<p class="langnote">${T("Le texte complet de cette fiche est pour l'instant disponible en français. Le titre, la carte mentale et le quiz sont traduits ; la traduction intégrale arrive progressivement.")}</p>` : "") + b.branches.map((br, i) => `
     <section class="branch" id="b-${i}" style="--bc:var(${BCOL[i % BCOL.length]})">
       <h2><span class="n">${String(i + 1).padStart(2, "0")}</span>${esc(br.title)}</h2>
       ${br.nodes.map((nd, j) => `<div class="node" id="n-${i}-${j}">
         <h3>${esc(nd.title)}</h3>${nd.kw ? `<div class="kw">${esc(nd.kw)}</div>` : ""}
-        ${renderBody(nd.body)}
+        ${renderBody(nd.body, i, j)}
         <div class="noderow"><button class="markbtn" type="button" data-mark="n-${i}-${j}" aria-pressed="false">Ajouter un marque-page</button><button class="backmap" type="button" data-t="map">↑ Revenir à la carte</button><span class="hlcount" data-hlc="n-${i}-${j}"></span></div></div>`).join("")}
     </section>`).join("");
   const idx = BOOKS.indexOf(b), prev = BOOKS[idx - 1], next = BOOKS[idx + 1];
