@@ -2,6 +2,9 @@
 
 Ce fichier sert de mémoire du projet pour reprendre le travail dans une nouvelle session Claude (Claude Code ou claude.ai) sur un autre compte.
 
+> **Reprise sur un autre compte ou un autre PC : lire d'abord `passation/README.md`**, puis `passation/ETAT.md` (où en est le projet, décisions en attente) et `passation/DECISIONS.md` (règles du propriétaire, choix techniques, pièges). `passation/PROMPT_DE_REPRISE.md` contient le premier message à coller dans la nouvelle session. La mémoire de l'ancien compte est copiée dans `passation/memoire-claude/`.
+> Points qui complètent ce fichier (depuis le 14-15 novembre 2026) : le mode pages du Coran est immersif (plein écran, menu ☰) ; la police du Coran est **KFGQPC Qaloon servie telle quelle** (licence : pas de modification) et non plus Scheherazade ; le comptage des versets reste celui de Médine.
+
 ## Le projet en bref
 - Site : https://r-louki.github.io/bibliotheque-manager/ (FR), `/en/`, `/ar/` (arabe, RTL).
 - Dépôt GitHub : `R-louki/bibliotheque-manager`

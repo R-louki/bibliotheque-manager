@@ -1,0 +1,3 @@
+- [Coran en riwaya de Qalun](project-coran-qalun.md) — premier livre Islamiques : source, contrôles, points ouverts
+- [Lecteur du Coran privé](project-coran-lecteur-prive.md) — comment le construire, garde-fous de publication
+- [Vérifier après publication](feedback-publication-verifier.md) — contrôler le déploiement Pages et le contenu en ligne
