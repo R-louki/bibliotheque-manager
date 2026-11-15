@@ -264,6 +264,21 @@ if SITE.exists():
     src = pathlib.Path("/tmp/claude-0/-home-claude/23635339-aa1c-5e6c-bc9b-58e1161d2c2a/scratchpad/sb/package/dist/umd")
     for f in src.glob("*.js"): shutil.copy(f, v / f.name)
     (SITE / ".nojekyll").write_text("")
+    # Textes français alignés (traduction au toucher des pages EN/AR) : un fichier par livre, chargé à la demande.
+    # Chaque nœud EN/AR a exactement la même suite de blocs que le français (vérifié : 871 nœuds sur 871).
+    frd = SITE / "frtext"
+    if frd.exists(): shutil.rmtree(frd)
+    frd.mkdir()
+    def _blk(bl):
+        if bl["type"] == "p": return {"t": "p", "x": bl["text"]}
+        if bl["type"] == "ul": return {"t": "ul", "i": bl["items"]}
+        return {"t": "c", "l": bl.get("label", ""), "x": bl["text"]}
+    nfr = 0
+    for b in books:
+        if not any((ROOT / "i18n" / l / "full" / f'{b["id"]}.txt').exists() for l in ("en", "ar")): continue
+        data = [[[_blk(bl) for bl in nd["body"]] for nd in br["nodes"]] for br in b["branches"]]
+        (frd / f'{b["id"]}.json').write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"); nfr += 1
+    print("Textes français alignés :", nfr)
     print("Coran :", build_quran(SITE))
     sys.path.insert(0, str(ROOT)); import pwa
     print("PWA", pwa.build(SITE, pages["fr"] + pages["en"] + pages["ar"]))
