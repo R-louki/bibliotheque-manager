@@ -2,7 +2,7 @@ import json, re, sys, pathlib
 
 ROOT = pathlib.Path(__file__).parent
 ORDER = ["drucker-eff", "grove", "scott", "lencioni", "collins", "sinek", "covey",
-         "goldsmith", "kahneman", "christensen", "ocean", "drucker-mgmt",
+         "goldsmith", "kahneman", "christensen", "ocean", "antunes-korda", "drucker-mgmt",
          "womack-lean", "liker", "goldratt", "ohno", "rother-shook", "rother-kata",
          "zhuo", "marquet", "doerr", "horowitz", "mcchrystal",
          "carnegie", "patterson", "voss", "cialdini", "newport", "clear",

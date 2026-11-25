@@ -3598,5 +3598,95 @@
    "a": 1,
    "e": "Elle neutralise l'effet des coûts déjà engagés."
   }
+ ],
+ "antunes-korda": [
+  {
+   "q": "Selon les auteurs, à quoi ressemblent le plus les transformations qui réussissent ?",
+   "o": [
+    "À une succession de notes de service et de tableaux de bord",
+    "À des mouvements sociaux qui mobilisent des idées nouvelles, des leaders et le plus grand nombre",
+    "À une décision brillante prise par un petit comité",
+    "À un grand plan de communication annuel"
+   ],
+   "a": 1,
+   "e": "Les démarches « top down » échouent dans 70 % des cas et plus ; les transformations réussies ressemblent à des mouvements sociaux, avec des idées, des leaders et un large ralliement."
+  },
+  {
+   "q": "Quelle question remplace avantageusement « quelle option choisir ? » pour décider collectivement ?",
+   "o": [
+    "Qui a le plus d'ancienneté dans le groupe ?",
+    "Que nous faut-il vérifier pour savoir si ce scénario est le bon ?",
+    "Quelle option coûte le moins cher ?",
+    "Qui est contre cette solution ?"
+   ],
+   "a": 1,
+   "e": "Cette question rend les objections constructives, facilite l'accord sur des hypothèses à vérifier et engage dans le « test and learn »."
+  },
+  {
+   "q": "Comment les auteurs recommandent-ils d'identifier les meilleures pratiques dans une organisation ?",
+   "o": [
+    "Recueillir les idées de tous les collaborateurs",
+    "Retenir les pratiques des équipes qui ont les meilleurs résultats absolus",
+    "Chercher les pratiques qui distinguent ceux qui progressent le plus de ceux qui progressent peu",
+    "Copier uniquement les concurrents du même secteur"
+   ],
+   "a": 2,
+   "e": "Les meilleurs résultats absolus reflètent souvent des acquis anciens ; ce sont les pratiques « discriminantes » entre ceux qui progressent et les autres qui sont réplicables."
+  },
+  {
+   "q": "Selon les auteurs, pourquoi des managers intelligents ne placent-ils pas une nouvelle priorité au sommet de leur liste ?",
+   "o": [
+    "Ils manquent de compétences",
+    "Ils croient que les priorités annoncées ne sont pas les vraies, ou que ce n'est pas sur cela qu'ils seront évalués",
+    "Ils refusent toute forme de changement",
+    "Ils n'ont jamais entendu parler du projet"
+   ],
+   "a": 1,
+   "e": "Trop de priorités, des priorités jugées peu réelles et une évaluation centrée sur d'autres critères expliquent le blocage. « Les gens font ce qui est vérifié »."
+  },
+  {
+   "q": "Quelle est la méthode proposée à la place des objectifs individuels ou d'un standard de performance unique ?",
+   "o": [
+    "Supprimer toute mesure",
+    "Comparer les progrès par rapport à l'année précédente, en interne ou avec les meilleurs concurrents",
+    "Fixer des objectifs plus élevés chaque année",
+    "Classer les équipes sur leur performance absolue"
+   ],
+   "a": 1,
+   "e": "Comparer les progrès évite le découragement des entités faibles, relance les meilleures et favorise la coopération."
+  },
+  {
+   "q": "Qu'est-ce qu'un message efficace, selon les auteurs ?",
+   "o": [
+    "Un exposé complet de vingt diapositives",
+    "Trois à dix mots, avec un verbe concret et un sens clair",
+    "Une phrase longue et nuancée",
+    "Un tableau de chiffres sans commentaire"
+   ],
+   "a": 1,
+   "e": "Le message essentiel tient en trois à dix mots, avec un verbe concret, et se décline en trois ou quatre messages de second niveau ; il est illustré par une histoire vivante."
+  },
+  {
+   "q": "Pourquoi une formation reste-t-elle souvent sans effet, selon Bandura cité dans le livre ?",
+   "o": [
+    "Parce que le contenu est trop court",
+    "Parce que le sentiment de compétence compte plus que la compétence réelle, et qu'on ne l'a pas construit en s'entraînant avec succès",
+    "Parce que les participants sont trop jeunes",
+    "Parce que la formation est gratuite"
+   ],
+   "a": 1,
+   "e": "C'est l'« auto-efficacité » : on agit si l'on se sent capable de le faire, surtout si on l'a déjà réussi une fois. D'où l'importance de l'entraînement."
+  },
+  {
+   "q": "D'après Seligman, comment se forme le découragement face à un échec ?",
+   "o": [
+    "On attribue l'échec à une cause précise et surmontable",
+    "On attribue l'échec à des causes générales et permanentes",
+    "On refuse d'admettre l'échec",
+    "On compare ses résultats avec ceux des concurrents"
+   ],
+   "a": 1,
+   "e": "Percevoir les raisons d'un échec comme générales et permanentes décourage ; l'optimisme s'acquiert en attribuant les échecs à des causes précises et surmontables."
+  }
  ]
 }

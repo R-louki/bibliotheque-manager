@@ -1,0 +1,347 @@
+=== Why so many transformations fail
+--- A small revolution
+kw: social movement · 70% failure
+The authors start from a simple observation: in companies, a strategic decision is almost always made by a few people and carried out by hundreds, sometimes thousands of others, spread across several sites, several countries and several cultures. For an individual, it is already hard to align one's actions with one's intentions: quitting smoking, exercising regularly. For an organization it is infinitely harder, all the more so because today's transformations affect ways of doing and thinking, not just a few procedures.
+
+The usual approach is to decide at the top and then circulate memos, presentations and dashboards. The international studies they cite put its failure rate at 70% or more. The initiatives that succeed look more like social movements. A peaceful revolution is not won with KPIs: it takes new ideas, many leaders in every region, and the support of ordinary people, who are usually indifferent but who can then change the course of events.
+
+The book draws its structure from this, in three parts: stimulating collective intelligence, growing leaders, widening the movement. Each chapter opens with a scenario inspired by a real case, presents several “keys,” then ends with questions to have someone ask you, out loud.
+
+> À retenir | Leading a transformation means leading a small revolution: it succeeds when many people contribute to it, not when a decision is simply announced.
+
+--- The gap between deciding and acting
+kw: smart people · desire to act · chain
+The same question comes back in every chapter: why do intelligent, well-meaning people not do what is expected of them? The authors reject the convenient answer, the “resistance to change” attributed to others. They propose tracing back along a chain: a message must first be delivered, then heard, understood, accepted, and finally followed by action. Each link can break, and a leader who notes that “nothing is happening” has not necessarily identified which one.
+
+This reading is useful because it replaces blame with diagnosis. If teams are not acting, you ask where the message stopped. For lack of information? For lack of listening? Because people don't believe in it? Because nobody said concretely what to do? Because the leadership itself does not seem to believe in it? Each stage has simple actions that the chapters detail.
+
+They add a point that is often forgotten: to act yourself, you need a positive desire. Reason is generally enough to avoid opposing, but not to get moving, especially when the effort is uncomfortable. Hence the weight given to understanding, recognition, emotions and the leader's example.
+
+- Delivered, heard, understood, accepted, followed by action: five links, five possible causes of blockage.
+- Diagnosis comes before the solution: where did the message stop?
+- Reason alone does not trigger action; desire matters just as much.
+
+> Question clé | If nothing moves, at which link of the chain was the message lost: delivered, heard, understood, accepted or put into action?
+
+--- Five stages of engagement
+kw: presence · rules · initiative · passion
+The authors remind us that even when an employee is tightly supervised, they still choose their level of engagement in daily work. They distinguish five stages: simply being present; making sure to follow instructions; doing one's best to work effectively; taking initiative; and finally, at the ultimate stage, showing passion.
+
+In a transformation, it is essential that a majority of employees be at the most advanced stages. A project that only gets people at the first two stages produces compliance at best, without the energy or creativity needed to solve unforeseen problems.
+
+The surveys they cite indicate that about one employee in five worldwide is “disengaged,” indifferent to the company's goals and determined to do the bare minimum. One study puts the annual cost of a disengaged employee at around ten thousand dollars, a figure common sense suggests multiplying by ten for a manager and by a hundred for an executive. So the stakes are not only human: they are economic too.
+
+Finally, the authors note that the main adversary of a transformation is not always open opposition. There is discouragement, irony, anger, and above all indifference, the worst: nobody objects, but nothing changes.
+
+> À retenir | A successful transformation moves most teams towards initiative and passion; indifference is more dangerous than opposition.
+
+=== Opening the conversation and asking the right questions
+--- Say everything: situation and project
+kw: transparency · meaning · interpretation
+The first key to collective intelligence is to dare to open the conversation. The authors list the false good reasons for staying silent. When the initiative stems from an opportunity, communicating is a pleasure. When it stems from a problem, people hesitate: fear of demoralizing, of seeing the best leave, of letting information leak, or of being personally called into question. People also believe that employees would not understand, or that they “already know.”
+
+Each of these arguments has an answer. Downplaying a problem guarantees that nobody will make the effort to solve it. Employees understand economic issues better than leaders think, provided someone explains them. And even if information circulates, a collective opinion forms quickly from the news and hallway conversations, then becomes very hard to change. So teams must be helped to connect the facts: sales are falling because a competitor is cheaper, so productivity must improve.
+
+It is not enough to explain the “why.” You must also present the project, the “what,” to everyone who will contribute to carrying it out, without underestimating how many they are or how much importance a detail can take on for them. If the project must stay confidential for a while, decide in advance when everyone will be informed.
+
+Finally, you must “place the order”: say concretely what is expected of each person and ask them to bring their skills, including to the diagnosis and design, within the scope they know best.
+
+- The why (the situation), the what (the project), the how (what each person must do).
+- Help people interpret information rather than assume it is already known.
+- Involve people on the ground in the diagnosis.
+
+> Exercice | Write in three sentences what you concretely expect from each of your collaborators in your current project. If you can't, they won't be able to either.
+
+--- Why thinking together often fails
+kw: tug of war · brainstorming · confusion
+Collective intelligence is not automatic. The authors rely on research that identified a “collective intelligence factor” independent of the intelligence of individuals: a group can outperform each of its members. But they insist on three reasons why, most of the time, we think less well together.
+
+First, individual effort drops when it is shared: the more people pull on the rope, the less hard each one pulls. Classic brainstorming, invented in the 1950s, is not very effective because participants are swayed by the first ideas, especially when they come from assertive people. Better results come from asking everyone to think in silence, then submit their best ideas individually, and only afterwards discuss.
+
+Second, collective thinking is confused. Problems and solutions, causes and consequences, pros and cons, short and long term get mixed together as people speak. Finally, individual intelligence is often used to defend one's own idea and criticize others', rather than to observe, listen and learn. The better we are at reasoning, the better we are at finding flaws in facts that contradict our opinion.
+
+The practical conclusion is that collective intelligence produces good answers only when stimulated by good questions, asked in the right order: first to analyze the problem, then to imagine solutions, finally to decide and act.
+
+> À retenir | Bringing together intelligent people is not enough: without method, the group often thinks less well than each person alone. Questions are what structure the thinking.
+
+--- Parallel and integrative thinking
+kw: questions · scenarios · reconciling
+To map out the terrain, the authors recommend **parallel thinking**. Instead of letting everyone approach the subject from their favorite angle (technical, economic, human, short term or long term), you invite the whole group to explore the same aspect at the same time, then move on to the next. For example: what is changing fastest in our environment, what is changing least, what deserves a closer look? Or: what is going in the right direction, what is not, what is important but hard to classify? Everyone speaks without having to decide who is right. The ideas are then grouped into eight to twelve main proposals, which participants weigh by distributing points.
+
+To find solutions, they propose **integrative thinking**, by asking three types of questions. Marginal questions explore what is usually overlooked: which customers use the product in the most unusual way? Lateral questions bypass the usual reasoning: what would we do if we had to cut processing time by a factor of fifty? Broadening questions stretch the field of possibilities: what would be an exactly opposite option that is just as interesting?
+
+The leads are then gathered into two or three coherent scenarios, which different groups flesh out. You can then go further: ask for a scenario that keeps at least one major advantage of each, or a way of seeing the problem such that each scenario applies to a different part of it.
+
+- Parallel thinking: all angles, but one after the other.
+- Integrative thinking: marginal, lateral and broadening questions, then scenarios to reconcile.
+- The benefit: solutions nobody would have found alone, coming from those who will apply them.
+
+--- Asking which tests to run
+kw: hypotheses · test and learn · deciding
+When it comes time to decide, voting is unreliable: levels of information and interests differ too much. In a small group, everyone quickly takes sides for one option, camps form, views harden, and whatever the decision, frustrations remain.
+
+The authors suggest replacing the question “which option should we choose?” with another, asked about each scenario: **what do we need to verify to know whether this scenario is the right one?** This question has three virtues. It makes objections constructive: someone who says “it's impossible” must name the hypothesis they believe is false, and thereby accepts, by implication, that the scenario becomes credible if it holds. It eases agreement, because it is much simpler to agree on hypotheses to verify than on solutions. Finally, it commits people to action: they ask how to test each hypothesis.
+
+They draw a conviction from this: today's revolutions in business rarely happen in a single “big night.” They result from many experiments, and collective boldness, innovation and agility are often worth more than individual vision and genius.
+
+> Question clé | Instead of asking your team which option it prefers, ask: “what must we verify to know whether this option is the right one, and how can we test it this week?”
+
+=== Sharing practices, equipping people, going agile
+--- The habits of the best
+kw: positive deviants · progress · sheets
+In any organization of some size, behind apparent uniformity, ways of working and results differ a lot. Some employees work as they did the day before yesterday, while others are already experimenting with tomorrow's practices. The first lever of transformation, and the easiest to pull, is therefore inside the system. The authors tell, for example, of a banking network where some branches and some advisers sell far more insurance without any structural cause explaining it: it is simply habits, such as offering vehicle insurance as soon as a customer asks for a car loan.
+
+External benchmarking can help, especially outside one's own sector, but the fastest way to get progress is to share what already works within the group. They draw on researchers who studied “positive deviants,” people who, with the same constraints as everyone else, have different and more effective practices. These practices have already proven themselves, are suited to the context, which answers the objection “here it's different,” and recognize those who invented them.
+
+Three traps lie in wait. Collecting everyone's ideas mixes winning and losing practices. Picking the best absolute results confuses good practices with long-standing advantages. Finally, a practice observed among high performers is not necessarily the cause: the famous link between chocolate and Nobel prizes is a reminder. The right method compares those who **progress** the most with those who progress little, for example over two years, then sorts the practices, formalizes them on sheets (title, operating method “like a cooking recipe,” benefits, precautions) and names their author.
+
+> À retenir | Look for the practices that set apart those who progress the most, not those with the best figures; then formalize them on simple sheets signed by their author.
+
+--- Chinese menu and toothbrush
+kw: choice · routine · frequent measurement
+There are three ways to encourage new habits. Management by objectives sets the “what” and leaves the “how” to each person. Management by processes imposes both, at the risk of provoking resistance in organizations that are already heavily regulated. The third option, which the authors recommend, is the **Chinese menu**: offer a choice of proven practices and let each person pick those that suit them. They cite an airline whose cabin crew have a collection of initiatives that have proven themselves, to choose from according to their mood and the atmosphere on board.
+
+In a team meeting, you can run a short session where participants sort the practices into four categories: areas of excellence, strengths, weaknesses and unknown practices. The team picks the most interesting one in each category, and each person also chooses one or two personal practices. This approach can be rolled out on a large scale: a few dozen facilitators trained in less than two hours can lead meetings for several thousand people.
+
+The habit still has to be anchored. Adopting a habit takes effort, following it afterwards takes none, like brushing your teeth. The authors therefore recommend the “toothbrush strategy”: no debate, daily application, encouraging follow-up in the first weeks and frequent measurement of progress. After a few weeks the reflex is acquired and you can look for further progress.
+
+- Offer a choice of practices instead of imposing additional rules.
+- Sort: excellence, strengths, weaknesses, unknown.
+- Follow up and measure very often during the first weeks.
+
+--- Communities and collaborative tools
+kw: weak ties · bottom to bottom
+In many companies, ideas circulate poorly between silos, while the same people exchange easily in their private lives on social networks. The authors invite us to “leave the Middle Ages”: get familiar with the new tools yourself, for example by asking someone under twenty-five to show you the ropes (reverse mentoring), then spending half an hour a day for a month practicing with them.
+
+They then rely on the work of sociologist Mark Granovetter, who showed as early as 1973 the importance of “weak ties”: each individual belongs to a small circle of close contacts, but also to a wider network of people who do not know one another. These weak ties act as bridges between groups, and this is how information spreads and movements are born. In a large organization, enthusiasts must therefore be able to create communities around their subjects: a platform where one posts an idea with keywords, where colleagues around the world rate it, comment on it and enrich it, where the best contributions are highlighted and then reviewed by experts who give feedback.
+
+Four types of communities are useful: project ambassadors, managers, trades and functions, and spontaneous communities, the newest and most interesting. The authors also introduce some vocabulary: “bottom to bottom” (direct exchange between peers, in addition to top down and bottom up), “know-who” (knowing who can help), “self branding” (self-promotion, which motivates contributors) and the idea that these tools are only used if they are placed “in the flow” of daily work, not above it.
+
+> À retenir | Weak ties make ideas circulate: create spaces where enthusiastic people can find one another, exchange and be recognized, at the heart of their daily work.
+
+--- Agility: squads and design thinking
+kw: agile manifesto · squads · prototypes
+Agility is presented as a condition of survival in a shifting landscape, where progress must be fast and course corrections constant. Born in 2001 from an “Agile Manifesto” written by software developers, it runs against traditional principles: it puts individuals and their interactions before processes, collaboration with the customer before the contract, adaptation before the plan, and a working product tested very early before the complete specification.
+
+Agile organizations form **squads**: teams of five to nine people with varied skills, in the same place, with a “product owner” who links to the customer and a large degree of autonomy. Several squads are grouped into “tribes.” To get started, the authors advise transforming the workspaces (fewer partitions, whiteboards, visual management), forming squads without touching the organization chart, then setting up rituals: the short daily stand-up, the two-to-four-week sprint, the forty-five-minute retrospective.
+
+They add **design thinking**, which means thinking like designers: starting from the experience of specific people (“personas”) and framing problems as “how might we…?”, combining what exists rather than inventing everything, building prototypes very early, having real users test them, then launching a minimum viable first version to gather feedback. Hackathons and “design sprints” are forms of it. The benefit is innovating faster, more relevantly and at lower cost, since bad leads are quickly dropped.
+
+--- The agile leader
+kw: done beats perfect · fail fast · service
+The authors believe the main obstacle to agility is not space, tools or budget, but the behavior of managers. Being a leader in an agile environment means changing posture on three points.
+
+The first is to accept that “done is better than perfect.” Companies with a strong total-quality culture struggle to accept that prototypes need not be perfect: what counts is how quickly you reach tests with users. The second is to accept “failing fast.” In an agile organization, failure is frequent and even essential to learning, but its financial consequences stay limited since it concerns inexpensive prototypes. Many organizations find this difficult.
+
+The third is “servant leadership”: the leader gives up excessive control in favor of team autonomy. The team serves its customers, and the leader serves the team. The authors conclude, with humor, that nobody becomes agile by accident, but that many companies have little choice.
+
+> Question clé | When a team shows you an imperfect prototype, is your first reaction to fix its form or to ask how to test it with users this week?
+
+=== Winning hearts and managers
+--- Feeling understood, feeling recognized
+kw: listening · rephrasing · recognition
+The second part of the book opens with an idea: you need not just followers but “follower-leaders” who relay, adapt, improve and multiply action. For them to act, they must want to, and that desire is usually missing for four reasons: they don't feel understood, they don't feel recognized, they associate no positive emotion with the project, or the leader's behavior takes away their wish to take initiative.
+
+The authors tell of an industrial group where only three countries out of twenty-seven had rolled out a reorganization after a year, despite reminders and threats. The leader changed his attitude: he listened without proposing solutions, asked for details, rephrased faithfully, and sent colleagues to listen to the field. At the next convention, he laid out the difficulties encountered point by point, without downplaying any, and acknowledged the energy managers had to put in. Lesson: people don't act as soon as they have understood; they act when they feel they have been understood. When the situation is tense or there are many people to listen to, outside consultants, with interviews, listening groups or anonymous questionnaires, can help.
+
+You must also recognize them: value the best results, but also skills, efforts and early progress, however modest, and the people themselves, by using their names and recalling earlier exchanges. The authors mention trophies on original criteria, such as boldness, and testimonials from those who have already rolled out the project, including about their difficulties. A word or a gesture in daily life is often enough to change a perception.
+
+- Listen without prescribing, rephrase, name difficulties without downplaying them.
+- Recognize results, skills, efforts and people.
+- A synthesis delivered orally beats a general declaration such as “I understand you.”
+
+--- Emotion and the leader's example
+kw: positive emotions · example · energy
+The authors stress that a leader's anger, even when justified, goes over badly when times are hard. They mention “epistemic motivation,” the desire to understand the meaning of others' emotions: high in some people, who react well to anger, it is low in others, who respond better to encouragement, and it drops under stress. In difficult periods, people are therefore less inclined to wonder why their boss is angry and quicker to take offense. Better to smile than to bark.
+
+They also insist on the emotional dimension of motivation. We too often believe arguments are enough, when there is a big step between rational agreement with an idea and getting moving, especially in uncomfortable situations. They recall the saying that people don't buy what you do, but why you do it, and explain through biology that our decisions largely come from the emotional brain. To make people move, you must address hearts and guts, not only heads.
+
+They describe a day where managers, seated at tables of five, compete to propose the best solutions in a cheerful atmosphere, then make collages, sketches and a song about the project. It was the first time the project was associated with positive emotions. But an event does not make up for a year of bad management: you have to create this atmosphere day by day, and above all embody what you ask for. The leader's personal behavior, determination, confidence and enthusiasm are the most important element, and the one on which they can most easily act.
+
+> À retenir | A leader who wants momentum must be momentum: they show that they have understood, that they recognize, that they believe in the project and enjoy it.
+
+--- The middle manager under pressure
+kw: transmission belt · stress · recognition
+An entire chapter is devoted to middle management, which leaders accuse of not relaying their decisions. The authors paint a harsh picture of its condition: front-line management has lost its appeal. In large companies, the multiplication of rules reduces its room to maneuver; in small ones, it often serves as a mere transmission belt. It endures more stress and longer hours, must carry out unpopular decisions it did not make, and its salary advantage is small. Successes are credited to leaders or individual talents, failures to “middle management that failed to explain or change its habits.” It has neither the benefits nor the information of senior management, and it is the favorite target of cost cutting.
+
+Yet it is needed. It leads teams, carries the voice of the field up to leaders, coaches its people, encourages cross-functional collaboration and above all relays messages and goals. It must filter information, turn the how much and the what into the why and the how, give meaning and say concretely how to proceed, often for several directives at once. Apart from a few experiments with “leaderless teams” and “liberated” companies, organizations are once again betting on management: this is the return of managers. But it is humanly impossible to meet such expectations without help.
+
+> Question clé | In your organization, is middle management cited as an asset, or only when there is something to blame?
+
+--- Rights, tools and allies for managers
+kw: club · roadmap · ambassadors
+To obtain duties, you must grant rights. The authors describe a leader who had gathered his fifty main managers in a “club”: an exclusive summary of decisions within twenty-four hours, a quarterly meeting for training or exchange, total freedom of speech, public support in case of dispute. In return, members committed to solidarity, to settling conflicts in private and to jointly carrying any decision once debated. Before a difficult reorganization, the club met three days before the announcement to examine advantages, drawbacks and possible improvements; management classified each proposal as accepted or refused. The announcement was well received.
+
+They also need a “GPS” rather than a compass. What is an objective for a leader is often one more abstract topic for the manager. Interactive communication kits (how does this apply to our team?), diagnostic and tracking tools, and above all cascading **roadmaps** help a great deal: each manager builds their own from their superior's, with their people, listing initiatives, deadlines and indicators. They force each level to express its expectations, involve the teams in rolling out the strategy and prevent going off track. An overload of tools without oral support, on the other hand, leaves managers at a loss: facilitators or ambassadors are useful.
+
+Finally, it is better to make them allies: represent them on the steering committee, set up a committee of “project customers,” involve opinion-leader managers in working groups and appoint ambassadors in each unit, as spokespeople in both directions.
+
+- Inform managers in advance, listen to them, involve them and encourage them.
+- Cascading roadmaps: each person starts from their superior's.
+- Ambassadors and a representative steering committee to make allies.
+
+=== Priorities and progress
+--- Hunting down false priorities
+kw: three priorities · too many projects
+A technology company launches an ambitious “human vision.” Managers approve it, but three months later most employees have never heard of it: management gave priority to other topics judged more urgent. The authors identify three difficulties: managers already have too many priorities, they think the leadership's real priorities are not the ones proclaimed, or they know their performance will not be judged on this point. The leader therefore has three duties: hunt down false priorities, carry their project constantly, and change how performance is evaluated.
+
+On the first point, they observe that projects pile up. Launching a project is useful for headquarters, but also a way to exist, and it is easier to launch two than to stop one. The middle manager sees dozens of “priority” initiatives converge on them and ends up choosing by their own criteria, so that no project is truly rolled out. When more than three priorities are announced, in reality there are none.
+
+They therefore set three rules. No more than three priorities for projects requiring broad deployment, with sub-projects entrusted to a small number of clearly accountable people rather than poured out “in a fine rain.” No additional initiatives imposed by functional departments, just as we avoid bombarding a customer with messages. And no new major project without having closed at least one other.
+
+> À retenir | Beyond three priorities there are no priorities: every new priority must come with the stopping of another.
+
+--- What gets checked gets done
+kw: example · evaluation · Gerstner
+Managers do not believe what they are told, they watch what is done. The authors describe leadership meetings where the talk is market share, profitability, technology and customer satisfaction, but never the new theme, and field visits where no question is asked about it. The result: managers conclude it is not really a priority for their leaders. A priority is a burning, omnipresent subject, which leaders talk about every time they step on a stage and ask people about, over time.
+
+The leader in the case therefore changed method: each meeting now covered an “economic vision” and, systematically, the “human vision,” with examples, testimonials, figures and action plans; each visit included specific questions about actions taken and the indicators chosen. You must be a “tireless, even monomaniacal” carrier of your project.
+
+The next step is to show that this priority is also the manager's. The authors recall the case of Lou Gerstner at IBM in 1993: despite his messages on customers and cooperation, habits did not change, until he understood that people do not do what is expected of them, they do what is checked. He changed the criteria for evaluation, pay and promotion, building in teamwork and speed, and tying bonuses to the results of the whole. In the technology company's case, two questions from the social barometer, about the feeling of progressing and of being happy at work, entered managers' variable pay. The financial effect was small, but very symbolic.
+
+> Exercice | List the criteria on which your managers are really evaluated. Does your new priority appear there? If not, what will happen when it competes with a financial target?
+
+--- The limits of measurement
+kw: indicators · side effects · short term
+The authors then qualify the idea that it would be enough to set numerical targets. They note that large companies that collapsed or were shaken had no shortage of dashboards, and that an abundance of figures does not guarantee a successful strategy. The more you measure, the more you neglect what is hard to measure: rigor, ethics, anticipation, overconfidence. The time spent measuring and discussing figures can end up exceeding the time spent on real work, with employees, products and customers.
+
+The number of objectives is also a problem. Too few, and the team focuses on one or two criteria while neglecting key factors. Too many, and each manager makes their own trade-offs, which makes the organization lose control of its rollout. Yet what is not measured rarely progresses, and a strategic initiative without indicators is destined for the “graveyard of abandoned projects.” The authors also recommend measuring over the very short term: the argument that effects will only be visible over time deserves skepticism.
+
+The question then becomes: how to use measurement intelligently? Their answer is to change what is compared, as the next point develops.
+
+- Measuring is necessary, but figures don't say everything.
+- Too few objectives leads to narrowness, too many to individual trade-offs.
+- Measure in the short term and very regularly.
+
+--- Compare progress, not scores
+kw: compared progress · ranking · cooperation
+The authors criticize two common practices. The first is setting a single performance standard for all units. Yet performance gaps almost always have structural causes, and lagging units are precisely those where progress is hardest and slowest. The biggest reserves of progress are among the best. A standard therefore discourages those who are behind and demobilizes the others.
+
+The second is assigning each person an individual objective. It is low and does not push anyone to change, or high and sets people up to fail, or middling and combines the flaws. An unpredictable environment makes objectives too easy or unrealistic. Counterproductive behaviors appear: negotiating the lowest target, “keeping results in reserve,” disputing interpretations, jealousy. Discussions then focus on the fairness of the allocation rather than on the means of achieving the result.
+
+They propose **comparing progress**. Each unit is asked to make the maximum progress compared with the previous year, with no objective set, and told that units will be ranked on compared progress. Two methods: compare yourself with two or three of the best competitors on the same scope (a method applied by Jean-Marie Descarpentries at CarnaudMetalBox, who had abandoned the budget as an evaluation tool), which neutralizes economic conditions and frees ambition; or compare relatively independent internal units with each other, with a ranking published every month.
+
+Observed effects: everyone wants to progress, and you can dispute an objective but not the need to progress; weak units regain pride; the best progress even faster; and comparing progress fosters cooperation, since the unit that progresses fast is proud to share its practices.
+
+> À retenir | Don't compare scores, compare progress: everyone starts from their own level, nobody is discouraged in advance and the best keep rising.
+
+=== A community of leaders
+--- Building a shared culture
+kw: insularity · status · weak ties
+A transformation almost always demands more collaboration between units that until then merely coexisted. The authors tell of a group of eight high-potential managers spread around the world, whom the head of a transformation brings together remotely: each explains that their activity is very particular and that they have nothing more to share.
+
+They rely on the work of Morten Hansen, according to whom obstacles to collaboration stem mainly from management culture. The “demand” may be missing: because of pressure from objectives that are too narrow and individual, the spirit of insularity (“we don't need the others”), or the status gap between trades, each refusing to put themselves on the level of a trade they consider less noble. Even when people are convinced of the value of collaborating, collaboration fails if they don't know whom to turn to, for lack of weak ties, or if they understand each other poorly, for lack of shared reference points, closeness and trust. Hansen even observes that the least effective units of a large group are often those that spend the most time working with others.
+
+To build a community of leaders, the authors recommend multiplying moves between trades and regions, valuing trades seen as less noble, creating opportunities for ties (integration seminars, manager conventions) and developing together a shared leadership model, which creates common reference points.
+
+- Insularity and status gaps hold back the demand for collaboration.
+- Lack of ties and shared reference points: collaboration remains ineffective.
+- Moves, meetings and a shared leadership model build the common culture.
+
+--- Leadership skills and coaching
+kw: four roles · insights · team promise
+Are management and leadership distinct? The authors recall three positions: for Peter Drucker, management means doing things right and leadership doing the right things; for John Kotter, managers plan, budget and control while leaders innovate, inspire and drive major change; for Henry Mintzberg, they are two sides of the same responsibility and the “narcissistic obsession with leadership” leads to disaster. Above all they conclude that a transformation demands solid leadership skills at every level.
+
+They sum them up in four roles: giving meaning through one's actions even more than one's speeches; being a change agent (digital, collaboration between units, open innovation, agile work); supporting one's people by developing their skills and mobilizing collective intelligence; and showing entrepreneurship, meaning initiative and judgment, to decide amid complexity. Researcher Quy Huy adds that the middle manager must balance change, which prepares the future, and continuity, which secures the present.
+
+These skills are not innate; academic training or experience are not enough. Managers must be exposed to new ideas (“insights”), put into action on cases or projects, and given formative feedback. Leadership teams also need support: “organizational coaching,” unlike individual coaching, helps a team define its “promise” in the transformation, strengthen trust within it and experiment with new actions with its ecosystem of customers, suppliers and partners.
+
+> Question clé | Has each of your leadership teams formulated, in its own words, its “promise” in the transformation?
+
+--- Choosing the real leaders
+kw: results · perseverance · determination
+A leadership committee must choose a new division head between two candidates. Olivier is brilliant, a graduate of a top school and an MBA, charismatic, comfortable in three languages, well connected within the group. Marc has more modest training, weak English, sketchy presentations and a sometimes short temper, but he has long led large teams in difficult operational posts, with results well above the competition. The committee chooses Olivier in a few minutes.
+
+For the authors, this is a common mistake: a person's potential is judged by their “personal marketing,” their diplomas, ease in writing and speaking, even appearance. That is unfair, but also counterproductive. The best way to assess a future manager is to examine their achievements: have they achieved remarkable results consistently? Have they shown passion and perseverance in the face of difficulty, overcome skepticism, inertia or opposition to keep their commitments?
+
+IQ, then emotional quotient, have in turn been put forward. They perhaps matter less today than the determination to get things done and to bring others along. Sometimes you must say no, stop a project that people care about, make choices that displease, take the risk of delegating, transmit energy and convince by example. Appointing managers mainly drawn to analysis or office politics discourages teams, makes initiatives fail and undermines the leadership's credibility.
+
+> À retenir | Judge a future manager on their consistent results, perseverance and ability to bring people along, not on diplomas or speaking ease.
+
+=== Capturing attention, giving meaning, turning opinion around
+--- Capturing attention
+kw: talk about them · talk less · channels
+The third part targets front-line employees, often absorbed by their daily and urgent tasks. The authors begin with a case: a participatory-innovation initiative launched with massive communication, but unknown a year later to most of the people interviewed. If employees don't hear, it is because they haven't tuned in, there is too much noise, or they aren't on the same channel.
+
+To get them to tune in, talk to them about themselves, as a company talks to its customer: start from their situation, their concerns, not your objectives or your organization. A document titled “Sales reps, you have ideas!”, with sections on winning orders and saving reporting time, will be opened; an “implementation calendar” starting with a statement of purpose will not.
+
+To cut through the noise, talk less, but differently. An attentive listener rarely tolerates more than ten minutes of presentation, and a letter longer than half a page is not read in full. Being concise takes time: the authors cite Pascal, who apologized for writing a longer letter because he had not had time to make it shorter. You must also surprise, intrigue, amuse: a manager who stages a mock trial to “indict” old procedures, with rented costumes, finds that a year later nobody has forgotten the message.
+
+- Start from their concerns, not your objectives.
+- A brief, clear and punchy message; fewer slides.
+- An offbeat tone, to stand out from the flow of information.
+
+--- Short messages and stories
+kw: three to ten words · concrete verb · story
+The authors present the “channels” of perception that differentiate people. Some are sensitive to expected benefits (“move toward”), others to problems to avoid (“move away from”): experiments show that the former retain very little of messages about risks, and vice versa. Some first need to understand the goal and prefer choosing their own path, others only retain a goal if the steps are explained to them. Some are interested in people, others in things, tasks and tools. Any presentation of a project must therefore contain the benefits and the risks of doing nothing, the goal and the steps, the people and the tools.
+
+They then insist on the **message**. A slide showing a table of figures under the title “Sales trends” contains no message: everyone interprets it their own way. “Our sales decline is accelerating” is one. A message fits in three to ten words, with a concrete verb and a clear meaning, and breaks down into three or four second-level messages. It must be presented at the start, repeated, then restated in conclusion. If you can't reduce your point that way, you haven't done your work: you are leaving it to others to choose what to remember.
+
+Still, human beings understand stories better than logic. The authors cite Muhammad Yunus, who begins his talks by telling the story of a mother making stools in a Bangladeshi slum, before setting out his messages on microcredit. To mobilize a team around customer satisfaction, it is better to start by telling of a real exchange with a customer than with statistics. You should also avoid leadership jargon (synergies, cross-functionality, alignment), which loses employees whose intelligence is above all practical.
+
+> Exercice | Sum up your project in a message of three to ten words containing a concrete verb. Then write the real story, in one minute, that makes it obvious.
+
+--- Why they resist
+kw: problem · solution · interests and values
+A message that has been delivered, heard and understood is not necessarily accepted. The authors recall that, when it comes to change, the most qualified and informed people are often the ones who resist. They identify three reasons that are almost always present.
+
+The first: they don't believe in the problem. Henry Mintzberg compares the company to a circle: front-line employees, at the circumference, have a concrete but narrow view, while leaders, at the center, have a broad view far from practice. A problem that is glaring to some may be invisible to others. The same finding can be interpreted differently: the salesperson says the product is too expensive, the finance director that the sales force costs too much. Acknowledging a problem is also not enough to address it: you have to perceive the stakes, what you risk or gain. They cite the zoo where a wall a little too low, known to many, preceded a tiger's escape.
+
+The second: they don't believe in the solution. The problem seems unsolvable, or the solution lies “elsewhere,” or another, more effective or less painful solution was ignored, or everyone has their own, or the human price seems too high. The third: the decision hits their interests (variable pay at risk) or their values (respect for the customer, pride in a job, solidarity with colleagues). The authors urge us to recognize that resistance often defends values seen as noble against measures seen as driven by immediate profit.
+
+- Problem: no shared perception, no awareness of the stakes.
+- Solution: unsolvable, elsewhere, competing, or too costly in human terms.
+- Interests and values: what is concretely threatened, for each category of people.
+
+--- Turning opinion around
+kw: involve · their place · values
+Forcing it through is not a good idea, the authors remind us: you reap discouragement, irony, anger or, worse, indifference. They propose simple principles.
+
+Involve employees in the project, as far as possible: their input enriches the diagnosis and leads them to take an interest in solutions. You must say clearly what is fixed and what remains open, ask precise questions, then show that you have listened by integrating the best ideas and informing them regularly. Then put yourself in their place: understand how they see the problem, the solution, their interests and values, as well as five psychological needs highlighted by neuroscience (status, certainty, autonomy, relationships, fairness), whose neglect explains many conflicts. Segment people, identify allies, opponents and fence-sitters, and mobilize allies to win over the fence-sitters rather than focusing on opponents. You can reduce the advantages of the status quo, increase those of the project, aggravate the drawbacks of inaction or ease the constraints of implementation; positive options motivate more.
+
+“Open the windows”: a message carried by an expert or a customer is better received than one from a leader suspected of bias. The witness must be credible, have an interesting experience, be able to express themselves and be convinced. Finally, invoke values: link the project to what makes the job a source of pride rather than to the shareholder, and highlight what does not change, since people accept a change only if they understand what will remain.
+
+> À retenir | To turn opinion around, involve people, put yourself in their place, bring in outside witnesses, and tie the change to values the teams recognize as their own.
+
+=== Training, changing culture, holding on
+--- Training is not enough
+kw: can · want · know how · dare
+Training is often seen as an obvious lever of transformation, but many trainings are useless, and most of the others of little use. Participants' satisfaction at the end of a session says nothing about what they will apply. The authors tell of a program on values and annual reviews for all managers, spread over two years: a year later, the rate of reviews carried out had not moved and employees saw the gap between stated values and behavior.
+
+Why do well-meaning people not apply what they have learned? Because they cannot: an indifferent or hostile environment (the boss postpones the training, calls them out mid-session, contradicts the content), insufficient resources, poor timing, training too early, too late or on different dates for the same team, whereas we have known since Kurt Lewin that it is hard to change alone in an environment that does not change. Because they don't want to: the drawbacks outweigh the benefits, or the manager devalues the training. Because they don't know how: the content is too general and requires a transposition that not everyone can make.
+
+And finally, because they don't dare. Albert Bandura described “self-efficacy”: behavior depends on the feeling of competence more than on real competence. It is built through encouragement, watching peers succeed, and above all by having already succeeded once. Exercises that put participants in failure in front of others produce the opposite effect: you don't learn to swim by watching others do laps.
+
+- They cannot: environment, resources, timing.
+- They don't want to: too many drawbacks, little consideration from the manager.
+- They don't know how: transposing to their case. They don't dare: little self-confidence.
+
+--- Training hard and sparking desire
+kw: just in time · practice · desire
+The authors offer concrete principles. First, make training unnecessary when possible, as software publishers do: limit the changes imposed on each person, make a knowledge base available at the workstation, and guide step by step the first time a task is done.
+
+If training is needed, train everyone, right away. With very precise objectives (two or three key messages, a few data points to know by heart, what people must do in which situations), new methods (groups of ten to sixty people, online learning, “blended learning”) and real work during the session, the authors have been able to cut training time by two or four without losing effectiveness. Timing matters: “just in time.” Teach less and train more: transpose the content into concrete situations before the training, and plan repeated practice on real cases or on the job, because only that builds confidence and reflexes.
+
+You must also “light the fire”: develop the desire to act, through three elements. Meaning, by linking the effort to a purpose worth the trouble. Confidence, by putting each person in a position to succeed through simple, repeated exercises. Pleasure, through the dynamic of large groups, team tournaments, building on each person's strengths and choosing trainers who are good teachers and enthusiastic. Finally, think about the aftermath: the first cause of failure is the indifference of management. You train leaders first, then management, then teams, and the manager prepares, supports and follows up, with suitable tools.
+
+> À retenir | Less lecturing, more practice; at the right moment; with meaning, confidence and enjoyment; and a manager who supports afterwards.
+
+--- Territories, words, heroes, rituals
+kw: organization · vocabulary · heroes · rituals
+A hardware team and a software team don't cooperate despite every effort. A sociologist answers that culture is stronger than strategy and it will take years. The authors dispute the timeline: culture can be changed quickly, with three levers.
+
+Reshuffle the cards: change the territories. A structure by product, by type of customer or by region changes behavior. No organization is perfect; adopt the one that changes behavior, then change it again later (some large companies modify theirs every year). Appoint real leaders to the new key roles and give a priority to a specific person, not to “everyone.” Sometimes it is enough to change locations: put two teams working for the same customers on the same floor, move workstations, rearrange the tables, and draw a “traffic plan” for people and ideas.
+
+Change the words: rename jobs, bodies and meetings to change perceptions, without cosmetics: “inspectors” become “sales development officers”; an arbitration council becomes a resource steering team, with a redefined mission; an annual managers' congress becomes a transformation launch day. You must change things and words. Celebrate new heroes: managers recruit and promote people like themselves; you must present external and above all internal role models, and avoid contradictions, such as promoting “lone wolves” while preaching cooperation. Establish new rituals: a monthly customer review, a “customer of the month” on display, a customer spokesperson in each project.
+
+> Exercice | Choose one change of word, one hero to highlight and one monthly ritual to establish this week for your priority.
+
+--- Optimism can be learned
+kw: discouragement · Seligman · optimism
+The authors conclude that all organizations, companies, associations, schools, administrations, face the same challenges: adapting and finding the energy to transform. Once you know where you are going, the priority is the action of the greatest number, and the main adversary is discouragement.
+
+They rely on the research of Martin Seligman, according to which optimism plays an essential role in our ability to overcome difficulties, in every field. It is not about waiting passively, but about being convinced that you can influence events. Discouragement, for its part, is learned: we get discouraged when we perceive the reasons for a failure as general and permanent (“I don't have the profile,” “our customers are closed to innovation”). It spreads to other activities and quickly propagates within a group.
+
+The good news: optimism can also be learned, and you can contribute in three ways. Through your own behavior: show, without denying the difficulties, that you are convinced of your teams' ability to influence the course of events, because confidence is just as contagious as doubt. By helping to attribute failures, inevitable once you act, to precise and surmountable causes (“we did not involve customers enough, we will fix that”). And by linking each success to a general and lasting cause (“you succeeded because you knew how to draw on the department's skills”). The book's conclusion: choose two or three action priorities from this reading, and go for it.
+
+> Question de réflexion | When a failure occurs in your team, do you explain it by a precise, surmountable cause, or by a general cause that discourages?
