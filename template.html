@@ -271,16 +271,43 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .gbtn svg{width:20px;height:20px}
 .orline{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:12px;color:var(--muted)}
 .orline::before,.orline::after{content:"";flex:1;height:1px;background:var(--line)}
-.viewer{position:fixed;inset:0;z-index:50;background:var(--paper);display:grid;grid-template-rows:auto 1fr}
-.vbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px max(16px,env(safe-area-inset-right,0px)) 10px max(16px,env(safe-area-inset-left,0px));padding-top:calc(10px + env(safe-area-inset-top,0px));border-bottom:1px solid var(--line);background:var(--card)}
-.vtitle{flex:1 1 180px;min-width:0;font-family:var(--display);font-size:1.05rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.vbtn{font-family:var(--mono);font-size:14px;min-width:38px;height:36px;padding:0 10px;border-radius:6px;border:1px solid var(--line);background:var(--paper);color:var(--ink);cursor:pointer}
-.vbtn:disabled{opacity:.4;cursor:default}
-.vpage{font-family:var(--mono);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;display:flex;align-items:center;gap:6px}
-.vpage input{width:56px;font:inherit;padding:6px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);text-align:center}
-.vstage{overflow:auto;padding:20px max(16px,env(safe-area-inset-right,0px)) calc(20px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));display:flex;justify-content:center;align-items:flex-start;background:var(--line)}
-.vstage canvas{box-shadow:0 2px 14px rgb(0 0 0 / .18);background:#fff;max-width:none}
-.vmsg{font-family:var(--mono);color:var(--muted);margin:auto}
+/* Lecteur PDF : défilement continu ou pages (glissement horizontal), texte sélectionnable, recherche, table des matières, signets, thèmes */
+.viewer{position:fixed;inset:0;z-index:50;background:var(--paper);display:grid;grid-template-rows:auto 1fr;--pvbg:var(--line)}
+.viewer[data-pvt="night"]{--pvbg:#15171a}.viewer[data-pvt="sepia"]{--pvbg:#d9ccae}
+.pvbar{display:flex;align-items:center;gap:8px;padding:6px max(10px,env(safe-area-inset-right,0px)) 6px max(10px,env(safe-area-inset-left,0px));padding-top:calc(6px + env(safe-area-inset-top,0px));border-bottom:1px solid var(--line);background:var(--card);direction:ltr}
+.vtitle{flex:1 1 auto;min-width:0;font-family:var(--display);font-size:1rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;direction:auto}
+.vbtn{font-family:var(--mono);font-size:15px;min-width:40px;height:40px;padding:0 10px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink);cursor:pointer}
+.vbtn:disabled{opacity:.4;cursor:default}.vbtn.on{color:var(--ochre);border-color:var(--ochre)}
+.pvpos{font-family:var(--mono);font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.pvstage{position:relative;overflow:auto;background:var(--pvbg);overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.viewer[data-pvm="page"] .pvstage{overflow:hidden}
+.pvmsg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:24px;font-family:var(--mono);color:var(--muted);pointer-events:none}
+.pvmsg[hidden]{display:none}
+.pvlist{display:flex;flex-direction:column;align-items:center;gap:12px;padding:12px;min-width:100%;width:max-content;box-sizing:border-box}
+.pvpg{position:relative;background:#fff;box-shadow:0 2px 14px rgb(0 0 0 / .22);flex:none;overflow:hidden}
+.pvcv{display:block}
+.viewer[data-pvt="night"] .pvpg{background:#222}
+.viewer[data-pvt="night"] .pvcv{filter:invert(.9) hue-rotate(180deg)}
+.viewer[data-pvt="sepia"] .pvcv{filter:sepia(.55) contrast(.95) brightness(.98)}
+.pvtl{position:absolute;inset:0;overflow:hidden;line-height:1}
+.pvtl span,.pvtl br{color:transparent;position:absolute;white-space:pre;cursor:text;transform-origin:0 0}
+.pvtl ::selection{background:rgba(44,90,76,.35)}
+.pvtl .pvhit{background:rgba(255,196,0,.5);border-radius:2px}
+.pvview{position:absolute;inset:0;overflow:hidden;touch-action:pan-y;direction:ltr}
+.pvpane{position:absolute;inset:0;overflow:auto;display:flex;will-change:transform;-webkit-overflow-scrolling:touch}
+.pvpane>.pvpg{margin:auto}
+#pvMenu{position:fixed;inset:0;z-index:70}#pvMenu[hidden]{display:none}
+#pvQ{width:100%;font:inherit;font-size:16px;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink)}
+.pvhit-row{display:block;width:100%;text-align:start;font:13px/1.5 var(--body);padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);cursor:pointer}
+.pvhit-row b{font-family:var(--mono);font-size:11.5px;color:var(--accent);margin-inline-end:6px}
+.pvtoc{display:grid;gap:4px}.pvtoc button{text-align:start;font:13.5px/1.4 var(--body);background:none;border:0;color:var(--ink);padding:6px 4px;cursor:pointer;border-radius:6px}
+.pvtoc button:hover{background:var(--accent-soft)}
+.shelf{display:grid;gap:8px;margin-top:12px}
+.shelfrow{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:10px;background:var(--card);padding:6px 6px 6px 12px}
+.shelfrow .go{flex:1;min-width:0;text-align:start;font:inherit;font-size:14px;background:none;border:0;color:var(--ink);cursor:pointer;padding:6px 0}
+.shelfrow .go small{display:block;font:11.5px var(--mono);color:var(--muted)}
+.shelfrow .go b{font-weight:500;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.shelfrow .rm{width:40px;height:40px;border:0;background:none;color:var(--muted);cursor:pointer;font-size:16px}
 
 /* Navigation principale */
 .appnav{position:sticky;top:env(safe-area-inset-top,0px);z-index:25;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
@@ -765,9 +792,12 @@ html[dir="rtl"] .qmpanel{animation-name:qminr}
     <button class="btn" type="button" id="adminBtn" hidden>Espace administrateur</button>
     <div class="progress"><span id="count">0 / 12 lus</span><span class="bar"><i id="barfill"></i></span></div>
     <div class="drop" id="drop">
-      <p><strong>Lire un PDF.</strong> Ouvrez un PDF de votre appareil. Pour l'associer à un livre, ajoutez-le depuis la fiche du livre.</p>
-      <button class="btn" type="button" id="quickOpen">Ouvrir un PDF</button>
+      <p><strong>Mes PDF.</strong> Ajoutez vos livres PDF : ils restent sur cet appareil, rien n'est envoyé. Ils s'ouvrent dans un lecteur complet (pages, recherche, signets, thèmes).</p>
+      <button class="btn" type="button" id="shelfAdd">Ajouter des PDF</button>
+      <button class="linkish" type="button" id="quickOpen">Ouvrir sans enregistrer</button>
+      <input type="file" id="shelfFile" accept="application/pdf,.pdf" multiple hidden>
       <input type="file" id="quickFile" accept="application/pdf,.pdf" hidden>
+      <div class="shelf" id="shelf"></div>
     </div>
   </div>
 </div>
@@ -1004,22 +1034,43 @@ html[dir="rtl"] .qmpanel{animation-name:qminr}
   </div>
 </div>
 
-<div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="vtitle">
-  <div class="vbar">
-    <button class="vbtn" type="button" id="vclose" aria-label="Fermer la visionneuse">✕</button>
+<div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="vtitle" data-pvm="scroll" data-pvt="day">
+  <div class="pvbar">
+    <button class="vbtn" type="button" id="pvMenuBtn" aria-label="Menu du document">☰</button>
+    <button class="vbtn" type="button" id="pvBm" aria-label="Signet de cette page">☆</button>
     <div class="vtitle" id="vtitle">Document</div>
-    <button class="vbtn" type="button" id="vprev" aria-label="Page précédente">‹</button>
-    <span class="vpage"><label for="vnum" hidden>Page</label><input id="vnum" type="number" min="1" value="1"> / <span id="vtotal">–</span></span>
-    <button class="vbtn" type="button" id="vnext" aria-label="Page suivante">›</button>
-    <button class="vbtn" type="button" id="vout" aria-label="Dézoomer">−</button>
-    <button class="vbtn" type="button" id="vfit" aria-label="Ajuster à la largeur">Largeur</button>
-    <button class="vbtn" type="button" id="vin" aria-label="Zoomer">+</button>
+    <button class="vbtn qpnav" type="button" id="pvPrev" aria-label="Page précédente">‹</button>
+    <span class="pvpos"><span id="pvNow">1</span> / <span id="pvTotal">–</span></span>
+    <button class="vbtn qpnav" type="button" id="pvNext" aria-label="Page suivante">›</button>
+    <button class="vbtn" type="button" id="vclose" aria-label="Fermer la visionneuse">✕</button>
   </div>
-  <div class="vstage" id="vstage"><canvas id="vcanvas"></canvas><p class="vmsg" id="vmsg" hidden></p></div>
+  <div class="pvstage" id="pvStage"><p class="pvmsg" id="pvMsg" hidden></p></div>
+  <div id="pvMenu" hidden>
+    <div class="qmback" id="pvmBack"></div>
+    <aside class="qmpanel" role="dialog" aria-label="Menu du document">
+      <div class="qmhead"><b id="pvmTitle">Document</b><button type="button" class="qbtn qic" id="pvmClose" aria-label="Fermer">✕</button></div>
+      <div class="qmbody">
+        <div class="qmrow"><span>Aller à la page</span><label class="qpnum"><input id="pvNum" type="number" min="1" inputmode="numeric" aria-label="Numéro de page"><span>/ <span id="pvTotal2">–</span></span></label></div>
+        <input type="range" id="pvRange" min="1" max="1" step="1" aria-label="Aller à la page">
+        <div class="qmrow"><span>Affichage</span><span class="qmgrp"><button type="button" class="qbtn" data-pvm="scroll">Défilement</button><button type="button" class="qbtn" data-pvm="page">Pages</button></span></div>
+        <div class="qmrow" id="pvDirRow"><span>Sens des pages</span><span class="qmgrp"><button type="button" class="qbtn" data-pvr="0">Gauche → droite</button><button type="button" class="qbtn" data-pvr="1">Droite → gauche</button></span></div>
+        <div class="qmrow"><span>Zoom</span><span class="qmgrp"><button type="button" class="qbtn" id="pvZout" aria-label="Dézoomer">−</button><button type="button" class="qbtn" id="pvZfit">Ajuster</button><button type="button" class="qbtn" id="pvZin" aria-label="Zoomer">+</button></span></div>
+        <div class="qmrow"><span>Thème</span><span class="qmgrp"><button type="button" class="qbtn" data-pvt="day">Jour</button><button type="button" class="qbtn" data-pvt="sepia">Sépia</button><button type="button" class="qbtn" data-pvt="night">Nuit</button></span></div>
+        <button type="button" class="qbtn wide" id="pvFs" hidden>Plein écran</button>
+        <h3>Recherche</h3>
+        <input id="pvQ" type="search" dir="auto" placeholder="Chercher dans le document…" autocomplete="off">
+        <p class="qmnote" id="pvQs" hidden></p>
+        <div class="qmlist" id="pvRes"></div>
+        <h3 id="pvTocH" hidden>Table des matières</h3>
+        <div class="pvtoc" id="pvToc"></div>
+        <h3>Signets</h3>
+        <button type="button" class="qbtn wide" id="pvAddBm"></button>
+        <div class="qmlist" id="pvBms"></div>
+        <button type="button" class="qbtn wide" id="pvQuit">Fermer le document</button>
+      </div>
+    </aside>
+  </div>
 </div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"></script>
 <script>
 /* ---------- Langue de l'interface ---------- */
 const LANG = window.LANG || "fr";
@@ -2452,6 +2503,7 @@ function goHome(keepEntry) {   // keepEntry : on enchaîne aussitôt sur une aut
 $("backHome").onclick = goHome;
 // Bouton « retour » du téléphone (ou geste de retour) : on quitte la vue courante sans sortir de l'application
 addEventListener("popstate", () => {
+  if (typeof PV !== "undefined") { if (PV.back) { PV.back = false; return; } if (!$("viewer").hidden) { closeViewer(true); return; } }
   if (NAVBACK) { NAVBACK = false; return; }
   if (!$("home").hidden) return;
   if (typeof flushPos === "function") flushPos(); stopSpeech(); hideSelNow(); $("prefs").hidden = true; curBook = null; syncHome(); showView("home");
@@ -2473,57 +2525,268 @@ function db() { if (dbp) return dbp; dbp = new Promise((res, rej) => { try { con
 async function dbPut(k, v) { try { const d = await db(); await new Promise((r, j) => { const t = d.transaction("pdf", "readwrite"); t.objectStore("pdf").put(v, k); t.oncomplete = r; t.onerror = () => j(t.error); }); } catch (e) {} }
 async function dbDel(k) { try { const d = await db(); await new Promise(r => { const t = d.transaction("pdf", "readwrite"); t.objectStore("pdf").delete(k); t.oncomplete = r; t.onerror = r; }); } catch (e) {} }
 async function dbAll() { try { const d = await db(); return await new Promise(r => { const out = {}; const c = d.transaction("pdf").objectStore("pdf").openCursor(); c.onsuccess = () => { const cur = c.result; if (cur) { out[cur.key] = cur.value; cur.continue(); } else r(out); }; c.onerror = () => r(out); }); } catch (e) { return {}; } }
-$("bkPdf").onclick = () => { const f = pdfs[curBook.id]; f ? openViewer(f.data, curBook.t) : $("bkFile").click(); };
-$("bkFile").onchange = async () => { const f = $("bkFile").files[0]; if (!f) return; const data = await f.arrayBuffer(); pdfs[curBook.id] = { name: f.name, data }; await dbPut(curBook.id, { name: f.name, data }); $("bkFile").value = ""; syncBook(); openViewer(data, curBook.t); };
+$("bkPdf").onclick = () => { const f = pdfs[curBook.id]; f ? openViewer(f.data, curBook.t, { key: "book:" + curBook.id }) : $("bkFile").click(); };
+$("bkFile").onchange = async () => { const f = $("bkFile").files[0]; if (!f) return; const data = await f.arrayBuffer(); pdfs[curBook.id] = { name: f.name, data }; await dbPut(curBook.id, { name: f.name, data }); $("bkFile").value = ""; syncBook(); openViewer(data, curBook.t, { key: "book:" + curBook.id }); };
 $("bkPdfRm").onclick = async () => { delete pdfs[curBook.id]; await dbDel(curBook.id); syncBook(); };
 dbAll().then(all => { Object.entries(all).forEach(([k, v]) => { if (BOOKS.some(b => b.id === k)) pdfs[k] = v; }); syncHome(); syncBook(); });
 
 const qf = $("quickFile"), drop = $("drop");
 $("quickOpen").onclick = () => qf.click();
+$("shelfAdd").onclick = () => $("shelfFile").click();
+$("shelfFile").onchange = async e => { await shelfAdd([...e.target.files]); e.target.value = ""; };
+shelfRender();
 qf.onchange = async () => { const f = qf.files[0]; if (f) openViewer(await f.arrayBuffer(), f.name.replace(/\.pdf$/i, "")); qf.value = ""; };
 ["dragenter", "dragover"].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add("over"); }));
 ["dragleave", "drop"].forEach(ev => drop.addEventListener(ev, () => drop.classList.remove("over")));
 drop.addEventListener("drop", async e => { e.preventDefault(); const f = [...e.dataTransfer.files].find(x => /pdf/i.test(x.type) || /\.pdf$/i.test(x.name)); if (f) openViewer(await f.arrayBuffer(), f.name.replace(/\.pdf$/i, "")); });
 
-/* ---------- Visionneuse PDF ---------- */
-const V = { doc: null, page: 1, scale: null, task: null };
-const canvas = $("vcanvas"), stage = $("vstage"), msg = $("vmsg");
-let lastFocus = null;
-async function openViewer(buf, title) {
-  lastFocus = document.activeElement; $("vtitle").textContent = title; $("viewer").hidden = false; document.body.style.overflow = "hidden";
-  canvas.hidden = true; msg.hidden = false; msg.textContent = "Ouverture du document…"; $("vclose").focus();
+/* ---------- Lecteur PDF (pdf.js hébergé sur le site et chargé à la demande) ---------- */
+const PV = { doc: null, key: "", title: "", n: 0, page: 1, mode: "scroll", rtl: false, zoom: 1, theme: "day", bm: [], sizes: [], tok: 0, url: "", hl: "", pushed: false, back: false, panes: [], drag: null, busy: false, txt: {}, sTok: 0, saveT: 0 };
+let lastFocus = null, pvLibP = null;
+const pvK = k => ({ pos: "pv-pos:" + k, bm: "pv-bm:" + k });
+function pvGet(k, d) { try { const v = JSON.parse(localStorage.getItem(k) || "null"); return v == null ? d : v; } catch (e) { return d; } }
+function pvSet(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+function pvLoadLib() {
+  if (window.pdfjsLib) return Promise.resolve();
+  return pvLibP || (pvLibP = new Promise((res, rej) => {
+    const base = (window.SITE_ROOT || "./") + "vendor/pdfjs/", s = document.createElement("script");
+    s.src = new URL(base + "pdf.min.js", location.href).href;
+    s.onload = () => { pdfjsLib.GlobalWorkerOptions.workerSrc = new URL(base + "pdf.worker.min.js", location.href).href; res(); };
+    s.onerror = () => { pvLibP = null; rej(new Error("lib")); }; document.head.appendChild(s);
+  }));
+}
+const pvMsg = t => { const m = $("pvMsg"); m.hidden = !t; m.textContent = t || ""; };
+async function openViewer(src, title, opts) {
+  opts = opts || {}; const my = ++PV.tok;
+  if (PV.doc) pvDispose();
+  lastFocus = document.activeElement; $("vtitle").textContent = title; $("pvmTitle").textContent = title; $("viewer").hidden = false; document.body.style.overflow = "hidden";
+  $("pvStage").querySelectorAll(".pvlist,.pvview").forEach(e => e.remove()); pvMsg(T("Ouverture du document…")); $("vclose").focus();
+  if (!PV.pushed) { try { history.pushState({ child: 1, pv: 1 }, "", location.href); PV.pushed = true; } catch (e) {} }
   try {
-    if (!window.pdfjsLib) throw new Error("lib");
-    V.doc = await pdfjsLib.getDocument({ data: new Uint8Array(buf.slice(0)) }).promise;
-    V.page = 1; V.scale = null; $("vtotal").textContent = V.doc.numPages; $("vnum").max = V.doc.numPages;
-    msg.hidden = true; canvas.hidden = false; await draw();
-  } catch (e) { msg.textContent = e.message === "lib" ? "La visionneuse n'a pas pu se charger. Vérifiez votre connexion puis rouvrez la page." : "Ce fichier n'est pas un PDF lisible, ou il est protégé par un mot de passe."; }
+    await pvLoadLib();
+    let task;
+    if (src instanceof Blob) { PV.url = URL.createObjectURL(src); task = pdfjsLib.getDocument({ url: PV.url }); }
+    else task = pdfjsLib.getDocument({ data: new Uint8Array(src.slice(0)) });
+    task.onProgress = p => { if (p.total && my === PV.tok) pvMsg(T("Chargement…") + " " + Math.round(100 * p.loaded / p.total) + " %"); };
+    const doc = await task.promise; if (my !== PV.tok) { doc.destroy(); return; }
+    PV.doc = doc; PV.n = doc.numPages; PV.title = title; PV.txt = {}; PV.hl = "";
+    PV.key = opts.key || ("fp:" + ((doc.fingerprints && doc.fingerprints[0]) || title));
+    const sv = pvGet(pvK(PV.key).pos, {}), ar = /[\u0600-\u06FF]/.test(title);
+    PV.mode = sv.m === "page" ? "page" : "scroll"; PV.rtl = sv.r != null ? !!sv.r : ar; PV.zoom = sv.z || 1; PV.theme = sv.t || "day";
+    PV.page = Math.min(PV.n, Math.max(1, sv.p || 1)); PV.bm = pvGet(pvK(PV.key).bm, []);
+    await pvSizes(my); if (my !== PV.tok) return;
+    pvMsg(""); pvBuild();
+  } catch (e) { if (my === PV.tok) pvMsg(e.message === "lib" ? T("La visionneuse n'a pas pu se charger. Vérifiez votre connexion puis rouvrez la page.") : T("Ce fichier n'est pas un PDF lisible, ou il est protégé par un mot de passe.")); }
 }
-async function draw() {
-  if (!V.doc) return; const p = await V.doc.getPage(V.page);
-  const base = p.getViewport({ scale: 1 }); const avail = stage.clientWidth - 40;
-  if (V.scale === null) V.scale = Math.max(.4, Math.min(2.5, avail / base.width));
-  const dpr = window.devicePixelRatio || 1; const vp = p.getViewport({ scale: V.scale * dpr });
-  canvas.width = vp.width; canvas.height = vp.height; canvas.style.width = vp.width / dpr + "px"; canvas.style.height = vp.height / dpr + "px";
-  if (V.task) try { V.task.cancel(); } catch (e) {}
-  V.task = p.render({ canvasContext: canvas.getContext("2d"), viewport: vp });
-  try { await V.task.promise; } catch (e) {}
-  $("vnum").value = V.page; $("vprev").disabled = V.page <= 1; $("vnext").disabled = V.page >= V.doc.numPages; stage.scrollTop = 0;
+async function pvSizes(my) {
+  const first = await PV.doc.getPage(1), v = first.getViewport({ scale: 1 }); PV.sizes = Array.from({ length: PV.n }, () => [v.width, v.height]);
+  if (PV.n > 600) return;
+  for (let i = 1; i < PV.n; i += 16) {
+    if (my !== PV.tok) return; pvMsg(T("Préparation des pages…") + " " + Math.min(PV.n, i + 16) + " / " + PV.n);
+    await Promise.all(Array.from({ length: Math.min(16, PV.n - i) }, (_, k) => PV.doc.getPage(i + k + 1).then(pg => { const w = pg.getViewport({ scale: 1 }); PV.sizes[i + k] = [w.width, w.height]; pg.cleanup(); })));
+  }
 }
-function go(n) { if (!V.doc) return; n = Math.max(1, Math.min(V.doc.numPages, n)); if (n !== V.page) { V.page = n; draw(); } }
-function closeViewer() { $("viewer").hidden = true; document.body.style.overflow = ""; if (V.doc) { V.doc.destroy(); V.doc = null; } if (lastFocus) lastFocus.focus(); }
-$("vclose").onclick = closeViewer; $("vprev").onclick = () => go(V.page - 1); $("vnext").onclick = () => go(V.page + 1);
-$("vin").onclick = () => { V.scale = Math.min(4, (V.scale || 1) * 1.2); draw(); };
-$("vout").onclick = () => { V.scale = Math.max(.3, (V.scale || 1) / 1.2); draw(); };
-$("vfit").onclick = () => { V.scale = null; draw(); };
-$("vnum").onchange = e => go(parseInt(e.target.value, 10) || 1);
-document.addEventListener("keydown", e => {
-  if ($("viewer").hidden || e.target.tagName === "INPUT") return;
-  if (e.key === "Escape") closeViewer(); else if (e.key === "ArrowRight" || e.key === "PageDown") go(V.page + 1); else if (e.key === "ArrowLeft" || e.key === "PageUp") go(V.page - 1);
+function pvDispose() { if (PV.obs) { PV.obs.disconnect(); PV.obs = null; } try { PV.doc && PV.doc.destroy(); } catch (e) {} PV.doc = null; if (PV.url) { URL.revokeObjectURL(PV.url); PV.url = ""; } PV.panes = []; }
+function pvSave() { clearTimeout(PV.saveT); PV.saveT = setTimeout(() => { if (PV.doc) pvSet(pvK(PV.key).pos, { p: PV.page, m: PV.mode, r: PV.rtl, z: PV.zoom, t: PV.theme, n: PV.n }); }, 400); }
+/* --- construction --- */
+function pvBuild() {
+  const st = $("pvStage"); st.querySelectorAll(".pvlist,.pvview").forEach(e => e.remove()); st.onscroll = null;
+  if (PV.obs) { PV.obs.disconnect(); PV.obs = null; }
+  $("viewer").dataset.pvt = PV.theme; $("viewer").dataset.pvm = PV.mode;
+  $("pvTotal").textContent = $("pvTotal2").textContent = PV.n; $("pvNum").max = $("pvRange").max = PV.n;
+  PV.mode === "scroll" ? pvBuildScroll() : pvBuildPages(); pvSyncUi();
+}
+const pvAvail = () => { const st = $("pvStage"); return [st.clientWidth, st.clientHeight]; };
+function pvScaleFor(i) {
+  const [w, h] = PV.sizes[i], [W, H] = pvAvail();
+  return (PV.mode === "scroll" ? Math.max(.2, (W - 24) / w) : Math.max(.1, Math.min((W - 12) / w, (H - 12) / h))) * PV.zoom;
+}
+function pvBuildScroll() {
+  const st = $("pvStage"), box = document.createElement("div"); box.className = "pvlist"; box.id = "pvList";
+  for (let i = 0; i < PV.n; i++) { const s = pvScaleFor(i), d = document.createElement("div"); d.className = "pvpg"; d.dataset.p = i + 1; d.style.width = Math.floor(PV.sizes[i][0] * s) + "px"; d.style.height = Math.floor(PV.sizes[i][1] * s) + "px"; box.appendChild(d); }
+  st.appendChild(box);
+  PV.obs = new IntersectionObserver(es => es.forEach(e => { const d = e.target; e.isIntersecting ? pvRender(+d.dataset.p, d) : pvFree(d); }), { root: st, rootMargin: "100% 0px 100% 0px" });
+  box.querySelectorAll(".pvpg").forEach(d => PV.obs.observe(d));
+  pvScrollTo(PV.page); st.onscroll = pvOnScroll;
+}
+function pvScrollTo(p) { const d = $("pvList") && $("pvList").children[p - 1]; if (d) $("pvStage").scrollTop = d.offsetTop - 12; }
+let pvRaf = 0;
+function pvOnScroll() {
+  cancelAnimationFrame(pvRaf); pvRaf = requestAnimationFrame(() => {
+    const st = $("pvStage"), list = $("pvList"); if (!list) return; const mid = st.scrollTop + st.clientHeight / 2, ch = list.children;
+    let lo = 0, hi = ch.length - 1; while (lo < hi) { const m = (lo + hi) >> 1; if (ch[m].offsetTop + ch[m].offsetHeight < mid) lo = m + 1; else hi = m; }
+    if (lo + 1 !== PV.page) { PV.page = lo + 1; pvSyncUi(); pvSave(); }
+  });
+}
+/* --- rendu d'une page (canvas + couche de texte sélectionnable) --- */
+async function pvRender(p, d, scale) {
+  if (d.dataset.done === "1" || d.dataset.busy === "1") return; d.dataset.busy = "1"; const my = PV.tok;
+  try {
+    const pg = await PV.doc.getPage(p); if (my !== PV.tok) return;
+    const s = scale || pvScaleFor(p - 1), dpr = Math.min(window.devicePixelRatio || 1, 2); let rs = s * dpr;
+    const v0 = pg.getViewport({ scale: rs }); if (v0.width * v0.height > 16e6) rs *= Math.sqrt(16e6 / (v0.width * v0.height));
+    const vp = pg.getViewport({ scale: rs }), cs = pg.getViewport({ scale: s }), cv = document.createElement("canvas");
+    cv.className = "pvcv"; cv.width = Math.floor(vp.width); cv.height = Math.floor(vp.height); cv.style.width = Math.floor(cs.width) + "px"; cv.style.height = Math.floor(cs.height) + "px";
+    const task = pg.render({ canvasContext: cv.getContext("2d"), viewport: vp }); d._task = task; await task.promise;
+    if (my !== PV.tok || !d.isConnected) return;
+    d.style.width = Math.floor(cs.width) + "px"; d.style.height = Math.floor(cs.height) + "px"; d.textContent = ""; d.appendChild(cv);
+    const tl = document.createElement("div"); tl.className = "pvtl"; tl.style.setProperty("--scale-factor", s); d.appendChild(tl);
+    const tc = await pg.getTextContent(), divs = []; await pdfjsLib.renderTextLayer({ textContentSource: tc, container: tl, viewport: cs, textDivs: divs }).promise;
+    if (PV.hl) pvMark(divs); d.dataset.done = "1";
+  } catch (e) {} finally { d.dataset.busy = "0"; }
+}
+function pvFree(d) { try { d._task && d._task.cancel(); } catch (e) {} d._task = null; d.textContent = ""; d.dataset.done = "0"; d.dataset.busy = "0"; }
+const pvFold = s => s.normalize("NFD").replace(/[\u0300-\u036f\u0610-\u061a\u064b-\u065f\u0670\u06d6-\u06ed]/g, "").toLowerCase();
+function pvMark(divs) { const q = pvFold(PV.hl); divs.forEach(x => { if (x.textContent && pvFold(x.textContent).includes(q)) x.classList.add("pvhit"); }); }
+/* --- mode pages : 3 panneaux, glissement horizontal --- */
+function pvBuildPages() {
+  const st = $("pvStage"), view = document.createElement("div"); view.className = "pvview"; view.id = "pvView";
+  PV.panes = [0, 1, 2].map(() => { const p = document.createElement("div"); p.className = "pvpane"; view.appendChild(p); return p; }); st.appendChild(view);
+  pvPaneLayout(0, false); pvShow(PV.page); pvBindDrag(view);
+}
+function pvPaneLayout(dx, anim) {
+  const sg = PV.rtl ? -1 : 1, tr = anim ? "transform .28s cubic-bezier(.2,.8,.2,1)" : "none";
+  [[PV.panes[0], -sg * 100], [PV.panes[1], 0], [PV.panes[2], sg * 100]].forEach(([p, x]) => { p.style.transition = tr; p.style.transform = "translateX(calc(" + x + "% + " + dx + "px))"; });
+}
+function pvFill(pane, p) {
+  pane.textContent = ""; pane.scrollTop = pane.scrollLeft = 0; if (p < 1 || p > PV.n) return;
+  const s = pvScaleFor(p - 1), d = document.createElement("div"); d.className = "pvpg"; d.dataset.p = p; d.style.width = Math.floor(PV.sizes[p - 1][0] * s) + "px"; d.style.height = Math.floor(PV.sizes[p - 1][1] * s) + "px"; pane.appendChild(d); pvRender(p, d, s);
+}
+function pvShow(p) { PV.page = p; pvFill(PV.panes[1], p); pvFill(PV.panes[0], p - 1); pvFill(PV.panes[2], p + 1); pvSyncUi(); pvSave(); }
+async function pvMove(dir) {
+  if (PV.mode !== "page" || PV.busy) return; const t = PV.page + dir; if (t < 1 || t > PV.n) { pvPaneLayout(0, true); return; }
+  PV.busy = true; const W = $("pvView").clientWidth, sg = PV.rtl ? -1 : 1; pvPaneLayout(-dir * sg * W, true);
+  await new Promise(r => setTimeout(r, 290));
+  const [a, b, c] = PV.panes; PV.panes = dir > 0 ? [b, c, a] : [c, a, b]; PV.page = t; pvPaneLayout(0, false);
+  pvFill(dir > 0 ? PV.panes[2] : PV.panes[0], dir > 0 ? t + 1 : t - 1); pvSyncUi(); pvSave(); PV.busy = false;
+}
+function pvBindDrag(view) {
+  const start = (x, y) => { PV.drag = PV.busy || PV.zoom > 1.05 ? null : { x, y, t: Date.now(), on: false, dx: 0 }; };
+  const move = (x, y) => {
+    const d = PV.drag; if (!d) return false; const dx = x - d.x, dy = y - d.y;
+    if (!d.on) { if (Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy) * 1.1) d.on = true; else if (Math.abs(dy) > 14) { PV.drag = null; return false; } }
+    if (d.on) { const next = (dx < 0 ? 1 : -1) * (PV.rtl ? -1 : 1), edge = (PV.page === 1 && next < 0) || (PV.page === PV.n && next > 0); d.dx = dx * (edge ? .25 : 1); pvPaneLayout(d.dx, false); }
+    return d.on;
+  };
+  const end = (x) => {
+    const d = PV.drag; PV.drag = null; if (!d) return;
+    if (!d.on) { if (Date.now() - d.t < 350 && getSelection().isCollapsed) { const r = view.getBoundingClientRect(), f = (x - r.left) / r.width; if (f < .22) pvMove(PV.rtl ? 1 : -1); else if (f > .78) pvMove(PV.rtl ? -1 : 1); } return; }
+    const W = view.clientWidth, fast = Math.abs(d.dx) / Math.max(1, Date.now() - d.t) > .4;
+    if (Math.abs(d.dx) > W * .12 || (fast && Math.abs(d.dx) > 24)) pvMove((d.dx < 0 ? 1 : -1) * (PV.rtl ? -1 : 1)); else pvPaneLayout(0, true);
+  };
+  view.addEventListener("touchstart", e => { if (e.touches.length !== 1) { PV.drag = null; return; } start(e.touches[0].clientX, e.touches[0].clientY); }, { passive: true });
+  view.addEventListener("touchmove", e => { if (e.touches.length === 1 && move(e.touches[0].clientX, e.touches[0].clientY) && e.cancelable) e.preventDefault(); }, { passive: false });
+  view.addEventListener("touchend", e => end(e.changedTouches[0].clientX)); view.addEventListener("touchcancel", () => { PV.drag = null; pvPaneLayout(0, true); });
+  view.addEventListener("mousedown", e => { if (e.button === 0) start(e.clientX, e.clientY); });
+  addEventListener("mousemove", e => { if (PV.drag && e.buttons) move(e.clientX, e.clientY); });
+  addEventListener("mouseup", e => { if (PV.drag) end(e.clientX); });
+}
+/* --- navigation, interface --- */
+function pvGo(p) {
+  if (!PV.doc) return; p = Math.max(1, Math.min(PV.n, Math.round(+p) || 1));
+  if (PV.mode === "scroll") { PV.page = p; pvScrollTo(p); pvSyncUi(); pvSave(); } else pvShow(p);
+}
+function pvSyncUi() {
+  const v = $("viewer"); $("pvNow").textContent = PV.page; $("pvNum").value = PV.page; $("pvRange").value = PV.page; $("pvRange").dir = PV.rtl && PV.mode === "page" ? "rtl" : "ltr";
+  $("pvPrev").disabled = PV.page <= 1; $("pvNext").disabled = PV.page >= PV.n;
+  const has = PV.bm.includes(PV.page); $("pvBm").textContent = has ? "★" : "☆"; $("pvBm").classList.toggle("on", has);
+  $("pvAddBm").textContent = has ? T("Retirer le signet de cette page") : T("Ajouter un signet à cette page");
+  v.querySelectorAll("[data-pvm]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.pvm === PV.mode)));
+  v.querySelectorAll("[data-pvr]").forEach(b => b.setAttribute("aria-pressed", String((b.dataset.pvr === "1") === PV.rtl)));
+  v.querySelectorAll("[data-pvt]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.pvt === PV.theme)));
+  $("pvDirRow").hidden = PV.mode !== "page"; $("pvPrev").textContent = PV.rtl && PV.mode === "page" ? "›" : "‹"; $("pvNext").textContent = PV.rtl && PV.mode === "page" ? "‹" : "›";
+  if (!$("pvMenu").hidden) pvBmList();
+}
+function pvRebuild() { pvBuild(); pvSave(); }
+function pvBmList() {
+  const box = $("pvBms"); box.textContent = ""; const a = PV.bm.slice().sort((x, y) => x - y);
+  if (!a.length) { const n = document.createElement("div"); n.className = "qmnone"; n.textContent = T("Aucun signet pour l'instant."); box.appendChild(n); return; }
+  a.forEach(p => {
+    const r = document.createElement("div"); r.className = "qbm"; const g = document.createElement("button"); g.type = "button"; g.className = "go"; g.textContent = T("Page") + " " + p; g.onclick = () => { pvMenuClose(); pvGo(p); };
+    const x = document.createElement("button"); x.type = "button"; x.className = "rm"; x.textContent = "✕"; x.setAttribute("aria-label", T("Supprimer le signet")); x.onclick = () => { PV.bm = PV.bm.filter(k => k !== p); pvSet(pvK(PV.key).bm, PV.bm); pvSyncUi(); };
+    r.append(g, x); box.appendChild(r);
+  });
+}
+function pvToggleBm() { const i = PV.bm.indexOf(PV.page); i >= 0 ? PV.bm.splice(i, 1) : PV.bm.push(PV.page); pvSet(pvK(PV.key).bm, PV.bm); pvSyncUi(); }
+const pvMenuClose = () => { $("pvMenu").hidden = true; };
+async function pvMenuOpen() {
+  $("pvMenu").hidden = false; pvSyncUi(); pvBmList();
+  $("pvFs").hidden = !(document.fullscreenEnabled && document.documentElement.requestFullscreen);
+  if (!PV.tocDone || PV.tocDoc !== PV.doc) { PV.tocDone = true; PV.tocDoc = PV.doc; const box = $("pvToc"); box.textContent = ""; $("pvTocH").hidden = true;
+    try { const out = await PV.doc.getOutline(); if (out && out.length) { $("pvTocH").hidden = false; pvTocRender(out, box, 0); } } catch (e) {} }
+}
+function pvTocRender(items, box, lvl) {
+  items.forEach(it => {
+    const b = document.createElement("button"); b.type = "button"; b.textContent = it.title; b.style.paddingInlineStart = (4 + lvl * 14) + "px";
+    b.onclick = async () => { try { let dest = it.dest; if (typeof dest === "string") dest = await PV.doc.getDestination(dest); if (dest && dest[0] != null) { const idx = typeof dest[0] === "object" ? await PV.doc.getPageIndex(dest[0]) : dest[0]; pvMenuClose(); pvGo(idx + 1); } } catch (e) {} };
+    box.appendChild(b); if (it.items && it.items.length) pvTocRender(it.items, box, lvl + 1);
+  });
+}
+/* --- recherche plein texte --- */
+async function pvText(p) { if (PV.txt[p] != null) return PV.txt[p]; const pg = await PV.doc.getPage(p), tc = await pg.getTextContent(); pg.cleanup(); return (PV.txt[p] = tc.items.map(i => i.str).join(" ")); }
+async function pvSearch(q) {
+  const my = ++PV.sTok, box = $("pvRes"), st = $("pvQs"); box.textContent = ""; PV.hl = ""; q = q.trim(); if (!q) { st.hidden = true; return; }
+  const fq = pvFold(q); let found = 0, chars = 0; st.hidden = false;
+  for (let p = 1; p <= PV.n; p++) {
+    if (my !== PV.sTok) return; if (p % 6 === 0) st.textContent = T("Recherche…") + " " + p + " / " + PV.n;
+    const t = await pvText(p); chars += t.length; if (p === 12 && chars < 20) { st.textContent = T("Ce PDF est une image scannée : il n'y a pas de texte à rechercher."); return; }
+    const ft = pvFold(t); let from = 0, i;
+    while ((i = ft.indexOf(fq, from)) >= 0 && found < 300) {
+      found++; from = i + fq.length; const a = Math.max(0, i - 40), snip = (a > 0 ? "…" : "") + t.slice(a, i + fq.length + 60) + "…", pg = p;
+      const r = document.createElement("button"); r.type = "button"; r.className = "pvhit-row"; const b = document.createElement("b"); b.textContent = p; r.append(b, document.createTextNode(snip));
+      r.onclick = () => { PV.hl = q; pvMenuClose(); pvRefreshHl(); pvGo(pg); }; box.appendChild(r);
+      if (found >= 300) break;
+    }
+    if (found >= 300) break;
+  }
+  st.textContent = found ? found + (found >= 300 ? "+ " : " ") + T("résultats") : T("Aucun résultat.");
+}
+function pvRefreshHl() { document.querySelectorAll("#pvStage .pvpg").forEach(d => { if (d.dataset.done === "1") { d.querySelectorAll(".pvtl span").forEach(x => x.classList.remove("pvhit")); if (PV.hl) pvMark([...d.querySelectorAll(".pvtl span")]); } }); }
+/* --- fermeture et événements --- */
+function closeViewer(fromPop) {
+  if (!$("pvMenu").hidden) pvMenuClose(); $("viewer").hidden = true; document.body.style.overflow = ""; PV.tok++; pvSave(); pvDispose();
+  if (document.fullscreenElement) { try { document.exitFullscreen(); } catch (e) {} }
+  if (PV.pushed && !fromPop) { PV.back = true; try { history.back(); } catch (e) { PV.back = false; } } PV.pushed = false;
+  if (lastFocus) try { lastFocus.focus(); } catch (e) {}
+  if (typeof shelfRender === "function") shelfRender();
+}
+$("vclose").onclick = $("pvQuit").onclick = () => closeViewer();
+$("pvMenuBtn").onclick = pvMenuOpen; $("pvmClose").onclick = $("pvmBack").onclick = pvMenuClose; $("pvBm").onclick = $("pvAddBm").onclick = pvToggleBm;
+$("pvPrev").onclick = () => PV.mode === "page" ? pvMove(PV.rtl ? 1 : -1) : pvGo(PV.page - 1); $("pvNext").onclick = () => PV.mode === "page" ? pvMove(PV.rtl ? -1 : 1) : pvGo(PV.page + 1);
+$("pvNum").onchange = e => { pvMenuClose(); pvGo(+e.target.value); };
+let pvRt; $("pvRange").oninput = e => { clearTimeout(pvRt); const v = +e.target.value; $("pvNum").value = v; pvRt = setTimeout(() => pvGo(v), 120); };
+$("viewer").addEventListener("click", e => {
+  const m = e.target.closest("[data-pvm]"), r = e.target.closest("[data-pvr]"), t = e.target.closest("[data-pvt]");
+  if (m) { PV.mode = m.dataset.pvm; pvRebuild(); } else if (r) { PV.rtl = r.dataset.pvr === "1"; pvRebuild(); } else if (t) { PV.theme = t.dataset.pvt; $("viewer").dataset.pvt = PV.theme; pvSyncUi(); pvSave(); }
 });
-let sx = null;
-stage.addEventListener("touchstart", e => { sx = e.touches[0].clientX; }, { passive: true });
-stage.addEventListener("touchend", e => { if (sx === null || V.scale > 1.6) return; const dx = e.changedTouches[0].clientX - sx; if (Math.abs(dx) > 60) go(V.page + (dx < 0 ? 1 : -1)); sx = null; });
+const pvZoom = z => { PV.zoom = Math.max(.5, Math.min(3, Math.round(z * 100) / 100)); pvRebuild(); };
+$("pvZin").onclick = () => pvZoom(PV.zoom * 1.25); $("pvZout").onclick = () => pvZoom(PV.zoom / 1.25); $("pvZfit").onclick = () => pvZoom(1);
+$("pvFs").onclick = async () => { try { if (document.fullscreenElement) await document.exitFullscreen(); else await $("viewer").requestFullscreen(); } catch (e) {} pvMenuClose(); };
+let pvQt; $("pvQ").oninput = e => { clearTimeout(pvQt); pvQt = setTimeout(() => pvSearch(e.target.value), 350); };
+let pvRz; addEventListener("resize", () => { clearTimeout(pvRz); pvRz = setTimeout(() => { if (!$("viewer").hidden && PV.doc) pvRebuild(); }, 250); });
+document.addEventListener("keydown", e => {
+  if ($("viewer").hidden || !PV.doc) return;
+  if (e.key === "Escape") { if (!$("pvMenu").hidden) pvMenuClose(); else closeViewer(); return; }
+  if (/^(INPUT|TEXTAREA|SELECT)$/.test((e.target || {}).nodeName)) return;
+  if (PV.mode === "page") { if (e.key === "ArrowRight" || e.key === "PageDown") pvMove(PV.rtl ? -1 : 1); else if (e.key === "ArrowLeft" || e.key === "PageUp") pvMove(PV.rtl ? 1 : -1); }
+  if (e.key === "Home") pvGo(1); else if (e.key === "End") pvGo(PV.n); else if (e.key === "+" || e.key === "=") pvZoom(PV.zoom * 1.25); else if (e.key === "-") pvZoom(PV.zoom / 1.25);
+});
+/* --- Mes PDF : étagère personnelle, enregistrée sur l'appareil seulement (IndexedDB), rien n'est envoyé --- */
+const shelfId = () => "doc:" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
+async function shelfList() { const all = await dbAll(), out = []; Object.entries(all).forEach(([k, v]) => { if (k.startsWith("doc:") && v) out.push({ id: k, name: v.name, size: v.size, at: v.at, blob: v.blob }); }); return out.sort((a, b) => b.at - a.at); }
+async function shelfAdd(files) { for (const f of files) { if (!/pdf/i.test(f.type) && !/\.pdf$/i.test(f.name)) continue; await dbPut(shelfId(), { name: f.name.replace(/\.pdf$/i, ""), size: f.size, at: Date.now(), blob: f }); } shelfRender(); }
+async function shelfRender() {
+  const box = $("shelf"); if (!box) return; const list = await shelfList(); box.textContent = "";
+  list.forEach(d => {
+    const r = document.createElement("div"); r.className = "shelfrow"; const g = document.createElement("button"); g.type = "button"; g.className = "go";
+    const pos = pvGet(pvK(d.id).pos, null), b = document.createElement("b"), sm = document.createElement("small"); b.textContent = d.name; b.dir = "auto";
+    sm.textContent = (d.size / 1048576).toFixed(1).replace(".", ",") + " Mo" + (pos && pos.p ? " · " + T("page") + " " + pos.p + (pos.n ? " / " + pos.n : "") : ""); g.append(b, sm);
+    g.onclick = () => { $("acctSheet").hidden = true; openViewer(d.blob, d.name, { key: d.id }); };
+    const x = document.createElement("button"); x.type = "button"; x.className = "rm"; x.textContent = "✕"; x.setAttribute("aria-label", T("Retirer le PDF"));
+    x.onclick = async () => { await dbDel(d.id); try { localStorage.removeItem(pvK(d.id).pos); localStorage.removeItem(pvK(d.id).bm); } catch (e) {} shelfRender(); };
+    r.append(g, x); box.appendChild(r);
+  });
+}
 
 /* ---------- Comptes et synchronisation (version en ligne) ---------- */
 const CFG = window.SUPA_CFG;

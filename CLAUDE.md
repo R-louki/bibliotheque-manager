@@ -5,6 +5,8 @@ Ce fichier sert de mémoire du projet pour reprendre le travail dans une nouvell
 > **Reprise sur un autre compte ou un autre PC : lire d'abord `passation/README.md`**, puis `passation/ETAT.md` (où en est le projet, décisions en attente) et `passation/DECISIONS.md` (règles du propriétaire, choix techniques, pièges). `passation/PROMPT_DE_REPRISE.md` contient le premier message à coller dans la nouvelle session. La mémoire de l'ancien compte est copiée dans `passation/memoire-claude/`.
 > Points qui complètent ce fichier (depuis le 14-15 novembre 2026) : le mode pages du Coran est immersif (plein écran, menu ☰) ; la police du Coran est **KFGQPC Qaloon servie telle quelle** (licence : pas de modification) et non plus Scheherazade ; le comptage des versets reste celui de Médine.
 
+> **Lecteur PDF (novembre 2026)** : `openViewer(source, titre, {key})` dans `template.html` — pdf.js 3.11.174 **hébergé** dans `vendor/pdfjs/` du site (branche `main`, Apache-2.0, chargé à la demande), défilement continu ou pages à glissement horizontal (sens LTR/RTL), texte sélectionnable, recherche, table des matières, signets, thèmes jour/sépia/nuit, reprise à la dernière page. « Mes PDF » (feuille du compte) enregistre les PDF de l'utilisateur **uniquement sur son appareil** (IndexedDB, clés `doc:…`) : ne jamais publier de PDF de livre sur le site (dossier `Livres/` exclu de git via `.git/info/exclude`).
+
 ## Le projet en bref
 - Site : https://r-louki.github.io/bibliotheque-manager/ (FR), `/en/`, `/ar/` (arabe, RTL).
 - Dépôt GitHub : `R-louki/bibliotheque-manager`
